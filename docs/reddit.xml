@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>Reddit — Incidents &amp; Postmortems (filtré)</title>
+    <link>https://numeodev.github.io/tech-feeds-filter/reddit.xml</link>
+    <description>Flux fusionné et filtré par mots-clés depuis plusieurs subreddits.</description>
+    <atom:link href="https://numeodev.github.io/tech-feeds-filter/reddit.xml" rel="self"/>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 14 Sep 2026 12:20:11 +0000</lastBuildDate>
+    <item>
+      <title>[r/sre] Supabase's fix for one incident caused their next one, and the original is still open after 25 days</title>
+      <link>https://www.reddit.com/r/sre/comments/1wbx7wz/supabases_fix_for_one_incident_caused_their_next/</link>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;On August 14 Supabase opened an incident regarding some projects returning 401 errors for valid JWTs, and as stated in yesterdays update the issue has still not been resolved, it has been 25 days.&lt;/p&gt; &lt;p&gt;The fix (PostgREST 14.17) failed to eliminate the JWT rejections and instead caused 'unintended performance side effects', so they reverted back to 14.5. This revert in itself turned into a separate incident that lasted four days, with elevated latency and 525s from August 27 to 31, a situation which Supabase linked to the original incident. The root cause was identified on September 2 which was a stale time cache. During that same period there were two instances of GLIBC version mismatches, eight days apart (missing 2.34 on August 20 and missing 2.33 for supautils on August 28), and six further incidents between August 26 and September 4, one of which was an approximately eight-hour freeze affecting all project lifecycle operations.&lt;/p&gt; &lt;p&gt;Credit to them for explicitly linking the incident to the fix and for stating that the fix had failed rather than suppressing it. Most status pages would have simply divided those entries leaving customers without any proper understanding.&lt;/p&gt; &lt;p&gt;Their status page for reference: &lt;a href="https://status.supabase.com/incidents/6q5902p2xd9f"&gt;https://status.supabase.com/incidents/6q5902p2xd9f&lt;/a&gt;&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/jj_at_rootly"&gt; /u/jj_at_rootly &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/r/sre/comments/1wbx7wz/supabases_fix_for_one_incident_caused_their_next/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/sre/comments/1wbx7wz/supabases_fix_for_one_incident_caused_their_next/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</description>
+      <guid isPermaLink="false">https://www.reddit.com/r/sre/t3_1wbx7wz</guid>
+      <pubDate>Wed, 09 Sep 2026 20:25:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>[r/sre] Improving agent reliability</title>
+      <link>https://www.reddit.com/r/sre/comments/1w722y4/improving_agent_reliability/</link>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;has anyone actually succeeded in using AI agents to reliably diagnose errors?&lt;/p&gt; &lt;p&gt;My manager and his manager has this ambitious goal (aka making me do all the work) of making our bot more reliable. &lt;/p&gt; &lt;p&gt;Some of the ambitious goals includes - accurately perform in depth root cause analysis for alerts and also having the ability to repeat past alerts to ensure our run book works.&lt;/p&gt; &lt;p&gt;I find it incredibly difficult, despite having a “structure” which is just giving the bot steps on what to do. It’s frustrating because the results highly depends on the model, testing diff models gave diff results easily. &lt;/p&gt; &lt;p&gt;This makes me really miss the actual engineering work instead of “hoping” the model listens to the run book this time.&lt;/p&gt; &lt;p&gt;Anyone else has any success stories to share?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/iPhone12-PRO"&gt; /u/iPhone12-PRO &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/r/sre/comments/1w722y4/improving_agent_reliability/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/sre/comments/1w722y4/improving_agent_reliability/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</description>
+      <guid isPermaLink="false">https://www.reddit.com/r/sre/t3_1w722y4</guid>
+      <pubDate>Fri, 04 Sep 2026 11:46:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>[r/sre] Remote incident reviews: async first, live later?</title>
+      <link>https://www.reddit.com/r/sre/comments/1w6004a/remote_incident_reviews_async_first_live_later/</link>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;After a 37-minute outage, our distributed infrastructure team ran an async postmortem.&lt;/p&gt; &lt;p&gt;We placed the deployment timeline, logs, Grafana screenshots, customer impact and Slack excerpts on a shared board. Engineers across APAC, Europe and North America added comments over 24 hours.&lt;/p&gt; &lt;p&gt;The evidence gathering was much better than during a live call. People checked facts before responding and the person sharing their screen didn’t control the entire narrative.&lt;/p&gt; &lt;p&gt;The problem was disagreement. Two arguments about alert ownership were lost in comment threads, and one action item ended up with several owners.&lt;/p&gt; &lt;p&gt;I’m considering a hybrid process: async evidence gathering followed by a 30-minute meeting only for disputed causes, trade-offs and action ownership.&lt;/p&gt; &lt;p&gt;Has anyone found a format that keeps the async benefits without losing actual discussion?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/ButtesirscochHot1087"&gt; /u/ButtesirscochHot1087 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/r/sre/comments/1w6004a/remote_incident_reviews_async_first_live_later/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/sre/comments/1w6004a/remote_incident_reviews_async_first_live_later/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</description>
+      <guid isPermaLink="false">https://www.reddit.com/r/sre/t3_1w6004a</guid>
+      <pubDate>Thu, 03 Sep 2026 07:02:49 +0000</pubDate>
+    </item>
+  </channel>
+</rss>

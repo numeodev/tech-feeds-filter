@@ -1,0 +1,314 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>Hacker News — Incidents &amp; Postmortems (filtré)</title>
+    <link>https://numeodev.github.io/tech-feeds-filter/hackernews.xml</link>
+    <description>Stories Hacker News filtrées par mots-clés via l'API Algolia.</description>
+    <atom:link href="https://numeodev.github.io/tech-feeds-filter/hackernews.xml" rel="self"/>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 14 Sep 2026 12:20:19 +0000</lastBuildDate>
+    <item>
+      <title>Saudi pipeline outage threatens loss of 4% of global oil supply</title>
+      <link>https://www.reuters.com/business/energy/saudi-pipeline-outage-threatens-loss-4-global-oil-supply-2026-09-13/</link>
+      <description>4 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49692107'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49692107</guid>
+      <pubDate>Mon, 14 Sep 2026 04:47:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>GitHub is currently experiencing an active service outage</title>
+      <link>https://www.githubstatus.com/incidents/0rn90wk115q9</link>
+      <description>4 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49682128'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49682128</guid>
+      <pubDate>Sun, 13 Sep 2026 10:06:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>Military aircraft reportedly blamed for UK air traffic control outage</title>
+      <link>https://www.theguardian.com/world/2026/sep/12/military-aircraft-reportedly-blamed-for-uk-air-traffic-control-outage</link>
+      <description>3 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49667480'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49667480</guid>
+      <pubDate>Sat, 12 Sep 2026 00:53:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Google should provide a technical postmortem of Gemini's 2024 outburst</title>
+      <link>https://www.paritybits.me/google-should-provide-a-technical-postmortem-of-geminis-2024-outburst/</link>
+      <description>2 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49662143'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49662143</guid>
+      <pubDate>Fri, 11 Sep 2026 17:31:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>Show HN: SolidPing — open-source uptime monitoring, agents inside your network</title>
+      <link>https://solidping.io/d/login?demo=true</link>
+      <description>3 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49656831'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49656831</guid>
+      <pubDate>Fri, 11 Sep 2026 11:48:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>Let's Encrypt Outage</title>
+      <link>https://letsencrypt.status.io/pages/incident/55957a99e800baa4470002da/6aa35c1d892d7304f2747e01</link>
+      <description>2 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49652711'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49652711</guid>
+      <pubDate>Fri, 11 Sep 2026 02:07:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Daily Clouflare Outage of Today</title>
+      <link>https://www.cloudflarestatus.com/incidents/sjs8s0q2x4hw</link>
+      <description>3 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49639503'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49639503</guid>
+      <pubDate>Thu, 10 Sep 2026 07:01:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>RyTuneX 1.7.1: open-source Windows 10/11 optimizer adds per-item rollback</title>
+      <link>https://github.com/rayenghanmi/RyTuneX</link>
+      <description>3 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49636639'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49636639</guid>
+      <pubDate>Thu, 10 Sep 2026 00:33:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>Show HN: Tech Event Bingo – Track Events in Tech on a Bingo Card</title>
+      <link>https://techeventbingo.com/</link>
+      <description>3 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49629447'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49629447</guid>
+      <pubDate>Wed, 09 Sep 2026 16:47:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>Show HN: Maxxwell – The IDE for Optimal Tokenmaxxing</title>
+      <link>https://maxxwell.dev/</link>
+      <description>11 points, 8 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49625975'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49625975</guid>
+      <pubDate>Wed, 09 Sep 2026 13:10:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>GitHub CI outages in EU due to status 401 on public repos</title>
+      <link>https://github.com/orgs/community/discussions/206581</link>
+      <description>3 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49609568'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49609568</guid>
+      <pubDate>Tue, 08 Sep 2026 12:43:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Property Graph Queries reverted from Postgres 19 after third beta</title>
+      <link>https://git.postgresql.org/gitweb/?p=postgresql.git;a=commit;h=b1f106c80cbeb18d3a0219994d98a51a6eca8ede</link>
+      <description>3 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49608213'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49608213</guid>
+      <pubDate>Tue, 08 Sep 2026 10:12:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>DUPR (pickeball rating system) outage: 3rd day and no explanation</title>
+      <link>https://www.reddit.com/r/Pickleball/comments/1w9iroh/the_dupr_situation_its_bad/</link>
+      <description>1 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49604827'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49604827</guid>
+      <pubDate>Tue, 08 Sep 2026 01:50:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>Root cause analysis of the Liquid network split and 3,998.67 BTC peg-out theft</title>
+      <link>https://gist.github.com/1440000bytes/211ac92dd4433bb1a2e674bf0ff7db2e</link>
+      <description>2 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49600449'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49600449</guid>
+      <pubDate>Mon, 07 Sep 2026 17:00:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>The ZZZ backup page was a response to a wiki outage</title>
+      <link>https://mob.so/darkforest/p/f609e41e-57f6-476f-9210-6ffb28755c08</link>
+      <description>1 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49582793'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49582793</guid>
+      <pubDate>Sun, 06 Sep 2026 02:40:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nobody is saying why OpenAI and Anthropic had outages</title>
+      <link>https://www.wired.com/story/nobody-is-saying-why-openai-and-anthropic-had-outages-today/</link>
+      <description>207 points, 4 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49567594'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49567594</guid>
+      <pubDate>Fri, 04 Sep 2026 17:29:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ask HN: Is Microsoft 365 having an email outage?</title>
+      <link>https://news.ycombinator.com/item?id=49563153</link>
+      <description>2 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49563153'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49563153</guid>
+      <pubDate>Fri, 04 Sep 2026 11:30:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>Execution gating and micro-rollbacks for AI agents</title>
+      <link>https://bartholomew.info/</link>
+      <description>1 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49561500'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49561500</guid>
+      <pubDate>Fri, 04 Sep 2026 07:14:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>SpaceXAI apologizes for outage that affected Grok and other 'compute partners'</title>
+      <link>https://www.engadget.com/2250789/spacexai-apologizes-for-outage-that-affected-grok-and-other-compute-partners/</link>
+      <description>4 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49558108'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49558108</guid>
+      <pubDate>Thu, 03 Sep 2026 22:39:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>Tell HN: Both recent GCP outages caused by fiber optic maintenance</title>
+      <link>https://news.ycombinator.com/item?id=49557563</link>
+      <description>20 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49557563'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49557563</guid>
+      <pubDate>Thu, 03 Sep 2026 21:46:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>DTE Energy outage map, any connection to today's AI provider outages?</title>
+      <link>https://outage.dteenergy.com/</link>
+      <description>2 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49551982'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49551982</guid>
+      <pubDate>Thu, 03 Sep 2026 15:48:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Grok outage</title>
+      <link>https://status.x.ai/</link>
+      <description>161 points, 159 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49551589'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49551589</guid>
+      <pubDate>Thu, 03 Sep 2026 15:26:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ask HN: Why were OpenAI, Claude, and Grok simultaneously down?</title>
+      <link>https://news.ycombinator.com/item?id=49551096</link>
+      <description>404 points, 704 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49551096'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49551096</guid>
+      <pubDate>Thu, 03 Sep 2026 15:07:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Grok Models Outage</title>
+      <link>https://status.x.ai/grok-com/INC25664c15</link>
+      <description>4 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49550959'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49550959</guid>
+      <pubDate>Thu, 03 Sep 2026 15:02:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Codex outage</title>
+      <link>https://github.com/openai/codex/issues/28756</link>
+      <description>102 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49550769'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49550769</guid>
+      <pubDate>Thu, 03 Sep 2026 14:54:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>ChatGPT outage – Resolved</title>
+      <link>https://chatgpt.com/</link>
+      <description>362 points, 318 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49550614'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49550614</guid>
+      <pubDate>Thu, 03 Sep 2026 14:46:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ask HN: Is SpaceXAI taking Claude down too?</title>
+      <link>https://news.ycombinator.com/item?id=49549795</link>
+      <description>6 points, 2 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49549795'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49549795</guid>
+      <pubDate>Thu, 03 Sep 2026 13:38:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>Claude outage – Resolved</title>
+      <link>https://status.claude.com/incidents/461yvfrzpwtt</link>
+      <description>205 points, 151 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49549676'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49549676</guid>
+      <pubDate>Thu, 03 Sep 2026 13:29:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>Telstra: What we've learned from the external investigation of our July outage</title>
+      <link>https://www.telstra.com.au/exchange/what-we-ve-learned-from-the-external-investigation-of-our-july-o</link>
+      <description>4 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49549656'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49549656</guid>
+      <pubDate>Thu, 03 Sep 2026 13:27:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>Buildkite Outage Postmortem</title>
+      <link>https://www.buildkitestatus.com/incidents/tm6746k61p73</link>
+      <description>1 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49548153'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49548153</guid>
+      <pubDate>Thu, 03 Sep 2026 10:18:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>Show HN: Aura – a Rust agent that investigates and fixes production incidents</title>
+      <link>https://github.com/mezmo/aura</link>
+      <description>28 points, 6 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49538195'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49538195</guid>
+      <pubDate>Wed, 02 Sep 2026 15:55:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>Findings Report on the July 8th Telstra Outage [pdf]</title>
+      <link>https://www.telstra.com.au/content/dam/tcom/dynamic-media-projects/luke-campbell/TAP-Findings-for-Telstra-Outage.pdf</link>
+      <description>5 points, 2 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49532522'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49532522</guid>
+      <pubDate>Wed, 02 Sep 2026 06:36:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>OpenAI having an outage with 5.6 sol?</title>
+      <link>https://news.ycombinator.com/item?id=49530902</link>
+      <description>2 points, 2 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49530902'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49530902</guid>
+      <pubDate>Wed, 02 Sep 2026 02:06:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>METR and Redwood Offer Holy %^ Postmortem of the HuggingFace Hack</title>
+      <link>https://thezvi.substack.com/p/metr-and-redwood-offer-holy-postmortem</link>
+      <description>2 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49524768'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49524768</guid>
+      <pubDate>Tue, 01 Sep 2026 17:04:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>HuggingFace Attack Postmortem: Civilizations, Reactions and Next Actions</title>
+      <link>https://thezvi.substack.com/p/huggingface-attack-postmortem-civilizations</link>
+      <description>4 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49523967'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49523967</guid>
+      <pubDate>Tue, 01 Sep 2026 16:09:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>Tell HN: Google Cloud Outage</title>
+      <link>https://news.ycombinator.com/item?id=49523466</link>
+      <description>6 points, 5 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49523466'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49523466</guid>
+      <pubDate>Tue, 01 Sep 2026 15:40:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>Proton Outage</title>
+      <link>https://status.proton.me/incidents/lj22kf1nc8yz</link>
+      <description>15 points, 13 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49522158'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49522158</guid>
+      <pubDate>Tue, 01 Sep 2026 14:02:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Breaking Execution Continuity of Agent Systems via Rollback</title>
+      <link>https://arxiv.org/abs/2608.29381</link>
+      <description>1 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49519320'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49519320</guid>
+      <pubDate>Tue, 01 Sep 2026 08:07:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>HuggingFace Attack Postmortem: Fleshing Out the Facts</title>
+      <link>https://thezvi.substack.com/p/huggingface-attack-postmortem-fleshing</link>
+      <description>4 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49518082'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49518082</guid>
+      <pubDate>Tue, 01 Sep 2026 04:47:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft 365 Outage Knocks Down Outlook, Teams, Store, and Azure for Many</title>
+      <link>https://windowsreport.com/microsoft-365-outage-knocks-down-outlook-teams-store-and-azure-for-many/</link>
+      <description>6 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49514947'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49514947</guid>
+      <pubDate>Mon, 31 Aug 2026 21:17:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft Outlook hit by service outage</title>
+      <link>https://www.cnet.com/news-live/microsoft-outlook-exchange-online-service-outage/</link>
+      <description>10 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49513274'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49513274</guid>
+      <pubDate>Mon, 31 Aug 2026 18:42:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>HuggingFace Attack Postmortem: Fleshing Out the Facts</title>
+      <link>https://thezvi.substack.com/p/huggingface-attack-postmortem-fleshing</link>
+      <description>1 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49512249'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49512249</guid>
+      <pubDate>Mon, 31 Aug 2026 17:18:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Partial Outage in ChatGPT Work</title>
+      <link>https://status.openai.com/incidents/01M1C5M4K0WC8PPT0Z175RJA1E</link>
+      <description>3 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49511356'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49511356</guid>
+      <pubDate>Mon, 31 Aug 2026 16:03:47 +0000</pubDate>
+    </item>
+  </channel>
+</rss>

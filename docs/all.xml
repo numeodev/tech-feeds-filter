@@ -1,0 +1,1193 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>Tech feeds — Reddit + Hacker News + Lobsters (fusionné)</title>
+    <link>https://numeodev.github.io/tech-feeds-filter/all.xml</link>
+    <description>Flux combiné des 3 sources filtrées (voir reddit.xml, hackernews.xml, lobsters.xml pour le détail par source).</description>
+    <atom:link href="https://numeodev.github.io/tech-feeds-filter/all.xml" rel="self"/>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 14 Sep 2026 12:20:20 +0000</lastBuildDate>
+    <item>
+      <title>[vcs] Mergiraf: A syntax-aware git merge driver for a growing collection of programming languages and file formats</title>
+      <link>https://codeberg.org/mergiraf/mergiraf</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/gslcz7/mergiraf_syntax_aware_git_merge_driver"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/gslcz7</guid>
+      <pubDate>Mon, 14 Sep 2026 11:16:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>Saudi pipeline outage threatens loss of 4% of global oil supply</title>
+      <link>https://www.reuters.com/business/energy/saudi-pipeline-outage-threatens-loss-4-global-oil-supply-2026-09-13/</link>
+      <description>4 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49692107'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49692107</guid>
+      <pubDate>Mon, 14 Sep 2026 04:47:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>[vcs] what if my git host were a static site generator?</title>
+      <link>https://char.lt/blog/2026/09/sorcery-repo-viewer/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/6syfar/what_if_my_git_host_were_static_site"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/6syfar</guid>
+      <pubDate>Sun, 13 Sep 2026 16:10:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>GitHub is currently experiencing an active service outage</title>
+      <link>https://www.githubstatus.com/incidents/0rn90wk115q9</link>
+      <description>4 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49682128'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49682128</guid>
+      <pubDate>Sun, 13 Sep 2026 10:06:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>[vcs] From Git to Fossil (2025)</title>
+      <link>https://lucio.albenga.es/web-en/posts/2025/from-git-to-fossil.html</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/pomjkm/from_git_fossil_2025"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/pomjkm</guid>
+      <pubDate>Sun, 13 Sep 2026 07:51:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>[security] Testing race conditions with memory access tracing and stack-based delay injection</title>
+      <link>https://projectzero.google/2026/09/maccconc-race-condition.html</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/wobjnw/testing_race_conditions_with_memory"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/wobjnw</guid>
+      <pubDate>Sat, 12 Sep 2026 17:55:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>[security] The gpg.fail aftermath: On responsible disclosure, GPG, and the state of security in 2026 [32:37]</title>
+      <link>https://media.ccc.de/v/2026-728-the-gpg-fail-aftermath-on-responsible-disclosure-gpg-and-the-state-of-security-in-2026</link>
+      <description>&lt;p&gt;&lt;a href="https://git.gay/49016/gpg-fail-aftermath/raw/branch/main/slides.pdf" rel="ugc"&gt;slides&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;In 2025, I [the speaker] found and disclosed a bunch of vulnerabilities in GPG, the most used PGP implementation, and held a talk at 39c3 about it. &lt;strong&gt;Some&lt;/strong&gt; of the bugs ended up getting fixed. This talk describes the adventure and aftermath of getting there, shows some novel ones, and talks about the state of security in 2026. May contain zero-days =)&lt;/p&gt;
+&lt;p&gt;Until May 2025, I liked PGP, and the GNU Privacy Guard. I poked at it in my free time a lot. One day, that suddenly changed, when I flew too close to the sun and ended up uncovering a vulnerability that allows you to easily spoof a PGP signature when opened naively with the GPG tool.&lt;/p&gt;
+&lt;p&gt;Fast-forward a couple of months, the one vulnerability turned into several independent ones, up to memory corruption in the basic PGP message parser, affecting almost all PGP-related workflows.&lt;/p&gt;
+&lt;p&gt;I disclosed these a few weeks before 39c3 in December 2025. And while some of the vulnerabilities - like the memory corruption in the message parser - got addressed properly, this was not the case for all of them.&lt;/p&gt;
+&lt;p&gt;For example, one of the first vulnerabilities I found, that was used for the introduction hook in the 39c3 talk, remains unpatched to this day. Instead of being fixed with code, Werner Koch - the main developer of GnuPG - published a blog post declaring the widely-used feature being "harmful"; while they had weeks in advance, they published this on day one of 39c3, not even giving us time to respond.&lt;/p&gt;
+&lt;p&gt;Several disgruntled comments followed, but a good portion of the flaws are still not addressed, as I will demonstrate live in the talk. This specific demonstration will not utilize any zero-day vulnerabilities (those come next); we will be showing how much of an issue the footguns (that they refuse to address) at hand really are.&lt;/p&gt;
+&lt;p&gt;Additionally, I will present a few novel vulnerabilities on GPG. Not quite the bombshells as last time, but some nifty bugs that should never have made it into production in the first place, but to demonstrate the state of the GnuPG codebase.&lt;/p&gt;
+&lt;p&gt;The talk closes with some general commentary about the state of security and responsible disclosure, and touch on the topic of AI/LLMs in security (with some of the gpg.fail vulnerabilities as examples); what this means for security researchers, ordinary people and software developers (spoiler: neither end users nor security researchers are doomed).&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://lobste.rs/s/fcttpk/gpg_fail_aftermath_on_responsible"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/fcttpk</guid>
+      <pubDate>Sat, 12 Sep 2026 17:24:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>[security] Linux Zoom Client Proactively Reads X11 Clipboard</title>
+      <link>https://hachyderm.io/@simontatham/117201594980991062</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/8t1ddm/linux_zoom_client_proactively_reads_x11"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/8t1ddm</guid>
+      <pubDate>Sat, 12 Sep 2026 12:38:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>[security] Rare Not Random Using Token Efficiency for Secrets Scanning</title>
+      <link>https://lookingatcomputer.substack.com/p/rare-not-random</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/dkd8ph/rare_not_random_using_token_efficiency"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/dkd8ph</guid>
+      <pubDate>Sat, 12 Sep 2026 06:42:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>Military aircraft reportedly blamed for UK air traffic control outage</title>
+      <link>https://www.theguardian.com/world/2026/sep/12/military-aircraft-reportedly-blamed-for-uk-air-traffic-control-outage</link>
+      <description>3 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49667480'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49667480</guid>
+      <pubDate>Sat, 12 Sep 2026 00:53:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>[security] OpenAI agents carried out an undisclosed attack on RubyGems</title>
+      <link>https://www.rubyhack.ai/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/wajtsa/openai_agents_carried_out_undisclosed"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/wajtsa</guid>
+      <pubDate>Fri, 11 Sep 2026 23:41:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Google should provide a technical postmortem of Gemini's 2024 outburst</title>
+      <link>https://www.paritybits.me/google-should-provide-a-technical-postmortem-of-geminis-2024-outburst/</link>
+      <description>2 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49662143'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49662143</guid>
+      <pubDate>Fri, 11 Sep 2026 17:31:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>[security] ChiPass Release 2026.09.0</title>
+      <link>https://codeberg.org/ChiPass/ChiPass/releases/tag/v2026.09.0</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/mcioou/chipass_release_2026_09_0"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/mcioou</guid>
+      <pubDate>Fri, 11 Sep 2026 16:35:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>Show HN: SolidPing — open-source uptime monitoring, agents inside your network</title>
+      <link>https://solidping.io/d/login?demo=true</link>
+      <description>3 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49656831'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49656831</guid>
+      <pubDate>Fri, 11 Sep 2026 11:48:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>[security] Countering misuse of AI: September 2026 / Anthropic</title>
+      <link>https://www.anthropic.com/threat-intelligence-report-september-2026</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/gmewyf/countering_misuse_ai_september_2026"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/gmewyf</guid>
+      <pubDate>Fri, 11 Sep 2026 09:46:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>[distributed] FISL — Finding Internet Structures &amp; Links</title>
+      <link>https://dasl.ing/fisl.html</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/bzacyp/fisl_finding_internet_structures_links"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/bzacyp</guid>
+      <pubDate>Fri, 11 Sep 2026 08:29:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>[security] Models Don't Go Rogue</title>
+      <link>https://mail.cyberneticforests.com/models-dont-go-rogue/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/0i492m/models_don_t_go_rogue"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/0i492m</guid>
+      <pubDate>Fri, 11 Sep 2026 03:37:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>Let's Encrypt Outage</title>
+      <link>https://letsencrypt.status.io/pages/incident/55957a99e800baa4470002da/6aa35c1d892d7304f2747e01</link>
+      <description>2 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49652711'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49652711</guid>
+      <pubDate>Fri, 11 Sep 2026 02:07:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>[practices] The Wind, The Wind</title>
+      <link>https://exple.tive.org/blarg/2026/09/10/the-wind-the-wind/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/akchzn/wind_wind"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/akchzn</guid>
+      <pubDate>Fri, 11 Sep 2026 00:26:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>[security] An untrusted site can freeze a Mac using WebGPU</title>
+      <link>https://auberon.xyz/blog/posts/deathray/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/l0sqnt/untrusted_site_can_freeze_mac_using"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/l0sqnt</guid>
+      <pubDate>Fri, 11 Sep 2026 00:04:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>[vcs] What comes after git</title>
+      <link>https://ersc.io/blog/what-comes-after-git</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ez6ivp/what_comes_after_git"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/ez6ivp</guid>
+      <pubDate>Thu, 10 Sep 2026 17:44:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>[security] Forgejo 16.0.4 has a critical security bug fix (RCE - Remote Code Execution)</title>
+      <link>https://codeberg.org/forgejo/forgejo/src/branch/forgejo/release-notes-published/16.0.4.md</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/b3cqyr/forgejo_16_0_4_has_critical_security_bug"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/b3cqyr</guid>
+      <pubDate>Thu, 10 Sep 2026 17:40:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>[vcs] Conversations with JJ</title>
+      <link>https://laurmaedje.github.io/posts/jj/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/nbmbxj/conversations_with_jj"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/nbmbxj</guid>
+      <pubDate>Thu, 10 Sep 2026 16:48:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>[security] Making Social Media Social</title>
+      <link>https://tante.cc/2026/09/10/making-social-media-social/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/39c9xe/making_social_media_social"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/39c9xe</guid>
+      <pubDate>Thu, 10 Sep 2026 16:30:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>[security] A rant about phishing: It's not the user's fault (and not DNS either)</title>
+      <link>https://maurycyz.com/misc/domains/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/9szn91/rant_about_phishing_it_s_not_user_s_fault"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/9szn91</guid>
+      <pubDate>Thu, 10 Sep 2026 15:14:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>[security] How CHERIoT Provides Strong and Usable Isolation Without an MMU</title>
+      <link>https://queue.acm.org/doi/10.1145/3831361</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/gtvx0w/how_cheriot_provides_strong_usable"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/gtvx0w</guid>
+      <pubDate>Thu, 10 Sep 2026 14:59:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>[security] Package Manager Trends</title>
+      <link>https://nesbitt.io/2026/09/10/package-manager-trends.html</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/qwbyxh/package_manager_trends"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/qwbyxh</guid>
+      <pubDate>Thu, 10 Sep 2026 12:30:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>[practices, security] Knowledge Retention &amp; Sharing in DF/IR</title>
+      <link>http://windowsir.blogspot.com/2026/09/knowledge-retention-sharing-in-dfir.html</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/hdgysn/knowledge_retention_sharing_df_ir"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/hdgysn</guid>
+      <pubDate>Thu, 10 Sep 2026 09:06:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>[distributed] Absolutely Everything You Always Wanted to Know About Watermarks in Apache Flink</title>
+      <link>https://developer.confluent.io/blog/all-about-flink-watermarks-1/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/llyiig/absolutely_everything_you_always_wanted"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/llyiig</guid>
+      <pubDate>Thu, 10 Sep 2026 08:15:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Daily Clouflare Outage of Today</title>
+      <link>https://www.cloudflarestatus.com/incidents/sjs8s0q2x4hw</link>
+      <description>3 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49639503'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49639503</guid>
+      <pubDate>Thu, 10 Sep 2026 07:01:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>RyTuneX 1.7.1: open-source Windows 10/11 optimizer adds per-item rollback</title>
+      <link>https://github.com/rayenghanmi/RyTuneX</link>
+      <description>3 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49636639'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49636639</guid>
+      <pubDate>Thu, 10 Sep 2026 00:33:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>[security] An alignment assessment of recent cybersecurity incidents</title>
+      <link>https://www.anthropic.com/research/alignment-assessment-cybersecurity-incidents</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/xokuhi/alignment_assessment_recent"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/xokuhi</guid>
+      <pubDate>Wed, 09 Sep 2026 20:54:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>[security] Bulk AbuseIPDB reporting using command-line tools</title>
+      <link>https://blog.mbirth.uk/2026/08/30/bulk-abuseipdb-reporting-using-command-line-tools.html</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/vjds7h/bulk_abuseipdb_reporting_using_command"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/vjds7h</guid>
+      <pubDate>Wed, 09 Sep 2026 20:26:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>[r/sre] Supabase's fix for one incident caused their next one, and the original is still open after 25 days</title>
+      <link>https://www.reddit.com/r/sre/comments/1wbx7wz/supabases_fix_for_one_incident_caused_their_next/</link>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;On August 14 Supabase opened an incident regarding some projects returning 401 errors for valid JWTs, and as stated in yesterdays update the issue has still not been resolved, it has been 25 days.&lt;/p&gt; &lt;p&gt;The fix (PostgREST 14.17) failed to eliminate the JWT rejections and instead caused 'unintended performance side effects', so they reverted back to 14.5. This revert in itself turned into a separate incident that lasted four days, with elevated latency and 525s from August 27 to 31, a situation which Supabase linked to the original incident. The root cause was identified on September 2 which was a stale time cache. During that same period there were two instances of GLIBC version mismatches, eight days apart (missing 2.34 on August 20 and missing 2.33 for supautils on August 28), and six further incidents between August 26 and September 4, one of which was an approximately eight-hour freeze affecting all project lifecycle operations.&lt;/p&gt; &lt;p&gt;Credit to them for explicitly linking the incident to the fix and for stating that the fix had failed rather than suppressing it. Most status pages would have simply divided those entries leaving customers without any proper understanding.&lt;/p&gt; &lt;p&gt;Their status page for reference: &lt;a href="https://status.supabase.com/incidents/6q5902p2xd9f"&gt;https://status.supabase.com/incidents/6q5902p2xd9f&lt;/a&gt;&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/jj_at_rootly"&gt; /u/jj_at_rootly &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/r/sre/comments/1wbx7wz/supabases_fix_for_one_incident_caused_their_next/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/sre/comments/1wbx7wz/supabases_fix_for_one_incident_caused_their_next/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</description>
+      <guid isPermaLink="false">https://www.reddit.com/r/sre/t3_1wbx7wz</guid>
+      <pubDate>Wed, 09 Sep 2026 20:25:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>Show HN: Tech Event Bingo – Track Events in Tech on a Bingo Card</title>
+      <link>https://techeventbingo.com/</link>
+      <description>3 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49629447'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49629447</guid>
+      <pubDate>Wed, 09 Sep 2026 16:47:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>Show HN: Maxxwell – The IDE for Optimal Tokenmaxxing</title>
+      <link>https://maxxwell.dev/</link>
+      <description>11 points, 8 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49625975'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49625975</guid>
+      <pubDate>Wed, 09 Sep 2026 13:10:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>[security] Why Johnny Can't Encrypt: A Usability Evaluation of PGP 5.0 (1999)</title>
+      <link>https://www.usenix.org/legacy/events/sec99/full_papers/whitten/whitten_html/index.html</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ojyeqg/why_johnny_can_t_encrypt_usability"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/ojyeqg</guid>
+      <pubDate>Wed, 09 Sep 2026 06:47:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>[practices, security] Switching Password Managers in 2026</title>
+      <link>https://rmondello.com/2026/09/07/switching-password-managers-2026/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ikzvtv/switching_password_managers_2026"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/ikzvtv</guid>
+      <pubDate>Tue, 08 Sep 2026 13:55:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>GitHub CI outages in EU due to status 401 on public repos</title>
+      <link>https://github.com/orgs/community/discussions/206581</link>
+      <description>3 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49609568'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49609568</guid>
+      <pubDate>Tue, 08 Sep 2026 12:43:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Property Graph Queries reverted from Postgres 19 after third beta</title>
+      <link>https://git.postgresql.org/gitweb/?p=postgresql.git;a=commit;h=b1f106c80cbeb18d3a0219994d98a51a6eca8ede</link>
+      <description>3 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49608213'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49608213</guid>
+      <pubDate>Tue, 08 Sep 2026 10:12:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>[security] I’ve factored the RSA keys of a Certificate Authority…from the 90s</title>
+      <link>https://mcpherrin.ca/2026/09/07/rsa.html</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/wl0mln/i_ve_factored_rsa_keys_certificate"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/wl0mln</guid>
+      <pubDate>Tue, 08 Sep 2026 04:05:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>DUPR (pickeball rating system) outage: 3rd day and no explanation</title>
+      <link>https://www.reddit.com/r/Pickleball/comments/1w9iroh/the_dupr_situation_its_bad/</link>
+      <description>1 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49604827'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49604827</guid>
+      <pubDate>Tue, 08 Sep 2026 01:50:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>[devops] Hardening Container Images</title>
+      <link>https://www.grepular.com/Hardening_Container_Images</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/8hz82r/hardening_container_images"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/8hz82r</guid>
+      <pubDate>Mon, 07 Sep 2026 21:39:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>[practices] Conquering Entropy: Cultivating Trust</title>
+      <link>https://kaeruct.github.io/posts/2026/09/06/conquering-entropy-cultivating-trust/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ift0hu/conquering_entropy_cultivating_trust"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/ift0hu</guid>
+      <pubDate>Mon, 07 Sep 2026 19:39:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>Root cause analysis of the Liquid network split and 3,998.67 BTC peg-out theft</title>
+      <link>https://gist.github.com/1440000bytes/211ac92dd4433bb1a2e674bf0ff7db2e</link>
+      <description>2 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49600449'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49600449</guid>
+      <pubDate>Mon, 07 Sep 2026 17:00:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>[security] Signing TLS handshakes inside a TPM</title>
+      <link>https://bschaatsbergen.com/posts/go-tpm-tls/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/vospwq/signing_tls_handshakes_inside_tpm"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/vospwq</guid>
+      <pubDate>Mon, 07 Sep 2026 14:54:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>[devops] The Life of a Metric</title>
+      <link>https://victoriametrics.com/blog/the-life-of-a-metric/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/hwzvik/life_metric"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/hwzvik</guid>
+      <pubDate>Mon, 07 Sep 2026 09:36:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>[practices] "Hammock Driven Development" (2010)</title>
+      <link>https://youtu.be/f84n5oFoZBc</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/0htvw0/hammock_driven_development_2010"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/0htvw0</guid>
+      <pubDate>Mon, 07 Sep 2026 08:31:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>[security] Have the frontier labs mixed up AI safety and security?</title>
+      <link>https://martinalderson.com/posts/ai-safety-vs-security/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/uu3hhz/have_frontier_labs_mixed_up_ai_safety"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/uu3hhz</guid>
+      <pubDate>Sun, 06 Sep 2026 20:47:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>[practices] "Simple Made Easy" (2011)</title>
+      <link>https://www.youtube.com/watch?v=SxdOUGdseq4</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/xccvnw/simple_made_easy_2011"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/xccvnw</guid>
+      <pubDate>Sun, 06 Sep 2026 14:25:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>[practices] Maybe We Shouldn't Be Reviewing All This Code</title>
+      <link>https://martinfowler.com/rachels-ramblings/code-review.html</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/lfaddj/maybe_we_shouldn_t_be_reviewing_all_this"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/lfaddj</guid>
+      <pubDate>Sun, 06 Sep 2026 10:06:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>[vcs] How To: Federated Stars (2024)</title>
+      <link>https://domaindrivenarchitecture.org/blog/2024-06-05-howto-federated-stars/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/1kdrx2/how_federated_stars_2024"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/1kdrx2</guid>
+      <pubDate>Sun, 06 Sep 2026 06:05:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>The ZZZ backup page was a response to a wiki outage</title>
+      <link>https://mob.so/darkforest/p/f609e41e-57f6-476f-9210-6ffb28755c08</link>
+      <description>1 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49582793'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49582793</guid>
+      <pubDate>Sun, 06 Sep 2026 02:40:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>[practices] There's No Limit to How Bad Code Can Get</title>
+      <link>https://zachkehs.com/blog/theres_no_limit_to_how_bad_code_can_get/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/rfn2mn/there_s_no_limit_how_bad_code_can_get"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/rfn2mn</guid>
+      <pubDate>Sun, 06 Sep 2026 02:05:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>[practices] The revolt of the reader</title>
+      <link>https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/xnqxqe/revolt_reader"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/xnqxqe</guid>
+      <pubDate>Sat, 05 Sep 2026 21:28:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>[practices] Anatomy of a Test</title>
+      <link>https://jonathan-frere.com/posts/anatomy-of-a-test/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/kcklzg/anatomy_test"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/kcklzg</guid>
+      <pubDate>Sat, 05 Sep 2026 17:50:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>[security] Trusting-Trust Attack against an Entire Linux Distribution (via the strip utility)</title>
+      <link>https://arxiv.org/abs/2607.24888</link>
+      <description>&lt;p&gt;"Ken Thompson's trusting-trust attack, in which a compromised compiler backdoors the programs it builds and reproduces the backdoor in subsequent rebuilds of itself, is widely regarded as a threat specific to compilers. We show that it is not."&lt;/p&gt;
+&lt;p&gt;A few weeks ago I came across this &lt;a href="https://www.teamten.com/lawrence/writings/coding-machines/" rel="ugc"&gt;https://www.teamten.com/lawrence/writings/coding-machines/&lt;/a&gt; : it's clearly fictional (and furthermore is "pre-AI" in that it was written in 2009) but is interesting in that it raises the question of whether one or more &lt;em&gt;computers&lt;/em&gt; could- without "intention" embed code meeting the "trusting trust" criteria in GCC.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://lobste.rs/s/p5w5j6/trusting_trust_attack_against_entire"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/p5w5j6</guid>
+      <pubDate>Sat, 05 Sep 2026 10:58:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>[practices] AI handles incidents, engineers lose touch with their systems</title>
+      <link>https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/gbv3vr/ai_handles_incidents_engineers_lose"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/gbv3vr</guid>
+      <pubDate>Sat, 05 Sep 2026 10:57:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>[vcs] Git Submodules as a Package Manager</title>
+      <link>https://nesbitt.io/2026/09/01/git-submodules-as-a-package-manager.html</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/j2hxnq/git_submodules_as_package_manager"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/j2hxnq</guid>
+      <pubDate>Sat, 05 Sep 2026 06:20:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nobody is saying why OpenAI and Anthropic had outages</title>
+      <link>https://www.wired.com/story/nobody-is-saying-why-openai-and-anthropic-had-outages-today/</link>
+      <description>207 points, 4 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49567594'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49567594</guid>
+      <pubDate>Fri, 04 Sep 2026 17:29:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>[practices] Performance Engineering on Hard Mode</title>
+      <link>https://signalsandthreads.com/performance-engineering-on-hard-mode/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/8hsckf/performance_engineering_on_hard_mode"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/8hsckf</guid>
+      <pubDate>Fri, 04 Sep 2026 12:39:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>[r/sre] Improving agent reliability</title>
+      <link>https://www.reddit.com/r/sre/comments/1w722y4/improving_agent_reliability/</link>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;has anyone actually succeeded in using AI agents to reliably diagnose errors?&lt;/p&gt; &lt;p&gt;My manager and his manager has this ambitious goal (aka making me do all the work) of making our bot more reliable. &lt;/p&gt; &lt;p&gt;Some of the ambitious goals includes - accurately perform in depth root cause analysis for alerts and also having the ability to repeat past alerts to ensure our run book works.&lt;/p&gt; &lt;p&gt;I find it incredibly difficult, despite having a “structure” which is just giving the bot steps on what to do. It’s frustrating because the results highly depends on the model, testing diff models gave diff results easily. &lt;/p&gt; &lt;p&gt;This makes me really miss the actual engineering work instead of “hoping” the model listens to the run book this time.&lt;/p&gt; &lt;p&gt;Anyone else has any success stories to share?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/iPhone12-PRO"&gt; /u/iPhone12-PRO &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/r/sre/comments/1w722y4/improving_agent_reliability/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/sre/comments/1w722y4/improving_agent_reliability/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</description>
+      <guid isPermaLink="false">https://www.reddit.com/r/sre/t3_1w722y4</guid>
+      <pubDate>Fri, 04 Sep 2026 11:46:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ask HN: Is Microsoft 365 having an email outage?</title>
+      <link>https://news.ycombinator.com/item?id=49563153</link>
+      <description>2 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49563153'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49563153</guid>
+      <pubDate>Fri, 04 Sep 2026 11:30:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>[security] Hillingar - MirageOS Unikernels on NixOS</title>
+      <link>https://ryan.freumh.org/hillingar.html</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ifyeuo/hillingar_mirageos_unikernels_on_nixos"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/ifyeuo</guid>
+      <pubDate>Fri, 04 Sep 2026 09:17:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>Execution gating and micro-rollbacks for AI agents</title>
+      <link>https://bartholomew.info/</link>
+      <description>1 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49561500'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49561500</guid>
+      <pubDate>Fri, 04 Sep 2026 07:14:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>SpaceXAI apologizes for outage that affected Grok and other 'compute partners'</title>
+      <link>https://www.engadget.com/2250789/spacexai-apologizes-for-outage-that-affected-grok-and-other-compute-partners/</link>
+      <description>4 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49558108'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49558108</guid>
+      <pubDate>Thu, 03 Sep 2026 22:39:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>[security] Stop Telling People Not To Click Links</title>
+      <link>https://www.forbes.com/councils/forbestechcouncil/2026/08/26/stop-telling-people-not-to-click-links/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/kvfua1/stop_telling_people_not_click_links"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/kvfua1</guid>
+      <pubDate>Thu, 03 Sep 2026 21:56:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>Tell HN: Both recent GCP outages caused by fiber optic maintenance</title>
+      <link>https://news.ycombinator.com/item?id=49557563</link>
+      <description>20 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49557563'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49557563</guid>
+      <pubDate>Thu, 03 Sep 2026 21:46:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>[practices] simple is not small</title>
+      <link>https://jyn.dev/simple-is-not-the-same-as-small/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/entcaa/simple_is_not_small"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/entcaa</guid>
+      <pubDate>Thu, 03 Sep 2026 21:24:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>DTE Energy outage map, any connection to today's AI provider outages?</title>
+      <link>https://outage.dteenergy.com/</link>
+      <description>2 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49551982'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49551982</guid>
+      <pubDate>Thu, 03 Sep 2026 15:48:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Grok outage</title>
+      <link>https://status.x.ai/</link>
+      <description>161 points, 159 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49551589'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49551589</guid>
+      <pubDate>Thu, 03 Sep 2026 15:26:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ask HN: Why were OpenAI, Claude, and Grok simultaneously down?</title>
+      <link>https://news.ycombinator.com/item?id=49551096</link>
+      <description>404 points, 704 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49551096'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49551096</guid>
+      <pubDate>Thu, 03 Sep 2026 15:07:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Grok Models Outage</title>
+      <link>https://status.x.ai/grok-com/INC25664c15</link>
+      <description>4 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49550959'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49550959</guid>
+      <pubDate>Thu, 03 Sep 2026 15:02:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Codex outage</title>
+      <link>https://github.com/openai/codex/issues/28756</link>
+      <description>102 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49550769'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49550769</guid>
+      <pubDate>Thu, 03 Sep 2026 14:54:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>ChatGPT outage – Resolved</title>
+      <link>https://chatgpt.com/</link>
+      <description>362 points, 318 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49550614'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49550614</guid>
+      <pubDate>Thu, 03 Sep 2026 14:46:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ask HN: Is SpaceXAI taking Claude down too?</title>
+      <link>https://news.ycombinator.com/item?id=49549795</link>
+      <description>6 points, 2 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49549795'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49549795</guid>
+      <pubDate>Thu, 03 Sep 2026 13:38:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>Claude outage – Resolved</title>
+      <link>https://status.claude.com/incidents/461yvfrzpwtt</link>
+      <description>205 points, 151 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49549676'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49549676</guid>
+      <pubDate>Thu, 03 Sep 2026 13:29:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>Telstra: What we've learned from the external investigation of our July outage</title>
+      <link>https://www.telstra.com.au/exchange/what-we-ve-learned-from-the-external-investigation-of-our-july-o</link>
+      <description>4 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49549656'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49549656</guid>
+      <pubDate>Thu, 03 Sep 2026 13:27:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>Buildkite Outage Postmortem</title>
+      <link>https://www.buildkitestatus.com/incidents/tm6746k61p73</link>
+      <description>1 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49548153'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49548153</guid>
+      <pubDate>Thu, 03 Sep 2026 10:18:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>[vcs] jujutsu 0.45.0</title>
+      <link>https://github.com/jj-vcs/jj/releases/tag/v0.45.0</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/zudpcb/jujutsu_0_45_0"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/zudpcb</guid>
+      <pubDate>Thu, 03 Sep 2026 10:02:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>[r/sre] Remote incident reviews: async first, live later?</title>
+      <link>https://www.reddit.com/r/sre/comments/1w6004a/remote_incident_reviews_async_first_live_later/</link>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;After a 37-minute outage, our distributed infrastructure team ran an async postmortem.&lt;/p&gt; &lt;p&gt;We placed the deployment timeline, logs, Grafana screenshots, customer impact and Slack excerpts on a shared board. Engineers across APAC, Europe and North America added comments over 24 hours.&lt;/p&gt; &lt;p&gt;The evidence gathering was much better than during a live call. People checked facts before responding and the person sharing their screen didn’t control the entire narrative.&lt;/p&gt; &lt;p&gt;The problem was disagreement. Two arguments about alert ownership were lost in comment threads, and one action item ended up with several owners.&lt;/p&gt; &lt;p&gt;I’m considering a hybrid process: async evidence gathering followed by a 30-minute meeting only for disputed causes, trade-offs and action ownership.&lt;/p&gt; &lt;p&gt;Has anyone found a format that keeps the async benefits without losing actual discussion?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/ButtesirscochHot1087"&gt; /u/ButtesirscochHot1087 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/r/sre/comments/1w6004a/remote_incident_reviews_async_first_live_later/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/sre/comments/1w6004a/remote_incident_reviews_async_first_live_later/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</description>
+      <guid isPermaLink="false">https://www.reddit.com/r/sre/t3_1w6004a</guid>
+      <pubDate>Thu, 03 Sep 2026 07:02:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Show HN: Aura – a Rust agent that investigates and fixes production incidents</title>
+      <link>https://github.com/mezmo/aura</link>
+      <description>28 points, 6 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49538195'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49538195</guid>
+      <pubDate>Wed, 02 Sep 2026 15:55:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>Findings Report on the July 8th Telstra Outage [pdf]</title>
+      <link>https://www.telstra.com.au/content/dam/tcom/dynamic-media-projects/luke-campbell/TAP-Findings-for-Telstra-Outage.pdf</link>
+      <description>5 points, 2 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49532522'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49532522</guid>
+      <pubDate>Wed, 02 Sep 2026 06:36:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>OpenAI having an outage with 5.6 sol?</title>
+      <link>https://news.ycombinator.com/item?id=49530902</link>
+      <description>2 points, 2 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49530902'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49530902</guid>
+      <pubDate>Wed, 02 Sep 2026 02:06:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>[distributed, practices] The pattern language of software architecture</title>
+      <link>https://metapatterns.io/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/mkpgrk/pattern_language_software_architecture"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/mkpgrk</guid>
+      <pubDate>Tue, 01 Sep 2026 17:53:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>METR and Redwood Offer Holy %^ Postmortem of the HuggingFace Hack</title>
+      <link>https://thezvi.substack.com/p/metr-and-redwood-offer-holy-postmortem</link>
+      <description>2 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49524768'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49524768</guid>
+      <pubDate>Tue, 01 Sep 2026 17:04:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>HuggingFace Attack Postmortem: Civilizations, Reactions and Next Actions</title>
+      <link>https://thezvi.substack.com/p/huggingface-attack-postmortem-civilizations</link>
+      <description>4 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49523967'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49523967</guid>
+      <pubDate>Tue, 01 Sep 2026 16:09:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>Tell HN: Google Cloud Outage</title>
+      <link>https://news.ycombinator.com/item?id=49523466</link>
+      <description>6 points, 5 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49523466'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49523466</guid>
+      <pubDate>Tue, 01 Sep 2026 15:40:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>Proton Outage</title>
+      <link>https://status.proton.me/incidents/lj22kf1nc8yz</link>
+      <description>15 points, 13 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49522158'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49522158</guid>
+      <pubDate>Tue, 01 Sep 2026 14:02:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Breaking Execution Continuity of Agent Systems via Rollback</title>
+      <link>https://arxiv.org/abs/2608.29381</link>
+      <description>1 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49519320'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49519320</guid>
+      <pubDate>Tue, 01 Sep 2026 08:07:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>HuggingFace Attack Postmortem: Fleshing Out the Facts</title>
+      <link>https://thezvi.substack.com/p/huggingface-attack-postmortem-fleshing</link>
+      <description>4 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49518082'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49518082</guid>
+      <pubDate>Tue, 01 Sep 2026 04:47:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>[practices] Breaking down Amazon’s mega dropdown (2013)</title>
+      <link>https://bjk5.com/post/44698559168/breaking-down-amazons-mega-dropdown</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/haotvw/breaking_down_amazon_s_mega_dropdown_2013"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/haotvw</guid>
+      <pubDate>Tue, 01 Sep 2026 01:30:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft 365 Outage Knocks Down Outlook, Teams, Store, and Azure for Many</title>
+      <link>https://windowsreport.com/microsoft-365-outage-knocks-down-outlook-teams-store-and-azure-for-many/</link>
+      <description>6 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49514947'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49514947</guid>
+      <pubDate>Mon, 31 Aug 2026 21:17:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft Outlook hit by service outage</title>
+      <link>https://www.cnet.com/news-live/microsoft-outlook-exchange-online-service-outage/</link>
+      <description>10 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49513274'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49513274</guid>
+      <pubDate>Mon, 31 Aug 2026 18:42:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>HuggingFace Attack Postmortem: Fleshing Out the Facts</title>
+      <link>https://thezvi.substack.com/p/huggingface-attack-postmortem-fleshing</link>
+      <description>1 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49512249'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49512249</guid>
+      <pubDate>Mon, 31 Aug 2026 17:18:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Partial Outage in ChatGPT Work</title>
+      <link>https://status.openai.com/incidents/01M1C5M4K0WC8PPT0Z175RJA1E</link>
+      <description>3 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49511356'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49511356</guid>
+      <pubDate>Mon, 31 Aug 2026 16:03:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>[practices] All the Little Things (2014)</title>
+      <link>https://www.youtube.com/watch?v=8bZh5LMaSmE</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/gtarrm/all_little_things_2014"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/gtarrm</guid>
+      <pubDate>Mon, 31 Aug 2026 01:22:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>[practices] The essence of architectural work - Part 6</title>
+      <link>https://www.ufried.com/blog/essence_of_architecture_6/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/kgtvxb/essence_architectural_work_part_6"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/kgtvxb</guid>
+      <pubDate>Sun, 30 Aug 2026 10:10:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>[practices] Bug blindness</title>
+      <link>https://danluu.com/bug-blind/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/n1jlxt/bug_blindness"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/n1jlxt</guid>
+      <pubDate>Sun, 30 Aug 2026 01:34:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>[distributed] Omnipresent availability risks in cloud software</title>
+      <link>https://surfingcomplexity.blog/2026/08/29/omnipresent-availability-risks-in-cloud-software/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/m3brob/omnipresent_availability_risks_cloud"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/m3brob</guid>
+      <pubDate>Sat, 29 Aug 2026 22:17:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>[devops] Creepy crawlies</title>
+      <link>https://people.kernel.org/monsieuricon/creepy-crawlies</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/nbjo0i/creepy_crawlies"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/nbjo0i</guid>
+      <pubDate>Sat, 29 Aug 2026 16:25:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>[practices] On 'scaling up' and being the right size</title>
+      <link>https://tzovar.as/scaling-up-and-on-being-the-right-size/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/fdhkf3/on_scaling_up_being_right_size"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/fdhkf3</guid>
+      <pubDate>Sat, 29 Aug 2026 11:26:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>[practices] I naively tried vibe-coding a memory tool for agents and stared into the abyss of unsolved problems in philosophy</title>
+      <link>https://arbustoemchamas.substack.com/p/i-naively-tried-vibe-coding-a-memory</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/5lz0zd/i_naively_tried_vibe_coding_memory_tool"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/5lz0zd</guid>
+      <pubDate>Sat, 29 Aug 2026 06:11:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>[distributed] Can Kafka Support Elastic Partitioning?</title>
+      <link>https://terroir.systems/can-kafka-support-elastic-partitioning/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/vfhaxz/can_kafka_support_elastic_partitioning"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/vfhaxz</guid>
+      <pubDate>Fri, 28 Aug 2026 19:03:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>[practices] How cats.txt showed llms.txt evidence is GEO astrology</title>
+      <link>https://markwilliamscook.substack.com/p/how-catstxt-showed-llmstxt-evidence</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/suwcbt/how_cats_txt_showed_llms_txt_evidence_is"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/suwcbt</guid>
+      <pubDate>Fri, 28 Aug 2026 18:11:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>[practices] Yap: a particular kind of slop</title>
+      <link>https://mckayla.blog/posts/yap.html</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/xr1eor/yap_particular_kind_slop"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/xr1eor</guid>
+      <pubDate>Fri, 28 Aug 2026 16:35:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>[practices] Change-Detector Tests Considered Harmful (2015)</title>
+      <link>https://testing.googleblog.com/2015/01/testing-on-toilet-change-detector-tests.html</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/m5jzgj/change_detector_tests_considered"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/m5jzgj</guid>
+      <pubDate>Fri, 28 Aug 2026 10:13:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>[distributed] How we saved 100 terabytes of memory by optimizing 1.1.1.1’s DNS cache</title>
+      <link>https://blog.cloudflare.com/dns-cache-memory-optimization-1111/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/p7solr/how_we_saved_100_terabytes_memory_by"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/p7solr</guid>
+      <pubDate>Fri, 28 Aug 2026 06:54:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>[vcs] Why Google stores billions of lines of code in a single repository (2016)</title>
+      <link>https://dl.acm.org/doi/fullHtml/10.1145/2854146</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/wv6fzc/why_google_stores_billions_lines_code"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/wv6fzc</guid>
+      <pubDate>Wed, 26 Aug 2026 10:17:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>[vcs] maiao: Gerrit-style stacked diffs for GitHub, Cursor Origin, GitLab, Codeberg and more</title>
+      <link>https://github.com/runetes/maiao</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/2hsncr/maiao_gerrit_style_stacked_diffs_for"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/2hsncr</guid>
+      <pubDate>Tue, 25 Aug 2026 21:03:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>[practices] AI Review Loops Don't Always Stabilise</title>
+      <link>https://kevinmahoney.co.uk/articles/ai-review-loops/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/52povq/ai_review_loops_don_t_always_stabilise"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/52povq</guid>
+      <pubDate>Tue, 25 Aug 2026 17:42:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>[practices] A Tale of Two SOCs: Insights From Two Red Team Assessments</title>
+      <link>https://www.cisa.gov/news-events/cybersecurity-advisories/aa26-237a</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/hloege/tale_two_socs_insights_from_two_red_team"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/hloege</guid>
+      <pubDate>Tue, 25 Aug 2026 16:31:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>[distributed] Life Beyond Distributed Transactions: An apostate’s opinion (2007)</title>
+      <link>https://spawn-queue.acm.org/doi/10.1145/3012426.3025012</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ftakj1/life_beyond_distributed_transactions"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/ftakj1</guid>
+      <pubDate>Tue, 25 Aug 2026 08:42:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>[distributed] Making the Impossible Possible (Again): Ten Years of Flexible Paxos</title>
+      <link>https://youtu.be/P0cAG-RM1_c</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/syper3/making_impossible_possible_again_ten"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/syper3</guid>
+      <pubDate>Tue, 25 Aug 2026 04:17:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>[distributed, vcs] distributed identity</title>
+      <link>https://jyn.dev/distributed-identity/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/al6sdh/distributed_identity"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/al6sdh</guid>
+      <pubDate>Mon, 24 Aug 2026 21:28:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>[devops] Dynamically Naming Servers</title>
+      <link>https://arch.dog/bark/dynamically-naming-servers</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/swzhtb/dynamically_naming_servers"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/swzhtb</guid>
+      <pubDate>Mon, 24 Aug 2026 14:36:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>[devops] Wild AI-related reliability incidents are coming</title>
+      <link>https://surfingcomplexity.blog/2026/08/22/wild-ai-related-reliability-incidents-are-coming/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/jzr2ey/wild_ai_related_reliability_incidents"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/jzr2ey</guid>
+      <pubDate>Sun, 23 Aug 2026 19:04:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>[distributed] OTel Isn't Going Well (And I Made A Spreadsheet About It)</title>
+      <link>https://matduggan.com/otel-isnt-going-well-and-i-made-a-spreadsheet-about-it/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ubeyqf/otel_isn_t_going_well_i_made_spreadsheet"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/ubeyqf</guid>
+      <pubDate>Sat, 22 Aug 2026 07:27:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>[distributed] The Atproto Spaces Alpha is Live</title>
+      <link>https://atproto.com/blog/atproto-spaces-alpha</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/faggqv/atproto_spaces_alpha_is_live"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/faggqv</guid>
+      <pubDate>Fri, 21 Aug 2026 12:32:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>[distributed] The road to ACID transactions in Cassandra 6</title>
+      <link>https://theconsensus.dev/p/2026/08/16/transactions-in-cassandra.html</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/c9xng0/road_acid_transactions_cassandra_6"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/c9xng0</guid>
+      <pubDate>Fri, 21 Aug 2026 12:08:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>[distributed] GitHub, autoscaling, and the component substitution fallacy</title>
+      <link>https://surfingcomplexity.blog/2026/08/19/github-autoscaling-and-the-component-substitution-fallacy/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/xfkmst/github_autoscaling_component"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/xfkmst</guid>
+      <pubDate>Thu, 20 Aug 2026 15:48:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>[vcs] 20× the CI traffic without getting slower: How we rebuilt Git serving at Datadog</title>
+      <link>https://www.datadoghq.com/blog/engineering/gitretriever/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/q8whub/20x_ci_traffic_without_getting_slower_how"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/q8whub</guid>
+      <pubDate>Thu, 20 Aug 2026 13:03:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>[distributed] Understanding the limitations of Pubsub systems</title>
+      <link>https://dl.acm.org/doi/pdf/10.1145/3713082.3730397</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/psxjb4/understanding_limitations_pubsub"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/psxjb4</guid>
+      <pubDate>Thu, 20 Aug 2026 05:24:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>[devops] Ahab: Hermeticity Analyzer for Bazel</title>
+      <link>https://markkarpov.com/post/announcing-ahab</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/lt0cqn/ahab_hermeticity_analyzer_for_bazel"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/lt0cqn</guid>
+      <pubDate>Thu, 20 Aug 2026 02:50:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>[distributed] Keep the monolith, but split the workloads (2023)</title>
+      <link>https://incident.io/blog/monolith</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/dmweja/keep_monolith_split_workloads_2023"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/dmweja</guid>
+      <pubDate>Wed, 19 Aug 2026 17:35:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>[distributed] capri: Type-safe, atomic Gleam bindings for Khepri, the modern distributed database for the BEAM</title>
+      <link>https://capri.hexdocs.pm/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/3tbpsd/capri_type_safe_atomic_gleam_bindings_for"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/3tbpsd</guid>
+      <pubDate>Wed, 19 Aug 2026 17:07:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>[vcs] Why I still hand write my commit messages</title>
+      <link>https://www.jvt.me/posts/2026/08/17/hand-write-commits/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/kj1bvt/why_i_still_hand_write_my_commit_messages"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/kj1bvt</guid>
+      <pubDate>Wed, 19 Aug 2026 13:01:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[devops] Fargate Is Not Firecracker (2024)</title>
+      <link>https://justingarrison.com/blog/2024-02-08-fargate-is-not-firecracker/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/qrbu3o/fargate_is_not_firecracker_2024"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/qrbu3o</guid>
+      <pubDate>Wed, 19 Aug 2026 06:42:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>[devops, distributed] Incident Report for GitHub outage on 2026-08-17</title>
+      <link>https://www.githubstatus.com/incidents/zkxwbgr0cnmx</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ljhgcd/incident_report_for_github_outage_on_2026"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/ljhgcd</guid>
+      <pubDate>Tue, 18 Aug 2026 20:18:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>[vcs] Git at any scale</title>
+      <link>https://cursor.com/blog/git-at-any-scale</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/rwgwxv/git_at_any_scale"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/rwgwxv</guid>
+      <pubDate>Tue, 18 Aug 2026 19:57:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>[vcs] dgit: Git forge on Durable Objects</title>
+      <link>https://github.com/littledivy/dgit</link>
+      <description>&lt;p&gt;Demo site: &lt;a href="https://git.littledivy.com/" rel="ugc"&gt;https://git.littledivy.com/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://lobste.rs/s/vbaang/dgit_git_forge_on_durable_objects"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/vbaang</guid>
+      <pubDate>Tue, 18 Aug 2026 17:41:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>[distributed] Tsampi BFT: Leaderless One-Round Voting with Parameterized Finality</title>
+      <link>https://www.tsampi.com/tsampi-bft-1.1.pdf</link>
+      <description>&lt;p&gt;Tsampi BFT is a leaderless Byzantine fault-tolerant state-replication protocol with one Vote round per Proposed Block and exact-lineage finality in as few as two later Blocks. Its dual-linked Vote chain records both Block-lineage causality and each Validator's endorsement order. Earlier Votes are neither revoked nor reassigned; every successor must prove that it targets a strictly better proposal.&lt;/p&gt;
+&lt;p&gt;A strict supermajority has more than two thirds of the Stake in the Validator set used for a Block. Q1 is the strict-supermajority Vote pass that sets QuorumBlock. Q2 is the later, independently deduplicated strict-supermajority Vote pass that sets CoveredBlock. Q2 starts empty after Q1 closes. A Validator counted in Q1 may count in Q2 only through a different, later Vote carried by a later descendant Block.&lt;/p&gt;
+&lt;p&gt;Proposal admission is parameterized independently of finality. Under an unchanged Validator set and an endorsement threshold of at least two thirds, genesis reaches QuorumBlock in Block 2 and CoveredBlock in Block 3; the steady-state pipeline keeps a one-Block lag between them. Proposal admission may use a lower threshold, but every accepted Block must advance the lineage toward strict-supermajority finality.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://lobste.rs/s/6prwje/tsampi_bft_leaderless_one_round_voting"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/6prwje</guid>
+      <pubDate>Tue, 18 Aug 2026 12:10:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>[vcs] GitHub has alternatives, but no replacement</title>
+      <link>https://lalitm.com/post/github-alternatives/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/izrwdc/github_has_alternatives_no_replacement"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/izrwdc</guid>
+      <pubDate>Mon, 17 Aug 2026 17:12:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>[vcs] A Tour of Magit's Status Interface</title>
+      <link>https://heiwiper.com/posts/magit-status-tour/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/bhhcf3/tour_magit_s_status_interface"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/bhhcf3</guid>
+      <pubDate>Sun, 16 Aug 2026 10:30:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>[distributed] Power Relations</title>
+      <link>https://corbinsimpson.com/words/power-relations.html</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/7hkk7s/power_relations"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/7hkk7s</guid>
+      <pubDate>Sat, 15 Aug 2026 18:07:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>[vcs] Flirt: GitHub and Mailing List backends</title>
+      <link>https://blog.buenzli.dev/flirt-github-and-mailing-list/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/scwuwv/flirt_github_mailing_list_backends"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/scwuwv</guid>
+      <pubDate>Sat, 15 Aug 2026 12:37:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>[distributed] ActivityPub Won by Being Boring</title>
+      <link>https://o.ee/blog/activitypub-won-by-being-boring/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ngz2wn/activitypub_won_by_being_boring"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/ngz2wn</guid>
+      <pubDate>Fri, 14 Aug 2026 18:44:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>[vcs] Comments in the code vs PR description</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260812-00/?p=112607</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/2dsufc/comments_code_vs_pr_description"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/2dsufc</guid>
+      <pubDate>Fri, 14 Aug 2026 09:52:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>[distributed] Eight tips about consent for fediverse developers</title>
+      <link>https://thenexusofprivacy.net/consent-for-fediverse-developers/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/oxonrx/eight_tips_about_consent_for_fediverse"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/oxonrx</guid>
+      <pubDate>Thu, 13 Aug 2026 16:42:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>[devops] beszel</title>
+      <link>https://github.com/henrygd/beszel</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/6dw7pl/beszel"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/6dw7pl</guid>
+      <pubDate>Thu, 13 Aug 2026 03:28:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>[vcs] GitHub Stacks in Jujutsu</title>
+      <link>https://alan.norbauer.com/articles/github-stacks-with-jujutsu/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/keiw21/github_stacks_jujutsu"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/keiw21</guid>
+      <pubDate>Thu, 13 Aug 2026 00:55:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>[devops] My Homelab Got Hacked - A Postmortem</title>
+      <link>https://phunky.cafe/my-homelab-got-hacked/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ugkhor/my_homelab_got_hacked_postmortem"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/ugkhor</guid>
+      <pubDate>Wed, 12 Aug 2026 15:50:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>[devops] An inter-mesh deployment pipeline</title>
+      <link>https://blog.zm.is/an-inter-mesh-deployment-pipeline/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/xoivjb/inter_mesh_deployment_pipeline"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/xoivjb</guid>
+      <pubDate>Tue, 11 Aug 2026 10:11:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>[devops] The Promise None of Them Kept</title>
+      <link>https://webframp.com/posts/the-promise-none-of-them-kept/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/sjxzgt/promise_none_them_kept"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/sjxzgt</guid>
+      <pubDate>Mon, 10 Aug 2026 11:04:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>[distributed] Make the PDS Your Own: Customization and Metrics</title>
+      <link>https://atproto.com/blog/pds-customization-and-metrics</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/tykvbi/make_pds_your_own_customization_metrics"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/tykvbi</guid>
+      <pubDate>Mon, 10 Aug 2026 05:57:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>[vcs] Who Should Pay For Source Code Availability?</title>
+      <link>https://kristoff.it/blog/source-code-availability/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/rsztog/who_should_pay_for_source_code"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/rsztog</guid>
+      <pubDate>Sun, 09 Aug 2026 13:42:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>[distributed] Almost consensus: ABD and the edges of quorum replication</title>
+      <link>https://theconsensus.dev/p/2026/08/02/almost-consensus.html</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/51xpm8/almost_consensus_abd_edges_quorum"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/51xpm8</guid>
+      <pubDate>Fri, 07 Aug 2026 13:43:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>[distributed] Atproto for distributed systems engineers</title>
+      <link>https://atproto.com/articles/atproto-for-distsys-engineers</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/b3zq3g/atproto_for_distributed_systems"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/b3zq3g</guid>
+      <pubDate>Thu, 06 Aug 2026 22:37:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>[vcs] Radicle 1.10.0 – Sunflower</title>
+      <link>https://radicle.dev/2026/08/05/radicle-1.10.0.html</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ahuerd/radicle_1_10_0_sunflower"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/ahuerd</guid>
+      <pubDate>Thu, 06 Aug 2026 12:24:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>[vcs] jujutsu 0.44.0</title>
+      <link>https://github.com/jj-vcs/jj/releases/tag/v0.44.0</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/xx83dr/jujutsu_0_44_0"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/xx83dr</guid>
+      <pubDate>Thu, 06 Aug 2026 09:03:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>[distributed] On building scalable control planes</title>
+      <link>https://www.allthingsdistributed.com/2026/08/on-building-scalable-control-planes.html</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/zubbzq/on_building_scalable_control_planes"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/zubbzq</guid>
+      <pubDate>Thu, 06 Aug 2026 05:41:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>[devops] Infrastructure Gravity &amp; Domain Engineering</title>
+      <link>https://jackdanger.com/infrastructure-gravity/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/kkrnyc/infrastructure_gravity_domain"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/kkrnyc</guid>
+      <pubDate>Thu, 06 Aug 2026 01:24:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>[devops] Proxmox officially supports Arm, with some caveats</title>
+      <link>https://www.jeffgeerling.com/blog/2026/proxmox-ve-arm-official/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/wblbfk/proxmox_officially_supports_arm_with"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/wblbfk</guid>
+      <pubDate>Wed, 05 Aug 2026 19:54:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>[devops] How Compiler Explorer Runs on AWS in 2026</title>
+      <link>https://xania.org/202608/how-compiler-explorer-runs-on-aws</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/1eie3y/how_compiler_explorer_runs_on_aws_2026"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/1eie3y</guid>
+      <pubDate>Wed, 05 Aug 2026 16:23:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>[devops] Tests for a PDF</title>
+      <link>https://blog.lvmbdv.dev/posts/tests-for-a-pdf/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/98zvnf/tests_for_pdf"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/98zvnf</guid>
+      <pubDate>Tue, 04 Aug 2026 10:23:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>[devops] Sovereign Tech Fellowship for Rust maintenance (June-July 2026 report)</title>
+      <link>https://kobzol.github.io/rust/2026/08/03/stf-june-july-2026.html</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/0zr9wr/sovereign_tech_fellowship_for_rust"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/0zr9wr</guid>
+      <pubDate>Mon, 03 Aug 2026 23:14:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>[vcs] wiff</title>
+      <link>https://wezfurlong.org/wiff/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/tc82u0/wiff"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/tc82u0</guid>
+      <pubDate>Sat, 01 Aug 2026 13:27:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[vcs] Accepting a messy git history</title>
+      <link>https://beza1e1.tuxen.de/git_two_users.html</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/aj7msu/accepting_messy_git_history"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/aj7msu</guid>
+      <pubDate>Fri, 31 Jul 2026 18:27:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>[devops] Wheels, Bottles and Images</title>
+      <link>https://nesbitt.io/2026/07/30/wheels-bottles-images.html</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/mve50r/wheels_bottles_images"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/mve50r</guid>
+      <pubDate>Thu, 30 Jul 2026 12:56:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>[devops] Using Nagios for small business infrastructure monitoring</title>
+      <link>https://tech.chrishardie.com/2026/nagios-small-business-infrastructure-monitoring/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/wub9oc/using_nagios_for_small_business"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/wub9oc</guid>
+      <pubDate>Tue, 21 Jul 2026 18:35:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>[devops] GitHub suddenly rejected my SSH key (the fix was a .pub file?!)</title>
+      <link>https://thorsell.io/2026/07/21/github-ssh-keys.html</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/twqtlo/github_suddenly_rejected_my_ssh_key_fix"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/twqtlo</guid>
+      <pubDate>Tue, 21 Jul 2026 10:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>[devops] A deep dive into my Forgejo setup</title>
+      <link>https://a.l3x.in/blog/welcome-to-my-forge/</link>
+      <description>&lt;p&gt;Hello folks! I've recently resurrected my will for tech blogging and I thought someone else out there might also be considering setting up a Forgejo instance so I took the time to write about my journey into it.&lt;/p&gt;
+&lt;p&gt;I'm looking forward to feedback, suggestions, etc, and I'll be happy to answer any questions too.&lt;/p&gt;
+&lt;p&gt;Happy forgin'&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://lobste.rs/s/jhcyuq/deep_dive_into_my_forgejo_setup"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/jhcyuq</guid>
+      <pubDate>Mon, 20 Jul 2026 16:40:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>[devops] The dailyprog puzzle safety net</title>
+      <link>https://blog.lvmbdv.dev/posts/the-puzzle-safety-net/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/etvwzv/dailyprog_puzzle_safety_net"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/etvwzv</guid>
+      <pubDate>Thu, 16 Jul 2026 02:21:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>[devops] Package Management as Org Chart</title>
+      <link>https://nesbitt.io/2026/07/10/package-management-as-org-chart.html</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/6fmohi/package_management_as_org_chart"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/6fmohi</guid>
+      <pubDate>Fri, 10 Jul 2026 19:12:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>[devops] A batch job, in The Elm Architecture</title>
+      <link>https://cekrem.github.io/posts/elm-run-batch-job/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ykabry/batch_job_elm_architecture"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/ykabry</guid>
+      <pubDate>Thu, 09 Jul 2026 18:31:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>[devops] I Don't Maintain My Homelab</title>
+      <link>https://cleberg.net/blog/homelab-maintenance.html</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/fx5e0f/i_don_t_maintain_my_homelab"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/fx5e0f</guid>
+      <pubDate>Fri, 03 Jul 2026 23:23:43 +0000</pubDate>
+    </item>
+  </channel>
+</rss>
