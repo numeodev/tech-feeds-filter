@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 14 Sep 2026 18:16:15 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 22:12:24 +0000</lastBuildDate>
     <item>
       <title>[r/sre] Supabase's fix for one incident caused their next one, and the original is still open after 25 days</title>
       <link>https://www.reddit.com/r/sre/comments/1wbx7wz/supabases_fix_for_one_incident_caused_their_next/</link>

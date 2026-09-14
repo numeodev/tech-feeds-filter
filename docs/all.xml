@@ -8,7 +8,21 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 14 Sep 2026 18:16:25 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 22:12:33 +0000</lastBuildDate>
+    <item>
+      <title>Why is a Nix rollback just a symlink flip?</title>
+      <link>https://www.labcraft.dev/blog/nix-profiles-generations</link>
+      <description>2 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49704347'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49704347</guid>
+      <pubDate>Mon, 14 Sep 2026 21:28:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>[practices] "Do You Still Read the Code?"</title>
+      <link>https://zanlib.dev/blog/do-you-still-read-the-code/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/qiwlzz/do_you_still_read_code"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/qiwlzz</guid>
+      <pubDate>Mon, 14 Sep 2026 20:16:07 +0000</pubDate>
+    </item>
     <item>
       <title>[distributed] SplitFT: Fault Tolerance for Disaggregated Datacenters via Remote Memory Logging</title>
       <link>https://ramalagappan.github.io/pdfs/papers/splitft.pdf</link>
@@ -687,20 +701,6 @@
       <pubDate>Tue, 01 Sep 2026 01:30:16 +0000</pubDate>
     </item>
     <item>
-      <title>Microsoft 365 Outage Knocks Down Outlook, Teams, Store, and Azure for Many</title>
-      <link>https://windowsreport.com/microsoft-365-outage-knocks-down-outlook-teams-store-and-azure-for-many/</link>
-      <description>6 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49514947'&gt;discussion sur Hacker News&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49514947</guid>
-      <pubDate>Mon, 31 Aug 2026 21:17:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft Outlook hit by service outage</title>
-      <link>https://www.cnet.com/news-live/microsoft-outlook-exchange-online-service-outage/</link>
-      <description>10 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49513274'&gt;discussion sur Hacker News&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49513274</guid>
-      <pubDate>Mon, 31 Aug 2026 18:42:11 +0000</pubDate>
-    </item>
-    <item>
       <title>[practices] All the Little Things (2014)</title>
       <link>https://www.youtube.com/watch?v=8bZh5LMaSmE</link>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/gtarrm/all_little_things_2014"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
@@ -769,13 +769,6 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/xr1eor/yap_particular_kind_slop"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/xr1eor</guid>
       <pubDate>Fri, 28 Aug 2026 16:35:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>[practices] Change-Detector Tests Considered Harmful (2015)</title>
-      <link>https://testing.googleblog.com/2015/01/testing-on-toilet-change-detector-tests.html</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/m5jzgj/change_detector_tests_considered"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/m5jzgj</guid>
-      <pubDate>Fri, 28 Aug 2026 10:13:53 +0000</pubDate>
     </item>
     <item>
       <title>[distributed] How we saved 100 terabytes of memory by optimizing 1.1.1.1’s DNS cache</title>

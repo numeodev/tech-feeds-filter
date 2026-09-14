@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 14 Sep 2026 18:16:25 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 22:12:33 +0000</lastBuildDate>
+    <item>
+      <title>[practices] "Do You Still Read the Code?"</title>
+      <link>https://zanlib.dev/blog/do-you-still-read-the-code/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/qiwlzz/do_you_still_read_code"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/qiwlzz</guid>
+      <pubDate>Mon, 14 Sep 2026 20:16:07 +0000</pubDate>
+    </item>
     <item>
       <title>[distributed] SplitFT: Fault Tolerance for Disaggregated Datacenters via Remote Memory Logging</title>
       <link>https://ramalagappan.github.io/pdfs/papers/splitft.pdf</link>
@@ -461,13 +468,6 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/xr1eor/yap_particular_kind_slop"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/xr1eor</guid>
       <pubDate>Fri, 28 Aug 2026 16:35:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>[practices] Change-Detector Tests Considered Harmful (2015)</title>
-      <link>https://testing.googleblog.com/2015/01/testing-on-toilet-change-detector-tests.html</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/m5jzgj/change_detector_tests_considered"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/m5jzgj</guid>
-      <pubDate>Fri, 28 Aug 2026 10:13:53 +0000</pubDate>
     </item>
     <item>
       <title>[distributed] How we saved 100 terabytes of memory by optimizing 1.1.1.1’s DNS cache</title>
