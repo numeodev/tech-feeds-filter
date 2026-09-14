@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 14 Sep 2026 12:20:19 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 18:16:24 +0000</lastBuildDate>
     <item>
       <title>Saudi pipeline outage threatens loss of 4% of global oil supply</title>
       <link>https://www.reuters.com/business/energy/saudi-pipeline-outage-threatens-loss-4-global-oil-supply-2026-09-13/</link>
@@ -295,20 +295,6 @@
       <description>10 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49513274'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=49513274</guid>
       <pubDate>Mon, 31 Aug 2026 18:42:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>HuggingFace Attack Postmortem: Fleshing Out the Facts</title>
-      <link>https://thezvi.substack.com/p/huggingface-attack-postmortem-fleshing</link>
-      <description>1 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49512249'&gt;discussion sur Hacker News&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49512249</guid>
-      <pubDate>Mon, 31 Aug 2026 17:18:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Partial Outage in ChatGPT Work</title>
-      <link>https://status.openai.com/incidents/01M1C5M4K0WC8PPT0Z175RJA1E</link>
-      <description>3 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49511356'&gt;discussion sur Hacker News&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49511356</guid>
-      <pubDate>Mon, 31 Aug 2026 16:03:47 +0000</pubDate>
     </item>
   </channel>
 </rss>

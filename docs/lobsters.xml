@@ -8,7 +8,29 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 14 Sep 2026 12:20:20 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 18:16:25 +0000</lastBuildDate>
+    <item>
+      <title>[distributed] SplitFT: Fault Tolerance for Disaggregated Datacenters via Remote Memory Logging</title>
+      <link>https://ramalagappan.github.io/pdfs/papers/splitft.pdf</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/eytyqv/splitft_fault_tolerance_for"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/eytyqv</guid>
+      <pubDate>Mon, 14 Sep 2026 18:02:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[practices] What blog posts influenced your thinking the most?</title>
+      <link>https://lobste.rs/s/lbavmm/what_blog_posts_influenced_your_thinking</link>
+      <description>&lt;p&gt;Interested in hearing your opinions, I usually learn a lot from it.&lt;/p&gt;
+&lt;p&gt;For me it has to be Parse, Don’t Validate and early joelonsoftware.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/lbavmm</guid>
+      <pubDate>Mon, 14 Sep 2026 15:27:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>[practices] Why Am I Still Programming</title>
+      <link>https://www.youtube.com/watch?v=pOAj3mor8y8</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/gud12o/why_am_i_still_programming"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/gud12o</guid>
+      <pubDate>Mon, 14 Sep 2026 13:28:42 +0000</pubDate>
+    </item>
     <item>
       <title>[vcs] Mergiraf: A syntax-aware git merge driver for a growing collection of programming languages and file formats</title>
       <link>https://codeberg.org/mergiraf/mergiraf</link>
@@ -469,20 +491,6 @@
       <pubDate>Tue, 25 Aug 2026 21:03:05 +0000</pubDate>
     </item>
     <item>
-      <title>[practices] AI Review Loops Don't Always Stabilise</title>
-      <link>https://kevinmahoney.co.uk/articles/ai-review-loops/</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/52povq/ai_review_loops_don_t_always_stabilise"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/52povq</guid>
-      <pubDate>Tue, 25 Aug 2026 17:42:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>[practices] A Tale of Two SOCs: Insights From Two Red Team Assessments</title>
-      <link>https://www.cisa.gov/news-events/cybersecurity-advisories/aa26-237a</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/hloege/tale_two_socs_insights_from_two_red_team"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/hloege</guid>
-      <pubDate>Tue, 25 Aug 2026 16:31:26 +0000</pubDate>
-    </item>
-    <item>
       <title>[distributed] Life Beyond Distributed Transactions: An apostate’s opinion (2007)</title>
       <link>https://spawn-queue.acm.org/doi/10.1145/3012426.3025012</link>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ftakj1/life_beyond_distributed_transactions"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
@@ -751,13 +759,6 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/xx83dr/jujutsu_0_44_0"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/xx83dr</guid>
       <pubDate>Thu, 06 Aug 2026 09:03:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>[distributed] On building scalable control planes</title>
-      <link>https://www.allthingsdistributed.com/2026/08/on-building-scalable-control-planes.html</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/zubbzq/on_building_scalable_control_planes"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/zubbzq</guid>
-      <pubDate>Thu, 06 Aug 2026 05:41:02 +0000</pubDate>
     </item>
     <item>
       <title>[devops] Infrastructure Gravity &amp; Domain Engineering</title>
