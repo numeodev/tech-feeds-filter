@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 15 Sep 2026 01:04:28 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 06:57:49 +0000</lastBuildDate>
+    <item>
+      <title>[devops] Sidero Labs Joins Yardi: What It Means for Talos</title>
+      <link>https://www.siderolabs.com/blog/sidero-labs-joins-yardi</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/3j6fht/sidero_labs_joins_yardi_what_it_means_for"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/3j6fht</guid>
+      <pubDate>Tue, 15 Sep 2026 06:52:34 +0000</pubDate>
+    </item>
     <item>
       <title>[practices] "Do You Still Read the Code?"</title>
       <link>https://zanlib.dev/blog/do-you-still-read-the-code/</link>
@@ -30,13 +37,6 @@
 &lt;p&gt;For me it has to be Parse, Don’t Validate and early joelonsoftware.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/lbavmm</guid>
       <pubDate>Mon, 14 Sep 2026 15:27:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>[practices] Why Am I Still Programming</title>
-      <link>https://www.youtube.com/watch?v=pOAj3mor8y8</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/gud12o/why_am_i_still_programming"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/gud12o</guid>
-      <pubDate>Mon, 14 Sep 2026 13:28:42 +0000</pubDate>
     </item>
     <item>
       <title>[vcs] Mergiraf: A syntax-aware git merge driver for a growing collection of programming languages and file formats</title>
@@ -470,6 +470,13 @@
       <pubDate>Fri, 28 Aug 2026 16:35:15 +0000</pubDate>
     </item>
     <item>
+      <title>[practices] Change-Detector Tests Considered Harmful (2015)</title>
+      <link>https://testing.googleblog.com/2015/01/testing-on-toilet-change-detector-tests.html</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/m5jzgj/change_detector_tests_considered"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/m5jzgj</guid>
+      <pubDate>Fri, 28 Aug 2026 10:13:53 +0000</pubDate>
+    </item>
+    <item>
       <title>[distributed] How we saved 100 terabytes of memory by optimizing 1.1.1.1’s DNS cache</title>
       <link>https://blog.cloudflare.com/dns-cache-memory-optimization-1111/</link>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/p7solr/how_we_saved_100_terabytes_memory_by"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
@@ -860,13 +867,6 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ykabry/batch_job_elm_architecture"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/ykabry</guid>
       <pubDate>Thu, 09 Jul 2026 18:31:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>[devops] I Don't Maintain My Homelab</title>
-      <link>https://cleberg.net/blog/homelab-maintenance.html</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/fx5e0f/i_don_t_maintain_my_homelab"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/fx5e0f</guid>
-      <pubDate>Fri, 03 Jul 2026 23:23:43 +0000</pubDate>
     </item>
   </channel>
 </rss>
