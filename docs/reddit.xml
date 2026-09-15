@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 15 Sep 2026 06:57:41 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 12:26:55 +0000</lastBuildDate>
+    <item>
+      <title>[r/sre] Can automated root cause analysis reliably identify production issues?</title>
+      <link>https://www.reddit.com/r/sre/comments/1wguk7p/can_automated_root_cause_analysis_reliably/</link>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Every RCA tool I've tried is really good at identifying the trigger and mediocre at identifying the actual root cause. It'll tell you deployment X correlated with the spike, which is true and also not that helpful when the real issue is a dependency three services away that's been degrading slowly for a week.&lt;/p&gt; &lt;p&gt;I think the honest answer is these tools are useful for narrowing a search space fast, going from &amp;quot;something broke somewhere&amp;quot; to &amp;quot;here are your top three suspects,&amp;quot; but the human still has to close the loop on causality. Has anyone gotten an automated RCA setup to actually nail root cause without a person doing the final synthesis, or is that still mostly aspirational marketing from vendors?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/Acrobatic_Refuse8100"&gt; /u/Acrobatic_Refuse8100 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/r/sre/comments/1wguk7p/can_automated_root_cause_analysis_reliably/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/sre/comments/1wguk7p/can_automated_root_cause_analysis_reliably/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</description>
+      <guid isPermaLink="false">https://www.reddit.com/r/sre/t3_1wguk7p</guid>
+      <pubDate>Tue, 15 Sep 2026 08:34:01 +0000</pubDate>
+    </item>
     <item>
       <title>[r/sre] Supabase's fix for one incident caused their next one, and the original is still open after 25 days</title>
       <link>https://www.reddit.com/r/sre/comments/1wbx7wz/supabases_fix_for_one_incident_caused_their_next/</link>
@@ -22,13 +29,6 @@
       <description>&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;has anyone actually succeeded in using AI agents to reliably diagnose errors?&lt;/p&gt; &lt;p&gt;My manager and his manager has this ambitious goal (aka making me do all the work) of making our bot more reliable. &lt;/p&gt; &lt;p&gt;Some of the ambitious goals includes - accurately perform in depth root cause analysis for alerts and also having the ability to repeat past alerts to ensure our run book works.&lt;/p&gt; &lt;p&gt;I find it incredibly difficult, despite having a “structure” which is just giving the bot steps on what to do. It’s frustrating because the results highly depends on the model, testing diff models gave diff results easily. &lt;/p&gt; &lt;p&gt;This makes me really miss the actual engineering work instead of “hoping” the model listens to the run book this time.&lt;/p&gt; &lt;p&gt;Anyone else has any success stories to share?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/iPhone12-PRO"&gt; /u/iPhone12-PRO &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/r/sre/comments/1w722y4/improving_agent_reliability/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/sre/comments/1w722y4/improving_agent_reliability/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</description>
       <guid isPermaLink="false">https://www.reddit.com/r/sre/t3_1w722y4</guid>
       <pubDate>Fri, 04 Sep 2026 11:46:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>[r/sre] Remote incident reviews: async first, live later?</title>
-      <link>https://www.reddit.com/r/sre/comments/1w6004a/remote_incident_reviews_async_first_live_later/</link>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;After a 37-minute outage, our distributed infrastructure team ran an async postmortem.&lt;/p&gt; &lt;p&gt;We placed the deployment timeline, logs, Grafana screenshots, customer impact and Slack excerpts on a shared board. Engineers across APAC, Europe and North America added comments over 24 hours.&lt;/p&gt; &lt;p&gt;The evidence gathering was much better than during a live call. People checked facts before responding and the person sharing their screen didn’t control the entire narrative.&lt;/p&gt; &lt;p&gt;The problem was disagreement. Two arguments about alert ownership were lost in comment threads, and one action item ended up with several owners.&lt;/p&gt; &lt;p&gt;I’m considering a hybrid process: async evidence gathering followed by a 30-minute meeting only for disputed causes, trade-offs and action ownership.&lt;/p&gt; &lt;p&gt;Has anyone found a format that keeps the async benefits without losing actual discussion?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/ButtesirscochHot1087"&gt; /u/ButtesirscochHot1087 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/r/sre/comments/1w6004a/remote_incident_reviews_async_first_live_later/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/sre/comments/1w6004a/remote_incident_reviews_async_first_live_later/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</description>
-      <guid isPermaLink="false">https://www.reddit.com/r/sre/t3_1w6004a</guid>
-      <pubDate>Thu, 03 Sep 2026 07:02:49 +0000</pubDate>
     </item>
   </channel>
 </rss>

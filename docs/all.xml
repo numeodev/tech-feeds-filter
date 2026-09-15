@@ -8,13 +8,20 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 15 Sep 2026 06:57:49 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 12:27:04 +0000</lastBuildDate>
     <item>
-      <title>[devops] Sidero Labs Joins Yardi: What It Means for Talos</title>
-      <link>https://www.siderolabs.com/blog/sidero-labs-joins-yardi</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/3j6fht/sidero_labs_joins_yardi_what_it_means_for"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/3j6fht</guid>
-      <pubDate>Tue, 15 Sep 2026 06:52:34 +0000</pubDate>
+      <title>Prisma's pgbouncer=true on Supabase made every query 4 round-trips (postmortem)</title>
+      <link>https://blog.simbastack.com/four-round-trips-six-months/</link>
+      <description>1 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49711486'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49711486</guid>
+      <pubDate>Tue, 15 Sep 2026 12:24:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>[r/sre] Can automated root cause analysis reliably identify production issues?</title>
+      <link>https://www.reddit.com/r/sre/comments/1wguk7p/can_automated_root_cause_analysis_reliably/</link>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Every RCA tool I've tried is really good at identifying the trigger and mediocre at identifying the actual root cause. It'll tell you deployment X correlated with the spike, which is true and also not that helpful when the real issue is a dependency three services away that's been degrading slowly for a week.&lt;/p&gt; &lt;p&gt;I think the honest answer is these tools are useful for narrowing a search space fast, going from &amp;quot;something broke somewhere&amp;quot; to &amp;quot;here are your top three suspects,&amp;quot; but the human still has to close the loop on causality. Has anyone gotten an automated RCA setup to actually nail root cause without a person doing the final synthesis, or is that still mostly aspirational marketing from vendors?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/Acrobatic_Refuse8100"&gt; /u/Acrobatic_Refuse8100 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/r/sre/comments/1wguk7p/can_automated_root_cause_analysis_reliably/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/sre/comments/1wguk7p/can_automated_root_cause_analysis_reliably/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</description>
+      <guid isPermaLink="false">https://www.reddit.com/r/sre/t3_1wguk7p</guid>
+      <pubDate>Tue, 15 Sep 2026 08:34:01 +0000</pubDate>
     </item>
     <item>
       <title>Analysis: Why Rollback Netcode Is Better (2020) [video]</title>
@@ -631,13 +638,6 @@
       <pubDate>Thu, 03 Sep 2026 10:02:34 +0000</pubDate>
     </item>
     <item>
-      <title>[r/sre] Remote incident reviews: async first, live later?</title>
-      <link>https://www.reddit.com/r/sre/comments/1w6004a/remote_incident_reviews_async_first_live_later/</link>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;After a 37-minute outage, our distributed infrastructure team ran an async postmortem.&lt;/p&gt; &lt;p&gt;We placed the deployment timeline, logs, Grafana screenshots, customer impact and Slack excerpts on a shared board. Engineers across APAC, Europe and North America added comments over 24 hours.&lt;/p&gt; &lt;p&gt;The evidence gathering was much better than during a live call. People checked facts before responding and the person sharing their screen didn’t control the entire narrative.&lt;/p&gt; &lt;p&gt;The problem was disagreement. Two arguments about alert ownership were lost in comment threads, and one action item ended up with several owners.&lt;/p&gt; &lt;p&gt;I’m considering a hybrid process: async evidence gathering followed by a 30-minute meeting only for disputed causes, trade-offs and action ownership.&lt;/p&gt; &lt;p&gt;Has anyone found a format that keeps the async benefits without losing actual discussion?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/ButtesirscochHot1087"&gt; /u/ButtesirscochHot1087 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/r/sre/comments/1w6004a/remote_incident_reviews_async_first_live_later/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/sre/comments/1w6004a/remote_incident_reviews_async_first_live_later/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</description>
-      <guid isPermaLink="false">https://www.reddit.com/r/sre/t3_1w6004a</guid>
-      <pubDate>Thu, 03 Sep 2026 07:02:49 +0000</pubDate>
-    </item>
-    <item>
       <title>Show HN: Aura – a Rust agent that investigates and fixes production incidents</title>
       <link>https://github.com/mezmo/aura</link>
       <description>28 points, 6 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49538195'&gt;discussion sur Hacker News&lt;/a&gt;</description>
@@ -692,13 +692,6 @@
       <description>15 points, 13 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49522158'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=49522158</guid>
       <pubDate>Tue, 01 Sep 2026 14:02:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>Breaking Execution Continuity of Agent Systems via Rollback</title>
-      <link>https://arxiv.org/abs/2608.29381</link>
-      <description>1 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49519320'&gt;discussion sur Hacker News&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49519320</guid>
-      <pubDate>Tue, 01 Sep 2026 08:07:09 +0000</pubDate>
     </item>
     <item>
       <title>[practices] Breaking down Amazon’s mega dropdown (2013)</title>
@@ -1175,6 +1168,13 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ykabry/batch_job_elm_architecture"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/ykabry</guid>
       <pubDate>Thu, 09 Jul 2026 18:31:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>[devops] I Don't Maintain My Homelab</title>
+      <link>https://cleberg.net/blog/homelab-maintenance.html</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/fx5e0f/i_don_t_maintain_my_homelab"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/fx5e0f</guid>
+      <pubDate>Fri, 03 Jul 2026 23:23:43 +0000</pubDate>
     </item>
   </channel>
 </rss>
