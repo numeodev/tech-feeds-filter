@@ -8,7 +8,21 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 15 Sep 2026 17:24:21 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 20:38:59 +0000</lastBuildDate>
+    <item>
+      <title>[practices, security] 1Password's AI patching benchmark is misleading</title>
+      <link>https://blog.trailofbits.com/2026/09/15/1passwords-ai-patching-benchmark-is-misleading/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/qx8dxe/1password_s_ai_patching_benchmark_is"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/qx8dxe</guid>
+      <pubDate>Tue, 15 Sep 2026 20:03:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>[practices] From Intern to Software Architect</title>
+      <link>https://chauhankiran.blogspot.com/2026/09/levels.html</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/jsvadf/from_intern_software_architect"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/jsvadf</guid>
+      <pubDate>Tue, 15 Sep 2026 18:38:43 +0000</pubDate>
+    </item>
     <item>
       <title>[vcs] You can run git on object storage if you re-make packfiles</title>
       <link>https://www.tigrisdata.com/blog/objgit-packfiles/</link>
@@ -554,13 +568,6 @@
       <pubDate>Thu, 03 Sep 2026 22:39:51 +0000</pubDate>
     </item>
     <item>
-      <title>[security] Stop Telling People Not To Click Links</title>
-      <link>https://www.forbes.com/councils/forbestechcouncil/2026/08/26/stop-telling-people-not-to-click-links/</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/kvfua1/stop_telling_people_not_click_links"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/kvfua1</guid>
-      <pubDate>Thu, 03 Sep 2026 21:56:06 +0000</pubDate>
-    </item>
-    <item>
       <title>Tell HN: Both recent GCP outages caused by fiber optic maintenance</title>
       <link>https://news.ycombinator.com/item?id=49557563</link>
       <description>20 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49557563'&gt;discussion sur Hacker News&lt;/a&gt;</description>
@@ -741,20 +748,6 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/vfhaxz/can_kafka_support_elastic_partitioning"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/vfhaxz</guid>
       <pubDate>Fri, 28 Aug 2026 19:03:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>[practices] How cats.txt showed llms.txt evidence is GEO astrology</title>
-      <link>https://markwilliamscook.substack.com/p/how-catstxt-showed-llmstxt-evidence</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/suwcbt/how_cats_txt_showed_llms_txt_evidence_is"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/suwcbt</guid>
-      <pubDate>Fri, 28 Aug 2026 18:11:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>[practices] Yap: a particular kind of slop</title>
-      <link>https://mckayla.blog/posts/yap.html</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/xr1eor/yap_particular_kind_slop"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/xr1eor</guid>
-      <pubDate>Fri, 28 Aug 2026 16:35:15 +0000</pubDate>
     </item>
     <item>
       <title>[distributed] How we saved 100 terabytes of memory by optimizing 1.1.1.1’s DNS cache</title>
