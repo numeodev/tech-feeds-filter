@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 14 Sep 2026 22:12:32 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 01:04:27 +0000</lastBuildDate>
+    <item>
+      <title>Quay.io is read-only due to an outage</title>
+      <link>https://status.redhat.com/incidents/0g8rsg3tbjpz</link>
+      <description>1 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49705394'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49705394</guid>
+      <pubDate>Mon, 14 Sep 2026 22:56:21 +0000</pubDate>
+    </item>
     <item>
       <title>Why is a Nix rollback just a symlink flip?</title>
       <link>https://www.labcraft.dev/blog/nix-profiles-generations</link>
