@@ -8,11 +8,11 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 15 Sep 2026 12:27:03 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 17:24:20 +0000</lastBuildDate>
     <item>
       <title>Prisma's pgbouncer=true on Supabase made every query 4 round-trips (postmortem)</title>
       <link>https://blog.simbastack.com/four-round-trips-six-months/</link>
-      <description>1 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49711486'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>2 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49711486'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=49711486</guid>
       <pubDate>Tue, 15 Sep 2026 12:24:59 +0000</pubDate>
     </item>
@@ -267,34 +267,6 @@
       <description>2 points, 2 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49530902'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=49530902</guid>
       <pubDate>Wed, 02 Sep 2026 02:06:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>METR and Redwood Offer Holy %^ Postmortem of the HuggingFace Hack</title>
-      <link>https://thezvi.substack.com/p/metr-and-redwood-offer-holy-postmortem</link>
-      <description>2 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49524768'&gt;discussion sur Hacker News&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49524768</guid>
-      <pubDate>Tue, 01 Sep 2026 17:04:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>HuggingFace Attack Postmortem: Civilizations, Reactions and Next Actions</title>
-      <link>https://thezvi.substack.com/p/huggingface-attack-postmortem-civilizations</link>
-      <description>4 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49523967'&gt;discussion sur Hacker News&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49523967</guid>
-      <pubDate>Tue, 01 Sep 2026 16:09:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>Tell HN: Google Cloud Outage</title>
-      <link>https://news.ycombinator.com/item?id=49523466</link>
-      <description>6 points, 5 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49523466'&gt;discussion sur Hacker News&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49523466</guid>
-      <pubDate>Tue, 01 Sep 2026 15:40:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>Proton Outage</title>
-      <link>https://status.proton.me/incidents/lj22kf1nc8yz</link>
-      <description>15 points, 13 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49522158'&gt;discussion sur Hacker News&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49522158</guid>
-      <pubDate>Tue, 01 Sep 2026 14:02:03 +0000</pubDate>
     </item>
   </channel>
 </rss>

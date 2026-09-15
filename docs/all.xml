@@ -8,11 +8,25 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 15 Sep 2026 12:27:04 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 17:24:21 +0000</lastBuildDate>
+    <item>
+      <title>[vcs] You can run git on object storage if you re-make packfiles</title>
+      <link>https://www.tigrisdata.com/blog/objgit-packfiles/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/hyyq9h/you_can_run_git_on_object_storage_if_you_re"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/hyyq9h</guid>
+      <pubDate>Tue, 15 Sep 2026 17:03:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>[practices] Postgres development activity</title>
+      <link>https://vondra.me/posts/postgres-development-activity/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/3wmby2/postgres_development_activity"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/3wmby2</guid>
+      <pubDate>Tue, 15 Sep 2026 12:26:49 +0000</pubDate>
+    </item>
     <item>
       <title>Prisma's pgbouncer=true on Supabase made every query 4 round-trips (postmortem)</title>
       <link>https://blog.simbastack.com/four-round-trips-six-months/</link>
-      <description>1 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49711486'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>2 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49711486'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=49711486</guid>
       <pubDate>Tue, 15 Sep 2026 12:24:59 +0000</pubDate>
     </item>
@@ -666,34 +680,6 @@
       <pubDate>Tue, 01 Sep 2026 17:53:50 +0000</pubDate>
     </item>
     <item>
-      <title>METR and Redwood Offer Holy %^ Postmortem of the HuggingFace Hack</title>
-      <link>https://thezvi.substack.com/p/metr-and-redwood-offer-holy-postmortem</link>
-      <description>2 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49524768'&gt;discussion sur Hacker News&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49524768</guid>
-      <pubDate>Tue, 01 Sep 2026 17:04:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>HuggingFace Attack Postmortem: Civilizations, Reactions and Next Actions</title>
-      <link>https://thezvi.substack.com/p/huggingface-attack-postmortem-civilizations</link>
-      <description>4 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49523967'&gt;discussion sur Hacker News&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49523967</guid>
-      <pubDate>Tue, 01 Sep 2026 16:09:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>Tell HN: Google Cloud Outage</title>
-      <link>https://news.ycombinator.com/item?id=49523466</link>
-      <description>6 points, 5 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49523466'&gt;discussion sur Hacker News&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49523466</guid>
-      <pubDate>Tue, 01 Sep 2026 15:40:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>Proton Outage</title>
-      <link>https://status.proton.me/incidents/lj22kf1nc8yz</link>
-      <description>15 points, 13 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49522158'&gt;discussion sur Hacker News&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49522158</guid>
-      <pubDate>Tue, 01 Sep 2026 14:02:03 +0000</pubDate>
-    </item>
-    <item>
       <title>[practices] Breaking down Amazon’s mega dropdown (2013)</title>
       <link>https://bjk5.com/post/44698559168/breaking-down-amazons-mega-dropdown</link>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/haotvw/breaking_down_amazon_s_mega_dropdown_2013"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
@@ -769,13 +755,6 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/xr1eor/yap_particular_kind_slop"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/xr1eor</guid>
       <pubDate>Fri, 28 Aug 2026 16:35:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>[practices] Change-Detector Tests Considered Harmful (2015)</title>
-      <link>https://testing.googleblog.com/2015/01/testing-on-toilet-change-detector-tests.html</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/m5jzgj/change_detector_tests_considered"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/m5jzgj</guid>
-      <pubDate>Fri, 28 Aug 2026 10:13:53 +0000</pubDate>
     </item>
     <item>
       <title>[distributed] How we saved 100 terabytes of memory by optimizing 1.1.1.1’s DNS cache</title>
@@ -1109,13 +1088,6 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/tc82u0/wiff"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/tc82u0</guid>
       <pubDate>Sat, 01 Aug 2026 13:27:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[vcs] Accepting a messy git history</title>
-      <link>https://beza1e1.tuxen.de/git_two_users.html</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/aj7msu/accepting_messy_git_history"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/aj7msu</guid>
-      <pubDate>Fri, 31 Jul 2026 18:27:28 +0000</pubDate>
     </item>
     <item>
       <title>[devops] Wheels, Bottles and Images</title>
