@@ -8,9 +8,9 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 15 Sep 2026 23:19:01 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 02:22:29 +0000</lastBuildDate>
     <item>
-      <title>[practices, security] 1Password's AI patching benchmark is misleading</title>
+      <title>[security] 1Password's AI patching benchmark is misleading</title>
       <link>https://blog.trailofbits.com/2026/09/15/1passwords-ai-patching-benchmark-is-misleading/</link>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/qx8dxe/1password_s_ai_patching_benchmark_is"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/qx8dxe</guid>
@@ -468,6 +468,13 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/vfhaxz/can_kafka_support_elastic_partitioning"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/vfhaxz</guid>
       <pubDate>Fri, 28 Aug 2026 19:03:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>[practices] How cats.txt showed llms.txt evidence is GEO astrology</title>
+      <link>https://markwilliamscook.substack.com/p/how-catstxt-showed-llmstxt-evidence</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/suwcbt/how_cats_txt_showed_llms_txt_evidence_is"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/suwcbt</guid>
+      <pubDate>Fri, 28 Aug 2026 18:11:43 +0000</pubDate>
     </item>
     <item>
       <title>[distributed] How we saved 100 terabytes of memory by optimizing 1.1.1.1’s DNS cache</title>
