@@ -8,18 +8,18 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 16 Sep 2026 17:51:15 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 20:38:26 +0000</lastBuildDate>
     <item>
       <title>Salesforce Global Outage</title>
       <link>https://status.salesforce.com/products/all</link>
-      <description>232 points, 135 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49724488'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>250 points, 156 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49724488'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=49724488</guid>
       <pubDate>Wed, 16 Sep 2026 10:37:08 +0000</pubDate>
     </item>
     <item>
       <title>Prisma's pgbouncer=true on Supabase made every query 4 round-trips (postmortem)</title>
       <link>https://blog.simbastack.com/four-round-trips-six-months/</link>
-      <description>6 points, 4 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49711486'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>8 points, 10 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49711486'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=49711486</guid>
       <pubDate>Tue, 15 Sep 2026 12:24:59 +0000</pubDate>
     </item>
