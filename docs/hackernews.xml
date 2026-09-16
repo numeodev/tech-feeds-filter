@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 16 Sep 2026 02:22:28 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 08:03:49 +0000</lastBuildDate>
     <item>
       <title>Prisma's pgbouncer=true on Supabase made every query 4 round-trips (postmortem)</title>
       <link>https://blog.simbastack.com/four-round-trips-six-months/</link>
@@ -194,7 +194,7 @@
     <item>
       <title>Ask HN: Why were OpenAI, Claude, and Grok simultaneously down?</title>
       <link>https://news.ycombinator.com/item?id=49551096</link>
-      <description>404 points, 704 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49551096'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>404 points, 705 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49551096'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=49551096</guid>
       <pubDate>Thu, 03 Sep 2026 15:07:01 +0000</pubDate>
     </item>
@@ -253,13 +253,6 @@
       <description>28 points, 6 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49538195'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=49538195</guid>
       <pubDate>Wed, 02 Sep 2026 15:55:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>Findings Report on the July 8th Telstra Outage [pdf]</title>
-      <link>https://www.telstra.com.au/content/dam/tcom/dynamic-media-projects/luke-campbell/TAP-Findings-for-Telstra-Outage.pdf</link>
-      <description>5 points, 2 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49532522'&gt;discussion sur Hacker News&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49532522</guid>
-      <pubDate>Wed, 02 Sep 2026 06:36:15 +0000</pubDate>
     </item>
   </channel>
 </rss>
