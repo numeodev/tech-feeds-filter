@@ -8,7 +8,29 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 16 Sep 2026 13:52:44 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 17:51:16 +0000</lastBuildDate>
+    <item>
+      <title>[vcs] Gothub lists</title>
+      <link>https://gothub.org/lists.html</link>
+      <description>&lt;p&gt;Gothub got mailing lists.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://lobste.rs/s/wo4fuj/gothub_lists"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/wo4fuj</guid>
+      <pubDate>Wed, 16 Sep 2026 16:55:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>[vcs] Replacing Pull Requests with Delta</title>
+      <link>https://zed.dev/blog/delta-public-beta</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/c5xrht/replacing_pull_requests_with_delta"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/c5xrht</guid>
+      <pubDate>Wed, 16 Sep 2026 16:27:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>[distributed] comail - Cooperative email infrastructure for atproto</title>
+      <link>https://comail.at/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/oihovt/comail_cooperative_email"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/oihovt</guid>
+      <pubDate>Wed, 16 Sep 2026 15:48:13 +0000</pubDate>
+    </item>
     <item>
       <title>[security] Forgery of C2PA on a Pixel 10</title>
       <link>https://www.hackerfactor.com/blog/index.php?/archives/1102-C2PA-and-Pixel-Glitter-Milk.html</link>
@@ -743,27 +765,6 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/51xpm8/almost_consensus_abd_edges_quorum"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/51xpm8</guid>
       <pubDate>Fri, 07 Aug 2026 13:43:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>[distributed] Atproto for distributed systems engineers</title>
-      <link>https://atproto.com/articles/atproto-for-distsys-engineers</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/b3zq3g/atproto_for_distributed_systems"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/b3zq3g</guid>
-      <pubDate>Thu, 06 Aug 2026 22:37:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>[vcs] Radicle 1.10.0 – Sunflower</title>
-      <link>https://radicle.dev/2026/08/05/radicle-1.10.0.html</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ahuerd/radicle_1_10_0_sunflower"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/ahuerd</guid>
-      <pubDate>Thu, 06 Aug 2026 12:24:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>[vcs] jujutsu 0.44.0</title>
-      <link>https://github.com/jj-vcs/jj/releases/tag/v0.44.0</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/xx83dr/jujutsu_0_44_0"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/xx83dr</guid>
-      <pubDate>Thu, 06 Aug 2026 09:03:51 +0000</pubDate>
     </item>
     <item>
       <title>[devops] Infrastructure Gravity &amp; Domain Engineering</title>

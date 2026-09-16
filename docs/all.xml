@@ -8,7 +8,36 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 16 Sep 2026 13:52:44 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 17:51:16 +0000</lastBuildDate>
+    <item>
+      <title>[vcs] Gothub lists</title>
+      <link>https://gothub.org/lists.html</link>
+      <description>&lt;p&gt;Gothub got mailing lists.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://lobste.rs/s/wo4fuj/gothub_lists"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/wo4fuj</guid>
+      <pubDate>Wed, 16 Sep 2026 16:55:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>[vcs] Replacing Pull Requests with Delta</title>
+      <link>https://zed.dev/blog/delta-public-beta</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/c5xrht/replacing_pull_requests_with_delta"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/c5xrht</guid>
+      <pubDate>Wed, 16 Sep 2026 16:27:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>[r/sre] Vendor management at small companies, is it just "someone senior remembers"?</title>
+      <link>https://www.reddit.com/r/sre/comments/1wi1b78/vendor_management_at_small_companies_is_it_just/</link>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Specifically, I am talking about small companies where, generally, you won't have a procurement team, and individual teams own vendor management. How do you guys manage vendors?&lt;/p&gt; &lt;p&gt;In my previous stint, I was leading a small DevOps team at a smallish SaaS company, and over a period of a couple of months, we saw multiple issues stemming from software vendors. A blocked card caused payment failures across multiple vendors. A vendor dropped an email setting a deprecation timeline for an API, and we found out by chance at the last moment, causing a last minute scramble to move off the said API on our end. SaaS quota exhaustion brought down prod workflows multiple times.&lt;/p&gt; &lt;p&gt;None of these were vendor outages as such. These were all things we had been told about, or could have been, and we just did not catch them in time.&lt;/p&gt; &lt;p&gt;I am going down a bit of a rabbit hole trying to find the &amp;quot;best practices&amp;quot; around vendor management, if we can call it that?&lt;/p&gt; &lt;p&gt;How do you even handle this? Is there an actual practice here, or is it mostly &amp;quot;someone senior remembers,&amp;quot; or do we detect it after it fails?&lt;/p&gt; &lt;p&gt;Posted the same in &lt;a href="https://www.reddit.com/r/devops"&gt;r/devops&lt;/a&gt;, posting it here because some SRE team also own/manage vendor quotas.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/blind_organic_matter"&gt; /u/blind_organic_matter &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/r/sre/comments/1wi1b78/vendor_management_at_small_companies_is_it_just/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/sre/comments/1wi1b78/vendor_management_at_small_companies_is_it_just/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</description>
+      <guid isPermaLink="false">https://www.reddit.com/r/sre/t3_1wi1b78</guid>
+      <pubDate>Wed, 16 Sep 2026 16:00:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>[distributed] comail - Cooperative email infrastructure for atproto</title>
+      <link>https://comail.at/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/oihovt/comail_cooperative_email"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/oihovt</guid>
+      <pubDate>Wed, 16 Sep 2026 15:48:13 +0000</pubDate>
+    </item>
     <item>
       <title>[security] Forgery of C2PA on a Pixel 10</title>
       <link>https://www.hackerfactor.com/blog/index.php?/archives/1102-C2PA-and-Pixel-Glitter-Milk.html</link>
@@ -26,7 +55,7 @@
     <item>
       <title>Salesforce Global Outage</title>
       <link>https://status.salesforce.com/products/all</link>
-      <description>126 points, 58 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49724488'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>232 points, 135 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49724488'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=49724488</guid>
       <pubDate>Wed, 16 Sep 2026 10:37:08 +0000</pubDate>
     </item>
@@ -82,7 +111,7 @@
     <item>
       <title>Prisma's pgbouncer=true on Supabase made every query 4 round-trips (postmortem)</title>
       <link>https://blog.simbastack.com/four-round-trips-six-months/</link>
-      <description>3 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49711486'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>6 points, 4 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49711486'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=49711486</guid>
       <pubDate>Tue, 15 Sep 2026 12:24:59 +0000</pubDate>
     </item>
@@ -559,13 +588,6 @@
       <pubDate>Fri, 04 Sep 2026 12:39:32 +0000</pubDate>
     </item>
     <item>
-      <title>[r/sre] Improving agent reliability</title>
-      <link>https://www.reddit.com/r/sre/comments/1w722y4/improving_agent_reliability/</link>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;has anyone actually succeeded in using AI agents to reliably diagnose errors?&lt;/p&gt; &lt;p&gt;My manager and his manager has this ambitious goal (aka making me do all the work) of making our bot more reliable. &lt;/p&gt; &lt;p&gt;Some of the ambitious goals includes - accurately perform in depth root cause analysis for alerts and also having the ability to repeat past alerts to ensure our run book works.&lt;/p&gt; &lt;p&gt;I find it incredibly difficult, despite having a “structure” which is just giving the bot steps on what to do. It’s frustrating because the results highly depends on the model, testing diff models gave diff results easily. &lt;/p&gt; &lt;p&gt;This makes me really miss the actual engineering work instead of “hoping” the model listens to the run book this time.&lt;/p&gt; &lt;p&gt;Anyone else has any success stories to share?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/iPhone12-PRO"&gt; /u/iPhone12-PRO &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/r/sre/comments/1w722y4/improving_agent_reliability/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/sre/comments/1w722y4/improving_agent_reliability/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</description>
-      <guid isPermaLink="false">https://www.reddit.com/r/sre/t3_1w722y4</guid>
-      <pubDate>Fri, 04 Sep 2026 11:46:21 +0000</pubDate>
-    </item>
-    <item>
       <title>Ask HN: Is Microsoft 365 having an email outage?</title>
       <link>https://news.ycombinator.com/item?id=49563153</link>
       <description>2 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49563153'&gt;discussion sur Hacker News&lt;/a&gt;</description>
@@ -676,13 +698,6 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/zudpcb/jujutsu_0_45_0"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/zudpcb</guid>
       <pubDate>Thu, 03 Sep 2026 10:02:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>Show HN: Aura – a Rust agent that investigates and fixes production incidents</title>
-      <link>https://github.com/mezmo/aura</link>
-      <description>28 points, 6 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49538195'&gt;discussion sur Hacker News&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49538195</guid>
-      <pubDate>Wed, 02 Sep 2026 15:55:14 +0000</pubDate>
     </item>
     <item>
       <title>[distributed, practices] The pattern language of software architecture</title>
@@ -1016,27 +1031,6 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/51xpm8/almost_consensus_abd_edges_quorum"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/51xpm8</guid>
       <pubDate>Fri, 07 Aug 2026 13:43:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>[distributed] Atproto for distributed systems engineers</title>
-      <link>https://atproto.com/articles/atproto-for-distsys-engineers</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/b3zq3g/atproto_for_distributed_systems"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/b3zq3g</guid>
-      <pubDate>Thu, 06 Aug 2026 22:37:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>[vcs] Radicle 1.10.0 – Sunflower</title>
-      <link>https://radicle.dev/2026/08/05/radicle-1.10.0.html</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ahuerd/radicle_1_10_0_sunflower"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/ahuerd</guid>
-      <pubDate>Thu, 06 Aug 2026 12:24:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>[vcs] jujutsu 0.44.0</title>
-      <link>https://github.com/jj-vcs/jj/releases/tag/v0.44.0</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/xx83dr/jujutsu_0_44_0"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/xx83dr</guid>
-      <pubDate>Thu, 06 Aug 2026 09:03:51 +0000</pubDate>
     </item>
     <item>
       <title>[devops] Infrastructure Gravity &amp; Domain Engineering</title>
