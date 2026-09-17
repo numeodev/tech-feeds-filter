@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 16 Sep 2026 23:24:26 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 02:26:38 +0000</lastBuildDate>
+    <item>
+      <title>[practices] Don't DRY Your Code Prematurely (2024)</title>
+      <link>https://testing.googleblog.com/2024/05/dont-dry-your-code-prematurely.html</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/6udd9u/don_t_dry_your_code_prematurely_2024"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/6udd9u</guid>
+      <pubDate>Wed, 16 Sep 2026 23:40:06 +0000</pubDate>
+    </item>
     <item>
       <title>[vcs] Gothub lists</title>
       <link>https://gothub.org/lists.html</link>
@@ -481,13 +488,6 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/nbjo0i/creepy_crawlies"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/nbjo0i</guid>
       <pubDate>Sat, 29 Aug 2026 16:25:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>[practices] On 'scaling up' and being the right size</title>
-      <link>https://tzovar.as/scaling-up-and-on-being-the-right-size/</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/fdhkf3/on_scaling_up_being_right_size"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/fdhkf3</guid>
-      <pubDate>Sat, 29 Aug 2026 11:26:19 +0000</pubDate>
     </item>
     <item>
       <title>[distributed] Can Kafka Support Elastic Partitioning?</title>
