@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 17 Sep 2026 17:53:37 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 20:45:19 +0000</lastBuildDate>
+    <item>
+      <title>[security] Be alert: targeted attacks on prominent Rustaceans</title>
+      <link>https://blog.rust-lang.org/2026/09/17/targeted-attacks/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/uz30ed/be_alert_targeted_attacks_on_prominent"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/uz30ed</guid>
+      <pubDate>Thu, 17 Sep 2026 18:10:52 +0000</pubDate>
+    </item>
     <item>
       <title>Cursor is currently experiencing a major outage</title>
       <link>https://status.cursor.com</link>
@@ -481,13 +488,6 @@
       <description>3 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49609568'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=49609568</guid>
       <pubDate>Tue, 08 Sep 2026 12:43:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[security] I’ve factored the RSA keys of a Certificate Authority…from the 90s</title>
-      <link>https://mcpherrin.ca/2026/09/07/rsa.html</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/wl0mln/i_ve_factored_rsa_keys_certificate"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/wl0mln</guid>
-      <pubDate>Tue, 08 Sep 2026 04:05:34 +0000</pubDate>
     </item>
     <item>
       <title>DUPR (pickeball rating system) outage: 3rd day and no explanation</title>
