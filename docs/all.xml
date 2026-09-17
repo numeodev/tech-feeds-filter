@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 17 Sep 2026 08:10:10 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 13:56:37 +0000</lastBuildDate>
+    <item>
+      <title>[security] The skb that wasn't freed - the Fragnesia primitive via Open vSwitch</title>
+      <link>https://blog.doyensec.com/2026/09/17/ovs.html</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/q6f60y/skb_wasn_t_freed_fragnesia_primitive_via"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/q6f60y</guid>
+      <pubDate>Thu, 17 Sep 2026 08:39:34 +0000</pubDate>
+    </item>
     <item>
       <title>[devops] Backups aren't simple</title>
       <link>https://filipovski.net/2026/09/16/backups-arent-simple.html</link>
@@ -69,7 +76,7 @@
     <item>
       <title>Salesforce Global Outage</title>
       <link>https://status.salesforce.com/products/all</link>
-      <description>270 points, 177 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49724488'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>274 points, 181 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49724488'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=49724488</guid>
       <pubDate>Wed, 16 Sep 2026 10:37:08 +0000</pubDate>
     </item>
@@ -504,13 +511,6 @@
       <pubDate>Mon, 07 Sep 2026 17:00:06 +0000</pubDate>
     </item>
     <item>
-      <title>[security] Signing TLS handshakes inside a TPM</title>
-      <link>https://bschaatsbergen.com/posts/go-tpm-tls/</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/vospwq/signing_tls_handshakes_inside_tpm"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/vospwq</guid>
-      <pubDate>Mon, 07 Sep 2026 14:54:37 +0000</pubDate>
-    </item>
-    <item>
       <title>[devops] The Life of a Metric</title>
       <link>https://victoriametrics.com/blog/the-life-of-a-metric/</link>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/hwzvik/life_metric"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
@@ -677,34 +677,6 @@
       <description>362 points, 319 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49550614'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=49550614</guid>
       <pubDate>Thu, 03 Sep 2026 14:46:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ask HN: Is SpaceXAI taking Claude down too?</title>
-      <link>https://news.ycombinator.com/item?id=49549795</link>
-      <description>6 points, 2 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49549795'&gt;discussion sur Hacker News&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49549795</guid>
-      <pubDate>Thu, 03 Sep 2026 13:38:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>Claude outage – Resolved</title>
-      <link>https://status.claude.com/incidents/461yvfrzpwtt</link>
-      <description>205 points, 151 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49549676'&gt;discussion sur Hacker News&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49549676</guid>
-      <pubDate>Thu, 03 Sep 2026 13:29:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Telstra: What we've learned from the external investigation of our July outage</title>
-      <link>https://www.telstra.com.au/exchange/what-we-ve-learned-from-the-external-investigation-of-our-july-o</link>
-      <description>4 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49549656'&gt;discussion sur Hacker News&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49549656</guid>
-      <pubDate>Thu, 03 Sep 2026 13:27:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>Buildkite Outage Postmortem</title>
-      <link>https://www.buildkitestatus.com/incidents/tm6746k61p73</link>
-      <description>1 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49548153'&gt;discussion sur Hacker News&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49548153</guid>
-      <pubDate>Thu, 03 Sep 2026 10:18:27 +0000</pubDate>
     </item>
     <item>
       <title>[vcs] jujutsu 0.45.0</title>
