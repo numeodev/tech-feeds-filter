@@ -8,7 +8,21 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 17 Sep 2026 13:56:37 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 17:53:37 +0000</lastBuildDate>
+    <item>
+      <title>Cursor is currently experiencing a major outage</title>
+      <link>https://status.cursor.com</link>
+      <description>3 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49743871'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49743871</guid>
+      <pubDate>Thu, 17 Sep 2026 17:26:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>Show HN: Pingularity – scheduled Ookla/iperf3 speedtest dashboard, outage alerts</title>
+      <link>https://pingularity.dev/</link>
+      <description>1 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49741059'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49741059</guid>
+      <pubDate>Thu, 17 Sep 2026 14:12:07 +0000</pubDate>
+    </item>
     <item>
       <title>[security] The skb that wasn't freed - the Fragnesia primitive via Open vSwitch</title>
       <link>https://blog.doyensec.com/2026/09/17/ovs.html</link>
@@ -76,7 +90,7 @@
     <item>
       <title>Salesforce Global Outage</title>
       <link>https://status.salesforce.com/products/all</link>
-      <description>274 points, 181 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49724488'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>275 points, 181 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49724488'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=49724488</guid>
       <pubDate>Wed, 16 Sep 2026 10:37:08 +0000</pubDate>
     </item>
@@ -469,13 +483,6 @@
       <pubDate>Tue, 08 Sep 2026 12:43:00 +0000</pubDate>
     </item>
     <item>
-      <title>Property Graph Queries reverted from Postgres 19 after third beta</title>
-      <link>https://git.postgresql.org/gitweb/?p=postgresql.git;a=commit;h=b1f106c80cbeb18d3a0219994d98a51a6eca8ede</link>
-      <description>3 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49608213'&gt;discussion sur Hacker News&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49608213</guid>
-      <pubDate>Tue, 08 Sep 2026 10:12:23 +0000</pubDate>
-    </item>
-    <item>
       <title>[security] I’ve factored the RSA keys of a Certificate Authority…from the 90s</title>
       <link>https://mcpherrin.ca/2026/09/07/rsa.html</link>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/wl0mln/i_ve_factored_rsa_keys_certificate"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
@@ -635,48 +642,6 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/entcaa/simple_is_not_small"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/entcaa</guid>
       <pubDate>Thu, 03 Sep 2026 21:24:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>DTE Energy outage map, any connection to today's AI provider outages?</title>
-      <link>https://outage.dteenergy.com/</link>
-      <description>2 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49551982'&gt;discussion sur Hacker News&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49551982</guid>
-      <pubDate>Thu, 03 Sep 2026 15:48:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>Grok outage</title>
-      <link>https://status.x.ai/</link>
-      <description>161 points, 159 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49551589'&gt;discussion sur Hacker News&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49551589</guid>
-      <pubDate>Thu, 03 Sep 2026 15:26:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ask HN: Why were OpenAI, Claude, and Grok simultaneously down?</title>
-      <link>https://news.ycombinator.com/item?id=49551096</link>
-      <description>404 points, 705 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49551096'&gt;discussion sur Hacker News&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49551096</guid>
-      <pubDate>Thu, 03 Sep 2026 15:07:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Grok Models Outage</title>
-      <link>https://status.x.ai/grok-com/INC25664c15</link>
-      <description>4 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49550959'&gt;discussion sur Hacker News&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49550959</guid>
-      <pubDate>Thu, 03 Sep 2026 15:02:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Codex outage</title>
-      <link>https://github.com/openai/codex/issues/28756</link>
-      <description>102 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49550769'&gt;discussion sur Hacker News&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49550769</guid>
-      <pubDate>Thu, 03 Sep 2026 14:54:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>ChatGPT outage – Resolved</title>
-      <link>https://chatgpt.com/</link>
-      <description>362 points, 319 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49550614'&gt;discussion sur Hacker News&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49550614</guid>
-      <pubDate>Thu, 03 Sep 2026 14:46:47 +0000</pubDate>
     </item>
     <item>
       <title>[vcs] jujutsu 0.45.0</title>
