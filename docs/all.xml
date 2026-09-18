@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 18 Sep 2026 16:48:55 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 19:18:31 +0000</lastBuildDate>
     <item>
       <title>[devops] awesome-tunneling: List of tunneling software and services</title>
       <link>https://github.com/anderspitman/awesome-tunneling</link>
@@ -160,7 +160,7 @@
     <item>
       <title>Salesforce Global Outage</title>
       <link>https://status.salesforce.com/products/all</link>
-      <description>278 points, 183 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49724488'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>279 points, 183 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49724488'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=49724488</guid>
       <pubDate>Wed, 16 Sep 2026 10:37:08 +0000</pubDate>
     </item>
@@ -635,13 +635,6 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/j2hxnq/git_submodules_as_package_manager"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/j2hxnq</guid>
       <pubDate>Sat, 05 Sep 2026 06:20:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>Nobody is saying why OpenAI and Anthropic had outages</title>
-      <link>https://www.wired.com/story/nobody-is-saying-why-openai-and-anthropic-had-outages-today/</link>
-      <description>207 points, 4 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49567594'&gt;discussion sur Hacker News&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49567594</guid>
-      <pubDate>Fri, 04 Sep 2026 17:29:22 +0000</pubDate>
     </item>
     <item>
       <title>[practices] Performance Engineering on Hard Mode</title>

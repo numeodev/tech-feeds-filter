@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 18 Sep 2026 16:48:53 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 19:18:30 +0000</lastBuildDate>
     <item>
       <title>Salesforce tracing without debug logs: every trigger, field write, and rollback</title>
       <link>https://www.fidelic.dev/blog/your-request-did-something-here-is-the-receipt/</link>
@@ -40,7 +40,7 @@
     <item>
       <title>Salesforce Global Outage</title>
       <link>https://status.salesforce.com/products/all</link>
-      <description>278 points, 183 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49724488'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>279 points, 183 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49724488'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=49724488</guid>
       <pubDate>Wed, 16 Sep 2026 10:37:08 +0000</pubDate>
     </item>
@@ -169,13 +169,6 @@
       <description>1 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49582793'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=49582793</guid>
       <pubDate>Sun, 06 Sep 2026 02:40:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>Nobody is saying why OpenAI and Anthropic had outages</title>
-      <link>https://www.wired.com/story/nobody-is-saying-why-openai-and-anthropic-had-outages-today/</link>
-      <description>207 points, 4 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49567594'&gt;discussion sur Hacker News&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49567594</guid>
-      <pubDate>Fri, 04 Sep 2026 17:29:22 +0000</pubDate>
     </item>
   </channel>
 </rss>
