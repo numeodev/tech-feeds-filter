@@ -8,7 +8,21 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 18 Sep 2026 19:18:31 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 22:04:03 +0000</lastBuildDate>
+    <item>
+      <title>[practices] Vale, code-like linting for prose</title>
+      <link>https://vale.sh</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/anvcfz/vale_code_like_linting_for_prose"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/anvcfz</guid>
+      <pubDate>Fri, 18 Sep 2026 20:38:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>[security] sudo and OpenDoas timestamp files (2020)</title>
+      <link>https://π.duncano.de/sudo-doas-timestamp-files</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/9njxl2/sudo_opendoas_timestamp_files_2020"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/9njxl2</guid>
+      <pubDate>Fri, 18 Sep 2026 19:36:19 +0000</pubDate>
+    </item>
     <item>
       <title>[devops] awesome-tunneling: List of tunneling software and services</title>
       <link>https://github.com/anderspitman/awesome-tunneling</link>
@@ -61,7 +75,7 @@
     <item>
       <title>Telstra outage: The night a network decided the year was 2006</title>
       <link>https://www.netnod.se/blog/telstra-outage-night-network-decided-year-was-2006</link>
-      <description>84 points, 32 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49748957'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>87 points, 32 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49748957'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=49748957</guid>
       <pubDate>Fri, 18 Sep 2026 01:05:03 +0000</pubDate>
     </item>
@@ -160,7 +174,7 @@
     <item>
       <title>Salesforce Global Outage</title>
       <link>https://status.salesforce.com/products/all</link>
-      <description>279 points, 183 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49724488'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>279 points, 182 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49724488'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=49724488</guid>
       <pubDate>Wed, 16 Sep 2026 10:37:08 +0000</pubDate>
     </item>
@@ -462,13 +476,6 @@
       <pubDate>Thu, 10 Sep 2026 14:59:03 +0000</pubDate>
     </item>
     <item>
-      <title>[security] Package Manager Trends</title>
-      <link>https://nesbitt.io/2026/09/10/package-manager-trends.html</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/qwbyxh/package_manager_trends"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/qwbyxh</guid>
-      <pubDate>Thu, 10 Sep 2026 12:30:44 +0000</pubDate>
-    </item>
-    <item>
       <title>[practices] Knowledge Retention &amp; Sharing in DF/IR</title>
       <link>http://windowsir.blogspot.com/2026/09/knowledge-retention-sharing-in-dfir.html</link>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/hdgysn/knowledge_retention_sharing_df_ir"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
@@ -684,13 +691,6 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/kgtvxb/essence_architectural_work_part_6"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/kgtvxb</guid>
       <pubDate>Sun, 30 Aug 2026 10:10:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>[practices] Bug blindness</title>
-      <link>https://danluu.com/bug-blind/</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/n1jlxt/bug_blindness"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/n1jlxt</guid>
-      <pubDate>Sun, 30 Aug 2026 01:34:27 +0000</pubDate>
     </item>
     <item>
       <title>[distributed] Omnipresent availability risks in cloud software</title>
