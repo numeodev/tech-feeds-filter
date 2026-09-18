@@ -8,11 +8,11 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 18 Sep 2026 07:44:57 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 12:29:19 +0000</lastBuildDate>
     <item>
       <title>Telstra outage: The night a network decided the year was 2006</title>
       <link>https://www.netnod.se/blog/telstra-outage-night-network-decided-year-was-2006</link>
-      <description>46 points, 19 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49748957'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>69 points, 29 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49748957'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=49748957</guid>
       <pubDate>Fri, 18 Sep 2026 01:05:03 +0000</pubDate>
     </item>
@@ -33,7 +33,7 @@
     <item>
       <title>Salesforce Global Outage</title>
       <link>https://status.salesforce.com/products/all</link>
-      <description>277 points, 183 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49724488'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>278 points, 183 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49724488'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=49724488</guid>
       <pubDate>Wed, 16 Sep 2026 10:37:08 +0000</pubDate>
     </item>
@@ -169,13 +169,6 @@
       <description>207 points, 4 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49567594'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=49567594</guid>
       <pubDate>Fri, 04 Sep 2026 17:29:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ask HN: Is Microsoft 365 having an email outage?</title>
-      <link>https://news.ycombinator.com/item?id=49563153</link>
-      <description>2 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49563153'&gt;discussion sur Hacker News&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49563153</guid>
-      <pubDate>Fri, 04 Sep 2026 11:30:24 +0000</pubDate>
     </item>
   </channel>
 </rss>

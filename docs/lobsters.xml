@@ -8,7 +8,28 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 18 Sep 2026 07:44:58 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 12:29:20 +0000</lastBuildDate>
+    <item>
+      <title>[security] Hacking OpenAI</title>
+      <link>https://www.hacktron.ai/blog/hacking-openai</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/htziuj/hacking_openai"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/htziuj</guid>
+      <pubDate>Fri, 18 Sep 2026 10:26:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>[security] Not In My Git Yard: Catching Backdoors at Commit and Release Time</title>
+      <link>https://arxiv.org/abs/2607.26719</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/tvrnbv/not_my_git_yard_catching_backdoors_at"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/tvrnbv</guid>
+      <pubDate>Fri, 18 Sep 2026 08:14:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>[security] A quartet of Linux local root vulns: DirtyAH6, PPPoEject, TUNderflow, and DiagSpill</title>
+      <link>https://seclists.org/oss-sec/2026/q3/822</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/7d3zs8/quartet_linux_local_root_vulns_dirtyah6"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/7d3zs8</guid>
+      <pubDate>Fri, 18 Sep 2026 07:57:04 +0000</pubDate>
+    </item>
     <item>
       <title>[security] Flock cameras are riddled with security vulnerabilities and hard-coded credentials</title>
       <link>https://micahflee.com/flock-cameras-are-riddled-with-security-vulnerabilities-and-hard-coded-credentials/</link>
@@ -320,27 +341,6 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/llyiig/absolutely_everything_you_always_wanted"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/llyiig</guid>
       <pubDate>Thu, 10 Sep 2026 08:15:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>[security] An alignment assessment of recent cybersecurity incidents</title>
-      <link>https://www.anthropic.com/research/alignment-assessment-cybersecurity-incidents</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/xokuhi/alignment_assessment_recent"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/xokuhi</guid>
-      <pubDate>Wed, 09 Sep 2026 20:54:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>[security] Bulk AbuseIPDB reporting using command-line tools</title>
-      <link>https://blog.mbirth.uk/2026/08/30/bulk-abuseipdb-reporting-using-command-line-tools.html</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/vjds7h/bulk_abuseipdb_reporting_using_command"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/vjds7h</guid>
-      <pubDate>Wed, 09 Sep 2026 20:26:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>[security] Why Johnny Can't Encrypt: A Usability Evaluation of PGP 5.0 (1999)</title>
-      <link>https://www.usenix.org/legacy/events/sec99/full_papers/whitten/whitten_html/index.html</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ojyeqg/why_johnny_can_t_encrypt_usability"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/ojyeqg</guid>
-      <pubDate>Wed, 09 Sep 2026 06:47:58 +0000</pubDate>
     </item>
     <item>
       <title>[practices] Switching Password Managers in 2026</title>

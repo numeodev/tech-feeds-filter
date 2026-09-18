@@ -8,11 +8,32 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 18 Sep 2026 07:44:58 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 12:29:20 +0000</lastBuildDate>
+    <item>
+      <title>[security] Hacking OpenAI</title>
+      <link>https://www.hacktron.ai/blog/hacking-openai</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/htziuj/hacking_openai"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/htziuj</guid>
+      <pubDate>Fri, 18 Sep 2026 10:26:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>[security] Not In My Git Yard: Catching Backdoors at Commit and Release Time</title>
+      <link>https://arxiv.org/abs/2607.26719</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/tvrnbv/not_my_git_yard_catching_backdoors_at"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/tvrnbv</guid>
+      <pubDate>Fri, 18 Sep 2026 08:14:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>[security] A quartet of Linux local root vulns: DirtyAH6, PPPoEject, TUNderflow, and DiagSpill</title>
+      <link>https://seclists.org/oss-sec/2026/q3/822</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/7d3zs8/quartet_linux_local_root_vulns_dirtyah6"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/7d3zs8</guid>
+      <pubDate>Fri, 18 Sep 2026 07:57:04 +0000</pubDate>
+    </item>
     <item>
       <title>Telstra outage: The night a network decided the year was 2006</title>
       <link>https://www.netnod.se/blog/telstra-outage-night-network-decided-year-was-2006</link>
-      <description>46 points, 19 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49748957'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>69 points, 29 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49748957'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=49748957</guid>
       <pubDate>Fri, 18 Sep 2026 01:05:03 +0000</pubDate>
     </item>
@@ -111,7 +132,7 @@
     <item>
       <title>Salesforce Global Outage</title>
       <link>https://status.salesforce.com/products/all</link>
-      <description>277 points, 183 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49724488'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>278 points, 183 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49724488'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=49724488</guid>
       <pubDate>Wed, 16 Sep 2026 10:37:08 +0000</pubDate>
     </item>
@@ -448,20 +469,6 @@
       <pubDate>Thu, 10 Sep 2026 00:33:27 +0000</pubDate>
     </item>
     <item>
-      <title>[security] An alignment assessment of recent cybersecurity incidents</title>
-      <link>https://www.anthropic.com/research/alignment-assessment-cybersecurity-incidents</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/xokuhi/alignment_assessment_recent"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/xokuhi</guid>
-      <pubDate>Wed, 09 Sep 2026 20:54:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>[security] Bulk AbuseIPDB reporting using command-line tools</title>
-      <link>https://blog.mbirth.uk/2026/08/30/bulk-abuseipdb-reporting-using-command-line-tools.html</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/vjds7h/bulk_abuseipdb_reporting_using_command"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/vjds7h</guid>
-      <pubDate>Wed, 09 Sep 2026 20:26:56 +0000</pubDate>
-    </item>
-    <item>
       <title>[r/sre] Supabase's fix for one incident caused their next one, and the original is still open after 25 days</title>
       <link>https://www.reddit.com/r/sre/comments/1wbx7wz/supabases_fix_for_one_incident_caused_their_next/</link>
       <description>&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;On August 14 Supabase opened an incident regarding some projects returning 401 errors for valid JWTs, and as stated in yesterdays update the issue has still not been resolved, it has been 25 days.&lt;/p&gt; &lt;p&gt;The fix (PostgREST 14.17) failed to eliminate the JWT rejections and instead caused 'unintended performance side effects', so they reverted back to 14.5. This revert in itself turned into a separate incident that lasted four days, with elevated latency and 525s from August 27 to 31, a situation which Supabase linked to the original incident. The root cause was identified on September 2 which was a stale time cache. During that same period there were two instances of GLIBC version mismatches, eight days apart (missing 2.34 on August 20 and missing 2.33 for supautils on August 28), and six further incidents between August 26 and September 4, one of which was an approximately eight-hour freeze affecting all project lifecycle operations.&lt;/p&gt; &lt;p&gt;Credit to them for explicitly linking the incident to the fix and for stating that the fix had failed rather than suppressing it. Most status pages would have simply divided those entries leaving customers without any proper understanding.&lt;/p&gt; &lt;p&gt;Their status page for reference: &lt;a href="https://status.supabase.com/incidents/6q5902p2xd9f"&gt;https://status.supabase.com/incidents/6q5902p2xd9f&lt;/a&gt;&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/jj_at_rootly"&gt; /u/jj_at_rootly &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/r/sre/comments/1wbx7wz/supabases_fix_for_one_incident_caused_their_next/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/sre/comments/1wbx7wz/supabases_fix_for_one_incident_caused_their_next/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</description>
@@ -481,13 +488,6 @@
       <description>11 points, 8 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49625975'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=49625975</guid>
       <pubDate>Wed, 09 Sep 2026 13:10:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>[security] Why Johnny Can't Encrypt: A Usability Evaluation of PGP 5.0 (1999)</title>
-      <link>https://www.usenix.org/legacy/events/sec99/full_papers/whitten/whitten_html/index.html</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ojyeqg/why_johnny_can_t_encrypt_usability"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/ojyeqg</guid>
-      <pubDate>Wed, 09 Sep 2026 06:47:58 +0000</pubDate>
     </item>
     <item>
       <title>[practices] Switching Password Managers in 2026</title>
@@ -621,13 +621,6 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/8hsckf/performance_engineering_on_hard_mode"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/8hsckf</guid>
       <pubDate>Fri, 04 Sep 2026 12:39:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ask HN: Is Microsoft 365 having an email outage?</title>
-      <link>https://news.ycombinator.com/item?id=49563153</link>
-      <description>2 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49563153'&gt;discussion sur Hacker News&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49563153</guid>
-      <pubDate>Fri, 04 Sep 2026 11:30:24 +0000</pubDate>
     </item>
     <item>
       <title>[practices] simple is not small</title>
