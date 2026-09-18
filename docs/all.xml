@@ -8,7 +8,35 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 18 Sep 2026 12:29:20 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 16:48:55 +0000</lastBuildDate>
+    <item>
+      <title>[devops] awesome-tunneling: List of tunneling software and services</title>
+      <link>https://github.com/anderspitman/awesome-tunneling</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/myuake/awesome_tunneling_list_tunneling"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/myuake</guid>
+      <pubDate>Fri, 18 Sep 2026 16:25:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>Salesforce tracing without debug logs: every trigger, field write, and rollback</title>
+      <link>https://www.fidelic.dev/blog/your-request-did-something-here-is-the-receipt/</link>
+      <description>1 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49756146'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49756146</guid>
+      <pubDate>Fri, 18 Sep 2026 15:48:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>[r/sre] Salesforce's trust log for Wednesday is way more interesting than the irony of them being down during Dreamforce. It shows three root cause theories in 68 minutes and an impact radius revised downward six hours in.</title>
+      <link>https://www.reddit.com/r/sre/comments/1wjpm88/salesforces_trust_log_for_wednesday_is_way_more/</link>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;The trust log for incident 20004433 maintained by Salesforce includes three different causal explanations within 68 minutes.&lt;/p&gt; &lt;p&gt;At 09:10 UTC, the requests for the internal login service are slowing down because the service is consuming the available server resources. At 09:57, they think that the problem is due to a failure of an external dependency affecting the legacy login server; in order to address it, they block an API endpoint, get in touch with their third-party infrastructure provider, and at the same time assign no blame to that provider. By 10:01 they have given up on using restarts as a way of solving the issue. At 10:18 one of their main system components saw an increase in load.&lt;/p&gt; &lt;p&gt;Hypotheses being abandoned in public is what the diagnostic process really amounts to, and it is the first point most incident communications omit.&lt;/p&gt; &lt;p&gt;The incident lifecycle was then managed by the remediation process, with the fix being validated on a single test instance at 10:56, a fleetwide rollout taking place at 11:19, and by 13:13 the rollout had not fully completed for several instances. Customers were instructed to reapply the fix, perform manual restarts, and clear their cached data.&lt;/p&gt; &lt;p&gt;The record shows 912 cases, 596 of them being production cases and 316 sandbox cases, involving 18 countries. The press reports mentioned hundreds. When it was 14:00, they realised that the impact radius was narrower than had originally been thought and began removing the instances from the incident. However, six hours later they had not yet determined which of their own fleet had been affected.&lt;/p&gt; &lt;p&gt;Their strengths consisted in carrying out 25 updates at a cadence of nearly 30 minutes, the impact being brought to an end at 15:26 while the resolved declaration was kept until 18:59. There was three and a half hours' worth of validation, this comprising the investigation of a single isolated customer report. Most of the vendors combine the times for mitigated and resolved.&lt;/p&gt; &lt;p&gt;The most widely reported outage of the year, and the statement concerning a legacy login service causing a fleet of 900 instances to stall was published only once, at 09:57, and no one quoted it.&lt;/p&gt; &lt;p&gt;PS: It's really nice to see them using 'impact radius' and not 'blast radius'.&lt;/p&gt; &lt;p&gt;&lt;a href="https://status.salesforce.com/incidents/20004433"&gt;https://status.salesforce.com/incidents/20004433&lt;/a&gt;&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/jj_at_rootly"&gt; /u/jj_at_rootly &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/r/sre/comments/1wjpm88/salesforces_trust_log_for_wednesday_is_way_more/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/sre/comments/1wjpm88/salesforces_trust_log_for_wednesday_is_way_more/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</description>
+      <guid isPermaLink="false">https://www.reddit.com/r/sre/t3_1wjpm88</guid>
+      <pubDate>Fri, 18 Sep 2026 13:02:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>[security] I don't like passkeys</title>
+      <link>https://hawksley.dev/blog/i-dont-like-passkeys</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/4a7qly/i_don_t_like_passkeys"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/4a7qly</guid>
+      <pubDate>Fri, 18 Sep 2026 12:52:18 +0000</pubDate>
+    </item>
     <item>
       <title>[security] Hacking OpenAI</title>
       <link>https://www.hacktron.ai/blog/hacking-openai</link>
@@ -33,7 +61,7 @@
     <item>
       <title>Telstra outage: The night a network decided the year was 2006</title>
       <link>https://www.netnod.se/blog/telstra-outage-night-network-decided-year-was-2006</link>
-      <description>69 points, 29 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49748957'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>84 points, 32 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49748957'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=49748957</guid>
       <pubDate>Fri, 18 Sep 2026 01:05:03 +0000</pubDate>
     </item>
@@ -441,7 +469,7 @@
       <pubDate>Thu, 10 Sep 2026 12:30:44 +0000</pubDate>
     </item>
     <item>
-      <title>[practices, security] Knowledge Retention &amp; Sharing in DF/IR</title>
+      <title>[practices] Knowledge Retention &amp; Sharing in DF/IR</title>
       <link>http://windowsir.blogspot.com/2026/09/knowledge-retention-sharing-in-dfir.html</link>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/hdgysn/knowledge_retention_sharing_df_ir"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/hdgysn</guid>
@@ -1041,13 +1069,6 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/6fmohi/package_management_as_org_chart"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/6fmohi</guid>
       <pubDate>Fri, 10 Jul 2026 19:12:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>[devops] A batch job, in The Elm Architecture</title>
-      <link>https://cekrem.github.io/posts/elm-run-batch-job/</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ykabry/batch_job_elm_architecture"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/ykabry</guid>
-      <pubDate>Thu, 09 Jul 2026 18:31:39 +0000</pubDate>
     </item>
   </channel>
 </rss>

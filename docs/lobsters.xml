@@ -8,7 +8,21 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 18 Sep 2026 12:29:20 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 16:48:55 +0000</lastBuildDate>
+    <item>
+      <title>[devops] awesome-tunneling: List of tunneling software and services</title>
+      <link>https://github.com/anderspitman/awesome-tunneling</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/myuake/awesome_tunneling_list_tunneling"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/myuake</guid>
+      <pubDate>Fri, 18 Sep 2026 16:25:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>[security] I don't like passkeys</title>
+      <link>https://hawksley.dev/blog/i-dont-like-passkeys</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/4a7qly/i_don_t_like_passkeys"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/4a7qly</guid>
+      <pubDate>Fri, 18 Sep 2026 12:52:18 +0000</pubDate>
+    </item>
     <item>
       <title>[security] Hacking OpenAI</title>
       <link>https://www.hacktron.ai/blog/hacking-openai</link>
@@ -329,7 +343,7 @@
       <pubDate>Thu, 10 Sep 2026 12:30:44 +0000</pubDate>
     </item>
     <item>
-      <title>[practices, security] Knowledge Retention &amp; Sharing in DF/IR</title>
+      <title>[practices] Knowledge Retention &amp; Sharing in DF/IR</title>
       <link>http://windowsir.blogspot.com/2026/09/knowledge-retention-sharing-in-dfir.html</link>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/hdgysn/knowledge_retention_sharing_df_ir"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/hdgysn</guid>
@@ -859,13 +873,6 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/6fmohi/package_management_as_org_chart"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/6fmohi</guid>
       <pubDate>Fri, 10 Jul 2026 19:12:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>[devops] A batch job, in The Elm Architecture</title>
-      <link>https://cekrem.github.io/posts/elm-run-batch-job/</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ykabry/batch_job_elm_architecture"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/ykabry</guid>
-      <pubDate>Thu, 09 Jul 2026 18:31:39 +0000</pubDate>
     </item>
   </channel>
 </rss>
