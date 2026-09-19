@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 19 Sep 2026 21:56:08 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 23:48:57 +0000</lastBuildDate>
+    <item>
+      <title>[security] ZK-JPEG: Zero-knowledge Image Editing and Compression</title>
+      <link>https://eprint.iacr.org/2026/2039</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/cvqxkk/zk_jpeg_zero_knowledge_image_editing"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/cvqxkk</guid>
+      <pubDate>Sat, 19 Sep 2026 23:38:01 +0000</pubDate>
+    </item>
     <item>
       <title>[security] we have a year to fix security everywhere</title>
       <link>https://jyn.dev/a-year-to-fix-security/</link>
@@ -342,13 +349,6 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ez6ivp/what_comes_after_git"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/ez6ivp</guid>
       <pubDate>Thu, 10 Sep 2026 17:44:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>[security] Forgejo 16.0.4 has a critical security bug fix (RCE - Remote Code Execution)</title>
-      <link>https://codeberg.org/forgejo/forgejo/src/branch/forgejo/release-notes-published/16.0.4.md</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/b3cqyr/forgejo_16_0_4_has_critical_security_bug"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/b3cqyr</guid>
-      <pubDate>Thu, 10 Sep 2026 17:40:19 +0000</pubDate>
     </item>
     <item>
       <title>[vcs] Conversations with JJ</title>
