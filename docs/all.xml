@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 19 Sep 2026 19:04:53 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 21:56:08 +0000</lastBuildDate>
+    <item>
+      <title>[security] we have a year to fix security everywhere</title>
+      <link>https://jyn.dev/a-year-to-fix-security/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/re9wk8/we_have_year_fix_security_everywhere"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/re9wk8</guid>
+      <pubDate>Sat, 19 Sep 2026 19:27:46 +0000</pubDate>
+    </item>
     <item>
       <title>[devops, security] Secure VMs for Kubernetes: Hardening Kata containers</title>
       <link>https://srcreigh.ca/posts/auditable-kata/</link>
@@ -489,13 +496,6 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/nbmbxj/conversations_with_jj"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/nbmbxj</guid>
       <pubDate>Thu, 10 Sep 2026 16:48:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>[security] Making Social Media Social</title>
-      <link>https://tante.cc/2026/09/10/making-social-media-social/</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/39c9xe/making_social_media_social"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/39c9xe</guid>
-      <pubDate>Thu, 10 Sep 2026 16:30:14 +0000</pubDate>
     </item>
     <item>
       <title>[practices] Knowledge Retention &amp; Sharing in DF/IR</title>
