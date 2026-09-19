@@ -8,7 +8,22 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 19 Sep 2026 05:17:31 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 09:57:43 +0000</lastBuildDate>
+    <item>
+      <title>[practices] Write while learning</title>
+      <link>https://purplesyringa.moe/blog/write-while-learning/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ukzxid/write_while_learning"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/ukzxid</guid>
+      <pubDate>Sat, 19 Sep 2026 06:56:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>[security] The Implications of Linguistic Illegibility for LLM Security</title>
+      <link>https://arxiv.org/abs/2609.02852</link>
+      <description>&lt;p&gt;LLMs are trained to generate natural language. However, various strands of evidence indicate that an LLM's externalized linguistic outputs and mechanistically-extracted linguistic features can be an unreliable lens for understanding internal model computation. We introduce the term &lt;em&gt;linguistic illegibility&lt;/em&gt; to broadly refer to scenarios in which an LLM's externalized or mechanistically-probed language artifacts fail to represent how the model actually thinks. We argue that the specter of linguistic illegibility is unavoidable for LLMs whose internal computations are not directly expressed via language, but rather math over activation spaces (with lossy translations between activation spaces and natural language happening at the bookends). If linguistic illegibility is always possible, then security mechanisms that rely on a model's linguistic self-reporting (e.g., chain-of-thought monitoring, constitutional self-critique, activation probing for linguistically-defined feature vectors) can never be completely sound; the model sandbox will always need isolation techniques whose guarantees do not depend on reading a model's linguistic state at all. We argue that observing a model's outputs using taint tracking is a promising approach for an effective sandbox: regardless of how a model linguistically self-reports, a taint tracking policy can define, a priori, various pieces of system state that should never be influenced by model-produced data. We also discuss several additional sandboxing mechanisms (e.g., robust virtualization, third-party auditing of sandboxing configurations) which collectively provide a critical floor beneath linguistic monitoring, and would have mitigated recent sandbox exploits by frontier models.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://lobste.rs/s/bkjmjg/implications_linguistic_illegibility"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/bkjmjg</guid>
+      <pubDate>Sat, 19 Sep 2026 05:34:15 +0000</pubDate>
+    </item>
     <item>
       <title>[practices] Vale, code-like linting for prose</title>
       <link>https://vale.sh</link>
@@ -343,13 +358,6 @@
       <pubDate>Thu, 10 Sep 2026 15:14:48 +0000</pubDate>
     </item>
     <item>
-      <title>[security] How CHERIoT Provides Strong and Usable Isolation Without an MMU</title>
-      <link>https://queue.acm.org/doi/10.1145/3831361</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/gtvx0w/how_cheriot_provides_strong_usable"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/gtvx0w</guid>
-      <pubDate>Thu, 10 Sep 2026 14:59:03 +0000</pubDate>
-    </item>
-    <item>
       <title>[practices] Knowledge Retention &amp; Sharing in DF/IR</title>
       <link>http://windowsir.blogspot.com/2026/09/knowledge-retention-sharing-in-dfir.html</link>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/hdgysn/knowledge_retention_sharing_df_ir"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
@@ -495,13 +503,6 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/gtarrm/all_little_things_2014"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/gtarrm</guid>
       <pubDate>Mon, 31 Aug 2026 01:22:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>[practices] The essence of architectural work - Part 6</title>
-      <link>https://www.ufried.com/blog/essence_of_architecture_6/</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/kgtvxb/essence_architectural_work_part_6"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/kgtvxb</guid>
-      <pubDate>Sun, 30 Aug 2026 10:10:57 +0000</pubDate>
     </item>
     <item>
       <title>[distributed] Omnipresent availability risks in cloud software</title>

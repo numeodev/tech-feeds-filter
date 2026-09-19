@@ -8,7 +8,21 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 19 Sep 2026 05:17:29 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 09:57:42 +0000</lastBuildDate>
+    <item>
+      <title>UK air traffic control outage caused by software defect, says operator</title>
+      <link>https://www.reuters.com/world/uk/uk-air-traffic-control-outage-caused-by-software-defect-says-operator-2026-09-18/</link>
+      <description>8 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49764036'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49764036</guid>
+      <pubDate>Sat, 19 Sep 2026 06:53:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hi HN</title>
+      <link>https://news.ycombinator.com/item?id=49762956</link>
+      <description>1 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49762956'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49762956</guid>
+      <pubDate>Sat, 19 Sep 2026 03:15:47 +0000</pubDate>
+    </item>
     <item>
       <title>Salesforce tracing without debug logs: every trigger, field write, and rollback</title>
       <link>https://www.fidelic.dev/blog/your-request-did-something-here-is-the-receipt/</link>
@@ -19,7 +33,7 @@
     <item>
       <title>Telstra outage: The night a network decided the year was 2006</title>
       <link>https://www.netnod.se/blog/telstra-outage-night-network-decided-year-was-2006</link>
-      <description>89 points, 32 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49748957'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>89 points, 33 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49748957'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=49748957</guid>
       <pubDate>Fri, 18 Sep 2026 01:05:03 +0000</pubDate>
     </item>
