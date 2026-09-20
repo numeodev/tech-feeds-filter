@@ -8,7 +8,21 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 20 Sep 2026 08:04:01 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 13:19:24 +0000</lastBuildDate>
+    <item>
+      <title>[distributed] How Notion handles concurrent editing with CRDTs</title>
+      <link>https://www.notion.com/blog/how-notion-handles-concurrent-editing-with-crdts</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ppfyza/how_notion_handles_concurrent_editing"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/ppfyza</guid>
+      <pubDate>Sun, 20 Sep 2026 12:06:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>[vcs] Beyond jj: config &amp; tools ecosystem</title>
+      <link>https://andre.arko.net/2026/09/16/beyond-jj-config-and-tools-ecosystem/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/xgdt4u/beyond_jj_config_tools_ecosystem"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/xgdt4u</guid>
+      <pubDate>Sun, 20 Sep 2026 10:51:04 +0000</pubDate>
+    </item>
     <item>
       <title>[security] HEIF Heist</title>
       <link>https://heif-heist.com</link>
@@ -146,7 +160,7 @@
     <item>
       <title>Telstra outage: The night a network decided the year was 2006</title>
       <link>https://www.netnod.se/blog/telstra-outage-night-network-decided-year-was-2006</link>
-      <description>92 points, 33 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49748957'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>93 points, 33 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49748957'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=49748957</guid>
       <pubDate>Fri, 18 Sep 2026 01:05:03 +0000</pubDate>
     </item>
@@ -983,20 +997,6 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/tykvbi/make_pds_your_own_customization_metrics"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/tykvbi</guid>
       <pubDate>Mon, 10 Aug 2026 05:57:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>[vcs] Who Should Pay For Source Code Availability?</title>
-      <link>https://kristoff.it/blog/source-code-availability/</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/rsztog/who_should_pay_for_source_code"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/rsztog</guid>
-      <pubDate>Sun, 09 Aug 2026 13:42:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>[distributed] Almost consensus: ABD and the edges of quorum replication</title>
-      <link>https://theconsensus.dev/p/2026/08/02/almost-consensus.html</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/51xpm8/almost_consensus_abd_edges_quorum"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/51xpm8</guid>
-      <pubDate>Fri, 07 Aug 2026 13:43:48 +0000</pubDate>
     </item>
     <item>
       <title>[devops] Infrastructure Gravity &amp; Domain Engineering</title>
