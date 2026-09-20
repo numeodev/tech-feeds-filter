@@ -8,39 +8,39 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 20 Sep 2026 02:23:21 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 08:04:01 +0000</lastBuildDate>
     <item>
       <title>Show HN: Forexfin – Trading calculators, alerts and a journal in one place</title>
       <link>https://forexfin.tech/</link>
-      <description>2 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49770525'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>3 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49770525'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=49770525</guid>
       <pubDate>Sat, 19 Sep 2026 22:12:18 +0000</pubDate>
     </item>
     <item>
       <title>UK air traffic control outage caused by software defect, says operator</title>
       <link>https://www.reuters.com/world/uk/uk-air-traffic-control-outage-caused-by-software-defect-says-operator-2026-09-18/</link>
-      <description>9 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49764036'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>10 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49764036'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=49764036</guid>
       <pubDate>Sat, 19 Sep 2026 06:53:58 +0000</pubDate>
     </item>
     <item>
       <title>Hi HN</title>
       <link>https://news.ycombinator.com/item?id=49762956</link>
-      <description>1 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49762956'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>2 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49762956'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=49762956</guid>
       <pubDate>Sat, 19 Sep 2026 03:15:47 +0000</pubDate>
     </item>
     <item>
       <title>Salesforce tracing without debug logs: every trigger, field write, and rollback</title>
       <link>https://www.fidelic.dev/blog/your-request-did-something-here-is-the-receipt/</link>
-      <description>1 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49756146'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>2 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49756146'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=49756146</guid>
       <pubDate>Fri, 18 Sep 2026 15:48:57 +0000</pubDate>
     </item>
     <item>
       <title>Telstra outage: The night a network decided the year was 2006</title>
       <link>https://www.netnod.se/blog/telstra-outage-night-network-decided-year-was-2006</link>
-      <description>91 points, 33 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49748957'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>92 points, 33 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49748957'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=49748957</guid>
       <pubDate>Fri, 18 Sep 2026 01:05:03 +0000</pubDate>
     </item>
@@ -61,7 +61,7 @@
     <item>
       <title>Salesforce Global Outage</title>
       <link>https://status.salesforce.com/products/all</link>
-      <description>279 points, 182 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49724488'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>280 points, 182 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49724488'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=49724488</guid>
       <pubDate>Wed, 16 Sep 2026 10:37:08 +0000</pubDate>
     </item>
@@ -183,13 +183,6 @@
       <description>2 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49600449'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=49600449</guid>
       <pubDate>Mon, 07 Sep 2026 17:00:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>The ZZZ backup page was a response to a wiki outage</title>
-      <link>https://mob.so/darkforest/p/f609e41e-57f6-476f-9210-6ffb28755c08</link>
-      <description>1 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49582793'&gt;discussion sur Hacker News&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49582793</guid>
-      <pubDate>Sun, 06 Sep 2026 02:40:45 +0000</pubDate>
     </item>
   </channel>
 </rss>

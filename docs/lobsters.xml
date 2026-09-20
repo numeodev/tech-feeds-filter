@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 20 Sep 2026 02:23:22 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 08:04:01 +0000</lastBuildDate>
+    <item>
+      <title>[security] HEIF Heist</title>
+      <link>https://heif-heist.com</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/qpbblx/heif_heist"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/qpbblx</guid>
+      <pubDate>Sun, 20 Sep 2026 05:56:25 +0000</pubDate>
+    </item>
     <item>
       <title>[practices] Grit your teeth and ship it</title>
       <link>https://www.seangoedecke.com/grit-your-teeth-and-ship-it/</link>
@@ -342,13 +349,6 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/akchzn/wind_wind"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/akchzn</guid>
       <pubDate>Fri, 11 Sep 2026 00:26:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>[security] An untrusted site can freeze a Mac using WebGPU</title>
-      <link>https://auberon.xyz/blog/posts/deathray/</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/l0sqnt/untrusted_site_can_freeze_mac_using"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/l0sqnt</guid>
-      <pubDate>Fri, 11 Sep 2026 00:04:53 +0000</pubDate>
     </item>
     <item>
       <title>[vcs] What comes after git</title>
