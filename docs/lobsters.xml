@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 19 Sep 2026 23:48:57 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 02:23:22 +0000</lastBuildDate>
+    <item>
+      <title>[practices] Grit your teeth and ship it</title>
+      <link>https://www.seangoedecke.com/grit-your-teeth-and-ship-it/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/pdulza/grit_your_teeth_ship_it"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/pdulza</guid>
+      <pubDate>Sun, 20 Sep 2026 02:12:23 +0000</pubDate>
+    </item>
     <item>
       <title>[security] ZK-JPEG: Zero-knowledge Image Editing and Compression</title>
       <link>https://eprint.iacr.org/2026/2039</link>
@@ -496,13 +503,6 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/haotvw/breaking_down_amazon_s_mega_dropdown_2013"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/haotvw</guid>
       <pubDate>Tue, 01 Sep 2026 01:30:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>[practices] All the Little Things (2014)</title>
-      <link>https://www.youtube.com/watch?v=8bZh5LMaSmE</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/gtarrm/all_little_things_2014"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/gtarrm</guid>
-      <pubDate>Mon, 31 Aug 2026 01:22:52 +0000</pubDate>
     </item>
     <item>
       <title>[distributed] Omnipresent availability risks in cloud software</title>
