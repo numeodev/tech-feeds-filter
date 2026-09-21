@@ -8,13 +8,27 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 21 Sep 2026 11:26:53 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 17:25:53 +0000</lastBuildDate>
     <item>
-      <title>[security] What happened to the Snowden archive</title>
-      <link>https://libroot.org/posts/what-happened-to-the-snowden-archive</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/vqsefk/what_happened_snowden_archive"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/vqsefk</guid>
-      <pubDate>Mon, 21 Sep 2026 08:56:58 +0000</pubDate>
+      <title>[distributed] Squalk: an old-school forum engine built on Nostr (NIP-29 groups, NIP-7D threads)</title>
+      <link>https://github.com/dtonon/squalk</link>
+      <description>&lt;p&gt;I miss classic forums: slow, asynchronous threads that stay readable and searchable for years, instead of knowledge dissolving into chat scrollback. Squalk is my attempt to rebuild that on top of Nostr, an open protocol where users hold a keypair, posts are signed events, and interchangeable relays store and serve them, instead of a private database.&lt;/p&gt;
+&lt;p&gt;The design in short: a forum is a view over relay-hosted data. Rooms are groups as specified in NIP-29, threads are NIP-7D events, identity is the user's own keypair. The consequence I care about is that the software and the community are decoupled: any other client speaking the same specs (Flotilla, Nostrord) can read and write the same conversations, and if my deployment disappears the history and identities survive on the relay.&lt;/p&gt;
+&lt;p&gt;Technical bits that might interest this crowd: one SvelteKit codebase builds either as a static SPA or as a server-rendered Node app; the SSR mode renders only the anonymous view (no keys server-side) so threads are crawlable, with a stale-while-revalidate snapshot cache in front of the relay queries. Content is rendered as djot rather than markdown. Deployment is a NIP-29 relay (Zooid) plus one systemd unit.&lt;/p&gt;
+&lt;p&gt;Pilot community (real threads, browsable without an account): &lt;a href="https://nostr-proto.org" rel="ugc"&gt;https://nostr-proto.org&lt;/a&gt;
+Test instance where you are welcome to make a mess: &lt;a href="https://squalk-test.dtonon.com" rel="ugc"&gt;https://squalk-test.dtonon.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Caveats: Nostr is niche, key management is still rough for non-enthusiasts, and relay-side moderation tooling is young.&lt;/p&gt;
+&lt;p&gt;Feedback on the architecture is welcome!&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://lobste.rs/s/haq46t/squalk_old_school_forum_engine_built_on"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/haq46t</guid>
+      <pubDate>Mon, 21 Sep 2026 14:44:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>[practices] Markdown in /src</title>
+      <link>https://htmx.org/essays/markdown-in-src/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/xooho4/markdown_src"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/xooho4</guid>
+      <pubDate>Mon, 21 Sep 2026 14:27:08 +0000</pubDate>
     </item>
     <item>
       <title>[security] Software sandboxing: The basics (2025)</title>
@@ -351,6 +365,13 @@
       <pubDate>Fri, 11 Sep 2026 16:35:40 +0000</pubDate>
     </item>
     <item>
+      <title>[security] Countering misuse of AI: September 2026 / Anthropic</title>
+      <link>https://www.anthropic.com/threat-intelligence-report-september-2026</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/gmewyf/countering_misuse_ai_september_2026"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/gmewyf</guid>
+      <pubDate>Fri, 11 Sep 2026 09:46:41 +0000</pubDate>
+    </item>
+    <item>
       <title>[distributed] FISL — Finding Internet Structures &amp; Links</title>
       <link>https://dasl.ing/fisl.html</link>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/bzacyp/fisl_finding_internet_structures_links"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
@@ -510,13 +531,6 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/mkpgrk/pattern_language_software_architecture"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/mkpgrk</guid>
       <pubDate>Tue, 01 Sep 2026 17:53:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>[practices] Breaking down Amazon’s mega dropdown (2013)</title>
-      <link>https://bjk5.com/post/44698559168/breaking-down-amazons-mega-dropdown</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/haotvw/breaking_down_amazon_s_mega_dropdown_2013"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/haotvw</guid>
-      <pubDate>Tue, 01 Sep 2026 01:30:16 +0000</pubDate>
     </item>
     <item>
       <title>[distributed] Omnipresent availability risks in cloud software</title>
@@ -787,13 +801,6 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/sjxzgt/promise_none_them_kept"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/sjxzgt</guid>
       <pubDate>Mon, 10 Aug 2026 11:04:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>[distributed] Make the PDS Your Own: Customization and Metrics</title>
-      <link>https://atproto.com/blog/pds-customization-and-metrics</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/tykvbi/make_pds_your_own_customization_metrics"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/tykvbi</guid>
-      <pubDate>Mon, 10 Aug 2026 05:57:28 +0000</pubDate>
     </item>
     <item>
       <title>[devops] Infrastructure Gravity &amp; Domain Engineering</title>

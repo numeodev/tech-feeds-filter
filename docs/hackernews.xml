@@ -8,11 +8,11 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 21 Sep 2026 11:26:52 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 17:25:52 +0000</lastBuildDate>
     <item>
       <title>Show HN: A GUI for non programmers for Epic's version control system Lore</title>
       <link>https://www.anchorpoint.app/lore</link>
-      <description>1 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49785168'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>3 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49785168'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=49785168</guid>
       <pubDate>Mon, 21 Sep 2026 09:50:25 +0000</pubDate>
     </item>
@@ -183,13 +183,6 @@
       <description>1 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49604827'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=49604827</guid>
       <pubDate>Tue, 08 Sep 2026 01:50:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>Root cause analysis of the Liquid network split and 3,998.67 BTC peg-out theft</title>
-      <link>https://gist.github.com/1440000bytes/211ac92dd4433bb1a2e674bf0ff7db2e</link>
-      <description>2 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49600449'&gt;discussion sur Hacker News&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49600449</guid>
-      <pubDate>Mon, 07 Sep 2026 17:00:06 +0000</pubDate>
     </item>
   </channel>
 </rss>
