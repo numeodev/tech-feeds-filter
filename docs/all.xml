@@ -8,14 +8,28 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 21 Sep 2026 17:25:53 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 21:24:33 +0000</lastBuildDate>
+    <item>
+      <title>[vcs] Ju! Ju! Tsu</title>
+      <link>https://arialdo.codeberg.page/ju-ju-tsu/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/d4wq0w/ju_ju_tsu"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/d4wq0w</guid>
+      <pubDate>Mon, 21 Sep 2026 20:59:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>[security] Windows Exploitation Techniques: Dangling COM Object Registrations</title>
+      <link>https://projectzero.google/2026/09/windows-dangling-com.html</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/1somoo/windows_exploitation_techniques"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/1somoo</guid>
+      <pubDate>Mon, 21 Sep 2026 18:21:25 +0000</pubDate>
+    </item>
     <item>
       <title>[distributed] Squalk: an old-school forum engine built on Nostr (NIP-29 groups, NIP-7D threads)</title>
       <link>https://github.com/dtonon/squalk</link>
       <description>&lt;p&gt;I miss classic forums: slow, asynchronous threads that stay readable and searchable for years, instead of knowledge dissolving into chat scrollback. Squalk is my attempt to rebuild that on top of Nostr, an open protocol where users hold a keypair, posts are signed events, and interchangeable relays store and serve them, instead of a private database.&lt;/p&gt;
 &lt;p&gt;The design in short: a forum is a view over relay-hosted data. Rooms are groups as specified in NIP-29, threads are NIP-7D events, identity is the user's own keypair. The consequence I care about is that the software and the community are decoupled: any other client speaking the same specs (Flotilla, Nostrord) can read and write the same conversations, and if my deployment disappears the history and identities survive on the relay.&lt;/p&gt;
 &lt;p&gt;Technical bits that might interest this crowd: one SvelteKit codebase builds either as a static SPA or as a server-rendered Node app; the SSR mode renders only the anonymous view (no keys server-side) so threads are crawlable, with a stale-while-revalidate snapshot cache in front of the relay queries. Content is rendered as djot rather than markdown. Deployment is a NIP-29 relay (Zooid) plus one systemd unit.&lt;/p&gt;
-&lt;p&gt;Pilot community (real threads, browsable without an account): &lt;a href="https://nostr-proto.org" rel="ugc"&gt;https://nostr-proto.org&lt;/a&gt;
+&lt;p&gt;Pilot community (real threads, browsable without an account): &lt;a href="https://nostr-proto.org" rel="ugc"&gt;https://nostr-proto.org&lt;/a&gt;&lt;br /&gt;
 Test instance where you are welcome to make a mess: &lt;a href="https://squalk-test.dtonon.com" rel="ugc"&gt;https://squalk-test.dtonon.com&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Caveats: Nostr is niche, key management is still rough for non-enthusiasts, and relay-side moderation tooling is young.&lt;/p&gt;
 &lt;p&gt;Feedback on the architecture is welcome!&lt;/p&gt;
@@ -512,13 +526,6 @@ Test instance where you are welcome to make a mess: &lt;a href="https://squalk-t
       <pubDate>Fri, 11 Sep 2026 11:48:17 +0000</pubDate>
     </item>
     <item>
-      <title>[security] Countering misuse of AI: September 2026 / Anthropic</title>
-      <link>https://www.anthropic.com/threat-intelligence-report-september-2026</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/gmewyf/countering_misuse_ai_september_2026"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/gmewyf</guid>
-      <pubDate>Fri, 11 Sep 2026 09:46:41 +0000</pubDate>
-    </item>
-    <item>
       <title>[distributed] FISL — Finding Internet Structures &amp; Links</title>
       <link>https://dasl.ing/fisl.html</link>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/bzacyp/fisl_finding_internet_structures_links"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
@@ -976,13 +983,6 @@ Test instance where you are welcome to make a mess: &lt;a href="https://squalk-t
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/6dw7pl/beszel"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/6dw7pl</guid>
       <pubDate>Thu, 13 Aug 2026 03:28:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>[vcs] GitHub Stacks in Jujutsu</title>
-      <link>https://alan.norbauer.com/articles/github-stacks-with-jujutsu/</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/keiw21/github_stacks_jujutsu"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/keiw21</guid>
-      <pubDate>Thu, 13 Aug 2026 00:55:03 +0000</pubDate>
     </item>
     <item>
       <title>[devops] My Homelab Got Hacked - A Postmortem</title>
