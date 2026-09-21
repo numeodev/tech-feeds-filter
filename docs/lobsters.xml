@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 21 Sep 2026 05:39:57 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 11:26:53 +0000</lastBuildDate>
+    <item>
+      <title>[security] What happened to the Snowden archive</title>
+      <link>https://libroot.org/posts/what-happened-to-the-snowden-archive</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/vqsefk/what_happened_snowden_archive"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/vqsefk</guid>
+      <pubDate>Mon, 21 Sep 2026 08:56:58 +0000</pubDate>
+    </item>
     <item>
       <title>[security] Software sandboxing: The basics (2025)</title>
       <link>https://blog.emilua.org/2025/01/12/software-sandboxing-basics/</link>
@@ -342,13 +349,6 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/mcioou/chipass_release_2026_09_0"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/mcioou</guid>
       <pubDate>Fri, 11 Sep 2026 16:35:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>[security] Countering misuse of AI: September 2026 / Anthropic</title>
-      <link>https://www.anthropic.com/threat-intelligence-report-september-2026</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/gmewyf/countering_misuse_ai_september_2026"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/gmewyf</guid>
-      <pubDate>Fri, 11 Sep 2026 09:46:41 +0000</pubDate>
     </item>
     <item>
       <title>[distributed] FISL — Finding Internet Structures &amp; Links</title>
