@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 21 Sep 2026 21:24:33 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 00:23:57 +0000</lastBuildDate>
+    <item>
+      <title>[security] stack unwinding can lead to leakless code execution</title>
+      <link>https://pepsipu.com/blog/2026-09-dwarf/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/0d6gcs/stack_unwinding_can_lead_leakless_code"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/0d6gcs</guid>
+      <pubDate>Mon, 21 Sep 2026 23:01:34 +0000</pubDate>
+    </item>
     <item>
       <title>[vcs] Ju! Ju! Tsu</title>
       <link>https://arialdo.codeberg.page/ju-ju-tsu/</link>
@@ -512,13 +519,6 @@ Test instance where you are welcome to make a mess: &lt;a href="https://squalk-t
       <pubDate>Fri, 11 Sep 2026 17:31:46 +0000</pubDate>
     </item>
     <item>
-      <title>[security] ChiPass Release 2026.09.0</title>
-      <link>https://codeberg.org/ChiPass/ChiPass/releases/tag/v2026.09.0</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/mcioou/chipass_release_2026_09_0"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/mcioou</guid>
-      <pubDate>Fri, 11 Sep 2026 16:35:40 +0000</pubDate>
-    </item>
-    <item>
       <title>Show HN: SolidPing — open-source uptime monitoring, agents inside your network</title>
       <link>https://solidping.io/d/login?demo=true</link>
       <description>3 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49656831'&gt;discussion sur Hacker News&lt;/a&gt;</description>
@@ -587,13 +587,6 @@ Test instance where you are welcome to make a mess: &lt;a href="https://squalk-t
       <description>3 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49636639'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=49636639</guid>
       <pubDate>Thu, 10 Sep 2026 00:33:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>[r/sre] Supabase's fix for one incident caused their next one, and the original is still open after 25 days</title>
-      <link>https://www.reddit.com/r/sre/comments/1wbx7wz/supabases_fix_for_one_incident_caused_their_next/</link>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;On August 14 Supabase opened an incident regarding some projects returning 401 errors for valid JWTs, and as stated in yesterdays update the issue has still not been resolved, it has been 25 days.&lt;/p&gt; &lt;p&gt;The fix (PostgREST 14.17) failed to eliminate the JWT rejections and instead caused 'unintended performance side effects', so they reverted back to 14.5. This revert in itself turned into a separate incident that lasted four days, with elevated latency and 525s from August 27 to 31, a situation which Supabase linked to the original incident. The root cause was identified on September 2 which was a stale time cache. During that same period there were two instances of GLIBC version mismatches, eight days apart (missing 2.34 on August 20 and missing 2.33 for supautils on August 28), and six further incidents between August 26 and September 4, one of which was an approximately eight-hour freeze affecting all project lifecycle operations.&lt;/p&gt; &lt;p&gt;Credit to them for explicitly linking the incident to the fix and for stating that the fix had failed rather than suppressing it. Most status pages would have simply divided those entries leaving customers without any proper understanding.&lt;/p&gt; &lt;p&gt;Their status page for reference: &lt;a href="https://status.supabase.com/incidents/6q5902p2xd9f"&gt;https://status.supabase.com/incidents/6q5902p2xd9f&lt;/a&gt;&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/jj_at_rootly"&gt; /u/jj_at_rootly &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/r/sre/comments/1wbx7wz/supabases_fix_for_one_incident_caused_their_next/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/sre/comments/1wbx7wz/supabases_fix_for_one_incident_caused_their_next/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</description>
-      <guid isPermaLink="false">https://www.reddit.com/r/sre/t3_1wbx7wz</guid>
-      <pubDate>Wed, 09 Sep 2026 20:25:06 +0000</pubDate>
     </item>
     <item>
       <title>Show HN: Tech Event Bingo – Track Events in Tech on a Bingo Card</title>

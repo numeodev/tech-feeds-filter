@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 21 Sep 2026 21:24:33 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 00:23:57 +0000</lastBuildDate>
+    <item>
+      <title>[security] stack unwinding can lead to leakless code execution</title>
+      <link>https://pepsipu.com/blog/2026-09-dwarf/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/0d6gcs/stack_unwinding_can_lead_leakless_code"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/0d6gcs</guid>
+      <pubDate>Mon, 21 Sep 2026 23:01:34 +0000</pubDate>
+    </item>
     <item>
       <title>[vcs] Ju! Ju! Tsu</title>
       <link>https://arialdo.codeberg.page/ju-ju-tsu/</link>
@@ -370,13 +377,6 @@ Test instance where you are welcome to make a mess: &lt;a href="https://squalk-t
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/wajtsa/openai_agents_carried_out_undisclosed"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/wajtsa</guid>
       <pubDate>Fri, 11 Sep 2026 23:41:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>[security] ChiPass Release 2026.09.0</title>
-      <link>https://codeberg.org/ChiPass/ChiPass/releases/tag/v2026.09.0</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/mcioou/chipass_release_2026_09_0"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/mcioou</guid>
-      <pubDate>Fri, 11 Sep 2026 16:35:40 +0000</pubDate>
     </item>
     <item>
       <title>[distributed] FISL — Finding Internet Structures &amp; Links</title>
