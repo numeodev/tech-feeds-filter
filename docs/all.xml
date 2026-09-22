@@ -8,13 +8,20 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 22 Sep 2026 10:35:11 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 15:16:05 +0000</lastBuildDate>
     <item>
-      <title>[devops] Cheap and easy throwaway VPN server</title>
-      <link>https://a.l3x.in/blog/throwaway-vpn/</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/npjb02/cheap_easy_throwaway_vpn_server"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/npjb02</guid>
-      <pubDate>Tue, 22 Sep 2026 06:56:57 +0000</pubDate>
+      <title>[security] EvilVM: Forth shellcode</title>
+      <link>https://web.archive.org/web/20250418124519/http://evilvm.ninja/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/vhbyvk/evilvm_forth_shellcode"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/vhbyvk</guid>
+      <pubDate>Tue, 22 Sep 2026 14:10:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>[security] Reviving TEMPEST Attacks With An Injected Signal</title>
+      <link>https://hackaday.com/2026/09/20/reviving-tempest-attacks-with-an-injected-signal/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ub3vw7/reviving_tempest_attacks_with_injected"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/ub3vw7</guid>
+      <pubDate>Tue, 22 Sep 2026 12:25:27 +0000</pubDate>
     </item>
     <item>
       <title>[vcs] Looking forward to Git 2.56 - and 3.0</title>
@@ -82,7 +89,7 @@ Test instance where you are welcome to make a mess: &lt;a href="https://squalk-t
     <item>
       <title>Show HN: A GUI for non programmers for Epic's version control system Lore</title>
       <link>https://www.anchorpoint.app/lore</link>
-      <description>5 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49785168'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>6 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49785168'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=49785168</guid>
       <pubDate>Mon, 21 Sep 2026 09:50:25 +0000</pubDate>
     </item>
@@ -519,25 +526,11 @@ Test instance where you are welcome to make a mess: &lt;a href="https://squalk-t
       <pubDate>Sat, 12 Sep 2026 12:38:53 +0000</pubDate>
     </item>
     <item>
-      <title>[security] Rare Not Random Using Token Efficiency for Secrets Scanning</title>
-      <link>https://lookingatcomputer.substack.com/p/rare-not-random</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/dkd8ph/rare_not_random_using_token_efficiency"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/dkd8ph</guid>
-      <pubDate>Sat, 12 Sep 2026 06:42:56 +0000</pubDate>
-    </item>
-    <item>
       <title>Military aircraft reportedly blamed for UK air traffic control outage</title>
       <link>https://www.theguardian.com/world/2026/sep/12/military-aircraft-reportedly-blamed-for-uk-air-traffic-control-outage</link>
       <description>3 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49667480'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=49667480</guid>
       <pubDate>Sat, 12 Sep 2026 00:53:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>[security] OpenAI agents carried out an undisclosed attack on RubyGems</title>
-      <link>https://www.rubyhack.ai/</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/wajtsa/openai_agents_carried_out_undisclosed"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/wajtsa</guid>
-      <pubDate>Fri, 11 Sep 2026 23:41:50 +0000</pubDate>
     </item>
     <item>
       <title>Google should provide a technical postmortem of Gemini's 2024 outburst</title>
@@ -629,13 +622,6 @@ Test instance where you are welcome to make a mess: &lt;a href="https://squalk-t
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ikzvtv/switching_password_managers_2026"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/ikzvtv</guid>
       <pubDate>Tue, 08 Sep 2026 13:55:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>GitHub CI outages in EU due to status 401 on public repos</title>
-      <link>https://github.com/orgs/community/discussions/206581</link>
-      <description>3 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49609568'&gt;discussion sur Hacker News&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49609568</guid>
-      <pubDate>Tue, 08 Sep 2026 12:43:00 +0000</pubDate>
     </item>
     <item>
       <title>[devops] Hardening Container Images</title>
@@ -1070,6 +1056,13 @@ Test instance where you are welcome to make a mess: &lt;a href="https://squalk-t
 &lt;p&gt;&lt;a href="https://lobste.rs/s/jhcyuq/deep_dive_into_my_forgejo_setup"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/jhcyuq</guid>
       <pubDate>Mon, 20 Jul 2026 16:40:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>[devops] The dailyprog puzzle safety net</title>
+      <link>https://blog.lvmbdv.dev/posts/the-puzzle-safety-net/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/etvwzv/dailyprog_puzzle_safety_net"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/etvwzv</guid>
+      <pubDate>Thu, 16 Jul 2026 02:21:03 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -8,13 +8,20 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 22 Sep 2026 10:35:11 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 15:16:05 +0000</lastBuildDate>
     <item>
-      <title>[devops] Cheap and easy throwaway VPN server</title>
-      <link>https://a.l3x.in/blog/throwaway-vpn/</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/npjb02/cheap_easy_throwaway_vpn_server"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/npjb02</guid>
-      <pubDate>Tue, 22 Sep 2026 06:56:57 +0000</pubDate>
+      <title>[security] EvilVM: Forth shellcode</title>
+      <link>https://web.archive.org/web/20250418124519/http://evilvm.ninja/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/vhbyvk/evilvm_forth_shellcode"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/vhbyvk</guid>
+      <pubDate>Tue, 22 Sep 2026 14:10:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>[security] Reviving TEMPEST Attacks With An Injected Signal</title>
+      <link>https://hackaday.com/2026/09/20/reviving-tempest-attacks-with-an-injected-signal/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ub3vw7/reviving_tempest_attacks_with_injected"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/ub3vw7</guid>
+      <pubDate>Tue, 22 Sep 2026 12:25:27 +0000</pubDate>
     </item>
     <item>
       <title>[vcs] Looking forward to Git 2.56 - and 3.0</title>
@@ -377,20 +384,6 @@ Test instance where you are welcome to make a mess: &lt;a href="https://squalk-t
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/8t1ddm/linux_zoom_client_proactively_reads_x11"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/8t1ddm</guid>
       <pubDate>Sat, 12 Sep 2026 12:38:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>[security] Rare Not Random Using Token Efficiency for Secrets Scanning</title>
-      <link>https://lookingatcomputer.substack.com/p/rare-not-random</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/dkd8ph/rare_not_random_using_token_efficiency"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/dkd8ph</guid>
-      <pubDate>Sat, 12 Sep 2026 06:42:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>[security] OpenAI agents carried out an undisclosed attack on RubyGems</title>
-      <link>https://www.rubyhack.ai/</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/wajtsa/openai_agents_carried_out_undisclosed"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/wajtsa</guid>
-      <pubDate>Fri, 11 Sep 2026 23:41:50 +0000</pubDate>
     </item>
     <item>
       <title>[distributed] FISL — Finding Internet Structures &amp; Links</title>
@@ -874,6 +867,13 @@ Test instance where you are welcome to make a mess: &lt;a href="https://squalk-t
 &lt;p&gt;&lt;a href="https://lobste.rs/s/jhcyuq/deep_dive_into_my_forgejo_setup"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/jhcyuq</guid>
       <pubDate>Mon, 20 Jul 2026 16:40:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>[devops] The dailyprog puzzle safety net</title>
+      <link>https://blog.lvmbdv.dev/posts/the-puzzle-safety-net/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/etvwzv/dailyprog_puzzle_safety_net"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/etvwzv</guid>
+      <pubDate>Thu, 16 Jul 2026 02:21:03 +0000</pubDate>
     </item>
   </channel>
 </rss>

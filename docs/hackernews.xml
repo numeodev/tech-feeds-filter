@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 22 Sep 2026 10:35:10 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 15:16:04 +0000</lastBuildDate>
     <item>
       <title>Major air traffic controller outage triggers flight chaos [video]</title>
       <link>https://www.youtube.com/watch?v=gHUZ9W025lA</link>
@@ -26,7 +26,7 @@
     <item>
       <title>Show HN: A GUI for non programmers for Epic's version control system Lore</title>
       <link>https://www.anchorpoint.app/lore</link>
-      <description>5 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49785168'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>6 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49785168'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=49785168</guid>
       <pubDate>Mon, 21 Sep 2026 09:50:25 +0000</pubDate>
     </item>
@@ -176,13 +176,6 @@
       <description>3 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49629447'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=49629447</guid>
       <pubDate>Wed, 09 Sep 2026 16:47:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>GitHub CI outages in EU due to status 401 on public repos</title>
-      <link>https://github.com/orgs/community/discussions/206581</link>
-      <description>3 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49609568'&gt;discussion sur Hacker News&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49609568</guid>
-      <pubDate>Tue, 08 Sep 2026 12:43:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
