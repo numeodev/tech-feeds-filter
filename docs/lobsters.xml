@@ -8,7 +8,15 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 22 Sep 2026 15:16:05 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 19:23:23 +0000</lastBuildDate>
+    <item>
+      <title>[devops] Introducing Luxir</title>
+      <link>https://yonik.com/blog/introducing-luxir/</link>
+      <description>&lt;p&gt;The creator of Apache Solr announced a new high-performance search engine. Open Source, written in C++, featuring full-text search, vector search, faceting, and analytics.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://lobste.rs/s/rndct1/introducing_luxir"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/rndct1</guid>
+      <pubDate>Tue, 22 Sep 2026 15:15:48 +0000</pubDate>
+    </item>
     <item>
       <title>[security] EvilVM: Forth shellcode</title>
       <link>https://web.archive.org/web/20250418124519/http://evilvm.ninja/</link>
@@ -867,13 +875,6 @@ Test instance where you are welcome to make a mess: &lt;a href="https://squalk-t
 &lt;p&gt;&lt;a href="https://lobste.rs/s/jhcyuq/deep_dive_into_my_forgejo_setup"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/jhcyuq</guid>
       <pubDate>Mon, 20 Jul 2026 16:40:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>[devops] The dailyprog puzzle safety net</title>
-      <link>https://blog.lvmbdv.dev/posts/the-puzzle-safety-net/</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/etvwzv/dailyprog_puzzle_safety_net"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/etvwzv</guid>
-      <pubDate>Thu, 16 Jul 2026 02:21:03 +0000</pubDate>
     </item>
   </channel>
 </rss>
