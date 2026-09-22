@@ -8,7 +8,28 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 22 Sep 2026 00:23:57 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 05:37:10 +0000</lastBuildDate>
+    <item>
+      <title>[vcs] Looking forward to Git 2.56 - and 3.0</title>
+      <link>https://lwn.net/SubscriberLink/1094575/2385e98583715c2b/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/liey8q/looking_forward_git_2_56_3_0"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/liey8q</guid>
+      <pubDate>Tue, 22 Sep 2026 05:23:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>Major air traffic controller outage triggers flight chaos [video]</title>
+      <link>https://www.youtube.com/watch?v=gHUZ9W025lA</link>
+      <description>3 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49795935'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49795935</guid>
+      <pubDate>Tue, 22 Sep 2026 02:02:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>Outages across API, Grok.com, and Grok Build – API (us-east-1.api.x.ai) Status</title>
+      <link>https://status.x.ai/api-us-east-1/INC578e0bc8</link>
+      <description>2 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49795747'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49795747</guid>
+      <pubDate>Tue, 22 Sep 2026 01:28:42 +0000</pubDate>
+    </item>
     <item>
       <title>[security] stack unwinding can lead to leakless code execution</title>
       <link>https://pepsipu.com/blog/2026-09-dwarf/</link>
@@ -54,7 +75,7 @@ Test instance where you are welcome to make a mess: &lt;a href="https://squalk-t
     <item>
       <title>Show HN: A GUI for non programmers for Epic's version control system Lore</title>
       <link>https://www.anchorpoint.app/lore</link>
-      <description>3 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49785168'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>5 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49785168'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=49785168</guid>
       <pubDate>Mon, 21 Sep 2026 09:50:25 +0000</pubDate>
     </item>
@@ -596,13 +617,6 @@ Test instance where you are welcome to make a mess: &lt;a href="https://squalk-t
       <pubDate>Wed, 09 Sep 2026 16:47:31 +0000</pubDate>
     </item>
     <item>
-      <title>Show HN: Maxxwell – The IDE for Optimal Tokenmaxxing</title>
-      <link>https://maxxwell.dev/</link>
-      <description>11 points, 8 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49625975'&gt;discussion sur Hacker News&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49625975</guid>
-      <pubDate>Wed, 09 Sep 2026 13:10:30 +0000</pubDate>
-    </item>
-    <item>
       <title>[practices] Switching Password Managers in 2026</title>
       <link>https://rmondello.com/2026/09/07/switching-password-managers-2026/</link>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ikzvtv/switching_password_managers_2026"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
@@ -615,13 +629,6 @@ Test instance where you are welcome to make a mess: &lt;a href="https://squalk-t
       <description>3 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49609568'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=49609568</guid>
       <pubDate>Tue, 08 Sep 2026 12:43:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>DUPR (pickeball rating system) outage: 3rd day and no explanation</title>
-      <link>https://www.reddit.com/r/Pickleball/comments/1w9iroh/the_dupr_situation_its_bad/</link>
-      <description>1 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49604827'&gt;discussion sur Hacker News&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49604827</guid>
-      <pubDate>Tue, 08 Sep 2026 01:50:13 +0000</pubDate>
     </item>
     <item>
       <title>[devops] Hardening Container Images</title>
@@ -955,13 +962,6 @@ Test instance where you are welcome to make a mess: &lt;a href="https://squalk-t
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ngz2wn/activitypub_won_by_being_boring"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/ngz2wn</guid>
       <pubDate>Fri, 14 Aug 2026 18:44:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>[vcs] Comments in the code vs PR description</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260812-00/?p=112607</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/2dsufc/comments_code_vs_pr_description"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/2dsufc</guid>
-      <pubDate>Fri, 14 Aug 2026 09:52:20 +0000</pubDate>
     </item>
     <item>
       <title>[distributed] Eight tips about consent for fediverse developers</title>

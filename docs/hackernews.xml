@@ -8,11 +8,25 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 22 Sep 2026 00:23:55 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 05:37:09 +0000</lastBuildDate>
+    <item>
+      <title>Major air traffic controller outage triggers flight chaos [video]</title>
+      <link>https://www.youtube.com/watch?v=gHUZ9W025lA</link>
+      <description>3 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49795935'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49795935</guid>
+      <pubDate>Tue, 22 Sep 2026 02:02:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>Outages across API, Grok.com, and Grok Build – API (us-east-1.api.x.ai) Status</title>
+      <link>https://status.x.ai/api-us-east-1/INC578e0bc8</link>
+      <description>2 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49795747'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49795747</guid>
+      <pubDate>Tue, 22 Sep 2026 01:28:42 +0000</pubDate>
+    </item>
     <item>
       <title>Show HN: A GUI for non programmers for Epic's version control system Lore</title>
       <link>https://www.anchorpoint.app/lore</link>
-      <description>3 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49785168'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>5 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49785168'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=49785168</guid>
       <pubDate>Mon, 21 Sep 2026 09:50:25 +0000</pubDate>
     </item>
@@ -164,25 +178,11 @@
       <pubDate>Wed, 09 Sep 2026 16:47:31 +0000</pubDate>
     </item>
     <item>
-      <title>Show HN: Maxxwell – The IDE for Optimal Tokenmaxxing</title>
-      <link>https://maxxwell.dev/</link>
-      <description>11 points, 8 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49625975'&gt;discussion sur Hacker News&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49625975</guid>
-      <pubDate>Wed, 09 Sep 2026 13:10:30 +0000</pubDate>
-    </item>
-    <item>
       <title>GitHub CI outages in EU due to status 401 on public repos</title>
       <link>https://github.com/orgs/community/discussions/206581</link>
       <description>3 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49609568'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=49609568</guid>
       <pubDate>Tue, 08 Sep 2026 12:43:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>DUPR (pickeball rating system) outage: 3rd day and no explanation</title>
-      <link>https://www.reddit.com/r/Pickleball/comments/1w9iroh/the_dupr_situation_its_bad/</link>
-      <description>1 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49604827'&gt;discussion sur Hacker News&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49604827</guid>
-      <pubDate>Tue, 08 Sep 2026 01:50:13 +0000</pubDate>
     </item>
   </channel>
 </rss>
