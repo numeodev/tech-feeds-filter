@@ -8,7 +8,21 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 22 Sep 2026 19:23:23 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 22:31:53 +0000</lastBuildDate>
+    <item>
+      <title>[security] GitHub Actions leaking secrets when Miri output is cached</title>
+      <link>https://blog.rust-lang.org/2026/09/21/github-actions-leaking-secrets-when-miri-output-is-cached/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/acz9kk/github_actions_leaking_secrets_when_miri"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/acz9kk</guid>
+      <pubDate>Tue, 22 Sep 2026 21:38:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>[security] Fifty Years of Open Source Software Supply Chain Security</title>
+      <link>https://queue.acm.org/doi/10.1145/3722542</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/9jjplv/fifty_years_open_source_software_supply"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/9jjplv</guid>
+      <pubDate>Tue, 22 Sep 2026 21:08:55 +0000</pubDate>
+    </item>
     <item>
       <title>Show HN: Kado – Search to Allow Personal Agents to Find Agent Apps</title>
       <link>https://kado.so</link>
@@ -523,29 +537,6 @@ Test instance where you are welcome to make a mess: &lt;a href="https://squalk-t
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/wobjnw/testing_race_conditions_with_memory"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/wobjnw</guid>
       <pubDate>Sat, 12 Sep 2026 17:55:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>[security] The gpg.fail aftermath: On responsible disclosure, GPG, and the state of security in 2026 [32:37]</title>
-      <link>https://media.ccc.de/v/2026-728-the-gpg-fail-aftermath-on-responsible-disclosure-gpg-and-the-state-of-security-in-2026</link>
-      <description>&lt;p&gt;&lt;a href="https://git.gay/49016/gpg-fail-aftermath/raw/branch/main/slides.pdf" rel="ugc"&gt;slides&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;In 2025, I [the speaker] found and disclosed a bunch of vulnerabilities in GPG, the most used PGP implementation, and held a talk at 39c3 about it. &lt;strong&gt;Some&lt;/strong&gt; of the bugs ended up getting fixed. This talk describes the adventure and aftermath of getting there, shows some novel ones, and talks about the state of security in 2026. May contain zero-days =)&lt;/p&gt;
-&lt;p&gt;Until May 2025, I liked PGP, and the GNU Privacy Guard. I poked at it in my free time a lot. One day, that suddenly changed, when I flew too close to the sun and ended up uncovering a vulnerability that allows you to easily spoof a PGP signature when opened naively with the GPG tool.&lt;/p&gt;
-&lt;p&gt;Fast-forward a couple of months, the one vulnerability turned into several independent ones, up to memory corruption in the basic PGP message parser, affecting almost all PGP-related workflows.&lt;/p&gt;
-&lt;p&gt;I disclosed these a few weeks before 39c3 in December 2025. And while some of the vulnerabilities - like the memory corruption in the message parser - got addressed properly, this was not the case for all of them.&lt;/p&gt;
-&lt;p&gt;For example, one of the first vulnerabilities I found, that was used for the introduction hook in the 39c3 talk, remains unpatched to this day. Instead of being fixed with code, Werner Koch - the main developer of GnuPG - published a blog post declaring the widely-used feature being "harmful"; while they had weeks in advance, they published this on day one of 39c3, not even giving us time to respond.&lt;/p&gt;
-&lt;p&gt;Several disgruntled comments followed, but a good portion of the flaws are still not addressed, as I will demonstrate live in the talk. This specific demonstration will not utilize any zero-day vulnerabilities (those come next); we will be showing how much of an issue the footguns (that they refuse to address) at hand really are.&lt;/p&gt;
-&lt;p&gt;Additionally, I will present a few novel vulnerabilities on GPG. Not quite the bombshells as last time, but some nifty bugs that should never have made it into production in the first place, but to demonstrate the state of the GnuPG codebase.&lt;/p&gt;
-&lt;p&gt;The talk closes with some general commentary about the state of security and responsible disclosure, and touch on the topic of AI/LLMs in security (with some of the gpg.fail vulnerabilities as examples); what this means for security researchers, ordinary people and software developers (spoiler: neither end users nor security researchers are doomed).&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://lobste.rs/s/fcttpk/gpg_fail_aftermath_on_responsible"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/fcttpk</guid>
-      <pubDate>Sat, 12 Sep 2026 17:24:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>[security] Linux Zoom Client Proactively Reads X11 Clipboard</title>
-      <link>https://hachyderm.io/@simontatham/117201594980991062</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/8t1ddm/linux_zoom_client_proactively_reads_x11"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/8t1ddm</guid>
-      <pubDate>Sat, 12 Sep 2026 12:38:53 +0000</pubDate>
     </item>
     <item>
       <title>Military aircraft reportedly blamed for UK air traffic control outage</title>
