@@ -8,7 +8,21 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 23 Sep 2026 12:35:29 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 17:35:15 +0000</lastBuildDate>
+    <item>
+      <title>Show HN: HookDeploy – Webhook infra with mTLS private delivery</title>
+      <link>https://hookdeploy.dev</link>
+      <description>1 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49818514'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49818514</guid>
+      <pubDate>Wed, 23 Sep 2026 16:25:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>[distributed, security, vcs] Radicle: Disclosure of Vulnerability in the Network Protocol</title>
+      <link>https://radicle.dev/2026/09/23/disclosure-of-vulnerability-in-network-protocol.html</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ad5vwg/radicle_disclosure_vulnerability"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/ad5vwg</guid>
+      <pubDate>Wed, 23 Sep 2026 14:34:37 +0000</pubDate>
+    </item>
     <item>
       <title>[security] Latest BGP hijack targets hosting software vendor</title>
       <link>https://blog.apnic.net/2026/09/22/latest-bgp-hijack-targets-hosting-software-vendor/</link>
@@ -412,16 +426,9 @@ Test instance where you are welcome to make a mess: &lt;a href="https://squalk-t
       <pubDate>Wed, 16 Sep 2026 13:24:31 +0000</pubDate>
     </item>
     <item>
-      <title>[security] From Report to Patch, the OpenBSD Errata Process</title>
-      <link>https://exquisite.tube/w/sDafcZjdEQpR83aogPSx9j</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/wskpxf/from_report_patch_openbsd_errata_process"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/wskpxf</guid>
-      <pubDate>Wed, 16 Sep 2026 11:20:06 +0000</pubDate>
-    </item>
-    <item>
       <title>Salesforce Global Outage</title>
       <link>https://status.salesforce.com/products/all</link>
-      <description>280 points, 182 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49724488'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>280 points, 183 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49724488'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=49724488</guid>
       <pubDate>Wed, 16 Sep 2026 10:37:08 +0000</pubDate>
     </item>
@@ -635,13 +642,6 @@ Test instance where you are welcome to make a mess: &lt;a href="https://squalk-t
       <description>3 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49636639'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=49636639</guid>
       <pubDate>Thu, 10 Sep 2026 00:33:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>Show HN: Tech Event Bingo – Track Events in Tech on a Bingo Card</title>
-      <link>https://techeventbingo.com/</link>
-      <description>3 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49629447'&gt;discussion sur Hacker News&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49629447</guid>
-      <pubDate>Wed, 09 Sep 2026 16:47:31 +0000</pubDate>
     </item>
     <item>
       <title>[practices] Switching Password Managers in 2026</title>
@@ -963,25 +963,11 @@ Test instance where you are welcome to make a mess: &lt;a href="https://squalk-t
       <pubDate>Sat, 15 Aug 2026 18:07:08 +0000</pubDate>
     </item>
     <item>
-      <title>[vcs] Flirt: GitHub and Mailing List backends</title>
-      <link>https://blog.buenzli.dev/flirt-github-and-mailing-list/</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/scwuwv/flirt_github_mailing_list_backends"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/scwuwv</guid>
-      <pubDate>Sat, 15 Aug 2026 12:37:40 +0000</pubDate>
-    </item>
-    <item>
       <title>[distributed] ActivityPub Won by Being Boring</title>
       <link>https://o.ee/blog/activitypub-won-by-being-boring/</link>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ngz2wn/activitypub_won_by_being_boring"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/ngz2wn</guid>
       <pubDate>Fri, 14 Aug 2026 18:44:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>[distributed] Eight tips about consent for fediverse developers</title>
-      <link>https://thenexusofprivacy.net/consent-for-fediverse-developers/</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/oxonrx/eight_tips_about_consent_for_fediverse"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/oxonrx</guid>
-      <pubDate>Thu, 13 Aug 2026 16:42:25 +0000</pubDate>
     </item>
     <item>
       <title>[devops] beszel</title>

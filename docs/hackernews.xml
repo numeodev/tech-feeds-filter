@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 23 Sep 2026 12:35:27 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 17:35:13 +0000</lastBuildDate>
+    <item>
+      <title>Show HN: HookDeploy – Webhook infra with mTLS private delivery</title>
+      <link>https://hookdeploy.dev</link>
+      <description>1 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49818514'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49818514</guid>
+      <pubDate>Wed, 23 Sep 2026 16:25:52 +0000</pubDate>
+    </item>
     <item>
       <title>Show HN: Kado – Search to Allow Personal Agents to Find Agent Apps</title>
       <link>https://kado.so</link>
@@ -96,7 +103,7 @@
     <item>
       <title>Salesforce Global Outage</title>
       <link>https://status.salesforce.com/products/all</link>
-      <description>280 points, 182 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49724488'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>280 points, 183 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49724488'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=49724488</guid>
       <pubDate>Wed, 16 Sep 2026 10:37:08 +0000</pubDate>
     </item>
@@ -183,13 +190,6 @@
       <description>3 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49636639'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=49636639</guid>
       <pubDate>Thu, 10 Sep 2026 00:33:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>Show HN: Tech Event Bingo – Track Events in Tech on a Bingo Card</title>
-      <link>https://techeventbingo.com/</link>
-      <description>3 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49629447'&gt;discussion sur Hacker News&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49629447</guid>
-      <pubDate>Wed, 09 Sep 2026 16:47:31 +0000</pubDate>
     </item>
   </channel>
 </rss>

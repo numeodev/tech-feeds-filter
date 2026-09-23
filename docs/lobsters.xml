@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 23 Sep 2026 12:35:29 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 17:35:15 +0000</lastBuildDate>
+    <item>
+      <title>[distributed, security, vcs] Radicle: Disclosure of Vulnerability in the Network Protocol</title>
+      <link>https://radicle.dev/2026/09/23/disclosure-of-vulnerability-in-network-protocol.html</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ad5vwg/radicle_disclosure_vulnerability"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/ad5vwg</guid>
+      <pubDate>Wed, 23 Sep 2026 14:34:37 +0000</pubDate>
+    </item>
     <item>
       <title>[security] Latest BGP hijack targets hosting software vendor</title>
       <link>https://blog.apnic.net/2026/09/22/latest-bgp-hijack-targets-hosting-software-vendor/</link>
@@ -312,13 +319,6 @@ Test instance where you are welcome to make a mess: &lt;a href="https://squalk-t
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/tgrvxh/forgery_c2pa_on_pixel_10"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/tgrvxh</guid>
       <pubDate>Wed, 16 Sep 2026 13:24:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>[security] From Report to Patch, the OpenBSD Errata Process</title>
-      <link>https://exquisite.tube/w/sDafcZjdEQpR83aogPSx9j</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/wskpxf/from_report_patch_openbsd_errata_process"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/wskpxf</guid>
-      <pubDate>Wed, 16 Sep 2026 11:20:06 +0000</pubDate>
     </item>
     <item>
       <title>[practices, vcs] Reinventing issue tracking: Local-first and Git-native</title>
@@ -760,25 +760,11 @@ Test instance where you are welcome to make a mess: &lt;a href="https://squalk-t
       <pubDate>Sat, 15 Aug 2026 18:07:08 +0000</pubDate>
     </item>
     <item>
-      <title>[vcs] Flirt: GitHub and Mailing List backends</title>
-      <link>https://blog.buenzli.dev/flirt-github-and-mailing-list/</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/scwuwv/flirt_github_mailing_list_backends"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/scwuwv</guid>
-      <pubDate>Sat, 15 Aug 2026 12:37:40 +0000</pubDate>
-    </item>
-    <item>
       <title>[distributed] ActivityPub Won by Being Boring</title>
       <link>https://o.ee/blog/activitypub-won-by-being-boring/</link>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ngz2wn/activitypub_won_by_being_boring"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/ngz2wn</guid>
       <pubDate>Fri, 14 Aug 2026 18:44:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>[distributed] Eight tips about consent for fediverse developers</title>
-      <link>https://thenexusofprivacy.net/consent-for-fediverse-developers/</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/oxonrx/eight_tips_about_consent_for_fediverse"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/oxonrx</guid>
-      <pubDate>Thu, 13 Aug 2026 16:42:25 +0000</pubDate>
     </item>
     <item>
       <title>[devops] beszel</title>
