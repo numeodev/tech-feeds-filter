@@ -8,20 +8,41 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 23 Sep 2026 06:58:55 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 12:35:29 +0000</lastBuildDate>
+    <item>
+      <title>[security] Latest BGP hijack targets hosting software vendor</title>
+      <link>https://blog.apnic.net/2026/09/22/latest-bgp-hijack-targets-hosting-software-vendor/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/eqme8i/latest_bgp_hijack_targets_hosting"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/eqme8i</guid>
+      <pubDate>Wed, 23 Sep 2026 11:55:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>[security] SAML: A fractal of bad design</title>
+      <link>https://blog.trailofbits.com/2026/09/21/saml-a-fractal-of-bad-design/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/4uqtta/saml_fractal_bad_design"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/4uqtta</guid>
+      <pubDate>Wed, 23 Sep 2026 10:58:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>[practices] The GNOME LLM Policy That I Want</title>
+      <link>https://blogs.gnome.org/alatiera/2026/09/23/the-gnome-llm-policy-that-i-want/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/kras1h/gnome_llm_policy_i_want"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/kras1h</guid>
+      <pubDate>Wed, 23 Sep 2026 10:28:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>[practices] Abandoning Scientific Linux Was a Mistake</title>
+      <link>https://blog.melashri.net/posts/scientific-linux-mistake/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/qysrps/abandoning_scientific_linux_was_mistake"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/qysrps</guid>
+      <pubDate>Wed, 23 Sep 2026 09:53:20 +0000</pubDate>
+    </item>
     <item>
       <title>[security] Sandboxing with minimal effort</title>
       <link>https://yorickpeterse.com/articles/sandboxing-with-minimal-effort/</link>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/zji8bf/sandboxing_with_minimal_effort"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/zji8bf</guid>
       <pubDate>Wed, 23 Sep 2026 05:08:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>[distributed] Redis is not a map you talk to over TCP</title>
-      <link>https://blog.verygoodsoftwarenotvirus.dev/posts/2026/09/22/redis-is-not-a-map-you-talk-to-over-tcp/</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/sfhrrp/redis_is_not_map_you_talk_over_tcp"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/sfhrrp</guid>
-      <pubDate>Wed, 23 Sep 2026 05:00:36 +0000</pubDate>
     </item>
     <item>
       <title>[security] GitHub Actions leaking secrets when Miri output is cached</title>
@@ -314,20 +335,6 @@ Test instance where you are welcome to make a mess: &lt;a href="https://squalk-t
       <pubDate>Wed, 16 Sep 2026 06:31:52 +0000</pubDate>
     </item>
     <item>
-      <title>[security] Apple Reference Image: A New Approach for Verified Photography</title>
-      <link>https://security.apple.com/blog/apple-reference-image/</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/mmrtig/apple_reference_image_new_approach_for"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/mmrtig</guid>
-      <pubDate>Wed, 16 Sep 2026 04:19:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>[security] 1Password's AI patching benchmark is misleading</title>
-      <link>https://blog.trailofbits.com/2026/09/15/1passwords-ai-patching-benchmark-is-misleading/</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/qx8dxe/1password_s_ai_patching_benchmark_is"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/qx8dxe</guid>
-      <pubDate>Tue, 15 Sep 2026 20:03:12 +0000</pubDate>
-    </item>
-    <item>
       <title>[practices] From Intern to Software Architect</title>
       <link>https://chauhankiran.blogspot.com/2026/09/levels.html</link>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/jsvadf/from_intern_software_architect"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
@@ -532,13 +539,6 @@ Test instance where you are welcome to make a mess: &lt;a href="https://squalk-t
       <pubDate>Fri, 04 Sep 2026 12:39:32 +0000</pubDate>
     </item>
     <item>
-      <title>[practices] simple is not small</title>
-      <link>https://jyn.dev/simple-is-not-the-same-as-small/</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/entcaa/simple_is_not_small"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/entcaa</guid>
-      <pubDate>Thu, 03 Sep 2026 21:24:19 +0000</pubDate>
-    </item>
-    <item>
       <title>[vcs] jujutsu 0.45.0</title>
       <link>https://github.com/jj-vcs/jj/releases/tag/v0.45.0</link>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/zudpcb/jujutsu_0_45_0"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
@@ -546,7 +546,7 @@ Test instance where you are welcome to make a mess: &lt;a href="https://squalk-t
       <pubDate>Thu, 03 Sep 2026 10:02:34 +0000</pubDate>
     </item>
     <item>
-      <title>[distributed, practices] The pattern language of software architecture</title>
+      <title>[distributed] The pattern language of software architecture</title>
       <link>https://metapatterns.io/</link>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/mkpgrk/pattern_language_software_architecture"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/mkpgrk</guid>
@@ -772,6 +772,13 @@ Test instance where you are welcome to make a mess: &lt;a href="https://squalk-t
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ngz2wn/activitypub_won_by_being_boring"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/ngz2wn</guid>
       <pubDate>Fri, 14 Aug 2026 18:44:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>[distributed] Eight tips about consent for fediverse developers</title>
+      <link>https://thenexusofprivacy.net/consent-for-fediverse-developers/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/oxonrx/eight_tips_about_consent_for_fediverse"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/oxonrx</guid>
+      <pubDate>Thu, 13 Aug 2026 16:42:25 +0000</pubDate>
     </item>
     <item>
       <title>[devops] beszel</title>
