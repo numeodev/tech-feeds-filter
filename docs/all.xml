@@ -8,13 +8,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 24 Sep 2026 02:14:17 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 07:57:35 +0000</lastBuildDate>
     <item>
-      <title>[practices] FLAWED’s Flaws and What This Means for Industry Research — Suha Sabi Hussain</title>
-      <link>https://suhacker.ai/p/flaweds-flaws-and-what-this-means-for-industry-research/</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/3yywjl/flawed_s_flaws_what_this_means_for"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/3yywjl</guid>
-      <pubDate>Thu, 24 Sep 2026 01:18:23 +0000</pubDate>
+      <title>[r/sre] How do you handle disaster recovery runbooks for multi cloud environments in practice</title>
+      <link>https://www.reddit.com/r/sre/comments/1wouoqd/how_do_you_handle_disaster_recovery_runbooks_for/</link>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Currently building out a disaster recovery runbook for environments spanning aws and gcp, and honestly feeling overwhelmed by the complexity.&lt;/p&gt; &lt;p&gt;We split infrastructure across both clouds for redundancy, mostly using terraform with some manual configurations and various scripts scattered around. The theory sounds solid for resilience, but our actual runbook has turned into about ten confluence pages, multiple playbooks across different repos, and a somewhat optimistic assumption that we could rebuild production in another region or cloud if something major went wrong.&lt;/p&gt; &lt;p&gt;Our security and compliance team keeps pushing for concrete RTO numbers and demonstrable proof we can restore complete environments quickly, including all the supporting pieces like iam configs, policies, secrets management, kafka topics, database subnet groups, dns routing, and everything else. We run some chaos engineering exercises but they typically focus on single region failures or individual managed service issues, not full provider outages or complex tenant problems. Not sure how realistic it is to target genuine multi cloud failover with hard evidence rather than theoretical plans.&lt;/p&gt; &lt;p&gt;For those with DR strategies you feel confident about, what does your actual runbook look like day to day, who maintains ownership, and how much is automated versus manual documentation? Open to any practical advice&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/Meloduriahicin4264"&gt; /u/Meloduriahicin4264 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/r/sre/comments/1wouoqd/how_do_you_handle_disaster_recovery_runbooks_for/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/sre/comments/1wouoqd/how_do_you_handle_disaster_recovery_runbooks_for/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</description>
+      <guid isPermaLink="false">https://www.reddit.com/r/sre/t3_1wouoqd</guid>
+      <pubDate>Thu, 24 Sep 2026 07:01:10 +0000</pubDate>
     </item>
     <item>
       <title>Show HN: HookDeploy – Webhook infra with mTLS private delivery</title>
@@ -435,7 +435,7 @@ Test instance where you are welcome to make a mess: &lt;a href="https://squalk-t
     <item>
       <title>Salesforce Global Outage</title>
       <link>https://status.salesforce.com/products/all</link>
-      <description>280 points, 183 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49724488'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>280 points, 184 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49724488'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=49724488</guid>
       <pubDate>Wed, 16 Sep 2026 10:37:08 +0000</pubDate>
     </item>
@@ -637,13 +637,6 @@ Test instance where you are welcome to make a mess: &lt;a href="https://squalk-t
       <pubDate>Thu, 10 Sep 2026 08:15:49 +0000</pubDate>
     </item>
     <item>
-      <title>The Daily Clouflare Outage of Today</title>
-      <link>https://www.cloudflarestatus.com/incidents/sjs8s0q2x4hw</link>
-      <description>3 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49639503'&gt;discussion sur Hacker News&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49639503</guid>
-      <pubDate>Thu, 10 Sep 2026 07:01:11 +0000</pubDate>
-    </item>
-    <item>
       <title>[practices] Switching Password Managers in 2026</title>
       <link>https://rmondello.com/2026/09/07/switching-password-managers-2026/</link>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ikzvtv/switching_password_managers_2026"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
@@ -733,6 +726,13 @@ Test instance where you are welcome to make a mess: &lt;a href="https://squalk-t
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/j2hxnq/git_submodules_as_package_manager"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/j2hxnq</guid>
       <pubDate>Sat, 05 Sep 2026 06:20:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>[practices] Performance Engineering on Hard Mode</title>
+      <link>https://signalsandthreads.com/performance-engineering-on-hard-mode/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/8hsckf/performance_engineering_on_hard_mode"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/8hsckf</guid>
+      <pubDate>Fri, 04 Sep 2026 12:39:32 +0000</pubDate>
     </item>
     <item>
       <title>[vcs] jujutsu 0.45.0</title>
