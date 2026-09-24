@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 23 Sep 2026 23:20:19 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 02:14:15 +0000</lastBuildDate>
     <item>
       <title>Show HN: HookDeploy – Webhook infra with mTLS private delivery</title>
       <link>https://hookdeploy.dev</link>
@@ -183,13 +183,6 @@
       <description>3 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49639503'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=49639503</guid>
       <pubDate>Thu, 10 Sep 2026 07:01:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>RyTuneX 1.7.1: open-source Windows 10/11 optimizer adds per-item rollback</title>
-      <link>https://github.com/rayenghanmi/RyTuneX</link>
-      <description>3 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49636639'&gt;discussion sur Hacker News&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49636639</guid>
-      <pubDate>Thu, 10 Sep 2026 00:33:27 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 23 Sep 2026 23:20:20 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 02:14:17 +0000</lastBuildDate>
+    <item>
+      <title>[practices] FLAWED’s Flaws and What This Means for Industry Research — Suha Sabi Hussain</title>
+      <link>https://suhacker.ai/p/flaweds-flaws-and-what-this-means-for-industry-research/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/3yywjl/flawed_s_flaws_what_this_means_for"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/3yywjl</guid>
+      <pubDate>Thu, 24 Sep 2026 01:18:23 +0000</pubDate>
+    </item>
     <item>
       <title>[distributed, security, vcs] Radicle: Disclosure of Vulnerability in the Network Protocol</title>
       <link>https://radicle.dev/2026/09/23/disclosure-of-vulnerability-in-network-protocol.html</link>
@@ -530,13 +537,6 @@ Test instance where you are welcome to make a mess: &lt;a href="https://squalk-t
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/j2hxnq/git_submodules_as_package_manager"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/j2hxnq</guid>
       <pubDate>Sat, 05 Sep 2026 06:20:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>[practices] Performance Engineering on Hard Mode</title>
-      <link>https://signalsandthreads.com/performance-engineering-on-hard-mode/</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/8hsckf/performance_engineering_on_hard_mode"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/8hsckf</guid>
-      <pubDate>Fri, 04 Sep 2026 12:39:32 +0000</pubDate>
     </item>
     <item>
       <title>[vcs] jujutsu 0.45.0</title>
