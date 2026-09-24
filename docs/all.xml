@@ -8,7 +8,43 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 24 Sep 2026 13:08:28 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 18:03:51 +0000</lastBuildDate>
+    <item>
+      <title>[practices] AI Workers' Inquiry 2026</title>
+      <link>https://techworkersinquiry.org/ai/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/uxvwlo/ai_workers_inquiry_2026"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/uxvwlo</guid>
+      <pubDate>Thu, 24 Sep 2026 17:41:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>[security] Forging 1024-bit RSA signatures in nearly SNFS time</title>
+      <link>https://eprint.iacr.org/2026/2131.pdf</link>
+      <description>&lt;p&gt;Alternate title: Nearly SNFS-Speed Signature Forgery Sans Factoring N (NSNFSSSFSFN)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Abstract.&lt;/strong&gt; The security of RSA is generally understood to be based on
+the complexity of factoring, and key size parameters are extrapolated
+from the general number field sieve (GNFS). However, this may not
+accurately represent RSA security in practical scenarios.&lt;/p&gt;
+&lt;p&gt;An under-appreciated 2007 algorithm of Joux, Naccache, and Thomé
+allows an attacker to forge RSA signatures after temporary access to a
+raw RSA signing/decryption oracle in time close to the &lt;em&gt;special&lt;/em&gt; number
+field sieve (SNFS) without factoring the key. We implement and run this
+algorithm for 1024-bit RSA. In total, the attack took 1380 CPU core-years over five calendar months, and made 232 oracle queries. Most of
+this time is precomputation; after the precomputation the attacker can
+forge any signature of choice, offline, in 180 core-years.&lt;/p&gt;
+&lt;p&gt;We carried out our attack using a hardware security module (HSM) as
+the signing oracle, thus demonstrating the ability to impersonate the
+HSM through black-box API interactions, without exfiltrating the key.
+Blind RSA schemes also provide such a signing oracle.&lt;/p&gt;
+&lt;p&gt;Extrapolating our empirical running times to larger key sizes, we conclude that the concrete security of RSA with a signing oracle should be
+15 to 30 bits lower than the factoring-based security estimates for the
+1024-bit to 4096-bit RSA parameters that are common in practice. Even
+4096-bit RSA does not appear to meet a 128-bit security level in this
+attack model. This highlights a gap in current RSA-type security assumptions, and gives classical cryptanalytic evidence in favor of moving
+away from RSA entirely during the current post-quantum transition.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://lobste.rs/s/ah5jnf/forging_1024_bit_rsa_signatures_nearly"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/ah5jnf</guid>
+      <pubDate>Thu, 24 Sep 2026 15:13:35 +0000</pubDate>
+    </item>
     <item>
       <title>[r/sre] Best cloud disaster recovery tools in 2026?</title>
       <link>https://www.reddit.com/r/sre/comments/1woz5ud/best_cloud_disaster_recovery_tools_in_2026/</link>
@@ -433,13 +469,6 @@ Test instance where you are welcome to make a mess: &lt;a href="https://squalk-t
       <pubDate>Wed, 16 Sep 2026 15:48:13 +0000</pubDate>
     </item>
     <item>
-      <title>[security] Forgery of C2PA on a Pixel 10</title>
-      <link>https://www.hackerfactor.com/blog/index.php?/archives/1102-C2PA-and-Pixel-Glitter-Milk.html</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/tgrvxh/forgery_c2pa_on_pixel_10"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/tgrvxh</guid>
-      <pubDate>Wed, 16 Sep 2026 13:24:31 +0000</pubDate>
-    </item>
-    <item>
       <title>Salesforce Global Outage</title>
       <link>https://status.salesforce.com/products/all</link>
       <description>280 points, 184 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49724488'&gt;discussion sur Hacker News&lt;/a&gt;</description>
@@ -719,13 +748,6 @@ Test instance where you are welcome to make a mess: &lt;a href="https://squalk-t
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/kcklzg/anatomy_test"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/kcklzg</guid>
       <pubDate>Sat, 05 Sep 2026 17:50:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>[practices] AI handles incidents, engineers lose touch with their systems</title>
-      <link>https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/gbv3vr/ai_handles_incidents_engineers_lose"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/gbv3vr</guid>
-      <pubDate>Sat, 05 Sep 2026 10:57:04 +0000</pubDate>
     </item>
     <item>
       <title>[vcs] Git Submodules as a Package Manager</title>
