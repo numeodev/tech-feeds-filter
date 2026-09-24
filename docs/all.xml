@@ -8,13 +8,34 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 24 Sep 2026 18:03:51 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 21:53:47 +0000</lastBuildDate>
     <item>
-      <title>[practices] AI Workers' Inquiry 2026</title>
-      <link>https://techworkersinquiry.org/ai/</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/uxvwlo/ai_workers_inquiry_2026"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/uxvwlo</guid>
-      <pubDate>Thu, 24 Sep 2026 17:41:35 +0000</pubDate>
+      <title>[security] SourceHut account takeover via build logs (XSS in ansi2html.py)</title>
+      <link>https://blog.arusekk.pl/posts/srht-account-takeover/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ky1cr0/sourcehut_account_takeover_via_build"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/ky1cr0</guid>
+      <pubDate>Thu, 24 Sep 2026 20:38:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>August 27 TCRF DDoS Attack Postmortem</title>
+      <link>https://blog.xkeeper.net/the-cutting-room-floor/tcrf-2026-ddos-postmortem/</link>
+      <description>12 points, 4 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49835913'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49835913</guid>
+      <pubDate>Thu, 24 Sep 2026 19:46:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>[practices] katamari architecture</title>
+      <link>https://nove.dev/blog/katamari-architecture/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/f0buwg/katamari_architecture"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/f0buwg</guid>
+      <pubDate>Thu, 24 Sep 2026 18:20:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>[security] Apple's Two-Tier Encryption in the UK</title>
+      <link>https://macanorak.com/two-tier-encryption-in-the-uk/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/n5l90o/apple_s_two_tier_encryption_uk"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/n5l90o</guid>
+      <pubDate>Thu, 24 Sep 2026 18:05:22 +0000</pubDate>
     </item>
     <item>
       <title>[security] Forging 1024-bit RSA signatures in nearly SNFS time</title>
@@ -398,13 +419,6 @@ Test instance where you are welcome to make a mess: &lt;a href="https://squalk-t
       <pubDate>Thu, 17 Sep 2026 21:21:18 +0000</pubDate>
     </item>
     <item>
-      <title>[security] Be alert: targeted attacks on prominent Rustaceans</title>
-      <link>https://blog.rust-lang.org/2026/09/17/targeted-attacks/</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/uz30ed/be_alert_targeted_attacks_on_prominent"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/uz30ed</guid>
-      <pubDate>Thu, 17 Sep 2026 18:10:52 +0000</pubDate>
-    </item>
-    <item>
       <title>Cursor is currently experiencing a major outage</title>
       <link>https://status.cursor.com</link>
       <description>3 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49743871'&gt;discussion sur Hacker News&lt;/a&gt;</description>
@@ -417,13 +431,6 @@ Test instance where you are welcome to make a mess: &lt;a href="https://squalk-t
       <description>1 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49741059'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=49741059</guid>
       <pubDate>Thu, 17 Sep 2026 14:12:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>[security] The skb that wasn't freed - the Fragnesia primitive via Open vSwitch</title>
-      <link>https://blog.doyensec.com/2026/09/17/ovs.html</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/q6f60y/skb_wasn_t_freed_fragnesia_primitive_via"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/q6f60y</guid>
-      <pubDate>Thu, 17 Sep 2026 08:39:34 +0000</pubDate>
     </item>
     <item>
       <title>[devops] Backups aren't simple</title>
