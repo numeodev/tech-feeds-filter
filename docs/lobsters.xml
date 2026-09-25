@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 24 Sep 2026 21:53:47 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 00:09:21 +0000</lastBuildDate>
     <item>
       <title>[security] SourceHut account takeover via build logs (XSS in ansi2html.py)</title>
       <link>https://blog.arusekk.pl/posts/srht-account-takeover/</link>
@@ -58,13 +58,6 @@ away from RSA entirely during the current post-quantum transition.&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://lobste.rs/s/ah5jnf/forging_1024_bit_rsa_signatures_nearly"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/ah5jnf</guid>
       <pubDate>Thu, 24 Sep 2026 15:13:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>[practices] Agents: The new, New Kingmakers</title>
-      <link>https://redmonk.com/sogrady/2026/09/16/new-new-kingmakers/</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/uviiyx/agents_new_new_kingmakers"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/uviiyx</guid>
-      <pubDate>Thu, 24 Sep 2026 09:02:44 +0000</pubDate>
     </item>
     <item>
       <title>[distributed, security, vcs] Radicle: Disclosure of Vulnerability in the Network Protocol</title>
@@ -552,6 +545,13 @@ Test instance where you are welcome to make a mess: &lt;a href="https://squalk-t
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/kcklzg/anatomy_test"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/kcklzg</guid>
       <pubDate>Sat, 05 Sep 2026 17:50:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>[practices] AI handles incidents, engineers lose touch with their systems</title>
+      <link>https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/gbv3vr/ai_handles_incidents_engineers_lose"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/gbv3vr</guid>
+      <pubDate>Sat, 05 Sep 2026 10:57:04 +0000</pubDate>
     </item>
     <item>
       <title>[vcs] Git Submodules as a Package Manager</title>

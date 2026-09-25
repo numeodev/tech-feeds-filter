@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 24 Sep 2026 21:53:47 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 00:09:21 +0000</lastBuildDate>
+    <item>
+      <title>GitLab Outage</title>
+      <link>https://status.gitlab.com/</link>
+      <description>32 points, 10 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49838034'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49838034</guid>
+      <pubDate>Thu, 24 Sep 2026 23:10:44 +0000</pubDate>
+    </item>
     <item>
       <title>[security] SourceHut account takeover via build logs (XSS in ansi2html.py)</title>
       <link>https://blog.arusekk.pl/posts/srht-account-takeover/</link>
@@ -19,7 +26,7 @@
     <item>
       <title>August 27 TCRF DDoS Attack Postmortem</title>
       <link>https://blog.xkeeper.net/the-cutting-room-floor/tcrf-2026-ddos-postmortem/</link>
-      <description>12 points, 4 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49835913'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>21 points, 8 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49835913'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=49835913</guid>
       <pubDate>Thu, 24 Sep 2026 19:46:22 +0000</pubDate>
     </item>
@@ -72,13 +79,6 @@ away from RSA entirely during the current post-quantum transition.&lt;/p&gt;
       <description>&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;We’re revisiting DR for a mostly cloud-hosted environment and trying to separate tools that merely report successful backups from ones that teams have actually relied on during an outage. Our setup is mainly AWS, with a few legacy VM workloads and several SaaS dependencies that would still affect recovery even if our own infrastructure came back cleanly.&lt;/p&gt; &lt;p&gt;The biggest gaps are recovery orchestration, proving backups are usable, and knowing whether our RTO/RPO targets are realistic. For anyone who has recovered from a meaningful incident recently, what tools or approaches held up under pressure? I’m especially interested in whether cloud-native services, dedicated DR platforms, or IaC-based recovery workflows have been most reliable.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/RushstIntellient8060"&gt; /u/RushstIntellient8060 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/r/sre/comments/1woz5ud/best_cloud_disaster_recovery_tools_in_2026/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/sre/comments/1woz5ud/best_cloud_disaster_recovery_tools_in_2026/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</description>
       <guid isPermaLink="false">https://www.reddit.com/r/sre/t3_1woz5ud</guid>
       <pubDate>Thu, 24 Sep 2026 11:32:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>[practices] Agents: The new, New Kingmakers</title>
-      <link>https://redmonk.com/sogrady/2026/09/16/new-new-kingmakers/</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/uviiyx/agents_new_new_kingmakers"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/uviiyx</guid>
-      <pubDate>Thu, 24 Sep 2026 09:02:44 +0000</pubDate>
     </item>
     <item>
       <title>Show HN: HookDeploy – Webhook infra with mTLS private delivery</title>
@@ -755,6 +755,13 @@ Test instance where you are welcome to make a mess: &lt;a href="https://squalk-t
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/kcklzg/anatomy_test"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/kcklzg</guid>
       <pubDate>Sat, 05 Sep 2026 17:50:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>[practices] AI handles incidents, engineers lose touch with their systems</title>
+      <link>https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/gbv3vr/ai_handles_incidents_engineers_lose"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/gbv3vr</guid>
+      <pubDate>Sat, 05 Sep 2026 10:57:04 +0000</pubDate>
     </item>
     <item>
       <title>[vcs] Git Submodules as a Package Manager</title>
