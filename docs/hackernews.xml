@@ -8,18 +8,32 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 25 Sep 2026 10:49:26 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 15:40:19 +0000</lastBuildDate>
+    <item>
+      <title>Show HN: Pingularity – scheduled Ookla/iperf3 speedtest dashboard, outage alerts</title>
+      <link>https://pingularity.dev/</link>
+      <description>2 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49844310'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49844310</guid>
+      <pubDate>Fri, 25 Sep 2026 13:25:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Retries Turn a Short Outage into a Long One</title>
+      <link>https://blog.dochia.dev/blog/retries/</link>
+      <description>1 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49843085'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49843085</guid>
+      <pubDate>Fri, 25 Sep 2026 11:29:15 +0000</pubDate>
+    </item>
     <item>
       <title>GitLab Outage</title>
       <link>https://status.gitlab.com/</link>
-      <description>66 points, 31 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49838034'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>67 points, 36 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49838034'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=49838034</guid>
       <pubDate>Thu, 24 Sep 2026 23:10:44 +0000</pubDate>
     </item>
     <item>
       <title>August 27 TCRF DDoS Attack Postmortem</title>
       <link>https://blog.xkeeper.net/the-cutting-room-floor/tcrf-2026-ddos-postmortem/</link>
-      <description>30 points, 14 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49835913'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>32 points, 14 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49835913'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=49835913</guid>
       <pubDate>Thu, 24 Sep 2026 19:46:22 +0000</pubDate>
     </item>
@@ -176,13 +190,6 @@
       <description>2 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49662143'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=49662143</guid>
       <pubDate>Fri, 11 Sep 2026 17:31:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>Show HN: SolidPing — open-source uptime monitoring, agents inside your network</title>
-      <link>https://solidping.io/d/login?demo=true</link>
-      <description>3 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49656831'&gt;discussion sur Hacker News&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49656831</guid>
-      <pubDate>Fri, 11 Sep 2026 11:48:17 +0000</pubDate>
     </item>
   </channel>
 </rss>
