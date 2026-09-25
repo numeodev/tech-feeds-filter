@@ -8,11 +8,18 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 25 Sep 2026 00:09:21 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 05:36:31 +0000</lastBuildDate>
+    <item>
+      <title>[security] File Notification Attacks: Side-Channel Leakage from the File-Notification System on Linux, Android, Windows, and macOS</title>
+      <link>https://inoti.fyi/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/x6yjrc/file_notification_attacks_side_channel"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/x6yjrc</guid>
+      <pubDate>Fri, 25 Sep 2026 02:50:41 +0000</pubDate>
+    </item>
     <item>
       <title>GitLab Outage</title>
       <link>https://status.gitlab.com/</link>
-      <description>32 points, 10 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49838034'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>60 points, 28 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49838034'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=49838034</guid>
       <pubDate>Thu, 24 Sep 2026 23:10:44 +0000</pubDate>
     </item>
@@ -26,7 +33,7 @@
     <item>
       <title>August 27 TCRF DDoS Attack Postmortem</title>
       <link>https://blog.xkeeper.net/the-cutting-room-floor/tcrf-2026-ddos-postmortem/</link>
-      <description>21 points, 8 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49835913'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>27 points, 13 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49835913'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=49835913</guid>
       <pubDate>Thu, 24 Sep 2026 19:46:22 +0000</pubDate>
     </item>
@@ -412,13 +419,6 @@ Test instance where you are welcome to make a mess: &lt;a href="https://squalk-t
       <pubDate>Fri, 18 Sep 2026 01:05:03 +0000</pubDate>
     </item>
     <item>
-      <title>[security] Flock cameras are riddled with security vulnerabilities and hard-coded credentials</title>
-      <link>https://micahflee.com/flock-cameras-are-riddled-with-security-vulnerabilities-and-hard-coded-credentials/</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/eyg3oe/flock_cameras_are_riddled_with_security"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/eyg3oe</guid>
-      <pubDate>Thu, 17 Sep 2026 21:21:18 +0000</pubDate>
-    </item>
-    <item>
       <title>Cursor is currently experiencing a major outage</title>
       <link>https://status.cursor.com</link>
       <description>3 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49743871'&gt;discussion sur Hacker News&lt;/a&gt;</description>
@@ -636,13 +636,6 @@ Test instance where you are welcome to make a mess: &lt;a href="https://squalk-t
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/bzacyp/fisl_finding_internet_structures_links"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/bzacyp</guid>
       <pubDate>Fri, 11 Sep 2026 08:29:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>Let's Encrypt Outage</title>
-      <link>https://letsencrypt.status.io/pages/incident/55957a99e800baa4470002da/6aa35c1d892d7304f2747e01</link>
-      <description>2 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49652711'&gt;discussion sur Hacker News&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49652711</guid>
-      <pubDate>Fri, 11 Sep 2026 02:07:30 +0000</pubDate>
     </item>
     <item>
       <title>[practices] The Wind, The Wind</title>
