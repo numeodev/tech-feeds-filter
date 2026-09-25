@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 25 Sep 2026 05:36:31 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 10:49:27 +0000</lastBuildDate>
+    <item>
+      <title>[security] Understanding NvPCRs in systemd v262</title>
+      <link>https://katexochen.aro.bz/posts/systemd-v262-nvpcrs/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ya3cl7/understanding_nvpcrs_systemd_v262"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/ya3cl7</guid>
+      <pubDate>Fri, 25 Sep 2026 08:26:44 +0000</pubDate>
+    </item>
     <item>
       <title>[security] File Notification Attacks: Side-Channel Leakage from the File-Notification System on Linux, Android, Windows, and macOS</title>
       <link>https://inoti.fyi/</link>
@@ -305,13 +312,6 @@ Test instance where you are welcome to make a mess: &lt;a href="https://squalk-t
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/tvrnbv/not_my_git_yard_catching_backdoors_at"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/tvrnbv</guid>
       <pubDate>Fri, 18 Sep 2026 08:14:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>[security] A quartet of Linux local root vulns: DirtyAH6, PPPoEject, TUNderflow, and DiagSpill</title>
-      <link>https://seclists.org/oss-sec/2026/q3/822</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/7d3zs8/quartet_linux_local_root_vulns_dirtyah6"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/7d3zs8</guid>
-      <pubDate>Fri, 18 Sep 2026 07:57:04 +0000</pubDate>
     </item>
     <item>
       <title>[devops] Backups aren't simple</title>
