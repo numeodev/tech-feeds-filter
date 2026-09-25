@@ -8,7 +8,21 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 25 Sep 2026 19:42:26 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 22:57:31 +0000</lastBuildDate>
+    <item>
+      <title>[distributed] Kafgres: Embedding a Kafka Broker into Postgres</title>
+      <link>https://rynr.dev/blog/kafgres/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/wkn1lr/kafgres_embedding_kafka_broker_into"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/wkn1lr</guid>
+      <pubDate>Fri, 25 Sep 2026 21:20:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>[practices] How to use this project?</title>
+      <link>https://github.com/antirez/ds4#how-to-use-this-project</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/5qgygw/how_use_this_project"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/5qgygw</guid>
+      <pubDate>Fri, 25 Sep 2026 21:01:44 +0000</pubDate>
+    </item>
     <item>
       <title>[security] Cross-Site Scripting (XSS) Cheat Sheet</title>
       <link>https://portswigger.net/web-security/cross-site-scripting/cheat-sheet</link>
@@ -71,13 +85,6 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/f0buwg/katamari_architecture"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/f0buwg</guid>
       <pubDate>Thu, 24 Sep 2026 18:20:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>[security] Apple's Two-Tier Encryption in the UK</title>
-      <link>https://macanorak.com/two-tier-encryption-in-the-uk/</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/n5l90o/apple_s_two_tier_encryption_uk"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/n5l90o</guid>
-      <pubDate>Thu, 24 Sep 2026 18:05:22 +0000</pubDate>
     </item>
     <item>
       <title>[security] Forging 1024-bit RSA signatures in nearly SNFS time</title>
@@ -426,6 +433,13 @@ Test instance where you are welcome to make a mess: &lt;a href="https://squalk-t
       <pubDate>Fri, 18 Sep 2026 10:26:42 +0000</pubDate>
     </item>
     <item>
+      <title>[security] Not In My Git Yard: Catching Backdoors at Commit and Release Time</title>
+      <link>https://arxiv.org/abs/2607.26719</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/tvrnbv/not_my_git_yard_catching_backdoors_at"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/tvrnbv</guid>
+      <pubDate>Fri, 18 Sep 2026 08:14:44 +0000</pubDate>
+    </item>
+    <item>
       <title>Telstra outage: The night a network decided the year was 2006</title>
       <link>https://www.netnod.se/blog/telstra-outage-night-network-decided-year-was-2006</link>
       <description>93 points, 34 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49748957'&gt;discussion sur Hacker News&lt;/a&gt;</description>
@@ -750,13 +764,6 @@ Test instance where you are welcome to make a mess: &lt;a href="https://squalk-t
       <pubDate>Sat, 05 Sep 2026 17:50:08 +0000</pubDate>
     </item>
     <item>
-      <title>[practices] AI handles incidents, engineers lose touch with their systems</title>
-      <link>https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/gbv3vr/ai_handles_incidents_engineers_lose"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/gbv3vr</guid>
-      <pubDate>Sat, 05 Sep 2026 10:57:04 +0000</pubDate>
-    </item>
-    <item>
       <title>[vcs] Git Submodules as a Package Manager</title>
       <link>https://nesbitt.io/2026/09/01/git-submodules-as-a-package-manager.html</link>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/j2hxnq/git_submodules_as_package_manager"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
@@ -983,13 +990,6 @@ Test instance where you are welcome to make a mess: &lt;a href="https://squalk-t
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/7hkk7s/power_relations"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/7hkk7s</guid>
       <pubDate>Sat, 15 Aug 2026 18:07:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>[distributed] ActivityPub Won by Being Boring</title>
-      <link>https://o.ee/blog/activitypub-won-by-being-boring/</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ngz2wn/activitypub_won_by_being_boring"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/ngz2wn</guid>
-      <pubDate>Fri, 14 Aug 2026 18:44:17 +0000</pubDate>
     </item>
     <item>
       <title>[devops] beszel</title>
