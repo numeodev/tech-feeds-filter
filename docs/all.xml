@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 25 Sep 2026 15:40:20 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 19:42:26 +0000</lastBuildDate>
     <item>
       <title>[security] Cross-Site Scripting (XSS) Cheat Sheet</title>
       <link>https://portswigger.net/web-security/cross-site-scripting/cheat-sheet</link>
@@ -47,7 +47,7 @@
     <item>
       <title>GitLab Outage</title>
       <link>https://status.gitlab.com/</link>
-      <description>67 points, 36 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49838034'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>68 points, 36 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49838034'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=49838034</guid>
       <pubDate>Thu, 24 Sep 2026 23:10:44 +0000</pubDate>
     </item>
@@ -61,7 +61,7 @@
     <item>
       <title>August 27 TCRF DDoS Attack Postmortem</title>
       <link>https://blog.xkeeper.net/the-cutting-room-floor/tcrf-2026-ddos-postmortem/</link>
-      <description>32 points, 14 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49835913'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>33 points, 14 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49835913'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=49835913</guid>
       <pubDate>Thu, 24 Sep 2026 19:46:22 +0000</pubDate>
     </item>
@@ -629,13 +629,6 @@ Test instance where you are welcome to make a mess: &lt;a href="https://squalk-t
       <description>3 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49667480'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=49667480</guid>
       <pubDate>Sat, 12 Sep 2026 00:53:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>Google should provide a technical postmortem of Gemini's 2024 outburst</title>
-      <link>https://www.paritybits.me/google-should-provide-a-technical-postmortem-of-geminis-2024-outburst/</link>
-      <description>2 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49662143'&gt;discussion sur Hacker News&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49662143</guid>
-      <pubDate>Fri, 11 Sep 2026 17:31:46 +0000</pubDate>
     </item>
     <item>
       <title>[distributed] FISL — Finding Internet Structures &amp; Links</title>
