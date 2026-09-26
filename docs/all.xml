@@ -8,7 +8,21 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 26 Sep 2026 01:09:30 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 06:51:18 +0000</lastBuildDate>
+    <item>
+      <title>[practices] There is more to code review than (automatable) detection</title>
+      <link>https://www.adaptivecapacitylabs.com/2026/08/24/there-is-more-to-code-review-than-automatable-detection/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ivunna/there_is_more_code_review_than"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/ivunna</guid>
+      <pubDate>Sat, 26 Sep 2026 06:18:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>[practices] Keep if clauses side-effect free</title>
+      <link>https://www.teamten.com/lawrence/programming/keep-if-clauses-side-effect-free.html</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/buroqq/keep_if_clauses_side_effect_free"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/buroqq</guid>
+      <pubDate>Sat, 26 Sep 2026 03:45:44 +0000</pubDate>
+    </item>
     <item>
       <title>OpenAI Codex 401 Outage</title>
       <link>https://status.openai.com</link>
@@ -755,20 +769,6 @@ Test instance where you are welcome to make a mess: &lt;a href="https://squalk-t
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/rfn2mn/there_s_no_limit_how_bad_code_can_get"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/rfn2mn</guid>
       <pubDate>Sun, 06 Sep 2026 02:05:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>[practices] The revolt of the reader</title>
-      <link>https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/xnqxqe/revolt_reader"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/xnqxqe</guid>
-      <pubDate>Sat, 05 Sep 2026 21:28:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>[practices] Anatomy of a Test</title>
-      <link>https://jonathan-frere.com/posts/anatomy-of-a-test/</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/kcklzg/anatomy_test"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/kcklzg</guid>
-      <pubDate>Sat, 05 Sep 2026 17:50:08 +0000</pubDate>
     </item>
     <item>
       <title>[vcs] Git Submodules as a Package Manager</title>
