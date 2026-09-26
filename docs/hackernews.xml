@@ -8,7 +8,21 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 25 Sep 2026 22:57:30 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 01:09:29 +0000</lastBuildDate>
+    <item>
+      <title>OpenAI Codex 401 Outage</title>
+      <link>https://status.openai.com</link>
+      <description>13 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49851205'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49851205</guid>
+      <pubDate>Fri, 25 Sep 2026 23:07:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Issues with Codex – Identified – Full Outage</title>
+      <link>https://status.openai.com/incidents/01M3DCNWMW57HYK8FJ5FBFPA39</link>
+      <description>27 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49851169'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49851169</guid>
+      <pubDate>Fri, 25 Sep 2026 23:04:25 +0000</pubDate>
+    </item>
     <item>
       <title>Show HN: Pingularity – scheduled Ookla/iperf3 speedtest dashboard, outage alerts</title>
       <link>https://pingularity.dev/</link>
@@ -176,13 +190,6 @@
       <description>4 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49682128'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=49682128</guid>
       <pubDate>Sun, 13 Sep 2026 10:06:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>Military aircraft reportedly blamed for UK air traffic control outage</title>
-      <link>https://www.theguardian.com/world/2026/sep/12/military-aircraft-reportedly-blamed-for-uk-air-traffic-control-outage</link>
-      <description>3 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49667480'&gt;discussion sur Hacker News&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49667480</guid>
-      <pubDate>Sat, 12 Sep 2026 00:53:50 +0000</pubDate>
     </item>
   </channel>
 </rss>

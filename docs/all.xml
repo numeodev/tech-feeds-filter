@@ -8,7 +8,21 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 25 Sep 2026 22:57:31 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 01:09:30 +0000</lastBuildDate>
+    <item>
+      <title>OpenAI Codex 401 Outage</title>
+      <link>https://status.openai.com</link>
+      <description>13 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49851205'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49851205</guid>
+      <pubDate>Fri, 25 Sep 2026 23:07:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Issues with Codex – Identified – Full Outage</title>
+      <link>https://status.openai.com/incidents/01M3DCNWMW57HYK8FJ5FBFPA39</link>
+      <description>27 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49851169'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49851169</guid>
+      <pubDate>Fri, 25 Sep 2026 23:04:25 +0000</pubDate>
+    </item>
     <item>
       <title>[distributed] Kafgres: Embedding a Kafka Broker into Postgres</title>
       <link>https://rynr.dev/blog/kafgres/</link>
@@ -636,13 +650,6 @@ Test instance where you are welcome to make a mess: &lt;a href="https://squalk-t
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/pomjkm/from_git_fossil_2025"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/pomjkm</guid>
       <pubDate>Sun, 13 Sep 2026 07:51:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>Military aircraft reportedly blamed for UK air traffic control outage</title>
-      <link>https://www.theguardian.com/world/2026/sep/12/military-aircraft-reportedly-blamed-for-uk-air-traffic-control-outage</link>
-      <description>3 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49667480'&gt;discussion sur Hacker News&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49667480</guid>
-      <pubDate>Sat, 12 Sep 2026 00:53:50 +0000</pubDate>
     </item>
     <item>
       <title>[distributed] FISL — Finding Internet Structures &amp; Links</title>
