@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 26 Sep 2026 06:51:18 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 11:57:36 +0000</lastBuildDate>
+    <item>
+      <title>[practices] A Roman name for software</title>
+      <link>https://marcosmagueta.com/blog/a-roman-name-for-software/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/5yy6pd/roman_name_for_software"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/5yy6pd</guid>
+      <pubDate>Sat, 26 Sep 2026 11:21:13 +0000</pubDate>
+    </item>
     <item>
       <title>[practices] There is more to code review than (automatable) detection</title>
       <link>https://www.adaptivecapacitylabs.com/2026/08/24/there-is-more-to-code-review-than-automatable-detection/</link>
@@ -762,13 +769,6 @@ Test instance where you are welcome to make a mess: &lt;a href="https://squalk-t
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/1kdrx2/how_federated_stars_2024"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/1kdrx2</guid>
       <pubDate>Sun, 06 Sep 2026 06:05:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>[practices] There's No Limit to How Bad Code Can Get</title>
-      <link>https://zachkehs.com/blog/theres_no_limit_to_how_bad_code_can_get/</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/rfn2mn/there_s_no_limit_how_bad_code_can_get"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/rfn2mn</guid>
-      <pubDate>Sun, 06 Sep 2026 02:05:52 +0000</pubDate>
     </item>
     <item>
       <title>[vcs] Git Submodules as a Package Manager</title>
