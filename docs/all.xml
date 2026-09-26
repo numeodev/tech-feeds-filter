@@ -8,7 +8,21 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 26 Sep 2026 18:51:06 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 21:43:10 +0000</lastBuildDate>
+    <item>
+      <title>[security] Dissecting House of Apple 2 on modern glibc</title>
+      <link>https://jazho76.github.io/house_of_apple_2/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/uhlr9z/dissecting_house_apple_2_on_modern_glibc"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/uhlr9z</guid>
+      <pubDate>Sat, 26 Sep 2026 19:31:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>[security] How I Found a $113,337 AF_ALG Linux Local Privilege Escalation Before Copy Fail</title>
+      <link>https://idnsec.com/research/linux-local-privilege-escalation-with-af-alg/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/j1nvpt/how_i_found_113_337_af_alg_linux_local"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/j1nvpt</guid>
+      <pubDate>Sat, 26 Sep 2026 19:29:50 +0000</pubDate>
+    </item>
     <item>
       <title>[security] Revealing the details of how OpenAI agents hacked Hugging Face</title>
       <link>https://swarmtraces.org/</link>
@@ -459,20 +473,6 @@ Test instance where you are welcome to make a mess: &lt;a href="https://squalk-t
       <description>&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;The trust log for incident 20004433 maintained by Salesforce includes three different causal explanations within 68 minutes.&lt;/p&gt; &lt;p&gt;At 09:10 UTC, the requests for the internal login service are slowing down because the service is consuming the available server resources. At 09:57, they think that the problem is due to a failure of an external dependency affecting the legacy login server; in order to address it, they block an API endpoint, get in touch with their third-party infrastructure provider, and at the same time assign no blame to that provider. By 10:01 they have given up on using restarts as a way of solving the issue. At 10:18 one of their main system components saw an increase in load.&lt;/p&gt; &lt;p&gt;Hypotheses being abandoned in public is what the diagnostic process really amounts to, and it is the first point most incident communications omit.&lt;/p&gt; &lt;p&gt;The incident lifecycle was then managed by the remediation process, with the fix being validated on a single test instance at 10:56, a fleetwide rollout taking place at 11:19, and by 13:13 the rollout had not fully completed for several instances. Customers were instructed to reapply the fix, perform manual restarts, and clear their cached data.&lt;/p&gt; &lt;p&gt;The record shows 912 cases, 596 of them being production cases and 316 sandbox cases, involving 18 countries. The press reports mentioned hundreds. When it was 14:00, they realised that the impact radius was narrower than had originally been thought and began removing the instances from the incident. However, six hours later they had not yet determined which of their own fleet had been affected.&lt;/p&gt; &lt;p&gt;Their strengths consisted in carrying out 25 updates at a cadence of nearly 30 minutes, the impact being brought to an end at 15:26 while the resolved declaration was kept until 18:59. There was three and a half hours' worth of validation, this comprising the investigation of a single isolated customer report. Most of the vendors combine the times for mitigated and resolved.&lt;/p&gt; &lt;p&gt;The most widely reported outage of the year, and the statement concerning a legacy login service causing a fleet of 900 instances to stall was published only once, at 09:57, and no one quoted it.&lt;/p&gt; &lt;p&gt;PS: It's really nice to see them using 'impact radius' and not 'blast radius'.&lt;/p&gt; &lt;p&gt;&lt;a href="https://status.salesforce.com/incidents/20004433"&gt;https://status.salesforce.com/incidents/20004433&lt;/a&gt;&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/jj_at_rootly"&gt; /u/jj_at_rootly &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/r/sre/comments/1wjpm88/salesforces_trust_log_for_wednesday_is_way_more/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/sre/comments/1wjpm88/salesforces_trust_log_for_wednesday_is_way_more/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</description>
       <guid isPermaLink="false">https://www.reddit.com/r/sre/t3_1wjpm88</guid>
       <pubDate>Fri, 18 Sep 2026 13:02:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>[security] I don't like passkeys</title>
-      <link>https://hawksley.dev/blog/i-dont-like-passkeys</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/4a7qly/i_don_t_like_passkeys"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/4a7qly</guid>
-      <pubDate>Fri, 18 Sep 2026 12:52:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>[security] Hacking OpenAI</title>
-      <link>https://www.hacktron.ai/blog/hacking-openai</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/htziuj/hacking_openai"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/htziuj</guid>
-      <pubDate>Fri, 18 Sep 2026 10:26:42 +0000</pubDate>
     </item>
     <item>
       <title>Telstra outage: The night a network decided the year was 2006</title>
