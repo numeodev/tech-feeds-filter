@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 26 Sep 2026 15:41:07 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 18:51:06 +0000</lastBuildDate>
+    <item>
+      <title>[security] Revealing the details of how OpenAI agents hacked Hugging Face</title>
+      <link>https://swarmtraces.org/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/70f3hi/revealing_details_how_openai_agents"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/70f3hi</guid>
+      <pubDate>Sat, 26 Sep 2026 16:27:29 +0000</pubDate>
+    </item>
     <item>
       <title>[practices] A Roman name for software</title>
       <link>https://marcosmagueta.com/blog/a-roman-name-for-software/</link>
@@ -96,7 +103,7 @@
     <item>
       <title>GitLab Outage</title>
       <link>https://status.gitlab.com/</link>
-      <description>68 points, 36 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49838034'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>69 points, 36 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49838034'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=49838034</guid>
       <pubDate>Thu, 24 Sep 2026 23:10:44 +0000</pubDate>
     </item>
@@ -110,7 +117,7 @@
     <item>
       <title>August 27 TCRF DDoS Attack Postmortem</title>
       <link>https://blog.xkeeper.net/the-cutting-room-floor/tcrf-2026-ddos-postmortem/</link>
-      <description>33 points, 14 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49835913'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>34 points, 14 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49835913'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=49835913</guid>
       <pubDate>Thu, 24 Sep 2026 19:46:22 +0000</pubDate>
     </item>
@@ -466,13 +473,6 @@ Test instance where you are welcome to make a mess: &lt;a href="https://squalk-t
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/htziuj/hacking_openai"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/htziuj</guid>
       <pubDate>Fri, 18 Sep 2026 10:26:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>[security] Not In My Git Yard: Catching Backdoors at Commit and Release Time</title>
-      <link>https://arxiv.org/abs/2607.26719</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/tvrnbv/not_my_git_yard_catching_backdoors_at"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/tvrnbv</guid>
-      <pubDate>Fri, 18 Sep 2026 08:14:44 +0000</pubDate>
     </item>
     <item>
       <title>Telstra outage: The night a network decided the year was 2006</title>
