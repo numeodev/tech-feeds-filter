@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 27 Sep 2026 05:59:40 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 27 Sep 2026 11:37:43 +0000</lastBuildDate>
     <item>
       <title>[security] Honeypot on the boykisser forum</title>
       <link>https://blog.boykisser.nl/2026/09/26/honeypot-on-the-boykisser-forum/</link>
@@ -657,13 +657,6 @@ Test instance where you are welcome to make a mess: &lt;a href="https://squalk-t
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/6syfar/what_if_my_git_host_were_static_site"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/6syfar</guid>
       <pubDate>Sun, 13 Sep 2026 16:10:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>GitHub is currently experiencing an active service outage</title>
-      <link>https://www.githubstatus.com/incidents/0rn90wk115q9</link>
-      <description>4 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49682128'&gt;discussion sur Hacker News&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49682128</guid>
-      <pubDate>Sun, 13 Sep 2026 10:06:26 +0000</pubDate>
     </item>
     <item>
       <title>[vcs] From Git to Fossil (2025)</title>
