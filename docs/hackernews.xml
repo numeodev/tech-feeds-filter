@@ -8,11 +8,18 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 28 Sep 2026 16:26:59 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 22:21:05 +0000</lastBuildDate>
+    <item>
+      <title>Show HN: Yengi, a local-first AIdevelopment environment for coding,Blender/Unity</title>
+      <link>https://github.com/mdaiWorks/yengi</link>
+      <description>2 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49879268'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49879268</guid>
+      <pubDate>Mon, 28 Sep 2026 15:08:28 +0000</pubDate>
+    </item>
     <item>
       <title>Log internet outages and show whether they're on your side or the ISP's</title>
       <link>https://github.com/BoazCohenJ/OutageLog</link>
-      <description>1 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49878534'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>1 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49878534'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=49878534</guid>
       <pubDate>Mon, 28 Sep 2026 14:26:50 +0000</pubDate>
     </item>
@@ -190,13 +197,6 @@
       <description>2 points, 2 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49705394'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=49705394</guid>
       <pubDate>Mon, 14 Sep 2026 22:56:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>Why is a Nix rollback just a symlink flip?</title>
-      <link>https://www.labcraft.dev/blog/nix-profiles-generations</link>
-      <description>2 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49704347'&gt;discussion sur Hacker News&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49704347</guid>
-      <pubDate>Mon, 14 Sep 2026 21:28:35 +0000</pubDate>
     </item>
   </channel>
 </rss>
