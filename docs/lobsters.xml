@@ -8,7 +8,21 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 28 Sep 2026 07:58:06 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 16:26:59 +0000</lastBuildDate>
+    <item>
+      <title>[security] HardenedBSD August / September 2026 Status Report</title>
+      <link>https://hardenedbsd.org/article/shawn-webb/2026-09-27/hardenedbsd-august-september-2026-status-report</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/roo5hm/hardenedbsd_august_september_2026"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/roo5hm</guid>
+      <pubDate>Mon, 28 Sep 2026 16:14:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>[practices] Yes, no AI is now a feature</title>
+      <link>https://blog.documentfoundation.org/blog/2026/09/03/yes-no-ai-is-now-a-feature/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/sxcz4v/yes_no_ai_is_now_feature"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/sxcz4v</guid>
+      <pubDate>Mon, 28 Sep 2026 09:58:26 +0000</pubDate>
+    </item>
     <item>
       <title>[practices] Pragmatic Anthropomorphism, or: How to Talk to an Autocompleting Cricket</title>
       <link>https://blog.lmorchard.com/2026/09/27/pragmatic-anthropomorphism/</link>
@@ -342,7 +356,7 @@ Test instance where you are welcome to make a mess: &lt;a href="https://squalk-t
       <pubDate>Sat, 19 Sep 2026 19:27:46 +0000</pubDate>
     </item>
     <item>
-      <title>[devops, security] Secure VMs for Kubernetes: Hardening Kata containers</title>
+      <title>[devops] Secure VMs for Kubernetes: Hardening Kata containers</title>
       <link>https://srcreigh.ca/posts/auditable-kata/</link>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/yfz406/secure_vms_for_kubernetes_hardening_kata"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/yfz406</guid>
@@ -538,13 +552,6 @@ Test instance where you are welcome to make a mess: &lt;a href="https://squalk-t
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/8hz82r/hardening_container_images"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/8hz82r</guid>
       <pubDate>Mon, 07 Sep 2026 21:39:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>[practices] Conquering Entropy: Cultivating Trust</title>
-      <link>https://kaeruct.github.io/posts/2026/09/06/conquering-entropy-cultivating-trust/</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ift0hu/conquering_entropy_cultivating_trust"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/ift0hu</guid>
-      <pubDate>Mon, 07 Sep 2026 19:39:06 +0000</pubDate>
     </item>
     <item>
       <title>[devops] The Life of a Metric</title>

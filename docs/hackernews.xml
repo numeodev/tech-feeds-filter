@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 28 Sep 2026 07:58:05 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 16:26:59 +0000</lastBuildDate>
+    <item>
+      <title>Log internet outages and show whether they're on your side or the ISP's</title>
+      <link>https://github.com/BoazCohenJ/OutageLog</link>
+      <description>1 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49878534'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49878534</guid>
+      <pubDate>Mon, 28 Sep 2026 14:26:50 +0000</pubDate>
+    </item>
     <item>
       <title>Turning Failure Postmortems into SRE-Benchmark Problems</title>
       <link>https://www.sregym.com/blog/postmortems-to-sre-benchmarks</link>
@@ -54,7 +61,7 @@
     <item>
       <title>GitLab Outage</title>
       <link>https://status.gitlab.com/</link>
-      <description>69 points, 36 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49838034'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>70 points, 36 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49838034'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=49838034</guid>
       <pubDate>Thu, 24 Sep 2026 23:10:44 +0000</pubDate>
     </item>
@@ -166,7 +173,7 @@
     <item>
       <title>Prisma's pgbouncer=true on Supabase made every query 4 round-trips (postmortem)</title>
       <link>https://blog.simbastack.com/four-round-trips-six-months/</link>
-      <description>8 points, 10 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49711486'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>9 points, 10 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49711486'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=49711486</guid>
       <pubDate>Tue, 15 Sep 2026 12:24:59 +0000</pubDate>
     </item>
