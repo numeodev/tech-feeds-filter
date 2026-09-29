@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 28 Sep 2026 22:21:05 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 02:24:35 +0000</lastBuildDate>
     <item>
       <title>[security] HardenedBSD August / September 2026 Status Report</title>
       <link>https://hardenedbsd.org/article/shawn-webb/2026-09-27/hardenedbsd-august-september-2026-status-report</link>
@@ -656,20 +656,6 @@ Test instance where you are welcome to make a mess: &lt;a href="https://squalk-t
       <description>&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Every RCA tool I've tried is really good at identifying the trigger and mediocre at identifying the actual root cause. It'll tell you deployment X correlated with the spike, which is true and also not that helpful when the real issue is a dependency three services away that's been degrading slowly for a week.&lt;/p&gt; &lt;p&gt;I think the honest answer is these tools are useful for narrowing a search space fast, going from &amp;quot;something broke somewhere&amp;quot; to &amp;quot;here are your top three suspects,&amp;quot; but the human still has to close the loop on causality. Has anyone gotten an automated RCA setup to actually nail root cause without a person doing the final synthesis, or is that still mostly aspirational marketing from vendors?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/Acrobatic_Refuse8100"&gt; /u/Acrobatic_Refuse8100 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/r/sre/comments/1wguk7p/can_automated_root_cause_analysis_reliably/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/sre/comments/1wguk7p/can_automated_root_cause_analysis_reliably/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</description>
       <guid isPermaLink="false">https://www.reddit.com/r/sre/t3_1wguk7p</guid>
       <pubDate>Tue, 15 Sep 2026 08:34:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Analysis: Why Rollback Netcode Is Better (2020) [video]</title>
-      <link>https://www.youtube.com/watch?v=0NLe4IpdS1w</link>
-      <description>1 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49706862'&gt;discussion sur Hacker News&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49706862</guid>
-      <pubDate>Tue, 15 Sep 2026 02:11:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>Quay.io is read-only due to an outage</title>
-      <link>https://status.redhat.com/incidents/0g8rsg3tbjpz</link>
-      <description>2 points, 2 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49705394'&gt;discussion sur Hacker News&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49705394</guid>
-      <pubDate>Mon, 14 Sep 2026 22:56:21 +0000</pubDate>
     </item>
     <item>
       <title>[practices] "Do You Still Read the Code?"</title>
