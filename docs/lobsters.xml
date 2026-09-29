@@ -8,7 +8,21 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 29 Sep 2026 02:24:35 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 09:17:24 +0000</lastBuildDate>
+    <item>
+      <title>[practices] What makes software development engineering</title>
+      <link>https://parksb.github.io/en/article/44.html</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/scgtd6/what_makes_software_development"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/scgtd6</guid>
+      <pubDate>Tue, 29 Sep 2026 07:49:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>[distributed] First steps of the PLC organization</title>
+      <link>https://blog.plcred.org/3mwlphq42d227</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/xaqlnv/first_steps_plc_organization"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/xaqlnv</guid>
+      <pubDate>Tue, 29 Sep 2026 06:57:31 +0000</pubDate>
+    </item>
     <item>
       <title>[security] HardenedBSD August / September 2026 Status Report</title>
       <link>https://hardenedbsd.org/article/shawn-webb/2026-09-27/hardenedbsd-august-september-2026-status-report</link>
@@ -540,13 +554,6 @@ Test instance where you are welcome to make a mess: &lt;a href="https://squalk-t
       <pubDate>Thu, 10 Sep 2026 08:15:49 +0000</pubDate>
     </item>
     <item>
-      <title>[practices] Switching Password Managers in 2026</title>
-      <link>https://rmondello.com/2026/09/07/switching-password-managers-2026/</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ikzvtv/switching_password_managers_2026"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/ikzvtv</guid>
-      <pubDate>Tue, 08 Sep 2026 13:55:09 +0000</pubDate>
-    </item>
-    <item>
       <title>[devops] Hardening Container Images</title>
       <link>https://www.grepular.com/Hardening_Container_Images</link>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/8hz82r/hardening_container_images"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
@@ -787,13 +794,6 @@ Test instance where you are welcome to make a mess: &lt;a href="https://squalk-t
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/bhhcf3/tour_magit_s_status_interface"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/bhhcf3</guid>
       <pubDate>Sun, 16 Aug 2026 10:30:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>[distributed] Power Relations</title>
-      <link>https://corbinsimpson.com/words/power-relations.html</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/7hkk7s/power_relations"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/7hkk7s</guid>
-      <pubDate>Sat, 15 Aug 2026 18:07:08 +0000</pubDate>
     </item>
     <item>
       <title>[devops] beszel</title>
