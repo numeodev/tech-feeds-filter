@@ -8,11 +8,33 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 29 Sep 2026 16:14:57 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 21:10:06 +0000</lastBuildDate>
+    <item>
+      <title>[vcs] Change Tours | Because understanding a code change is hard</title>
+      <link>https://hannahpotter.github.io/projects/change_tours.html</link>
+      <description>&lt;p&gt;Project available at &lt;a href="https://github.com/hannahpotter/changetours-vscode-pull-request-github" rel="ugc"&gt;https://github.com/hannahpotter/changetours-vscode-pull-request-github&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://lobste.rs/s/gl9h27/change_tours_because_understanding_code"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/gl9h27</guid>
+      <pubDate>Tue, 29 Sep 2026 20:57:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>[vcs] The Shell &amp; Email</title>
+      <link>https://www.machtiani.chat/blogs/the-shell</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/joqdsi/shell_email"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/joqdsi</guid>
+      <pubDate>Tue, 29 Sep 2026 20:14:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>[security] Getting root on OnePlus 15 from an untrusted app</title>
+      <link>https://blog.nns.ee/2026/09/24/oneplus-root/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/a5rcxy/getting_root_on_oneplus_15_from_untrusted"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/a5rcxy</guid>
+      <pubDate>Tue, 29 Sep 2026 17:25:55 +0000</pubDate>
+    </item>
     <item>
       <title>Claude partial outage</title>
       <link>https://status.claude.com/incidents/4xvtc2gnq73l</link>
-      <description>157 points, 126 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49893876'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>168 points, 142 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49893876'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=49893876</guid>
       <pubDate>Tue, 29 Sep 2026 14:25:41 +0000</pubDate>
     </item>
@@ -503,13 +525,6 @@ Test instance where you are welcome to make a mess: &lt;a href="https://squalk-t
       <pubDate>Sat, 19 Sep 2026 22:12:18 +0000</pubDate>
     </item>
     <item>
-      <title>[security] we have a year to fix security everywhere</title>
-      <link>https://jyn.dev/a-year-to-fix-security/</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/re9wk8/we_have_year_fix_security_everywhere"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/re9wk8</guid>
-      <pubDate>Sat, 19 Sep 2026 19:27:46 +0000</pubDate>
-    </item>
-    <item>
       <title>[devops] Secure VMs for Kubernetes: Hardening Kata containers</title>
       <link>https://srcreigh.ca/posts/auditable-kata/</link>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/yfz406/secure_vms_for_kubernetes_hardening_kata"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
@@ -670,13 +685,6 @@ Test instance where you are welcome to make a mess: &lt;a href="https://squalk-t
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/3wmby2/postgres_development_activity"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/3wmby2</guid>
       <pubDate>Tue, 15 Sep 2026 12:26:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>[r/sre] Can automated root cause analysis reliably identify production issues?</title>
-      <link>https://www.reddit.com/r/sre/comments/1wguk7p/can_automated_root_cause_analysis_reliably/</link>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Every RCA tool I've tried is really good at identifying the trigger and mediocre at identifying the actual root cause. It'll tell you deployment X correlated with the spike, which is true and also not that helpful when the real issue is a dependency three services away that's been degrading slowly for a week.&lt;/p&gt; &lt;p&gt;I think the honest answer is these tools are useful for narrowing a search space fast, going from &amp;quot;something broke somewhere&amp;quot; to &amp;quot;here are your top three suspects,&amp;quot; but the human still has to close the loop on causality. Has anyone gotten an automated RCA setup to actually nail root cause without a person doing the final synthesis, or is that still mostly aspirational marketing from vendors?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/Acrobatic_Refuse8100"&gt; /u/Acrobatic_Refuse8100 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/r/sre/comments/1wguk7p/can_automated_root_cause_analysis_reliably/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/sre/comments/1wguk7p/can_automated_root_cause_analysis_reliably/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</description>
-      <guid isPermaLink="false">https://www.reddit.com/r/sre/t3_1wguk7p</guid>
-      <pubDate>Tue, 15 Sep 2026 08:34:01 +0000</pubDate>
     </item>
     <item>
       <title>[practices] "Do You Still Read the Code?"</title>
@@ -980,20 +988,6 @@ Test instance where you are welcome to make a mess: &lt;a href="https://squalk-t
 &lt;p&gt;&lt;a href="https://lobste.rs/s/vbaang/dgit_git_forge_on_durable_objects"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/vbaang</guid>
       <pubDate>Tue, 18 Aug 2026 17:41:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>[vcs] GitHub has alternatives, but no replacement</title>
-      <link>https://lalitm.com/post/github-alternatives/</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/izrwdc/github_has_alternatives_no_replacement"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/izrwdc</guid>
-      <pubDate>Mon, 17 Aug 2026 17:12:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>[vcs] A Tour of Magit's Status Interface</title>
-      <link>https://heiwiper.com/posts/magit-status-tour/</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/bhhcf3/tour_magit_s_status_interface"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/bhhcf3</guid>
-      <pubDate>Sun, 16 Aug 2026 10:30:43 +0000</pubDate>
     </item>
     <item>
       <title>[devops] beszel</title>

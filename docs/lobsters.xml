@@ -8,7 +8,29 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 29 Sep 2026 16:14:57 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 21:10:06 +0000</lastBuildDate>
+    <item>
+      <title>[vcs] Change Tours | Because understanding a code change is hard</title>
+      <link>https://hannahpotter.github.io/projects/change_tours.html</link>
+      <description>&lt;p&gt;Project available at &lt;a href="https://github.com/hannahpotter/changetours-vscode-pull-request-github" rel="ugc"&gt;https://github.com/hannahpotter/changetours-vscode-pull-request-github&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://lobste.rs/s/gl9h27/change_tours_because_understanding_code"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/gl9h27</guid>
+      <pubDate>Tue, 29 Sep 2026 20:57:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>[vcs] The Shell &amp; Email</title>
+      <link>https://www.machtiani.chat/blogs/the-shell</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/joqdsi/shell_email"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/joqdsi</guid>
+      <pubDate>Tue, 29 Sep 2026 20:14:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>[security] Getting root on OnePlus 15 from an untrusted app</title>
+      <link>https://blog.nns.ee/2026/09/24/oneplus-root/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/a5rcxy/getting_root_on_oneplus_15_from_untrusted"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/a5rcxy</guid>
+      <pubDate>Tue, 29 Sep 2026 17:25:55 +0000</pubDate>
+    </item>
     <item>
       <title>[distributed] Deterministic Concurrency</title>
       <link>https://www.youtube.com/watch?v=25x0UuSCKuU</link>
@@ -368,13 +390,6 @@ Test instance where you are welcome to make a mess: &lt;a href="https://squalk-t
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/cvqxkk/zk_jpeg_zero_knowledge_image_editing"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/cvqxkk</guid>
       <pubDate>Sat, 19 Sep 2026 23:38:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>[security] we have a year to fix security everywhere</title>
-      <link>https://jyn.dev/a-year-to-fix-security/</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/re9wk8/we_have_year_fix_security_everywhere"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/re9wk8</guid>
-      <pubDate>Sat, 19 Sep 2026 19:27:46 +0000</pubDate>
     </item>
     <item>
       <title>[devops] Secure VMs for Kubernetes: Hardening Kata containers</title>
@@ -777,20 +792,6 @@ Test instance where you are welcome to make a mess: &lt;a href="https://squalk-t
 &lt;p&gt;&lt;a href="https://lobste.rs/s/vbaang/dgit_git_forge_on_durable_objects"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/vbaang</guid>
       <pubDate>Tue, 18 Aug 2026 17:41:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>[vcs] GitHub has alternatives, but no replacement</title>
-      <link>https://lalitm.com/post/github-alternatives/</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/izrwdc/github_has_alternatives_no_replacement"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/izrwdc</guid>
-      <pubDate>Mon, 17 Aug 2026 17:12:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>[vcs] A Tour of Magit's Status Interface</title>
-      <link>https://heiwiper.com/posts/magit-status-tour/</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/bhhcf3/tour_magit_s_status_interface"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/bhhcf3</guid>
-      <pubDate>Sun, 16 Aug 2026 10:30:43 +0000</pubDate>
     </item>
     <item>
       <title>[devops] beszel</title>
