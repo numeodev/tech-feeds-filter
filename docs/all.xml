@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 29 Sep 2026 21:10:06 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 00:53:53 +0000</lastBuildDate>
+    <item>
+      <title>[practices] How to work in a software engineering team (2022)</title>
+      <link>https://kimmosaaskilahti.fi/blog/2022/02/25/how-to-work-in-a-software-engineering-team/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/fmnvbk/how_work_software_engineering_team_2022"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/fmnvbk</guid>
+      <pubDate>Tue, 29 Sep 2026 22:34:26 +0000</pubDate>
+    </item>
     <item>
       <title>[vcs] Change Tours | Because understanding a code change is hard</title>
       <link>https://hannahpotter.github.io/projects/change_tours.html</link>
@@ -34,7 +41,7 @@
     <item>
       <title>Claude partial outage</title>
       <link>https://status.claude.com/incidents/4xvtc2gnq73l</link>
-      <description>168 points, 142 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49893876'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>169 points, 143 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49893876'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=49893876</guid>
       <pubDate>Tue, 29 Sep 2026 14:25:41 +0000</pubDate>
     </item>
@@ -687,6 +694,13 @@ Test instance where you are welcome to make a mess: &lt;a href="https://squalk-t
       <pubDate>Tue, 15 Sep 2026 12:26:49 +0000</pubDate>
     </item>
     <item>
+      <title>[r/sre] Can automated root cause analysis reliably identify production issues?</title>
+      <link>https://www.reddit.com/r/sre/comments/1wguk7p/can_automated_root_cause_analysis_reliably/</link>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Every RCA tool I've tried is really good at identifying the trigger and mediocre at identifying the actual root cause. It'll tell you deployment X correlated with the spike, which is true and also not that helpful when the real issue is a dependency three services away that's been degrading slowly for a week.&lt;/p&gt; &lt;p&gt;I think the honest answer is these tools are useful for narrowing a search space fast, going from &amp;quot;something broke somewhere&amp;quot; to &amp;quot;here are your top three suspects,&amp;quot; but the human still has to close the loop on causality. Has anyone gotten an automated RCA setup to actually nail root cause without a person doing the final synthesis, or is that still mostly aspirational marketing from vendors?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/Acrobatic_Refuse8100"&gt; /u/Acrobatic_Refuse8100 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/r/sre/comments/1wguk7p/can_automated_root_cause_analysis_reliably/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/sre/comments/1wguk7p/can_automated_root_cause_analysis_reliably/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</description>
+      <guid isPermaLink="false">https://www.reddit.com/r/sre/t3_1wguk7p</guid>
+      <pubDate>Tue, 15 Sep 2026 08:34:01 +0000</pubDate>
+    </item>
+    <item>
       <title>[practices] "Do You Still Read the Code?"</title>
       <link>https://zanlib.dev/blog/do-you-still-read-the-code/</link>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/qiwlzz/do_you_still_read_code"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
@@ -756,13 +770,6 @@ Test instance where you are welcome to make a mess: &lt;a href="https://squalk-t
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/nbmbxj/conversations_with_jj"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/nbmbxj</guid>
       <pubDate>Thu, 10 Sep 2026 16:48:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>[practices] Knowledge Retention &amp; Sharing in DF/IR</title>
-      <link>http://windowsir.blogspot.com/2026/09/knowledge-retention-sharing-in-dfir.html</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/hdgysn/knowledge_retention_sharing_df_ir"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/hdgysn</guid>
-      <pubDate>Thu, 10 Sep 2026 09:06:21 +0000</pubDate>
     </item>
     <item>
       <title>[distributed] Absolutely Everything You Always Wanted to Know About Watermarks in Apache Flink</title>
