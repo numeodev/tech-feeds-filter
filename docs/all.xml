@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 30 Sep 2026 13:11:02 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 18:42:49 +0000</lastBuildDate>
+    <item>
+      <title>[security] Branch Target Reuse: Spectre-v2 Attacks in JIT Engines</title>
+      <link>https://www.vusec.net/projects/btr/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/y3ppje/branch_target_reuse_spectre_v2_attacks"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/y3ppje</guid>
+      <pubDate>Wed, 30 Sep 2026 18:06:19 +0000</pubDate>
+    </item>
     <item>
       <title>[security] attezt: device attestation, PKCS11 and ACME</title>
       <link>https://media.ccc.de/v/all-systems-go-2026-414-attezt-device-attestation-pkcs11-and-acme#t=30</link>
@@ -54,7 +61,7 @@
     <item>
       <title>Basecamp 5 and Hey Outage Postmortem</title>
       <link>https://www.37status.com/incidents/l1yn9n8f21p6</link>
-      <description>2 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49903386'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>2 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49903386'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=49903386</guid>
       <pubDate>Wed, 30 Sep 2026 01:47:28 +0000</pubDate>
     </item>
@@ -90,7 +97,7 @@
     <item>
       <title>Claude partial outage</title>
       <link>https://status.claude.com/incidents/4xvtc2gnq73l</link>
-      <description>171 points, 144 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49893876'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>171 points, 146 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49893876'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=49893876</guid>
       <pubDate>Tue, 29 Sep 2026 14:25:41 +0000</pubDate>
     </item>
@@ -495,13 +502,6 @@ away from RSA entirely during the current post-quantum transition.&lt;/p&gt;
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/d4wq0w/ju_ju_tsu"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/d4wq0w</guid>
       <pubDate>Mon, 21 Sep 2026 20:59:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>[security] Windows Exploitation Techniques: Dangling COM Object Registrations</title>
-      <link>https://projectzero.google/2026/09/windows-dangling-com.html</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/1somoo/windows_exploitation_techniques"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/1somoo</guid>
-      <pubDate>Mon, 21 Sep 2026 18:21:25 +0000</pubDate>
     </item>
     <item>
       <title>[distributed] Squalk: an old-school forum engine built on Nostr (NIP-29 groups, NIP-7D threads)</title>
