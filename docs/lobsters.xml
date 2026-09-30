@@ -8,7 +8,28 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 30 Sep 2026 06:10:09 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 13:11:02 +0000</lastBuildDate>
+    <item>
+      <title>[security] attezt: device attestation, PKCS11 and ACME</title>
+      <link>https://media.ccc.de/v/all-systems-go-2026-414-attezt-device-attestation-pkcs11-and-acme#t=30</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/obix99/attezt_device_attestation_pkcs11_acme"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/obix99</guid>
+      <pubDate>Wed, 30 Sep 2026 12:23:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>[practices] State of Devs 2026</title>
+      <link>https://2026.stateofdevs.com/en-US</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ysiw3t/state_devs_2026"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/ysiw3t</guid>
+      <pubDate>Wed, 30 Sep 2026 11:40:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>[security] The Cuckoo's Egg</title>
+      <link>https://en.wikipedia.org/wiki/The_Cuckoo%27s_Egg_(book)</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/nicozi/cuckoo_s_egg"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/nicozi</guid>
+      <pubDate>Wed, 30 Sep 2026 08:48:43 +0000</pubDate>
+    </item>
     <item>
       <title>[security] Fake Express Packages on npm Spread a Linux Worm</title>
       <link>https://safedep.io/dirtyblanket-express-impersonation-npm</link>
@@ -364,13 +385,6 @@ Test instance where you are welcome to make a mess: &lt;a href="https://squalk-t
       <pubDate>Mon, 21 Sep 2026 14:27:08 +0000</pubDate>
     </item>
     <item>
-      <title>[security] Software sandboxing: The basics (2025)</title>
-      <link>https://blog.emilua.org/2025/01/12/software-sandboxing-basics/</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/brptxb/software_sandboxing_basics_2025"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/brptxb</guid>
-      <pubDate>Sun, 20 Sep 2026 14:13:11 +0000</pubDate>
-    </item>
-    <item>
       <title>[distributed] How Notion handles concurrent editing with CRDTs</title>
       <link>https://www.notion.com/blog/how-notion-handles-concurrent-editing-with-crdts</link>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ppfyza/how_notion_handles_concurrent_editing"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
@@ -383,13 +397,6 @@ Test instance where you are welcome to make a mess: &lt;a href="https://squalk-t
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/xgdt4u/beyond_jj_config_tools_ecosystem"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/xgdt4u</guid>
       <pubDate>Sun, 20 Sep 2026 10:51:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>[security] HEIF Heist</title>
-      <link>https://heif-heist.com</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/qpbblx/heif_heist"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/qpbblx</guid>
-      <pubDate>Sun, 20 Sep 2026 05:56:25 +0000</pubDate>
     </item>
     <item>
       <title>[practices] Grit your teeth and ship it</title>
@@ -546,13 +553,6 @@ Test instance where you are welcome to make a mess: &lt;a href="https://squalk-t
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/bzacyp/fisl_finding_internet_structures_links"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/bzacyp</guid>
       <pubDate>Fri, 11 Sep 2026 08:29:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>[practices] The Wind, The Wind</title>
-      <link>https://exple.tive.org/blarg/2026/09/10/the-wind-the-wind/</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/akchzn/wind_wind"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/akchzn</guid>
-      <pubDate>Fri, 11 Sep 2026 00:26:06 +0000</pubDate>
     </item>
     <item>
       <title>[vcs] What comes after git</title>
