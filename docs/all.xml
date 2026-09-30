@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 30 Sep 2026 18:42:49 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 22:43:51 +0000</lastBuildDate>
+    <item>
+      <title>[distributed] We used a database as a message queue. Now we use Kafka</title>
+      <link>https://www.tigrisdata.com/blog/quick-fdb-kafka/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/0xfpgo/we_used_database_as_message_queue_now_we"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/0xfpgo</guid>
+      <pubDate>Wed, 30 Sep 2026 20:28:27 +0000</pubDate>
+    </item>
     <item>
       <title>[security] Branch Target Reuse: Spectre-v2 Attacks in JIT Engines</title>
       <link>https://www.vusec.net/projects/btr/</link>
@@ -97,7 +104,7 @@
     <item>
       <title>Claude partial outage</title>
       <link>https://status.claude.com/incidents/4xvtc2gnq73l</link>
-      <description>171 points, 146 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49893876'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>171 points, 148 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49893876'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=49893876</guid>
       <pubDate>Tue, 29 Sep 2026 14:25:41 +0000</pubDate>
     </item>
@@ -975,7 +982,7 @@ Test instance where you are welcome to make a mess: &lt;a href="https://squalk-t
       <pubDate>Wed, 19 Aug 2026 06:42:07 +0000</pubDate>
     </item>
     <item>
-      <title>[devops, distributed] Incident Report for GitHub outage on 2026-08-17</title>
+      <title>[devops] Incident Report for GitHub outage on 2026-08-17</title>
       <link>https://www.githubstatus.com/incidents/zkxwbgr0cnmx</link>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ljhgcd/incident_report_for_github_outage_on_2026"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/ljhgcd</guid>
