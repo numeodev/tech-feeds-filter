@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 30 Sep 2026 00:53:53 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 06:10:09 +0000</lastBuildDate>
+    <item>
+      <title>[security] Fake Express Packages on npm Spread a Linux Worm</title>
+      <link>https://safedep.io/dirtyblanket-express-impersonation-npm</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/e2gxro/fake_express_packages_on_npm_spread_linux"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/e2gxro</guid>
+      <pubDate>Wed, 30 Sep 2026 04:05:15 +0000</pubDate>
+    </item>
     <item>
       <title>[practices] How to work in a software engineering team (2022)</title>
       <link>https://kimmosaaskilahti.fi/blog/2022/02/25/how-to-work-in-a-software-engineering-team/</link>
@@ -390,13 +397,6 @@ Test instance where you are welcome to make a mess: &lt;a href="https://squalk-t
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/pdulza/grit_your_teeth_ship_it"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/pdulza</guid>
       <pubDate>Sun, 20 Sep 2026 02:12:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>[security] ZK-JPEG: Zero-knowledge Image Editing and Compression</title>
-      <link>https://eprint.iacr.org/2026/2039</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/cvqxkk/zk_jpeg_zero_knowledge_image_editing"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/cvqxkk</guid>
-      <pubDate>Sat, 19 Sep 2026 23:38:01 +0000</pubDate>
     </item>
     <item>
       <title>[devops] Secure VMs for Kubernetes: Hardening Kata containers</title>

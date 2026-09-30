@@ -8,7 +8,28 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 30 Sep 2026 00:53:53 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 06:10:09 +0000</lastBuildDate>
+    <item>
+      <title>[r/sre] How do you handle disaster recovery runbooks for multi cloud environments in practice</title>
+      <link>https://www.reddit.com/r/sre/comments/1wtvjge/how_do_you_handle_disaster_recovery_runbooks_for/</link>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Currently building out a disaster recovery runbook for environments spanning aws and gcp, and honestly feeling overwhelmed by the complexity.&lt;/p&gt; &lt;p&gt;We split infrastructure across both clouds for redundancy, mostly using terraform with some manual configurations and various scripts scattered around. The theory sounds solid for resilience, but our actual runbook has turned into about ten confluence pages, multiple playbooks across different repos, and a somewhat optimistic assumption that we could rebuild production in another region or cloud if something major went wrong.&lt;/p&gt; &lt;p&gt;Our security and compliance team keeps pushing for concrete RTO numbers and demonstrable proof we can restore complete environments quickly, including all the supporting pieces like iam configs, policies, secrets management, kafka topics, database subnet groups, dns routing, and everything else. We run some chaos engineering exercises but they typically focus on single region failures or individual managed service issues, not full provider outages or complex tenant problems. Not sure how realistic it is to target genuine multi cloud failover with hard evidence rather than theoretical plans.&lt;/p&gt; &lt;p&gt;For those with DR strategies you feel confident about, what does your actual runbook look like day to day, who maintains ownership, and how much is automated versus manual documentation? Open to any practical advice&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/Efficiet_Wecather934"&gt; /u/Efficiet_Wecather934 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/r/sre/comments/1wtvjge/how_do_you_handle_disaster_recovery_runbooks_for/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/sre/comments/1wtvjge/how_do_you_handle_disaster_recovery_runbooks_for/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</description>
+      <guid isPermaLink="false">https://www.reddit.com/r/sre/t3_1wtvjge</guid>
+      <pubDate>Wed, 30 Sep 2026 04:24:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>[security] Fake Express Packages on npm Spread a Linux Worm</title>
+      <link>https://safedep.io/dirtyblanket-express-impersonation-npm</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/e2gxro/fake_express_packages_on_npm_spread_linux"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/e2gxro</guid>
+      <pubDate>Wed, 30 Sep 2026 04:05:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Basecamp 5 and Hey Outage Postmortem</title>
+      <link>https://www.37status.com/incidents/l1yn9n8f21p6</link>
+      <description>2 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49903386'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49903386</guid>
+      <pubDate>Wed, 30 Sep 2026 01:47:28 +0000</pubDate>
+    </item>
     <item>
       <title>[practices] How to work in a software engineering team (2022)</title>
       <link>https://kimmosaaskilahti.fi/blog/2022/02/25/how-to-work-in-a-software-engineering-team/</link>
@@ -41,7 +62,7 @@
     <item>
       <title>Claude partial outage</title>
       <link>https://status.claude.com/incidents/4xvtc2gnq73l</link>
-      <description>169 points, 143 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49893876'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>171 points, 143 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49893876'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=49893876</guid>
       <pubDate>Tue, 29 Sep 2026 14:25:41 +0000</pubDate>
     </item>
@@ -518,13 +539,6 @@ Test instance where you are welcome to make a mess: &lt;a href="https://squalk-t
       <pubDate>Sun, 20 Sep 2026 02:12:23 +0000</pubDate>
     </item>
     <item>
-      <title>[security] ZK-JPEG: Zero-knowledge Image Editing and Compression</title>
-      <link>https://eprint.iacr.org/2026/2039</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/cvqxkk/zk_jpeg_zero_knowledge_image_editing"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/cvqxkk</guid>
-      <pubDate>Sat, 19 Sep 2026 23:38:01 +0000</pubDate>
-    </item>
-    <item>
       <title>Show HN: Forexfin – Trading calculators, alerts and a journal in one place</title>
       <link>https://forexfin.tech/</link>
       <description>3 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49770525'&gt;discussion sur Hacker News&lt;/a&gt;</description>
@@ -638,13 +652,6 @@ Test instance where you are welcome to make a mess: &lt;a href="https://squalk-t
       <pubDate>Wed, 16 Sep 2026 16:27:39 +0000</pubDate>
     </item>
     <item>
-      <title>[r/sre] Vendor management at small companies, is it just "someone senior remembers"?</title>
-      <link>https://www.reddit.com/r/sre/comments/1wi1b78/vendor_management_at_small_companies_is_it_just/</link>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Specifically, I am talking about small companies where, generally, you won't have a procurement team, and individual teams own vendor management. How do you guys manage vendors?&lt;/p&gt; &lt;p&gt;In my previous stint, I was leading a small DevOps team at a smallish SaaS company, and over a period of a couple of months, we saw multiple issues stemming from software vendors. A blocked card caused payment failures across multiple vendors. A vendor dropped an email setting a deprecation timeline for an API, and we found out by chance at the last moment, causing a last minute scramble to move off the said API on our end. SaaS quota exhaustion brought down prod workflows multiple times.&lt;/p&gt; &lt;p&gt;None of these were vendor outages as such. These were all things we had been told about, or could have been, and we just did not catch them in time.&lt;/p&gt; &lt;p&gt;I am going down a bit of a rabbit hole trying to find the &amp;quot;best practices&amp;quot; around vendor management, if we can call it that?&lt;/p&gt; &lt;p&gt;How do you even handle this? Is there an actual practice here, or is it mostly &amp;quot;someone senior remembers,&amp;quot; or do we detect it after it fails?&lt;/p&gt; &lt;p&gt;Posted the same in &lt;a href="https://www.reddit.com/r/devops"&gt;r/devops&lt;/a&gt;, posting it here because some SRE team also own/manage vendor quotas.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/blind_organic_matter"&gt; /u/blind_organic_matter &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/r/sre/comments/1wi1b78/vendor_management_at_small_companies_is_it_just/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/sre/comments/1wi1b78/vendor_management_at_small_companies_is_it_just/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</description>
-      <guid isPermaLink="false">https://www.reddit.com/r/sre/t3_1wi1b78</guid>
-      <pubDate>Wed, 16 Sep 2026 16:00:09 +0000</pubDate>
-    </item>
-    <item>
       <title>[distributed] comail - Cooperative email infrastructure for atproto</title>
       <link>https://comail.at/</link>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/oihovt/comail_cooperative_email"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
@@ -692,13 +699,6 @@ Test instance where you are welcome to make a mess: &lt;a href="https://squalk-t
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/3wmby2/postgres_development_activity"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/3wmby2</guid>
       <pubDate>Tue, 15 Sep 2026 12:26:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>[r/sre] Can automated root cause analysis reliably identify production issues?</title>
-      <link>https://www.reddit.com/r/sre/comments/1wguk7p/can_automated_root_cause_analysis_reliably/</link>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Every RCA tool I've tried is really good at identifying the trigger and mediocre at identifying the actual root cause. It'll tell you deployment X correlated with the spike, which is true and also not that helpful when the real issue is a dependency three services away that's been degrading slowly for a week.&lt;/p&gt; &lt;p&gt;I think the honest answer is these tools are useful for narrowing a search space fast, going from &amp;quot;something broke somewhere&amp;quot; to &amp;quot;here are your top three suspects,&amp;quot; but the human still has to close the loop on causality. Has anyone gotten an automated RCA setup to actually nail root cause without a person doing the final synthesis, or is that still mostly aspirational marketing from vendors?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/Acrobatic_Refuse8100"&gt; /u/Acrobatic_Refuse8100 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/r/sre/comments/1wguk7p/can_automated_root_cause_analysis_reliably/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/sre/comments/1wguk7p/can_automated_root_cause_analysis_reliably/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</description>
-      <guid isPermaLink="false">https://www.reddit.com/r/sre/t3_1wguk7p</guid>
-      <pubDate>Tue, 15 Sep 2026 08:34:01 +0000</pubDate>
     </item>
     <item>
       <title>[practices] "Do You Still Read the Code?"</title>
