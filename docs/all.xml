@@ -8,7 +8,28 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 01 Oct 2026 01:41:54 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 08:02:07 +0000</lastBuildDate>
+    <item>
+      <title>[r/sre] how do you handle canary deployment rollback under real traffic?</title>
+      <link>https://www.reddit.com/r/sre/comments/1wuse6s/how_do_you_handle_canary_deployment_rollback/</link>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Our canary deployments catch obvious breakage fine, but subtle behavioral changes only show up once real traffic hits edge cases our canary percentage doesn't see often enough.&lt;/p&gt; &lt;p&gt;I've considered increasing the canary percentage, but that increases blast radius if something's actually wrong. What would you do, and what would you avoid?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/Future-Memory6107"&gt; /u/Future-Memory6107 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/r/sre/comments/1wuse6s/how_do_you_handle_canary_deployment_rollback/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/sre/comments/1wuse6s/how_do_you_handle_canary_deployment_rollback/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</description>
+      <guid isPermaLink="false">https://www.reddit.com/r/sre/t3_1wuse6s</guid>
+      <pubDate>Thu, 01 Oct 2026 06:45:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>[r/sre] Title: We built an auto-remediation layer on top of LGTM — anomaly detection + RCA + auto-heal with safety gates</title>
+      <link>https://www.reddit.com/r/sre/comments/1wus6h0/title_we_built_an_autoremediation_layer_on_top_of/</link>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;After moving off Datadog to LGTM (Grafana + Mimir + Loki + Tempo + OTEL), we had dashboards but still manual 3am restarts. So we built WATCHDOG to close the loop.&lt;/p&gt; &lt;p&gt;What it does:&lt;/p&gt; &lt;ol&gt; &lt;li&gt;Anomaly Intelligence&lt;/li&gt; &lt;/ol&gt; &lt;p&gt;Ingests metrics from OTEL/Mimir every 5s. Isolation Forest + Z-Score + Trend analysis. Groups raw anomalies into incident groups — e.g., 50 raw events → 4 groups with service, metric, confidence, baseline deviation, and sample count. Ranked by confidence, with suppression rate tracked.&lt;/p&gt; &lt;ol&gt; &lt;li&gt;Predictive Intelligence&lt;/li&gt; &lt;/ol&gt; &lt;p&gt;Tracks capacity per resource. Shows current % vs threshold, trend per hour, and 5-step forecast (+1h to +5h). Example: Memory at 87.2% of 90% threshold, +6.36%/hr, breach predicted in 26m, with 200 observations. Links to related anomalies and remediation actions like clear cache or view trend history.&lt;/p&gt; &lt;ol&gt; &lt;li&gt;Root Cause Analysis&lt;/li&gt; &lt;/ol&gt; &lt;p&gt;When multiple services fire, RCA runs 5 engines: Correlation, Dependency mapping, Temporal order, Anomaly score, Prior probability. Outputs root cause with confidence, blast radius (affected services), competing hypotheses, and evidence (baseline vs current vs deviation). Provides weighted confidence breakdown and a recommended fix + AI runbook generation.&lt;/p&gt; &lt;ol&gt; &lt;li&gt;Auto-Heal Orchestrator&lt;/li&gt; &lt;/ol&gt; &lt;p&gt;5 safety gates before any action: min confidence threshold, min severity, per-service cooldown, rate limit per hour, circuit breaker at 3 failures. Every action verified post-heal and logged.&lt;/p&gt; &lt;p&gt;Safety stack:&lt;/p&gt; &lt;p&gt;- DecisionEngine for action selection&lt;/p&gt; &lt;p&gt;- SafetyEngine for command validation&lt;/p&gt; &lt;p&gt;- PolicyGuard for per-tenant policy enforcement&lt;/p&gt; &lt;p&gt;- PlaybookEngine with 5 built-in remediation playbooks (restart service, clear cache, restart host, etc.)&lt;/p&gt; &lt;p&gt;- RollbackManager for action recording + auto-rollback&lt;/p&gt; &lt;p&gt;- VerificationLoop for post-heal anomaly re-check&lt;/p&gt; &lt;p&gt;Supports dry-run, emergency stop, and per-tenant policies (starter, pro, enterprise) with configurable confidence, severity, cooldown, rate limit, and approval requirements.&lt;/p&gt; &lt;ol&gt; &lt;li&gt;Operations&lt;/li&gt; &lt;/ol&gt; &lt;p&gt;- Pipeline: WAL enabled, 16 workers, queue depth, latency P50/P95/P99 tracking&lt;/p&gt; &lt;p&gt;- Audit Log: Cryptographically verified chain (genesis hash) — every decision and execution logged with timestamp and status, exportable to CSV&lt;/p&gt; &lt;p&gt;- Platform SLO: 24h window tracking ingestion throughput, request count, API latency, uptime&lt;/p&gt; &lt;p&gt;- Topology, Compliance, Integrations, Thresholds, Engines — all per-tenant.&lt;/p&gt; &lt;p&gt;Tenant is isolated (e.g., acme) with live mode. War Room shows active incidents with health score and grouping.&lt;/p&gt; &lt;p&gt;Goal: Not another dashboard — detect, predict, find root cause, and safely fix with audit trail, so the same memory leak doesn't page you 33 times.&lt;/p&gt; &lt;p&gt;We run it on ∼150 hosts. Happy to answer how we wired Mimir → anomaly → RCA → heal → verification.&lt;/p&gt; &lt;p&gt;What do you use for auto-remediation on top of LGTM? Keptn? Robusta? Custom?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/watchdogg_7"&gt; /u/watchdogg_7 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/r/sre/comments/1wus6h0/title_we_built_an_autoremediation_layer_on_top_of/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/sre/comments/1wus6h0/title_we_built_an_autoremediation_layer_on_top_of/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</description>
+      <guid isPermaLink="false">https://www.reddit.com/r/sre/t3_1wus6h0</guid>
+      <pubDate>Thu, 01 Oct 2026 06:31:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>[security] ESXi Exploitation in the Wild</title>
+      <link>https://www.huntress.com/blog/esxi-vm-escape-exploit</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/f6dogm/esxi_exploitation_wild"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/f6dogm</guid>
+      <pubDate>Thu, 01 Oct 2026 02:30:14 +0000</pubDate>
+    </item>
     <item>
       <title>[security] Major rsync upgrade in Debian because of 33 CVEs</title>
       <link>https://lobste.rs/s/sqyhgt/major_rsync_upgrade_debian_because_33</link>
@@ -528,13 +549,6 @@ away from RSA entirely during the current post-quantum transition.&lt;/p&gt;
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/vhbyvk/evilvm_forth_shellcode_2019"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/vhbyvk</guid>
       <pubDate>Tue, 22 Sep 2026 14:10:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>[security] Reviving TEMPEST Attacks With An Injected Signal</title>
-      <link>https://hackaday.com/2026/09/20/reviving-tempest-attacks-with-an-injected-signal/</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ub3vw7/reviving_tempest_attacks_with_injected"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/ub3vw7</guid>
-      <pubDate>Tue, 22 Sep 2026 12:25:27 +0000</pubDate>
     </item>
     <item>
       <title>[vcs] Looking forward to Git 2.56 - and 3.0</title>
