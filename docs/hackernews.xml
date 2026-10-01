@@ -8,7 +8,21 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 01 Oct 2026 08:02:06 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 15:50:00 +0000</lastBuildDate>
+    <item>
+      <title>Postgres 19: Are we reverting patches because of bugs found by AI?</title>
+      <link>https://vondra.me/posts/are-we-reverting-patches-because-of-bugs-found-by-ai/</link>
+      <description>1 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49920859'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49920859</guid>
+      <pubDate>Thu, 01 Oct 2026 12:40:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hetzner: Load Balancers private network outage for dedicated servers</title>
+      <link>https://status.hetzner.com/incident/d5f60e1e-5919-4f0e-bfe4-2387ae7e1c9f</link>
+      <description>2 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49920413'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49920413</guid>
+      <pubDate>Thu, 01 Oct 2026 11:43:24 +0000</pubDate>
+    </item>
     <item>
       <title>Self-Destructing Hotfixes with Updatecli</title>
       <link>https://lois.postu.la/posts/self-destructing-hotfixes-with-updatecli</link>
@@ -183,13 +197,6 @@
       <description>3 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49743871'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=49743871</guid>
       <pubDate>Thu, 17 Sep 2026 17:26:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>Show HN: Pingularity – scheduled Ookla/iperf3 speedtest dashboard, outage alerts</title>
-      <link>https://pingularity.dev/</link>
-      <description>1 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49741059'&gt;discussion sur Hacker News&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49741059</guid>
-      <pubDate>Thu, 17 Sep 2026 14:12:07 +0000</pubDate>
     </item>
   </channel>
 </rss>

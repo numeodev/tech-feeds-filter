@@ -8,7 +8,21 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 01 Oct 2026 08:02:07 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 15:50:01 +0000</lastBuildDate>
+    <item>
+      <title>[security] CVE-2026-86950: The Great Glyph Grift - An in-the-wild iOS bug with a possible WhatsApp zero-click path</title>
+      <link>https://calif.io/research/the-great-glyph-grift</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/yfttkn/cve_2026_86950_great_glyph_grift_wild_ios"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/yfttkn</guid>
+      <pubDate>Thu, 01 Oct 2026 13:41:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>[security] Is sandboxing sufficient to contain rogue agents?</title>
+      <link>https://blog.cryptographyengineering.com/2026/09/30/is-sandboxing-sufficient-to-contain-rogue-agents/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/zcr7in/is_sandboxing_sufficient_contain_rogue"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/zcr7in</guid>
+      <pubDate>Thu, 01 Oct 2026 12:16:51 +0000</pubDate>
+    </item>
     <item>
       <title>[security] ESXi Exploitation in the Wild</title>
       <link>https://www.huntress.com/blog/esxi-vm-escape-exploit</link>
@@ -389,26 +403,12 @@ away from RSA entirely during the current post-quantum transition.&lt;/p&gt;
       <pubDate>Tue, 22 Sep 2026 21:38:02 +0000</pubDate>
     </item>
     <item>
-      <title>[security] Fifty Years of Open Source Software Supply Chain Security (2025)</title>
-      <link>https://queue.acm.org/doi/10.1145/3722542</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/9jjplv/fifty_years_open_source_software_supply"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/9jjplv</guid>
-      <pubDate>Tue, 22 Sep 2026 21:08:55 +0000</pubDate>
-    </item>
-    <item>
       <title>[devops] Introducing Luxir</title>
       <link>https://yonik.com/blog/introducing-luxir/</link>
       <description>&lt;p&gt;The creator of Apache Solr announced a new high-performance search engine. Open Source, written in C++, featuring full-text search, vector search, faceting, and analytics.&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://lobste.rs/s/rndct1/introducing_luxir"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/rndct1</guid>
       <pubDate>Tue, 22 Sep 2026 15:15:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>[security] EvilVM: Forth shellcode (2019)</title>
-      <link>https://web.archive.org/web/20250418124519/http://evilvm.ninja/</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/vhbyvk/evilvm_forth_shellcode_2019"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/vhbyvk</guid>
-      <pubDate>Tue, 22 Sep 2026 14:10:07 +0000</pubDate>
     </item>
     <item>
       <title>[vcs] Looking forward to Git 2.56 - and 3.0</title>
