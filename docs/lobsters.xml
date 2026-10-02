@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 02 Oct 2026 13:21:44 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 18:48:51 +0000</lastBuildDate>
+    <item>
+      <title>[practices] The Four Horsemen of Agentic Coding</title>
+      <link>https://distantprovince.substack.com/p/the-four-horsemen-of-agentic-coding</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/wevegu/four_horsemen_agentic_coding"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/wevegu</guid>
+      <pubDate>Fri, 02 Oct 2026 16:48:36 +0000</pubDate>
+    </item>
     <item>
       <title>[vcs] Git 3.0's upcoming SHA-256 default will be a costly mistake</title>
       <link>https://blog.gitbutler.com/git-3-sha-256</link>
@@ -585,14 +592,6 @@ Test instance where you are welcome to make a mess: &lt;a href="https://squalk-t
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/eytyqv/splitft_fault_tolerance_for"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/eytyqv</guid>
       <pubDate>Mon, 14 Sep 2026 18:02:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[practices] What blog posts influenced your thinking the most?</title>
-      <link>https://lobste.rs/s/lbavmm/what_blog_posts_influenced_your_thinking</link>
-      <description>&lt;p&gt;Interested in hearing your opinions, I usually learn a lot from it.&lt;/p&gt;
-&lt;p&gt;For me it has to be Parse, Don’t Validate and early joelonsoftware.&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/lbavmm</guid>
-      <pubDate>Mon, 14 Sep 2026 15:27:32 +0000</pubDate>
     </item>
     <item>
       <title>[vcs] Mergiraf: A syntax-aware git merge driver for a growing collection of programming languages and file formats</title>

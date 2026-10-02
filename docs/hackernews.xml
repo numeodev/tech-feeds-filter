@@ -8,7 +8,21 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 02 Oct 2026 13:21:43 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 18:48:50 +0000</lastBuildDate>
+    <item>
+      <title>Show HN: One line so LLM workers share a 429 wait and keep jobs an outage stops</title>
+      <link>https://github.com/baldurhq/baldur</link>
+      <description>1 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49935573'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49935573</guid>
+      <pubDate>Fri, 02 Oct 2026 16:40:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>Show HN: What's Agent Doing – a Claude Code UI mod that explains each step</title>
+      <link>https://github.com/tzafrir/whats-agent-doing</link>
+      <description>2 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49934165'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49934165</guid>
+      <pubDate>Fri, 02 Oct 2026 14:51:12 +0000</pubDate>
+    </item>
     <item>
       <title>DeepSeek outage and degraded: API and status page:)</title>
       <link>https://status.deepseek.com</link>
@@ -183,13 +197,6 @@
       <description>3 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49762956'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=49762956</guid>
       <pubDate>Sat, 19 Sep 2026 03:15:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>Salesforce tracing without debug logs: every trigger, field write, and rollback</title>
-      <link>https://www.fidelic.dev/blog/your-request-did-something-here-is-the-receipt/</link>
-      <description>2 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49756146'&gt;discussion sur Hacker News&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49756146</guid>
-      <pubDate>Fri, 18 Sep 2026 15:48:57 +0000</pubDate>
     </item>
   </channel>
 </rss>

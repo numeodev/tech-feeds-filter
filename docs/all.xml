@@ -8,7 +8,28 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 02 Oct 2026 13:21:44 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 18:48:51 +0000</lastBuildDate>
+    <item>
+      <title>[practices] The Four Horsemen of Agentic Coding</title>
+      <link>https://distantprovince.substack.com/p/the-four-horsemen-of-agentic-coding</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/wevegu/four_horsemen_agentic_coding"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/wevegu</guid>
+      <pubDate>Fri, 02 Oct 2026 16:48:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>Show HN: One line so LLM workers share a 429 wait and keep jobs an outage stops</title>
+      <link>https://github.com/baldurhq/baldur</link>
+      <description>1 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49935573'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49935573</guid>
+      <pubDate>Fri, 02 Oct 2026 16:40:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>Show HN: What's Agent Doing – a Claude Code UI mod that explains each step</title>
+      <link>https://github.com/tzafrir/whats-agent-doing</link>
+      <description>2 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49934165'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49934165</guid>
+      <pubDate>Fri, 02 Oct 2026 14:51:12 +0000</pubDate>
+    </item>
     <item>
       <title>DeepSeek outage and degraded: API and status page:)</title>
       <link>https://status.deepseek.com</link>
@@ -698,13 +719,6 @@ Test instance where you are welcome to make a mess: &lt;a href="https://squalk-t
       <pubDate>Fri, 18 Sep 2026 16:25:19 +0000</pubDate>
     </item>
     <item>
-      <title>Salesforce tracing without debug logs: every trigger, field write, and rollback</title>
-      <link>https://www.fidelic.dev/blog/your-request-did-something-here-is-the-receipt/</link>
-      <description>2 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49756146'&gt;discussion sur Hacker News&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49756146</guid>
-      <pubDate>Fri, 18 Sep 2026 15:48:57 +0000</pubDate>
-    </item>
-    <item>
       <title>[devops] Backups aren't simple</title>
       <link>https://filipovski.net/2026/09/16/backups-arent-simple.html</link>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/uwbgby/backups_aren_t_simple"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
@@ -788,14 +802,6 @@ Test instance where you are welcome to make a mess: &lt;a href="https://squalk-t
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/eytyqv/splitft_fault_tolerance_for"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/eytyqv</guid>
       <pubDate>Mon, 14 Sep 2026 18:02:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[practices] What blog posts influenced your thinking the most?</title>
-      <link>https://lobste.rs/s/lbavmm/what_blog_posts_influenced_your_thinking</link>
-      <description>&lt;p&gt;Interested in hearing your opinions, I usually learn a lot from it.&lt;/p&gt;
-&lt;p&gt;For me it has to be Parse, Don’t Validate and early joelonsoftware.&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/lbavmm</guid>
-      <pubDate>Mon, 14 Sep 2026 15:27:32 +0000</pubDate>
     </item>
     <item>
       <title>[vcs] Mergiraf: A syntax-aware git merge driver for a growing collection of programming languages and file formats</title>
