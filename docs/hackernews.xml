@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 02 Oct 2026 00:20:42 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 06:27:12 +0000</lastBuildDate>
     <item>
       <title>DeepSeek outage and degraded: API and status page:)</title>
       <link>https://status.deepseek.com</link>
@@ -190,13 +190,6 @@
       <description>2 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49756146'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=49756146</guid>
       <pubDate>Fri, 18 Sep 2026 15:48:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>Telstra outage: The night a network decided the year was 2006</title>
-      <link>https://www.netnod.se/blog/telstra-outage-night-network-decided-year-was-2006</link>
-      <description>93 points, 34 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49748957'&gt;discussion sur Hacker News&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49748957</guid>
-      <pubDate>Fri, 18 Sep 2026 01:05:03 +0000</pubDate>
     </item>
   </channel>
 </rss>
