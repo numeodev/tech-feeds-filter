@@ -8,7 +8,21 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 02 Oct 2026 18:48:51 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 22:41:38 +0000</lastBuildDate>
+    <item>
+      <title>[security, vcs] I got targeted: Trying to get your credentials via a git post-checkout hook</title>
+      <link>https://frankwiles.com/posts/i-got-targeted/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/cd5gdk/i_got_targeted_trying_get_your"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/cd5gdk</guid>
+      <pubDate>Fri, 02 Oct 2026 22:19:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>[security] Updates to Full Disk Access in macOS</title>
+      <link>https://developer.apple.com/news/?id=p6zjojqw</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/9ipypq/updates_full_disk_access_macos"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/9ipypq</guid>
+      <pubDate>Fri, 02 Oct 2026 20:10:26 +0000</pubDate>
+    </item>
     <item>
       <title>[practices] The Four Horsemen of Agentic Coding</title>
       <link>https://distantprovince.substack.com/p/the-four-horsemen-of-agentic-coding</link>
@@ -242,7 +256,7 @@ set to opt out.&lt;/p&gt;
     <item>
       <title>Claude partial outage</title>
       <link>https://status.claude.com/incidents/4xvtc2gnq73l</link>
-      <description>171 points, 149 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49893876'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>171 points, 150 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49893876'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=49893876</guid>
       <pubDate>Tue, 29 Sep 2026 14:25:41 +0000</pubDate>
     </item>
@@ -555,20 +569,6 @@ away from RSA entirely during the current post-quantum transition.&lt;/p&gt;
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/qysrps/abandoning_scientific_linux_was_mistake"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/qysrps</guid>
       <pubDate>Wed, 23 Sep 2026 09:53:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>[security] Sandboxing with minimal effort</title>
-      <link>https://yorickpeterse.com/articles/sandboxing-with-minimal-effort/</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/zji8bf/sandboxing_with_minimal_effort"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/zji8bf</guid>
-      <pubDate>Wed, 23 Sep 2026 05:08:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>[security] GitHub Actions leaking secrets when Miri output is cached</title>
-      <link>https://blog.rust-lang.org/2026/09/21/github-actions-leaking-secrets-when-miri-output-is-cached/</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/acz9kk/github_actions_leaking_secrets_when_miri"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/acz9kk</guid>
-      <pubDate>Tue, 22 Sep 2026 21:38:02 +0000</pubDate>
     </item>
     <item>
       <title>Show HN: Kado – Search to Allow Personal Agents to Find Agent Apps</title>
@@ -1054,13 +1054,6 @@ Test instance where you are welcome to make a mess: &lt;a href="https://squalk-t
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ljhgcd/incident_report_for_github_outage_on_2026"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/ljhgcd</guid>
       <pubDate>Tue, 18 Aug 2026 20:18:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>[vcs] Git at any scale</title>
-      <link>https://cursor.com/blog/git-at-any-scale</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/rwgwxv/git_at_any_scale"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/rwgwxv</guid>
-      <pubDate>Tue, 18 Aug 2026 19:57:50 +0000</pubDate>
     </item>
     <item>
       <title>[devops] beszel</title>
