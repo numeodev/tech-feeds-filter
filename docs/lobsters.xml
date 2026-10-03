@@ -8,7 +8,21 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 03 Oct 2026 07:18:06 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 12:51:54 +0000</lastBuildDate>
+    <item>
+      <title>[security] How to Hack Time, With C2PA</title>
+      <link>https://www.da.vidbuchanan.co.uk/blog/hacking-time.html</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/u8uvlr/how_hack_time_with_c2pa"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/u8uvlr</guid>
+      <pubDate>Sat, 03 Oct 2026 11:58:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>[security] Greg Kroah-Hartman - Security in the LLM Age</title>
+      <link>https://www.youtube.com/watch?v=NnV_cWeoo5Q</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/rghh9w/greg_kroah_hartman_security_llm_age"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/rghh9w</guid>
+      <pubDate>Sat, 03 Oct 2026 11:57:02 +0000</pubDate>
+    </item>
     <item>
       <title>[devops] gVisor is being donated to CNCF</title>
       <link>https://gvisor.dev/blog/2026/10/02/gvisor-cncf/</link>
@@ -394,20 +408,6 @@ away from RSA entirely during the current post-quantum transition.&lt;/p&gt;
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ad5vwg/radicle_disclosure_vulnerability"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/ad5vwg</guid>
       <pubDate>Wed, 23 Sep 2026 14:34:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>[security] Latest BGP hijack targets hosting software vendor</title>
-      <link>https://blog.apnic.net/2026/09/22/latest-bgp-hijack-targets-hosting-software-vendor/</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/eqme8i/latest_bgp_hijack_targets_hosting"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/eqme8i</guid>
-      <pubDate>Wed, 23 Sep 2026 11:55:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>[security] SAML: A fractal of bad design</title>
-      <link>https://blog.trailofbits.com/2026/09/21/saml-a-fractal-of-bad-design/</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/4uqtta/saml_fractal_bad_design"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/4uqtta</guid>
-      <pubDate>Wed, 23 Sep 2026 10:58:54 +0000</pubDate>
     </item>
     <item>
       <title>[practices] The GNOME LLM Policy That I Want</title>
