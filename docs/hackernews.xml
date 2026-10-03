@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 03 Oct 2026 19:36:09 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 22:33:00 +0000</lastBuildDate>
     <item>
       <title>Stackoverflow Is Down</title>
       <link>https://news.ycombinator.com/item?id=49944989</link>
@@ -176,13 +176,6 @@
       <description>2 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49795747'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=49795747</guid>
       <pubDate>Tue, 22 Sep 2026 01:28:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>Show HN: Forexfin – Trading calculators, alerts and a journal in one place</title>
-      <link>https://forexfin.tech/</link>
-      <description>3 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49770525'&gt;discussion sur Hacker News&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49770525</guid>
-      <pubDate>Sat, 19 Sep 2026 22:12:18 +0000</pubDate>
     </item>
   </channel>
 </rss>
