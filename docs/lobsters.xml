@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 03 Oct 2026 01:34:08 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 07:18:06 +0000</lastBuildDate>
+    <item>
+      <title>[devops] gVisor is being donated to CNCF</title>
+      <link>https://gvisor.dev/blog/2026/10/02/gvisor-cncf/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/asoxjl/gvisor_is_being_donated_cncf"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/asoxjl</guid>
+      <pubDate>Sat, 03 Oct 2026 02:41:38 +0000</pubDate>
+    </item>
     <item>
       <title>[security, vcs] I got targeted: Trying to get your credentials via a git post-checkout hook</title>
       <link>https://frankwiles.com/posts/i-got-targeted/</link>
@@ -928,16 +935,6 @@ Test instance where you are welcome to make a mess: &lt;a href="https://squalk-t
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/twqtlo/github_suddenly_rejected_my_ssh_key_fix"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/twqtlo</guid>
       <pubDate>Tue, 21 Jul 2026 10:11:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>[devops] A deep dive into my Forgejo setup</title>
-      <link>https://a.l3x.in/blog/welcome-to-my-forge/</link>
-      <description>&lt;p&gt;Hello folks! I've recently resurrected my will for tech blogging and I thought someone else out there might also be considering setting up a Forgejo instance so I took the time to write about my journey into it.&lt;/p&gt;
-&lt;p&gt;I'm looking forward to feedback, suggestions, etc, and I'll be happy to answer any questions too.&lt;/p&gt;
-&lt;p&gt;Happy forgin'&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://lobste.rs/s/jhcyuq/deep_dive_into_my_forgejo_setup"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/jhcyuq</guid>
-      <pubDate>Mon, 20 Jul 2026 16:40:40 +0000</pubDate>
     </item>
   </channel>
 </rss>
