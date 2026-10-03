@@ -8,11 +8,18 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 03 Oct 2026 16:52:34 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 19:36:10 +0000</lastBuildDate>
+    <item>
+      <title>[security] BSides Orlando 2026 Badge</title>
+      <link>https://github.com/bsidesorlando/2026-badge</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/opwgtj/bsides_orlando_2026_badge"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/opwgtj</guid>
+      <pubDate>Sat, 03 Oct 2026 18:57:32 +0000</pubDate>
+    </item>
     <item>
       <title>Stackoverflow Is Down</title>
       <link>https://news.ycombinator.com/item?id=49944989</link>
-      <description>1 points, 2 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49944989'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>2 points, 2 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49944989'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=49944989</guid>
       <pubDate>Sat, 03 Oct 2026 15:11:52 +0000</pubDate>
     </item>
@@ -571,7 +578,7 @@ away from RSA entirely during the current post-quantum transition.&lt;/p&gt;
       <pubDate>Wed, 23 Sep 2026 16:25:52 +0000</pubDate>
     </item>
     <item>
-      <title>[distributed, security, vcs] Radicle: Disclosure of Vulnerability in the Network Protocol</title>
+      <title>[distributed, vcs] Radicle: Disclosure of Vulnerability in the Network Protocol</title>
       <link>https://radicle.dev/2026/09/23/disclosure-of-vulnerability-in-network-protocol.html</link>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ad5vwg/radicle_disclosure_vulnerability"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/ad5vwg</guid>

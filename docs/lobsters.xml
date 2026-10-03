@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 03 Oct 2026 16:52:34 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 19:36:10 +0000</lastBuildDate>
+    <item>
+      <title>[security] BSides Orlando 2026 Badge</title>
+      <link>https://github.com/bsidesorlando/2026-badge</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/opwgtj/bsides_orlando_2026_badge"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/opwgtj</guid>
+      <pubDate>Sat, 03 Oct 2026 18:57:32 +0000</pubDate>
+    </item>
     <item>
       <title>[practices] The Era of Software Quality, or the Era of Ostriches?</title>
       <link>https://blogs.gnome.org/mcatanzaro/2026/10/02/the-era-of-software-quality-or-the-era-of-ostriches/</link>
@@ -410,7 +417,7 @@ away from RSA entirely during the current post-quantum transition.&lt;/p&gt;
       <pubDate>Thu, 24 Sep 2026 15:13:35 +0000</pubDate>
     </item>
     <item>
-      <title>[distributed, security, vcs] Radicle: Disclosure of Vulnerability in the Network Protocol</title>
+      <title>[distributed, vcs] Radicle: Disclosure of Vulnerability in the Network Protocol</title>
       <link>https://radicle.dev/2026/09/23/disclosure-of-vulnerability-in-network-protocol.html</link>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ad5vwg/radicle_disclosure_vulnerability"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/ad5vwg</guid>
