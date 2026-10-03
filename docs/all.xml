@@ -8,7 +8,21 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 03 Oct 2026 12:51:54 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 16:52:34 +0000</lastBuildDate>
+    <item>
+      <title>Stackoverflow Is Down</title>
+      <link>https://news.ycombinator.com/item?id=49944989</link>
+      <description>1 points, 2 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49944989'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49944989</guid>
+      <pubDate>Sat, 03 Oct 2026 15:11:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>[practices] The Era of Software Quality, or the Era of Ostriches?</title>
+      <link>https://blogs.gnome.org/mcatanzaro/2026/10/02/the-era-of-software-quality-or-the-era-of-ostriches/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/elziso/era_software_quality_era_ostriches"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/elziso</guid>
+      <pubDate>Sat, 03 Oct 2026 13:31:58 +0000</pubDate>
+    </item>
     <item>
       <title>[security] How to Hack Time, With C2PA</title>
       <link>https://www.da.vidbuchanan.co.uk/blog/hacking-time.html</link>
@@ -17,9 +31,9 @@
       <pubDate>Sat, 03 Oct 2026 11:58:14 +0000</pubDate>
     </item>
     <item>
-      <title>[security] Greg Kroah-Hartman - Security in the LLM Age</title>
+      <title>[security] Security in the LLM Age</title>
       <link>https://www.youtube.com/watch?v=NnV_cWeoo5Q</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/rghh9w/greg_kroah_hartman_security_llm_age"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/rghh9w/security_llm_age"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/rghh9w</guid>
       <pubDate>Sat, 03 Oct 2026 11:57:02 +0000</pubDate>
     </item>
@@ -616,7 +630,7 @@ away from RSA entirely during the current post-quantum transition.&lt;/p&gt;
     <item>
       <title>Outages across API, Grok.com, and Grok Build – API (us-east-1.api.x.ai) Status</title>
       <link>https://status.x.ai/api-us-east-1/INC578e0bc8</link>
-      <description>2 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49795747'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>2 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49795747'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=49795747</guid>
       <pubDate>Tue, 22 Sep 2026 01:28:42 +0000</pubDate>
     </item>
@@ -774,13 +788,6 @@ Test instance where you are welcome to make a mess: &lt;a href="https://squalk-t
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/3wmby2/postgres_development_activity"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/3wmby2</guid>
       <pubDate>Tue, 15 Sep 2026 12:26:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>[practices] "Do You Still Read the Code?"</title>
-      <link>https://zanlib.dev/blog/do-you-still-read-the-code/</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/qiwlzz/do_you_still_read_code"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/qiwlzz</guid>
-      <pubDate>Mon, 14 Sep 2026 20:16:07 +0000</pubDate>
     </item>
     <item>
       <title>[distributed] SplitFT: Fault Tolerance for Disaggregated Datacenters via Remote Memory Logging</title>

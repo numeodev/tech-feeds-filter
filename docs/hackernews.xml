@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 03 Oct 2026 12:51:53 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 16:52:33 +0000</lastBuildDate>
+    <item>
+      <title>Stackoverflow Is Down</title>
+      <link>https://news.ycombinator.com/item?id=49944989</link>
+      <description>1 points, 2 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49944989'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49944989</guid>
+      <pubDate>Sat, 03 Oct 2026 15:11:52 +0000</pubDate>
+    </item>
     <item>
       <title>Show HN: One line so LLM workers share a 429 wait and keep jobs an outage stops</title>
       <link>https://github.com/baldurhq/baldur</link>
@@ -166,7 +173,7 @@
     <item>
       <title>Outages across API, Grok.com, and Grok Build – API (us-east-1.api.x.ai) Status</title>
       <link>https://status.x.ai/api-us-east-1/INC578e0bc8</link>
-      <description>2 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49795747'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>2 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49795747'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=49795747</guid>
       <pubDate>Tue, 22 Sep 2026 01:28:42 +0000</pubDate>
     </item>
