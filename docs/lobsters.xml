@@ -8,7 +8,21 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 04 Oct 2026 18:28:10 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 22:06:11 +0000</lastBuildDate>
+    <item>
+      <title>[distributed] Protocol-aware recovery for consensus-based storage (2018)</title>
+      <link>https://www.usenix.org/system/files/conference/fast18/fast18-alagappan.pdf</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/4bzboj/protocol_aware_recovery_for_consensus"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/4bzboj</guid>
+      <pubDate>Sun, 04 Oct 2026 20:00:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>[distributed] Iroh global content discovery</title>
+      <link>https://www.iroh.computer/blog/iroh-global-content-discovery</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/eoibah/iroh_global_content_discovery"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/eoibah</guid>
+      <pubDate>Sun, 04 Oct 2026 19:19:42 +0000</pubDate>
+    </item>
     <item>
       <title>[security] A Mere Mortal's Introduction to JIT Vulnerabilities in JavaScript Engines</title>
       <link>https://trustfoundry.net/blog/jit-vulnerabilities-javascript-engines</link>
@@ -808,20 +822,6 @@ Test instance where you are welcome to make a mess: &lt;a href="https://squalk-t
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/lt0cqn/ahab_hermeticity_analyzer_for_bazel"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/lt0cqn</guid>
       <pubDate>Thu, 20 Aug 2026 02:50:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>[distributed] Keep the monolith, but split the workloads (2023)</title>
-      <link>https://incident.io/blog/monolith</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/dmweja/keep_monolith_split_workloads_2023"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/dmweja</guid>
-      <pubDate>Wed, 19 Aug 2026 17:35:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>[distributed] capri: Type-safe, atomic Gleam bindings for Khepri, the modern distributed database for the BEAM</title>
-      <link>https://capri.hexdocs.pm/</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/3tbpsd/capri_type_safe_atomic_gleam_bindings_for"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/3tbpsd</guid>
-      <pubDate>Wed, 19 Aug 2026 17:07:12 +0000</pubDate>
     </item>
     <item>
       <title>[devops] Fargate Is Not Firecracker (2024)</title>
