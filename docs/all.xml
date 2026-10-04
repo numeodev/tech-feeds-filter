@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 04 Oct 2026 02:15:16 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 08:58:42 +0000</lastBuildDate>
+    <item>
+      <title>[practices] We’re going to need default hard budget caps on pretty much everything</title>
+      <link>https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/xkwswd/we_re_going_need_default_hard_budget_caps"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/xkwswd</guid>
+      <pubDate>Sun, 04 Oct 2026 07:58:14 +0000</pubDate>
+    </item>
     <item>
       <title>[security] BSides Orlando 2026 Badge</title>
       <link>https://github.com/bsidesorlando/2026-badge</link>
@@ -781,13 +788,6 @@ Test instance where you are welcome to make a mess: &lt;a href="https://squalk-t
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/hyyq9h/you_can_run_git_on_object_storage_if_you_re"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/hyyq9h</guid>
       <pubDate>Tue, 15 Sep 2026 17:03:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>[practices] Postgres development activity</title>
-      <link>https://vondra.me/posts/postgres-development-activity/</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/3wmby2/postgres_development_activity"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/3wmby2</guid>
-      <pubDate>Tue, 15 Sep 2026 12:26:49 +0000</pubDate>
     </item>
     <item>
       <title>[distributed] SplitFT: Fault Tolerance for Disaggregated Datacenters via Remote Memory Logging</title>
