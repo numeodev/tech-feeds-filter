@@ -8,7 +8,28 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 05 Oct 2026 01:24:39 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 07:56:12 +0000</lastBuildDate>
+    <item>
+      <title>[security] From: anyone@icloud.com - Spoofing Arbitrary Apple iCloud Identities</title>
+      <link>https://sec-consult.com/blog/detail/from-anyoneicloudcom-spoofing-arbitrary-apple-icloud-identities/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/jpwrmk/from_anyone_icloud_com_spoofing"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/jpwrmk</guid>
+      <pubDate>Mon, 05 Oct 2026 06:50:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>[distributed] You're Leaving Compute on the Table</title>
+      <link>https://nishantjosh.dev/blogs/youre-leaving-compute-on-the-table/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/1gxpk2/you_re_leaving_compute_on_table"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/1gxpk2</guid>
+      <pubDate>Mon, 05 Oct 2026 05:56:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>Postgres: Are we reverting patches because of bugs found by AI?</title>
+      <link>https://vondra.me/posts/are-we-reverting-patches-because-of-bugs-found-by-ai/</link>
+      <description>2 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49960374'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49960374</guid>
+      <pubDate>Mon, 05 Oct 2026 03:27:36 +0000</pubDate>
+    </item>
     <item>
       <title>[distributed] Protocol-aware recovery for consensus-based storage (2018)</title>
       <link>https://www.usenix.org/system/files/conference/fast18/fast18-alagappan.pdf</link>
@@ -556,13 +577,6 @@ set to opt out.&lt;/p&gt;
       <pubDate>Thu, 24 Sep 2026 23:10:44 +0000</pubDate>
     </item>
     <item>
-      <title>[security] SourceHut account takeover via build logs (XSS in ansi2html.py)</title>
-      <link>https://blog.arusekk.pl/posts/srht-account-takeover/</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ky1cr0/sourcehut_account_takeover_via_build"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/ky1cr0</guid>
-      <pubDate>Thu, 24 Sep 2026 20:38:32 +0000</pubDate>
-    </item>
-    <item>
       <title>August 27 TCRF DDoS Attack Postmortem</title>
       <link>https://blog.xkeeper.net/the-cutting-room-floor/tcrf-2026-ddos-postmortem/</link>
       <description>34 points, 14 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49835913'&gt;discussion sur Hacker News&lt;/a&gt;</description>
@@ -610,13 +624,6 @@ set to opt out.&lt;/p&gt;
       <description>2 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49803059'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=49803059</guid>
       <pubDate>Tue, 22 Sep 2026 15:36:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>Show HN: Preslice.co – View, edit, and convert 3MF files</title>
-      <link>https://preslice.co/</link>
-      <description>1 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49802953'&gt;discussion sur Hacker News&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49802953</guid>
-      <pubDate>Tue, 22 Sep 2026 15:31:00 +0000</pubDate>
     </item>
     <item>
       <title>[devops] Introducing Luxir</title>
@@ -997,13 +1004,6 @@ Test instance where you are welcome to make a mess: &lt;a href="https://squalk-t
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/q8whub/20x_ci_traffic_without_getting_slower_how"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/q8whub</guid>
       <pubDate>Thu, 20 Aug 2026 13:03:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>[distributed] Understanding the limitations of Pubsub systems</title>
-      <link>https://dl.acm.org/doi/pdf/10.1145/3713082.3730397</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/psxjb4/understanding_limitations_pubsub"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/psxjb4</guid>
-      <pubDate>Thu, 20 Aug 2026 05:24:48 +0000</pubDate>
     </item>
     <item>
       <title>[devops] Ahab: Hermeticity Analyzer for Bazel</title>
