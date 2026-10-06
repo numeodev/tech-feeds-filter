@@ -8,11 +8,18 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 06 Oct 2026 03:51:42 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 10:54:24 +0000</lastBuildDate>
+    <item>
+      <title>[security] Two arm64-specific miscompiles induce vulnerabilities in curl</title>
+      <link>https://mastodon.social/@bagder/117392573268225646</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/fu57cb/two_arm64_specific_miscompiles_induce"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/fu57cb</guid>
+      <pubDate>Tue, 06 Oct 2026 07:52:24 +0000</pubDate>
+    </item>
     <item>
       <title>Wikipedia operator says OpenAI's 'rogue' bots may be linked to a May outage</title>
       <link>https://www.theverge.com/news/1004929/wikipedia-openai-rogue-bots-wikimedia-foundation-outage</link>
-      <description>14 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49972467'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>17 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49972467'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=49972467</guid>
       <pubDate>Tue, 06 Oct 2026 00:07:09 +0000</pubDate>
     </item>
@@ -22,13 +29,6 @@
       <description>3 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49972434'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=49972434</guid>
       <pubDate>Tue, 06 Oct 2026 00:02:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>[vcs] Open Source as We Know It Is Dead</title>
-      <link>https://jross.me/open-source-as-we-know-it-is-dead/</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/1hnx0k/open_source_as_we_know_it_is_dead"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/1hnx0k</guid>
-      <pubDate>Mon, 05 Oct 2026 23:25:52 +0000</pubDate>
     </item>
     <item>
       <title>[security] How Cloudflare addressed a cross-tenant data exposure vulnerability in Containers</title>
@@ -577,13 +577,6 @@ set to opt out.&lt;/p&gt;
       <pubDate>Fri, 25 Sep 2026 11:29:15 +0000</pubDate>
     </item>
     <item>
-      <title>[security] Understanding NvPCRs in systemd v262</title>
-      <link>https://katexochen.aro.bz/posts/systemd-v262-nvpcrs/</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ya3cl7/understanding_nvpcrs_systemd_v262"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/ya3cl7</guid>
-      <pubDate>Fri, 25 Sep 2026 08:26:44 +0000</pubDate>
-    </item>
-    <item>
       <title>GitLab Outage</title>
       <link>https://status.gitlab.com/</link>
       <description>70 points, 36 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49838034'&gt;discussion sur Hacker News&lt;/a&gt;</description>
@@ -950,7 +943,7 @@ Test instance where you are welcome to make a mess: &lt;a href="https://squalk-t
       <pubDate>Tue, 25 Aug 2026 04:17:56 +0000</pubDate>
     </item>
     <item>
-      <title>[distributed] distributed identity</title>
+      <title>[distributed, vcs] distributed identity</title>
       <link>https://jyn.dev/distributed-identity/</link>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/al6sdh/distributed_identity"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/al6sdh</guid>
