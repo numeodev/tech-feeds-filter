@@ -8,7 +8,21 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 05 Oct 2026 23:01:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 03:51:41 +0000</lastBuildDate>
+    <item>
+      <title>Wikipedia operator says OpenAI's 'rogue' bots may be linked to a May outage</title>
+      <link>https://www.theverge.com/news/1004929/wikipedia-openai-rogue-bots-wikimedia-foundation-outage</link>
+      <description>14 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49972467'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49972467</guid>
+      <pubDate>Tue, 06 Oct 2026 00:07:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>XCOR launches to trace outages in minutes. It still pages engineers</title>
+      <link>https://thenewstack.io/cortex-xcor-ai-observability/</link>
+      <description>3 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49972434'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49972434</guid>
+      <pubDate>Tue, 06 Oct 2026 00:02:48 +0000</pubDate>
+    </item>
     <item>
       <title>SQL/PGQ property graph queries reverted from PostgreSQL 19</title>
       <link>https://git.postgresql.org/pg/commitdiff/2b9e1aff4d3d933ae8ee377fef22c2af9c7797e8</link>
@@ -162,20 +176,6 @@
       <description>2 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49803059'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=49803059</guid>
       <pubDate>Tue, 22 Sep 2026 15:36:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>Major air traffic controller outage triggers flight chaos [video]</title>
-      <link>https://www.youtube.com/watch?v=gHUZ9W025lA</link>
-      <description>3 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49795935'&gt;discussion sur Hacker News&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49795935</guid>
-      <pubDate>Tue, 22 Sep 2026 02:02:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>Outages across API, Grok.com, and Grok Build – API (us-east-1.api.x.ai) Status</title>
-      <link>https://status.x.ai/api-us-east-1/INC578e0bc8</link>
-      <description>2 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49795747'&gt;discussion sur Hacker News&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49795747</guid>
-      <pubDate>Tue, 22 Sep 2026 01:28:42 +0000</pubDate>
     </item>
   </channel>
 </rss>

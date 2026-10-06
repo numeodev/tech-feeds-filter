@@ -8,7 +8,21 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 05 Oct 2026 23:01:03 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 03:51:42 +0000</lastBuildDate>
+    <item>
+      <title>[vcs] Open Source as We Know It Is Dead</title>
+      <link>https://jross.me/open-source-as-we-know-it-is-dead/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/1hnx0k/open_source_as_we_know_it_is_dead"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/1hnx0k</guid>
+      <pubDate>Mon, 05 Oct 2026 23:25:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>[security] How Cloudflare addressed a cross-tenant data exposure vulnerability in Containers</title>
+      <link>https://blog.cloudflare.com/containers-cross-tenant-vulnerability/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/gm2ziy/how_cloudflare_addressed_cross_tenant"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/gm2ziy</guid>
+      <pubDate>Mon, 05 Oct 2026 23:03:17 +0000</pubDate>
+    </item>
     <item>
       <title>[devops] Using docker-compose with Podman rootless</title>
       <link>https://elou.world/en/tutorial/podman-docker-compose</link>
@@ -423,13 +437,6 @@ set to opt out.&lt;/p&gt;
       <pubDate>Fri, 25 Sep 2026 08:26:44 +0000</pubDate>
     </item>
     <item>
-      <title>[security] File Notification Attacks: Side-Channel Leakage from the File-Notification System on Linux, Android, Windows, and macOS</title>
-      <link>https://inoti.fyi/</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/x6yjrc/file_notification_attacks_side_channel"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/x6yjrc</guid>
-      <pubDate>Fri, 25 Sep 2026 02:50:41 +0000</pubDate>
-    </item>
-    <item>
       <title>[practices] katamari architecture</title>
       <link>https://nove.dev/blog/katamari-architecture/</link>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/f0buwg/katamari_architecture"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
@@ -768,7 +775,7 @@ Test instance where you are welcome to make a mess: &lt;a href="https://squalk-t
       <pubDate>Tue, 25 Aug 2026 04:17:56 +0000</pubDate>
     </item>
     <item>
-      <title>[distributed, vcs] distributed identity</title>
+      <title>[distributed] distributed identity</title>
       <link>https://jyn.dev/distributed-identity/</link>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/al6sdh/distributed_identity"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/al6sdh</guid>

@@ -8,7 +8,35 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 05 Oct 2026 23:01:03 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 03:51:42 +0000</lastBuildDate>
+    <item>
+      <title>Wikipedia operator says OpenAI's 'rogue' bots may be linked to a May outage</title>
+      <link>https://www.theverge.com/news/1004929/wikipedia-openai-rogue-bots-wikimedia-foundation-outage</link>
+      <description>14 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49972467'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49972467</guid>
+      <pubDate>Tue, 06 Oct 2026 00:07:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>XCOR launches to trace outages in minutes. It still pages engineers</title>
+      <link>https://thenewstack.io/cortex-xcor-ai-observability/</link>
+      <description>3 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49972434'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49972434</guid>
+      <pubDate>Tue, 06 Oct 2026 00:02:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>[vcs] Open Source as We Know It Is Dead</title>
+      <link>https://jross.me/open-source-as-we-know-it-is-dead/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/1hnx0k/open_source_as_we_know_it_is_dead"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/1hnx0k</guid>
+      <pubDate>Mon, 05 Oct 2026 23:25:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>[security] How Cloudflare addressed a cross-tenant data exposure vulnerability in Containers</title>
+      <link>https://blog.cloudflare.com/containers-cross-tenant-vulnerability/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/gm2ziy/how_cloudflare_addressed_cross_tenant"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/gm2ziy</guid>
+      <pubDate>Mon, 05 Oct 2026 23:03:17 +0000</pubDate>
+    </item>
     <item>
       <title>SQL/PGQ property graph queries reverted from PostgreSQL 19</title>
       <link>https://git.postgresql.org/pg/commitdiff/2b9e1aff4d3d933ae8ee377fef22c2af9c7797e8</link>
@@ -556,13 +584,6 @@ set to opt out.&lt;/p&gt;
       <pubDate>Fri, 25 Sep 2026 08:26:44 +0000</pubDate>
     </item>
     <item>
-      <title>[security] File Notification Attacks: Side-Channel Leakage from the File-Notification System on Linux, Android, Windows, and macOS</title>
-      <link>https://inoti.fyi/</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/x6yjrc/file_notification_attacks_side_channel"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/x6yjrc</guid>
-      <pubDate>Fri, 25 Sep 2026 02:50:41 +0000</pubDate>
-    </item>
-    <item>
       <title>GitLab Outage</title>
       <link>https://status.gitlab.com/</link>
       <description>70 points, 36 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49838034'&gt;discussion sur Hacker News&lt;/a&gt;</description>
@@ -582,13 +603,6 @@ set to opt out.&lt;/p&gt;
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/f0buwg/katamari_architecture"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/f0buwg</guid>
       <pubDate>Thu, 24 Sep 2026 18:20:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>[r/sre] Best cloud disaster recovery tools in 2026?</title>
-      <link>https://www.reddit.com/r/sre/comments/1woz5ud/best_cloud_disaster_recovery_tools_in_2026/</link>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;We’re revisiting DR for a mostly cloud-hosted environment and trying to separate tools that merely report successful backups from ones that teams have actually relied on during an outage. Our setup is mainly AWS, with a few legacy VM workloads and several SaaS dependencies that would still affect recovery even if our own infrastructure came back cleanly.&lt;/p&gt; &lt;p&gt;The biggest gaps are recovery orchestration, proving backups are usable, and knowing whether our RTO/RPO targets are realistic. For anyone who has recovered from a meaningful incident recently, what tools or approaches held up under pressure? I’m especially interested in whether cloud-native services, dedicated DR platforms, or IaC-based recovery workflows have been most reliable.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/RushstIntellient8060"&gt; /u/RushstIntellient8060 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/r/sre/comments/1woz5ud/best_cloud_disaster_recovery_tools_in_2026/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/sre/comments/1woz5ud/best_cloud_disaster_recovery_tools_in_2026/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</description>
-      <guid isPermaLink="false">https://www.reddit.com/r/sre/t3_1woz5ud</guid>
-      <pubDate>Thu, 24 Sep 2026 11:32:16 +0000</pubDate>
     </item>
     <item>
       <title>Show HN: HookDeploy – Webhook infra with mTLS private delivery</title>
@@ -639,20 +653,6 @@ set to opt out.&lt;/p&gt;
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/liey8q/looking_forward_git_2_56_3_0"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/liey8q</guid>
       <pubDate>Tue, 22 Sep 2026 05:23:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>Major air traffic controller outage triggers flight chaos [video]</title>
-      <link>https://www.youtube.com/watch?v=gHUZ9W025lA</link>
-      <description>3 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49795935'&gt;discussion sur Hacker News&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49795935</guid>
-      <pubDate>Tue, 22 Sep 2026 02:02:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>Outages across API, Grok.com, and Grok Build – API (us-east-1.api.x.ai) Status</title>
-      <link>https://status.x.ai/api-us-east-1/INC578e0bc8</link>
-      <description>2 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49795747'&gt;discussion sur Hacker News&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49795747</guid>
-      <pubDate>Tue, 22 Sep 2026 01:28:42 +0000</pubDate>
     </item>
     <item>
       <title>[vcs] Ju! Ju! Tsu</title>
@@ -950,7 +950,7 @@ Test instance where you are welcome to make a mess: &lt;a href="https://squalk-t
       <pubDate>Tue, 25 Aug 2026 04:17:56 +0000</pubDate>
     </item>
     <item>
-      <title>[distributed, vcs] distributed identity</title>
+      <title>[distributed] distributed identity</title>
       <link>https://jyn.dev/distributed-identity/</link>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/al6sdh/distributed_identity"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/al6sdh</guid>
