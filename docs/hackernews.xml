@@ -8,11 +8,18 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 06 Oct 2026 16:59:32 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 21:27:56 +0000</lastBuildDate>
+    <item>
+      <title>How to Turn Customer Outage Reports into SLIs and Alerts for Earlier Detection</title>
+      <link>https://oneuptime.com/blog/post/2026-09-29-customer-outage-report-to-sli-alert/view</link>
+      <description>1 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49982644'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49982644</guid>
+      <pubDate>Tue, 06 Oct 2026 19:06:08 +0000</pubDate>
+    </item>
     <item>
       <title>Wikipedia operator says OpenAI's 'rogue' bots may be linked to a May outage</title>
       <link>https://www.theverge.com/news/1004929/wikipedia-openai-rogue-bots-wikimedia-foundation-outage</link>
-      <description>17 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49972467'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>18 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49972467'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=49972467</guid>
       <pubDate>Tue, 06 Oct 2026 00:07:09 +0000</pubDate>
     </item>
