@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 06 Oct 2026 10:54:22 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 16:59:32 +0000</lastBuildDate>
     <item>
       <title>Wikipedia operator says OpenAI's 'rogue' bots may be linked to a May outage</title>
       <link>https://www.theverge.com/news/1004929/wikipedia-openai-rogue-bots-wikimedia-foundation-outage</link>
@@ -169,13 +169,6 @@
       <description>1 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49818514'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=49818514</guid>
       <pubDate>Wed, 23 Sep 2026 16:25:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>Show HN: Kado – Search to Allow Personal Agents to Find Agent Apps</title>
-      <link>https://kado.so</link>
-      <description>2 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49803059'&gt;discussion sur Hacker News&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49803059</guid>
-      <pubDate>Tue, 22 Sep 2026 15:36:46 +0000</pubDate>
     </item>
   </channel>
 </rss>

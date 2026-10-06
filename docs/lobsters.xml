@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 06 Oct 2026 10:54:24 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 16:59:32 +0000</lastBuildDate>
     <item>
       <title>[security] Two arm64-specific miscompiles induce vulnerabilities in curl</title>
       <link>https://mastodon.social/@bagder/117392573268225646</link>

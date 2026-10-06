@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 06 Oct 2026 10:54:24 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 16:59:32 +0000</lastBuildDate>
     <item>
       <title>[security] Two arm64-specific miscompiles induce vulnerabilities in curl</title>
       <link>https://mastodon.social/@bagder/117392573268225646</link>
@@ -624,13 +624,6 @@ set to opt out.&lt;/p&gt;
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/qysrps/abandoning_scientific_linux_was_mistake"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/qysrps</guid>
       <pubDate>Wed, 23 Sep 2026 09:53:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>Show HN: Kado – Search to Allow Personal Agents to Find Agent Apps</title>
-      <link>https://kado.so</link>
-      <description>2 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49803059'&gt;discussion sur Hacker News&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49803059</guid>
-      <pubDate>Tue, 22 Sep 2026 15:36:46 +0000</pubDate>
     </item>
     <item>
       <title>[devops] Introducing Luxir</title>
