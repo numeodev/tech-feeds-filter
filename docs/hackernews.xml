@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 07 Oct 2026 01:08:20 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 07:55:23 +0000</lastBuildDate>
     <item>
       <title>How to Turn Customer Outage Reports into SLIs and Alerts for Earlier Detection</title>
       <link>https://oneuptime.com/blog/post/2026-09-29-customer-outage-report-to-sli-alert/view</link>
