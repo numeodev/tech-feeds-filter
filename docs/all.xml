@@ -8,13 +8,55 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 07 Oct 2026 14:55:17 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 20:19:41 +0000</lastBuildDate>
     <item>
-      <title>Cloudflare has "major" outage for 48 hours now</title>
-      <link>https://www.cloudflarestatus.com/api/v2/status.json</link>
-      <description>1 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49993274'&gt;discussion sur Hacker News&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49993274</guid>
-      <pubDate>Wed, 07 Oct 2026 14:21:49 +0000</pubDate>
+      <title>[security] Calling a function in C without naming it</title>
+      <link>https://wiro.world/posts/calling-c-func-without-naming-it/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ucwapn/calling_function_c_without_naming_it"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/ucwapn</guid>
+      <pubDate>Wed, 07 Oct 2026 18:15:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>[vcs] On Git Refs</title>
+      <link>https://matklad.github.io/2026/10/07/git-ref.html</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/u88nlh/on_git_refs"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/u88nlh</guid>
+      <pubDate>Wed, 07 Oct 2026 18:14:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>[security] Hello, my name is Orca</title>
+      <link>https://linnemanlabs.com/posts/hello-my-name-is-orca/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ffn6sm/hello_my_name_is_orca"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/ffn6sm</guid>
+      <pubDate>Wed, 07 Oct 2026 17:28:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>[security] Zeroization, part 1: Wiping can make things worse</title>
+      <link>https://00f.net/2026/10/06/zeroization-1/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/4hxxad/zeroization_part_1_wiping_can_make_things"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/4hxxad</guid>
+      <pubDate>Wed, 07 Oct 2026 16:22:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>GitHub Outage: Incident with Git Operations, Pull Requests and Actions</title>
+      <link>https://www.githubstatus.com/incidents/djlmxz2zd0j7</link>
+      <description>13 points, 3 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49994003'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49994003</guid>
+      <pubDate>Wed, 07 Oct 2026 15:15:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>[security] Cyber guardrails tax the defender, not the attacker</title>
+      <link>https://winfunc.com/research/cyber-guardrails-tax-the-defender-not-the-attacker</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/bdm3sy/cyber_guardrails_tax_defender_not"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/bdm3sy</guid>
+      <pubDate>Wed, 07 Oct 2026 15:05:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>[security] Twenty-two pending curl vulnerabilities</title>
+      <link>https://daniel.haxx.se/blog/2026/10/07/twenty-two-pending-curl-vulnerabilities/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/lu8hl9/twenty_two_pending_curl_vulnerabilities"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/lu8hl9</guid>
+      <pubDate>Wed, 07 Oct 2026 15:04:10 +0000</pubDate>
     </item>
     <item>
       <title>[security] Chromium Hardening Guide</title>
@@ -387,25 +429,11 @@ set to opt out.&lt;/p&gt;
       <pubDate>Wed, 30 Sep 2026 10:49:34 +0000</pubDate>
     </item>
     <item>
-      <title>[security] The Cuckoo's Egg</title>
-      <link>https://en.wikipedia.org/wiki/The_Cuckoo%27s_Egg_(book)</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/nicozi/cuckoo_s_egg"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/nicozi</guid>
-      <pubDate>Wed, 30 Sep 2026 08:48:43 +0000</pubDate>
-    </item>
-    <item>
       <title>[r/sre] How do you handle disaster recovery runbooks for multi cloud environments in practice</title>
       <link>https://www.reddit.com/r/sre/comments/1wtvjge/how_do_you_handle_disaster_recovery_runbooks_for/</link>
       <description>&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Currently building out a disaster recovery runbook for environments spanning aws and gcp, and honestly feeling overwhelmed by the complexity.&lt;/p&gt; &lt;p&gt;We split infrastructure across both clouds for redundancy, mostly using terraform with some manual configurations and various scripts scattered around. The theory sounds solid for resilience, but our actual runbook has turned into about ten confluence pages, multiple playbooks across different repos, and a somewhat optimistic assumption that we could rebuild production in another region or cloud if something major went wrong.&lt;/p&gt; &lt;p&gt;Our security and compliance team keeps pushing for concrete RTO numbers and demonstrable proof we can restore complete environments quickly, including all the supporting pieces like iam configs, policies, secrets management, kafka topics, database subnet groups, dns routing, and everything else. We run some chaos engineering exercises but they typically focus on single region failures or individual managed service issues, not full provider outages or complex tenant problems. Not sure how realistic it is to target genuine multi cloud failover with hard evidence rather than theoretical plans.&lt;/p&gt; &lt;p&gt;For those with DR strategies you feel confident about, what does your actual runbook look like day to day, who maintains ownership, and how much is automated versus manual documentation? Open to any practical advice&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/Efficiet_Wecather934"&gt; /u/Efficiet_Wecather934 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/r/sre/comments/1wtvjge/how_do_you_handle_disaster_recovery_runbooks_for/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/sre/comments/1wtvjge/how_do_you_handle_disaster_recovery_runbooks_for/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</description>
       <guid isPermaLink="false">https://www.reddit.com/r/sre/t3_1wtvjge</guid>
       <pubDate>Wed, 30 Sep 2026 04:24:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>[security] Fake Express Packages on npm Spread a Linux Worm</title>
-      <link>https://safedep.io/dirtyblanket-express-impersonation-npm</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/e2gxro/fake_express_packages_on_npm_spread_linux"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/e2gxro</guid>
-      <pubDate>Wed, 30 Sep 2026 04:05:15 +0000</pubDate>
     </item>
     <item>
       <title>Basecamp 5 and Hey Outage Postmortem</title>
@@ -437,13 +465,6 @@ set to opt out.&lt;/p&gt;
       <pubDate>Tue, 29 Sep 2026 20:14:41 +0000</pubDate>
     </item>
     <item>
-      <title>[security] Getting root on OnePlus 15 from an untrusted app</title>
-      <link>https://blog.nns.ee/2026/09/24/oneplus-root/</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/a5rcxy/getting_root_on_oneplus_15_from_untrusted"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/a5rcxy</guid>
-      <pubDate>Tue, 29 Sep 2026 17:25:55 +0000</pubDate>
-    </item>
-    <item>
       <title>Claude partial outage</title>
       <link>https://status.claude.com/incidents/4xvtc2gnq73l</link>
       <description>171 points, 151 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49893876'&gt;discussion sur Hacker News&lt;/a&gt;</description>
@@ -470,13 +491,6 @@ set to opt out.&lt;/p&gt;
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/xaqlnv/first_steps_plc_organization"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/xaqlnv</guid>
       <pubDate>Tue, 29 Sep 2026 06:57:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>[security] HardenedBSD August / September 2026 Status Report</title>
-      <link>https://hardenedbsd.org/article/shawn-webb/2026-09-27/hardenedbsd-august-september-2026-status-report</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/roo5hm/hardenedbsd_august_september_2026"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/roo5hm</guid>
-      <pubDate>Mon, 28 Sep 2026 16:14:23 +0000</pubDate>
     </item>
     <item>
       <title>Show HN: Yengi, a local-first AIdevelopment environment for coding,Blender/Unity</title>
@@ -509,7 +523,7 @@ set to opt out.&lt;/p&gt;
     <item>
       <title>Turning Failure Postmortems into SRE-Benchmark Problems</title>
       <link>https://www.sregym.com/blog/postmortems-to-sre-benchmarks</link>
-      <description>1 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49873719'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>2 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49873719'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=49873719</guid>
       <pubDate>Mon, 28 Sep 2026 04:40:56 +0000</pubDate>
     </item>
@@ -526,13 +540,6 @@ set to opt out.&lt;/p&gt;
       <description>3 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49867255'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=49867255</guid>
       <pubDate>Sun, 27 Sep 2026 15:04:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>[security] LuaRocks Security Incident September 2026</title>
-      <link>https://luarocks.org/security-incident-september-2026</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/apoyxs/luarocks_security_incident_september"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/apoyxs</guid>
-      <pubDate>Sun, 27 Sep 2026 13:58:57 +0000</pubDate>
     </item>
     <item>
       <title>[practices] What Improves Developer Productivity at Google? Code Quality (2022)</title>
@@ -625,13 +632,6 @@ set to opt out.&lt;/p&gt;
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/f0buwg/katamari_architecture"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/f0buwg</guid>
       <pubDate>Thu, 24 Sep 2026 18:20:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>Show HN: HookDeploy – Webhook infra with mTLS private delivery</title>
-      <link>https://hookdeploy.dev</link>
-      <description>1 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49818514'&gt;discussion sur Hacker News&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49818514</guid>
-      <pubDate>Wed, 23 Sep 2026 16:25:52 +0000</pubDate>
     </item>
     <item>
       <title>[distributed, vcs] Radicle: Disclosure of Vulnerability in the Network Protocol</title>
@@ -958,7 +958,7 @@ Test instance where you are welcome to make a mess: &lt;a href="https://squalk-t
       <pubDate>Tue, 25 Aug 2026 04:17:56 +0000</pubDate>
     </item>
     <item>
-      <title>[distributed, vcs] distributed identity</title>
+      <title>[distributed] distributed identity</title>
       <link>https://jyn.dev/distributed-identity/</link>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/al6sdh/distributed_identity"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/al6sdh</guid>
