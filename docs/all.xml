@@ -8,13 +8,27 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 07 Oct 2026 07:55:24 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 14:55:17 +0000</lastBuildDate>
     <item>
-      <title>[security] Cyber Letters of Marque and Reprisal Act</title>
-      <link>https://www.congress.gov/bill/119th-congress/house-bill/9697/text/ih</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/dkylo6/cyber_letters_marque_reprisal_act"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/dkylo6</guid>
-      <pubDate>Wed, 07 Oct 2026 06:55:49 +0000</pubDate>
+      <title>Cloudflare has "major" outage for 48 hours now</title>
+      <link>https://www.cloudflarestatus.com/api/v2/status.json</link>
+      <description>1 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49993274'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49993274</guid>
+      <pubDate>Wed, 07 Oct 2026 14:21:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>[security] Chromium Hardening Guide</title>
+      <link>https://rknf404.github.io/chromium-hardening-guide/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/qffffv/chromium_hardening_guide"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/qffffv</guid>
+      <pubDate>Wed, 07 Oct 2026 14:06:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>[security] Inside the Advisory Database and what happens when vulnerability volume breaks records</title>
+      <link>https://github.blog/security/supply-chain-security/inside-the-advisory-database-and-what-happens-when-vulnerability-volume-breaks-records/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/0z17kf/inside_advisory_database_what_happens"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/0z17kf</guid>
+      <pubDate>Wed, 07 Oct 2026 13:39:28 +0000</pubDate>
     </item>
     <item>
       <title>[security] How to fix a bug in a fix</title>
@@ -527,13 +541,6 @@ set to opt out.&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://lobste.rs/s/mwc2fu/what_improves_developer_productivity_at"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/mwc2fu</guid>
       <pubDate>Sun, 27 Sep 2026 12:52:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>[security] Honeypot on the boykisser forum</title>
-      <link>https://blog.boykisser.nl/2026/09/26/honeypot-on-the-boykisser-forum/</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/0rcuoj/honeypot_on_boykisser_forum"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/0rcuoj</guid>
-      <pubDate>Sun, 27 Sep 2026 00:18:05 +0000</pubDate>
     </item>
     <item>
       <title>[practices] A Roman name for software</title>
