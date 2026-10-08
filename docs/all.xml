@@ -8,7 +8,35 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 08 Oct 2026 06:49:47 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 14:12:27 +0000</lastBuildDate>
+    <item>
+      <title>[practices] The Slow Formation of Durable Software</title>
+      <link>https://newsletter.dancohen.org/archive/the-slow-formation-of-durable-software/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/8mm3ec/slow_formation_durable_software"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/8mm3ec</guid>
+      <pubDate>Thu, 08 Oct 2026 12:29:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>[vcs] Migrating Git repos to SHA-256</title>
+      <link>https://exa.y2k.diy/garden/git-sha256/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ug8erg/migrating_git_repos_sha_256"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/ug8erg</guid>
+      <pubDate>Thu, 08 Oct 2026 10:00:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>[vcs] jujutsu (jj) 0.46.0</title>
+      <link>https://github.com/jj-vcs/jj/releases/tag/v0.46.0</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/nz3b1h/jujutsu_jj_0_46_0"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/nz3b1h</guid>
+      <pubDate>Thu, 08 Oct 2026 09:02:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>[practices] I've Been Deindexed by Google</title>
+      <link>https://kennyqin.com/deindexed-by-google/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/en3vgh/i_ve_been_deindexed_by_google"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/en3vgh</guid>
+      <pubDate>Thu, 08 Oct 2026 07:59:30 +0000</pubDate>
+    </item>
     <item>
       <title>[practices] A rant about APIs</title>
       <link>https://dev.clintonblackburn.com/2026/10/08/a-rant-about-apis.html</link>
@@ -436,13 +464,6 @@ set to opt out.&lt;/p&gt;
       <pubDate>Wed, 30 Sep 2026 10:49:34 +0000</pubDate>
     </item>
     <item>
-      <title>[r/sre] How do you handle disaster recovery runbooks for multi cloud environments in practice</title>
-      <link>https://www.reddit.com/r/sre/comments/1wtvjge/how_do_you_handle_disaster_recovery_runbooks_for/</link>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Currently building out a disaster recovery runbook for environments spanning aws and gcp, and honestly feeling overwhelmed by the complexity.&lt;/p&gt; &lt;p&gt;We split infrastructure across both clouds for redundancy, mostly using terraform with some manual configurations and various scripts scattered around. The theory sounds solid for resilience, but our actual runbook has turned into about ten confluence pages, multiple playbooks across different repos, and a somewhat optimistic assumption that we could rebuild production in another region or cloud if something major went wrong.&lt;/p&gt; &lt;p&gt;Our security and compliance team keeps pushing for concrete RTO numbers and demonstrable proof we can restore complete environments quickly, including all the supporting pieces like iam configs, policies, secrets management, kafka topics, database subnet groups, dns routing, and everything else. We run some chaos engineering exercises but they typically focus on single region failures or individual managed service issues, not full provider outages or complex tenant problems. Not sure how realistic it is to target genuine multi cloud failover with hard evidence rather than theoretical plans.&lt;/p&gt; &lt;p&gt;For those with DR strategies you feel confident about, what does your actual runbook look like day to day, who maintains ownership, and how much is automated versus manual documentation? Open to any practical advice&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/Efficiet_Wecather934"&gt; /u/Efficiet_Wecather934 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/r/sre/comments/1wtvjge/how_do_you_handle_disaster_recovery_runbooks_for/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/sre/comments/1wtvjge/how_do_you_handle_disaster_recovery_runbooks_for/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</description>
-      <guid isPermaLink="false">https://www.reddit.com/r/sre/t3_1wtvjge</guid>
-      <pubDate>Wed, 30 Sep 2026 04:24:07 +0000</pubDate>
-    </item>
-    <item>
       <title>Basecamp 5 and Hey Outage Postmortem</title>
       <link>https://www.37status.com/incidents/l1yn9n8f21p6</link>
       <description>2 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49903386'&gt;discussion sur Hacker News&lt;/a&gt;</description>
@@ -761,13 +782,6 @@ Test instance where you are welcome to make a mess: &lt;a href="https://squalk-t
       <pubDate>Thu, 17 Sep 2026 07:48:17 +0000</pubDate>
     </item>
     <item>
-      <title>[practices] Don't DRY Your Code Prematurely (2024)</title>
-      <link>https://testing.googleblog.com/2024/05/dont-dry-your-code-prematurely.html</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/6udd9u/don_t_dry_your_code_prematurely_2024"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/6udd9u</guid>
-      <pubDate>Wed, 16 Sep 2026 23:40:06 +0000</pubDate>
-    </item>
-    <item>
       <title>[vcs] Gothub lists</title>
       <link>https://gothub.org/lists.html</link>
       <description>&lt;p&gt;Gothub got mailing lists.&lt;/p&gt;
@@ -790,7 +804,7 @@ Test instance where you are welcome to make a mess: &lt;a href="https://squalk-t
       <pubDate>Wed, 16 Sep 2026 15:48:13 +0000</pubDate>
     </item>
     <item>
-      <title>[practices, vcs] Reinventing issue tracking: Local-first and Git-native</title>
+      <title>[vcs] Reinventing issue tracking: Local-first and Git-native</title>
       <link>https://blog.manganin.dev/blog/reinventing-issue-tracking/</link>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/4tb4nk/reinventing_issue_tracking_local_first"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/4tb4nk</guid>
@@ -928,20 +942,6 @@ Test instance where you are welcome to make a mess: &lt;a href="https://squalk-t
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/p7solr/how_we_saved_100_terabytes_memory_by"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/p7solr</guid>
       <pubDate>Fri, 28 Aug 2026 06:54:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>[vcs] Why Google stores billions of lines of code in a single repository (2016)</title>
-      <link>https://dl.acm.org/doi/fullHtml/10.1145/2854146</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/wv6fzc/why_google_stores_billions_lines_code"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/wv6fzc</guid>
-      <pubDate>Wed, 26 Aug 2026 10:17:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>[vcs] maiao: Gerrit-style stacked diffs for GitHub, Cursor Origin, GitLab, Codeberg and more</title>
-      <link>https://github.com/runetes/maiao</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/2hsncr/maiao_gerrit_style_stacked_diffs_for"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/2hsncr</guid>
-      <pubDate>Tue, 25 Aug 2026 21:03:05 +0000</pubDate>
     </item>
     <item>
       <title>[distributed] Life Beyond Distributed Transactions: An apostate’s opinion (2007)</title>
