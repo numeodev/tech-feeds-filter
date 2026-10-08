@@ -8,7 +8,28 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 08 Oct 2026 14:12:27 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 20:21:30 +0000</lastBuildDate>
+    <item>
+      <title>[devops] 64-Day Certificate Lifetimes Coming Feb 2027</title>
+      <link>https://letsencrypt.org/2026/10/07/64-day-certs.html</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/dcrosf/64_day_certificate_lifetimes_coming_feb"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/dcrosf</guid>
+      <pubDate>Thu, 08 Oct 2026 19:06:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>[distributed] Scaling and benchmarking a critical message bus using a new indexing strategy</title>
+      <link>https://blog.janestreet.com/scaling-and-benchmarking-a-critical-message-bus/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/gliabr/scaling_benchmarking_critical_message"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/gliabr</guid>
+      <pubDate>Thu, 08 Oct 2026 17:39:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>Broke Prod</title>
+      <link>https://news.ycombinator.com/item?id=50007566</link>
+      <description>2 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50007566'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50007566</guid>
+      <pubDate>Thu, 08 Oct 2026 16:06:34 +0000</pubDate>
+    </item>
     <item>
       <title>[practices] The Slow Formation of Durable Software</title>
       <link>https://newsletter.dancohen.org/archive/the-slow-formation-of-durable-software/</link>
@@ -78,13 +99,6 @@
       <description>13 points, 3 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49994003'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=49994003</guid>
       <pubDate>Wed, 07 Oct 2026 15:15:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>[security] Cyber guardrails tax the defender, not the attacker</title>
-      <link>https://winfunc.com/research/cyber-guardrails-tax-the-defender-not-the-attacker</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/bdm3sy/cyber_guardrails_tax_defender_not"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/bdm3sy</guid>
-      <pubDate>Wed, 07 Oct 2026 15:05:37 +0000</pubDate>
     </item>
     <item>
       <title>[security] Twenty-two pending curl vulnerabilities</title>
@@ -464,6 +478,13 @@ set to opt out.&lt;/p&gt;
       <pubDate>Wed, 30 Sep 2026 10:49:34 +0000</pubDate>
     </item>
     <item>
+      <title>[security] The Cuckoo's Egg</title>
+      <link>https://en.wikipedia.org/wiki/The_Cuckoo%27s_Egg_(book)</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/nicozi/cuckoo_s_egg"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/nicozi</guid>
+      <pubDate>Wed, 30 Sep 2026 08:48:43 +0000</pubDate>
+    </item>
+    <item>
       <title>Basecamp 5 and Hey Outage Postmortem</title>
       <link>https://www.37status.com/incidents/l1yn9n8f21p6</link>
       <description>2 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49903386'&gt;discussion sur Hacker News&lt;/a&gt;</description>
@@ -646,13 +667,6 @@ set to opt out.&lt;/p&gt;
       <description>70 points, 36 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49838034'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=49838034</guid>
       <pubDate>Thu, 24 Sep 2026 23:10:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>August 27 TCRF DDoS Attack Postmortem</title>
-      <link>https://blog.xkeeper.net/the-cutting-room-floor/tcrf-2026-ddos-postmortem/</link>
-      <description>34 points, 14 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49835913'&gt;discussion sur Hacker News&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49835913</guid>
-      <pubDate>Thu, 24 Sep 2026 19:46:22 +0000</pubDate>
     </item>
     <item>
       <title>[practices] katamari architecture</title>
@@ -1000,13 +1014,6 @@ Test instance where you are welcome to make a mess: &lt;a href="https://squalk-t
       <pubDate>Fri, 21 Aug 2026 12:08:34 +0000</pubDate>
     </item>
     <item>
-      <title>[distributed] GitHub, autoscaling, and the component substitution fallacy</title>
-      <link>https://surfingcomplexity.blog/2026/08/19/github-autoscaling-and-the-component-substitution-fallacy/</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/xfkmst/github_autoscaling_component"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/xfkmst</guid>
-      <pubDate>Thu, 20 Aug 2026 15:48:13 +0000</pubDate>
-    </item>
-    <item>
       <title>[devops] Ahab: Hermeticity Analyzer for Bazel</title>
       <link>https://markkarpov.com/post/announcing-ahab</link>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/lt0cqn/ahab_hermeticity_analyzer_for_bazel"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
@@ -1096,13 +1103,6 @@ Test instance where you are welcome to make a mess: &lt;a href="https://squalk-t
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/mve50r/wheels_bottles_images"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/mve50r</guid>
       <pubDate>Thu, 30 Jul 2026 12:56:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>[devops] Using Nagios for small business infrastructure monitoring</title>
-      <link>https://tech.chrishardie.com/2026/nagios-small-business-infrastructure-monitoring/</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/wub9oc/using_nagios_for_small_business"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/wub9oc</guid>
-      <pubDate>Tue, 21 Jul 2026 18:35:19 +0000</pubDate>
     </item>
   </channel>
 </rss>

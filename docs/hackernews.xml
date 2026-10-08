@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 08 Oct 2026 14:12:27 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 20:21:29 +0000</lastBuildDate>
+    <item>
+      <title>Broke Prod</title>
+      <link>https://news.ycombinator.com/item?id=50007566</link>
+      <description>2 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50007566'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50007566</guid>
+      <pubDate>Thu, 08 Oct 2026 16:06:34 +0000</pubDate>
+    </item>
     <item>
       <title>GitHub Outage: Incident with Git Operations, Pull Requests and Actions</title>
       <link>https://www.githubstatus.com/incidents/djlmxz2zd0j7</link>
@@ -169,13 +176,6 @@
       <description>70 points, 36 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49838034'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=49838034</guid>
       <pubDate>Thu, 24 Sep 2026 23:10:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>August 27 TCRF DDoS Attack Postmortem</title>
-      <link>https://blog.xkeeper.net/the-cutting-room-floor/tcrf-2026-ddos-postmortem/</link>
-      <description>34 points, 14 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49835913'&gt;discussion sur Hacker News&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49835913</guid>
-      <pubDate>Thu, 24 Sep 2026 19:46:22 +0000</pubDate>
     </item>
   </channel>
 </rss>
