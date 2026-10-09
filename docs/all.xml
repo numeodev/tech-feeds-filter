@@ -8,7 +8,21 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 09 Oct 2026 00:49:44 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 06:58:29 +0000</lastBuildDate>
+    <item>
+      <title>[r/sre] Been burned by a bad Terraform change, any practical AWS backup config?</title>
+      <link>https://www.reddit.com/r/sre/comments/1x1eg1v/been_burned_by_a_bad_terraform_change_any/</link>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;We broke prod routing with a rushed terraform change, rds snapshots and s3 were perfect but cloud recovery of the known good configuration was guesswork since half the estate is drifted, would love any tips from folks who can reliably recover infra, not just data.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/ViscitAppehensive443"&gt; /u/ViscitAppehensive443 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/r/sre/comments/1x1eg1v/been_burned_by_a_bad_terraform_change_any/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/sre/comments/1x1eg1v/been_burned_by_a_bad_terraform_change_any/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</description>
+      <guid isPermaLink="false">https://www.reddit.com/r/sre/t3_1x1eg1v</guid>
+      <pubDate>Fri, 09 Oct 2026 06:54:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>Firebase's Global Outage</title>
+      <link>https://blog.pragmaticengineer.com/the-pulse-firebases-global-outage-poor-response/</link>
+      <description>1 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50016452'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50016452</guid>
+      <pubDate>Fri, 09 Oct 2026 05:44:53 +0000</pubDate>
+    </item>
     <item>
       <title>[devops, security] 64-Day Certificate Lifetimes Coming Feb 2027</title>
       <link>https://letsencrypt.org/2026/10/07/64-day-certs.html</link>
