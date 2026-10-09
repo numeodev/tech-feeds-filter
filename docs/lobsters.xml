@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 09 Oct 2026 19:54:25 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 23:42:14 +0000</lastBuildDate>
+    <item>
+      <title>[security] A Practical Guide to “Plug&amp;Pwn” for Pentesters and Defenders</title>
+      <link>https://blog.scrt.ch/2026/10/06/a-practical-guide-to-plugpwn-for-pentesters-and-defenders/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/yrcmjj/practical_guide_plug_pwn_for_pentesters"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/yrcmjj</guid>
+      <pubDate>Fri, 09 Oct 2026 20:25:21 +0000</pubDate>
+    </item>
     <item>
       <title>[practices] Artificial Intelligence in the Firm: Bottlenecks in Software Production</title>
       <link>https://fion.ac/jellyfish.pdf</link>
@@ -318,67 +325,6 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/f6dogm/esxi_exploitation_wild"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/f6dogm</guid>
       <pubDate>Thu, 01 Oct 2026 02:30:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>[security] Major rsync upgrade in Debian because of 33 CVEs</title>
-      <link>https://lobste.rs/s/sqyhgt/major_rsync_upgrade_debian_because_33</link>
-      <description>&lt;strong&gt;apt-listchanges --which=both -f text --since=3.4.1+ds1-5+deb13u4 &lt;br /&gt;
-/var/cache/apt/archives/rsync_3.5.0+ds1-0+deb13u1_amd64.deb
-apt-listchanges: Reading changelogs...
-apt-listchanges: News&lt;/strong&gt;
-&lt;p&gt;rsync (3.5.0+ds1-0+deb13u1) trixie-security; urgency=medium&lt;/p&gt;
-&lt;p&gt;In order to fix 33 CVEs, I have decided to bump the package to 3.5.0 rather
-than backporting all patches individually. After analysing the extra changes
-from the bump, not included in the CVE fixes, I have concluded this approach
-carries the lower amount of risk compared to the alternative.&lt;/p&gt;
-&lt;p&gt;This update contains behavior changes, all of which stems from the CVE fixes
-themselves, not exclusive to the version bump. The ones most likely to break
-an existing setup are listed here; /usr/share/doc/rsync/NEWS.md.gz has the
-full list.&lt;/p&gt;
-&lt;p&gt;Operator-supplied paths are no longer followed through untrusted symlinks.
-The destination directory and the arguments to --backup-dir, --temp-dir,
---partial-dir, --link-dest, --compare-dest, --copy-dest, --log-file,
---password-file, --files-from, --include-from, --exclude-from,
---write-batch, --read-batch and --filter merge files are now resolved one
-component at a time, following a symlink only when it is owned by root or
-by the user running rsync; one owned by anyone else is refused with
-"refusing to follow a symlink owned by an untrusted user".
---insecure-links restores the old behaviour, but it is local only and a
-daemon never honours it. For a single trusted module, set
-"insecure links = yes" in that module instead.&lt;/p&gt;
-&lt;p&gt;rrsync now refuses --debug on every invocation. When restricted to a
-subdirectory it additionally denies --copy-unsafe-links, passes the new
---confine-root so the server will not resolve a client-named filter merge
-file outside that directory, and passes --drop-D when receiving, so an
-upload can no longer create devices or special files there ("skipping
-non-regular file"). A plain "rsync -a" otherwise still works.&lt;/p&gt;
-&lt;p&gt;--chmod=a+s now sets both the setuid and setgid bits, matching chmod(1);
-it previously set setuid alone.&lt;/p&gt;
-&lt;p&gt;rsyncd changes that can change who gets in:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;"proxy protocol = true" without "proxy protocol hosts" now rejects
-every connection and warns at startup, instead of trusting a
-client-supplied PROXY header.&lt;/li&gt;
-&lt;li&gt;"hosts deny" now fails closed when a configured hostname cannot be
-resolved (with "forward lookup", the default), so a host previously
-admitted by an unresolvable deny entry is now blocked.&lt;/li&gt;
-&lt;li&gt;"auth users" values that start with a comma now split on commas alone,
-as documented, so a deny or :ro rule naming a group whose name contains
-a space now takes effect where it was silently ignored.&lt;/li&gt;
-&lt;li&gt;"hosts allow" / "hosts deny" patterns now fold case inside a [...]
-bracket expression as well, so a rule such as [A-Z]* matches hosts it
-used to miss.&lt;/li&gt;
-&lt;li&gt;A client-requested --compress-threads is capped at 8.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;rsync-ssl now verifies the server certificate. The default openssl
-backend additionally binds it to the requested hostname, so a certificate
-valid for some other name is now rejected. The stunnel and gnutls
-backends refuse to run unless RSYNC_SSL_CA_CERT is set, or
-RSYNC_SSL_ALLOW_INSECURE_STUNNEL=1 / RSYNC_SSL_ALLOW_INSECURE_GNUTLS=1 is
-set to opt out.&lt;/p&gt;
-&lt;p&gt;-- Samuel Henrique &lt;a href="mailto:samueloph@debian.org" rel="ugc"&gt;samueloph@debian.org&lt;/a&gt;  Tue, 15 Sep 2026 18:46:30 -0700&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/sqyhgt</guid>
-      <pubDate>Thu, 01 Oct 2026 00:02:09 +0000</pubDate>
     </item>
     <item>
       <title>[distributed] We used a database as a message queue. Now we use Kafka</title>
