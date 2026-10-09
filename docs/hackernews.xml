@@ -8,7 +8,21 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 09 Oct 2026 06:58:28 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 14:08:16 +0000</lastBuildDate>
+    <item>
+      <title>We Put Rollback Netcode in StarCraft: Brood War [video]</title>
+      <link>https://www.youtube.com/watch?v=vIt9xua9bLc</link>
+      <description>2 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50019403'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50019403</guid>
+      <pubDate>Fri, 09 Oct 2026 12:15:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>The reverts will continue until morale improves</title>
+      <link>http://peter.eisentraut.org/blog/2026/10/09/the-reverts-will-continue-until-morale-improves</link>
+      <description>2 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50018437'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50018437</guid>
+      <pubDate>Fri, 09 Oct 2026 10:15:25 +0000</pubDate>
+    </item>
     <item>
       <title>Firebase's Global Outage</title>
       <link>https://blog.pragmaticengineer.com/the-pulse-firebases-global-outage-poor-response/</link>
@@ -19,7 +33,7 @@
     <item>
       <title>Broke Prod</title>
       <link>https://news.ycombinator.com/item?id=50007566</link>
-      <description>2 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50007566'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>2 points, 2 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50007566'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50007566</guid>
       <pubDate>Thu, 08 Oct 2026 16:06:34 +0000</pubDate>
     </item>
@@ -162,20 +176,6 @@
       <description>27 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49851169'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=49851169</guid>
       <pubDate>Fri, 25 Sep 2026 23:04:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>Show HN: Pingularity – scheduled Ookla/iperf3 speedtest dashboard, outage alerts</title>
-      <link>https://pingularity.dev/</link>
-      <description>2 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49844310'&gt;discussion sur Hacker News&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49844310</guid>
-      <pubDate>Fri, 25 Sep 2026 13:25:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>Retries Turn a Short Outage into a Long One</title>
-      <link>https://blog.dochia.dev/blog/retries/</link>
-      <description>1 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49843085'&gt;discussion sur Hacker News&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49843085</guid>
-      <pubDate>Fri, 25 Sep 2026 11:29:15 +0000</pubDate>
     </item>
   </channel>
 </rss>

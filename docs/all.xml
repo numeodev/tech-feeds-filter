@@ -8,7 +8,35 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 09 Oct 2026 06:58:29 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 14:08:17 +0000</lastBuildDate>
+    <item>
+      <title>We Put Rollback Netcode in StarCraft: Brood War [video]</title>
+      <link>https://www.youtube.com/watch?v=vIt9xua9bLc</link>
+      <description>2 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50019403'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50019403</guid>
+      <pubDate>Fri, 09 Oct 2026 12:15:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>[security] Telegram Desktop: one-click account takeover via IPC injection</title>
+      <link>https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/vq6ly4/telegram_desktop_one_click_account"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/vq6ly4</guid>
+      <pubDate>Fri, 09 Oct 2026 11:26:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The reverts will continue until morale improves</title>
+      <link>http://peter.eisentraut.org/blog/2026/10/09/the-reverts-will-continue-until-morale-improves</link>
+      <description>2 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50018437'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50018437</guid>
+      <pubDate>Fri, 09 Oct 2026 10:15:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>[security] en-html.org is a Scam Site</title>
+      <link>https://etbe.coker.com.au/2026/10/09/en-html-org-scam-site/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/85k8am/en_html_org_is_scam_site"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/85k8am</guid>
+      <pubDate>Fri, 09 Oct 2026 07:37:38 +0000</pubDate>
+    </item>
     <item>
       <title>[r/sre] Been burned by a bad Terraform change, any practical AWS backup config?</title>
       <link>https://www.reddit.com/r/sre/comments/1x1eg1v/been_burned_by_a_bad_terraform_change_any/</link>
@@ -40,7 +68,7 @@
     <item>
       <title>Broke Prod</title>
       <link>https://news.ycombinator.com/item?id=50007566</link>
-      <description>2 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50007566'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>2 points, 2 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50007566'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50007566</guid>
       <pubDate>Thu, 08 Oct 2026 16:06:34 +0000</pubDate>
     </item>
@@ -464,20 +492,6 @@ set to opt out.&lt;/p&gt;
       <pubDate>Wed, 30 Sep 2026 20:28:27 +0000</pubDate>
     </item>
     <item>
-      <title>[security] Branch Target Reuse: Spectre-v2 Attacks in JIT Engines</title>
-      <link>https://www.vusec.net/projects/btr/</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/y3ppje/branch_target_reuse_spectre_v2_attacks"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/y3ppje</guid>
-      <pubDate>Wed, 30 Sep 2026 18:06:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>[security] attezt: device attestation, PKCS11 and ACME</title>
-      <link>https://media.ccc.de/v/all-systems-go-2026-414-attezt-device-attestation-pkcs11-and-acme#t=30</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/obix99/attezt_device_attestation_pkcs11_acme"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/obix99</guid>
-      <pubDate>Wed, 30 Sep 2026 12:23:08 +0000</pubDate>
-    </item>
-    <item>
       <title>[practices] State of Devs 2026</title>
       <link>https://2026.stateofdevs.com/en-US</link>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ysiw3t/state_devs_2026"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
@@ -653,20 +667,6 @@ set to opt out.&lt;/p&gt;
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/5qgygw/how_use_this_project"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/5qgygw</guid>
       <pubDate>Fri, 25 Sep 2026 21:01:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>Show HN: Pingularity – scheduled Ookla/iperf3 speedtest dashboard, outage alerts</title>
-      <link>https://pingularity.dev/</link>
-      <description>2 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49844310'&gt;discussion sur Hacker News&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49844310</guid>
-      <pubDate>Fri, 25 Sep 2026 13:25:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>Retries Turn a Short Outage into a Long One</title>
-      <link>https://blog.dochia.dev/blog/retries/</link>
-      <description>1 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49843085'&gt;discussion sur Hacker News&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49843085</guid>
-      <pubDate>Fri, 25 Sep 2026 11:29:15 +0000</pubDate>
     </item>
     <item>
       <title>[practices] katamari architecture</title>
