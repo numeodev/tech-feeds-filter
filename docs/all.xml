@@ -8,7 +8,15 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 09 Oct 2026 14:08:17 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 19:54:25 +0000</lastBuildDate>
+    <item>
+      <title>[practices] Artificial Intelligence in the Firm: Bottlenecks in Software Production</title>
+      <link>https://fion.ac/jellyfish.pdf</link>
+      <description>&lt;p&gt;We study the impacts of AI coding assistants and agents on software engineering work, using a novel proprietary dataset from an engineering analytics platform, covering 300 million work events — including GitHub coding activity, Jira issues, and Google Calendar events — across 718 firms. We use a staggered difference-in-differences design, exploiting variation in firm- level adoption timing of AI coding assistants and agents. Both technologies increase coding productivity. However, productivity gains do not fully pass through to changes in software output or employment. For AI agents, this incomplete pass-through reflects a bottleneck from code review: review times increase, a larger share of code updates require revisions, and reviews involve more comments. We develop a model of software production to structure these results, in which AI affects both productivity and quality of intermediate outputs, and in turn can generate a review bottleneck and limit pass-through.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://lobste.rs/s/aqdswf/artificial_intelligence_firm"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/aqdswf</guid>
+      <pubDate>Fri, 09 Oct 2026 15:03:06 +0000</pubDate>
+    </item>
     <item>
       <title>We Put Rollback Netcode in StarCraft: Brood War [video]</title>
       <link>https://www.youtube.com/watch?v=vIt9xua9bLc</link>
@@ -773,13 +781,6 @@ Test instance where you are welcome to make a mess: &lt;a href="https://squalk-t
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ukzxid/write_while_learning"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/ukzxid</guid>
       <pubDate>Sat, 19 Sep 2026 06:56:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>[practices] Vale, code-like linting for prose</title>
-      <link>https://vale.sh</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/anvcfz/vale_code_like_linting_for_prose"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/anvcfz</guid>
-      <pubDate>Fri, 18 Sep 2026 20:38:52 +0000</pubDate>
     </item>
     <item>
       <title>[devops] awesome-tunneling: List of tunneling software and services</title>
