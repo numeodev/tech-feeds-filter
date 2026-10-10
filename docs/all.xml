@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 09 Oct 2026 23:42:14 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 03:21:59 +0000</lastBuildDate>
     <item>
       <title>[security] A Practical Guide to “Plug&amp;Pwn” for Pentesters and Defenders</title>
       <link>https://blog.scrt.ch/2026/10/06/a-practical-guide-to-plugpwn-for-pentesters-and-defenders/</link>
@@ -409,13 +409,6 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/yfttkn/cve_2026_86950_great_glyph_grift_wild_ios"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/yfttkn</guid>
       <pubDate>Thu, 01 Oct 2026 13:41:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>Postgres 19: Are we reverting patches because of bugs found by AI?</title>
-      <link>https://vondra.me/posts/are-we-reverting-patches-because-of-bugs-found-by-ai/</link>
-      <description>1 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49920859'&gt;discussion sur Hacker News&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49920859</guid>
-      <pubDate>Thu, 01 Oct 2026 12:40:03 +0000</pubDate>
     </item>
     <item>
       <title>[security] Is sandboxing sufficient to contain rogue agents?</title>

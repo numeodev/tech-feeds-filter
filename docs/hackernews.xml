@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 09 Oct 2026 23:42:13 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 03:21:57 +0000</lastBuildDate>
     <item>
       <title>We Put Rollback Netcode in StarCraft: Brood War [video]</title>
       <link>https://www.youtube.com/watch?v=vIt9xua9bLc</link>
@@ -99,13 +99,6 @@
       <description>1 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49926681'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=49926681</guid>
       <pubDate>Thu, 01 Oct 2026 20:28:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>Postgres 19: Are we reverting patches because of bugs found by AI?</title>
-      <link>https://vondra.me/posts/are-we-reverting-patches-because-of-bugs-found-by-ai/</link>
-      <description>1 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49920859'&gt;discussion sur Hacker News&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49920859</guid>
-      <pubDate>Thu, 01 Oct 2026 12:40:03 +0000</pubDate>
     </item>
     <item>
       <title>Hetzner: Load Balancers private network outage for dedicated servers</title>
