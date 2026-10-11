@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 11 Oct 2026 17:01:30 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 21:13:54 +0000</lastBuildDate>
+    <item>
+      <title>[practices] The wild west of polyglot docs sites</title>
+      <link>https://technicalwriting.dev/blog/2026/10/polyglot/index.html</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/wyxufm/wild_west_polyglot_docs_sites"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/wyxufm</guid>
+      <pubDate>Sun, 11 Oct 2026 17:43:46 +0000</pubDate>
+    </item>
     <item>
       <title>[security] Hacking the Eufy Doorbell and Base Station</title>
       <link>https://adepts.of0x.cc/Eufy-DoorBell-hacking/</link>
@@ -314,13 +321,6 @@
       <pubDate>Mon, 05 Oct 2026 06:50:55 +0000</pubDate>
     </item>
     <item>
-      <title>Postgres: Are we reverting patches because of bugs found by AI?</title>
-      <link>https://vondra.me/posts/are-we-reverting-patches-because-of-bugs-found-by-ai/</link>
-      <description>3 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49960374'&gt;discussion sur Hacker News&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49960374</guid>
-      <pubDate>Mon, 05 Oct 2026 03:27:36 +0000</pubDate>
-    </item>
-    <item>
       <title>[distributed] Protocol-aware recovery for consensus-based storage (2018)</title>
       <link>https://www.usenix.org/system/files/conference/fast18/fast18-alagappan.pdf</link>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/4bzboj/protocol_aware_recovery_for_consensus"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
@@ -438,13 +438,6 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/bytzgl/git_3_0_s_upcoming_sha_256_default_will_be"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/bytzgl</guid>
       <pubDate>Thu, 01 Oct 2026 18:26:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>Postgres 19: Are we reverting patches because of bugs found by AI?</title>
-      <link>https://vondra.me/posts/are-we-reverting-patches-because-of-bugs-found-by-ai/</link>
-      <description>1 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49920859'&gt;discussion sur Hacker News&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49920859</guid>
-      <pubDate>Thu, 01 Oct 2026 12:40:03 +0000</pubDate>
     </item>
     <item>
       <title>Hetzner: Load Balancers private network outage for dedicated servers</title>
@@ -714,13 +707,6 @@ Test instance where you are welcome to make a mess: &lt;a href="https://squalk-t
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/yfz406/secure_vms_for_kubernetes_hardening_kata"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/yfz406</guid>
       <pubDate>Sat, 19 Sep 2026 17:11:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>[practices] Write while learning</title>
-      <link>https://purplesyringa.moe/blog/write-while-learning/</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ukzxid/write_while_learning"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/ukzxid</guid>
-      <pubDate>Sat, 19 Sep 2026 06:56:24 +0000</pubDate>
     </item>
     <item>
       <title>[devops] awesome-tunneling: List of tunneling software and services</title>
