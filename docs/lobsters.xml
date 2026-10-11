@@ -8,7 +8,15 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 11 Oct 2026 11:05:52 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 17:01:30 +0000</lastBuildDate>
+    <item>
+      <title>[security] Hacking the Eufy Doorbell and Base Station</title>
+      <link>https://adepts.of0x.cc/Eufy-DoorBell-hacking/</link>
+      <description>&lt;p&gt;&lt;a href="https://adepts.of0x.cc/eufy-homestation2-firmware/" rel="ugc"&gt;Here is the follow-up dive into the base station&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://lobste.rs/s/e84scc/hacking_eufy_doorbell_base_station"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/e84scc</guid>
+      <pubDate>Sun, 11 Oct 2026 11:54:20 +0000</pubDate>
+    </item>
     <item>
       <title>[vcs] What's Wrong with GitHub</title>
       <link>https://www.gnu.org/philosophy/whats-wrong-with-github.html</link>
@@ -17,9 +25,9 @@
       <pubDate>Sun, 11 Oct 2026 09:37:56 +0000</pubDate>
     </item>
     <item>
-      <title>[vcs] How big is a Git commit? - ratfactor</title>
+      <title>[vcs] How big is a Git commit?</title>
       <link>https://ratfactor.com/cards/git-commit-size</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/9wcfld/how_big_is_git_commit_ratfactor"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/9wcfld/how_big_is_git_commit"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/9wcfld</guid>
       <pubDate>Sun, 11 Oct 2026 09:25:42 +0000</pubDate>
     </item>
@@ -332,13 +340,6 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/bytzgl/git_3_0_s_upcoming_sha_256_default_will_be"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/bytzgl</guid>
       <pubDate>Thu, 01 Oct 2026 18:26:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>[security] CVE-2026-86950: The Great Glyph Grift - An in-the-wild iOS bug with a possible WhatsApp zero-click path</title>
-      <link>https://calif.io/research/the-great-glyph-grift</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/yfttkn/cve_2026_86950_great_glyph_grift_wild_ios"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/yfttkn</guid>
-      <pubDate>Thu, 01 Oct 2026 13:41:13 +0000</pubDate>
     </item>
     <item>
       <title>[distributed] We used a database as a message queue. Now we use Kafka</title>
