@@ -8,7 +8,21 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 11 Oct 2026 04:06:40 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 11:05:52 +0000</lastBuildDate>
+    <item>
+      <title>[vcs] What's Wrong with GitHub</title>
+      <link>https://www.gnu.org/philosophy/whats-wrong-with-github.html</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/u9ue6c/what_s_wrong_with_github"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/u9ue6c</guid>
+      <pubDate>Sun, 11 Oct 2026 09:37:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>[vcs] How big is a Git commit? - ratfactor</title>
+      <link>https://ratfactor.com/cards/git-commit-size</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/9wcfld/how_big_is_git_commit_ratfactor"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/9wcfld</guid>
+      <pubDate>Sun, 11 Oct 2026 09:25:42 +0000</pubDate>
+    </item>
     <item>
       <title>[security] Reporting vulnerabilities to Estonian companies</title>
       <link>https://www.youtube.com/watch?v=4gcSlBORoTI</link>
@@ -679,20 +693,6 @@ Test instance where you are welcome to make a mess: &lt;a href="https://squalk-t
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/1kdrx2/how_federated_stars_2024"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/1kdrx2</guid>
       <pubDate>Sun, 06 Sep 2026 06:05:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>[vcs] Git Submodules as a Package Manager</title>
-      <link>https://nesbitt.io/2026/09/01/git-submodules-as-a-package-manager.html</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/j2hxnq/git_submodules_as_package_manager"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/j2hxnq</guid>
-      <pubDate>Sat, 05 Sep 2026 06:20:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>[vcs] jujutsu 0.45.0</title>
-      <link>https://github.com/jj-vcs/jj/releases/tag/v0.45.0</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/zudpcb/jujutsu_0_45_0"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/zudpcb</guid>
-      <pubDate>Thu, 03 Sep 2026 10:02:34 +0000</pubDate>
     </item>
     <item>
       <title>[distributed] The pattern language of software architecture</title>
