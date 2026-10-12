@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 12 Oct 2026 00:49:43 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 06:46:07 +0000</lastBuildDate>
     <item>
       <title>We Put Rollback Netcode in StarCraft: Brood War [video]</title>
       <link>https://www.youtube.com/watch?v=vIt9xua9bLc</link>
@@ -134,13 +134,6 @@
       <description>1 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49878534'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=49878534</guid>
       <pubDate>Mon, 28 Sep 2026 14:26:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>Turning Failure Postmortems into SRE-Benchmark Problems</title>
-      <link>https://www.sregym.com/blog/postmortems-to-sre-benchmarks</link>
-      <description>2 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49873719'&gt;discussion sur Hacker News&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49873719</guid>
-      <pubDate>Mon, 28 Sep 2026 04:40:56 +0000</pubDate>
     </item>
   </channel>
 </rss>

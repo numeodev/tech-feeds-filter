@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 12 Oct 2026 00:49:44 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 06:46:08 +0000</lastBuildDate>
+    <item>
+      <title>[devops] 3-2-1 Backup Strategy with restic and Backblaze B2</title>
+      <link>https://chuck.is/paranoid/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/9zcxev/3_2_1_backup_strategy_with_restic"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/9zcxev</guid>
+      <pubDate>Mon, 12 Oct 2026 04:21:09 +0000</pubDate>
+    </item>
     <item>
       <title>[practices] The wild west of polyglot docs sites</title>
       <link>https://technicalwriting.dev/blog/2026/10/polyglot/index.html</link>
@@ -869,13 +876,6 @@ Test instance where you are welcome to make a mess: &lt;a href="https://squalk-t
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/0zr9wr/sovereign_tech_fellowship_for_rust"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/0zr9wr</guid>
       <pubDate>Mon, 03 Aug 2026 23:14:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>[devops] Wheels, Bottles and Images</title>
-      <link>https://nesbitt.io/2026/07/30/wheels-bottles-images.html</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/mve50r/wheels_bottles_images"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/mve50r</guid>
-      <pubDate>Thu, 30 Jul 2026 12:56:17 +0000</pubDate>
     </item>
   </channel>
 </rss>
