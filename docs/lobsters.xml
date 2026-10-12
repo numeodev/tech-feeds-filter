@@ -8,7 +8,38 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 12 Oct 2026 06:46:08 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 16:18:49 +0000</lastBuildDate>
+    <item>
+      <title>[security] Finding a $90,000 Remote Code Execution Vulnerability in Google</title>
+      <link>https://simonkoeck.com/writeups/google-devsite-flask-session-pickle-rce</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/mldt0o/finding_90_000_remote_code_execution"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/mldt0o</guid>
+      <pubDate>Mon, 12 Oct 2026 14:40:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>[security] French supermarket chains say cyberattack forced refrigerator shutdown</title>
+      <link>https://www.afp.com/en/french-supermarket-chains-say-cyberattack-forced-refrigerator-shutdown</link>
+      <description>&lt;p&gt;This popped up and reminded me strangely of a story post a month ago here:&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://lobste.rs/s/ygjo0g/i_think_military_commissary_freezers" rel="ugc"&gt;https://lobste.rs/s/ygjo0g/i_think_military_commissary_freezers&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;And, lo and behold, the very same controller supplier is mentioned in both the earlier US article and the one covering this by &lt;a href="https://www.lemonde.fr/economie/article/2026/10/12/plusieurs-centaines-de-supermarches-intermarche-et-cooperative-u-victimes-d-une-cyberattaque-visant-leurs-installations-frigorifiques_6792621_3234.html" rel="ugc"&gt;french newspaper Le Monde&lt;/a&gt;: the danish company Danfoss. I could not find sources mentioning the supplier in English.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://lobste.rs/s/u4vlin/french_supermarket_chains_say"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/u4vlin</guid>
+      <pubDate>Mon, 12 Oct 2026 12:23:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>[practices] How to effectively debug when you no longer understand the code</title>
+      <link>https://copyconstruct.medium.com/how-to-effectively-debug-when-you-no-longer-understand-the-code-bd3dcb2c5f7b</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/pirgtp/how_effectively_debug_when_you_no_longer"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/pirgtp</guid>
+      <pubDate>Mon, 12 Oct 2026 12:01:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>[devops] Implementing kubernetes node bin packing</title>
+      <link>https://blog.costgraph.ai/node-rightsizing/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/nothr5/implementing_kubernetes_node_bin"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/nothr5</guid>
+      <pubDate>Mon, 12 Oct 2026 08:32:12 +0000</pubDate>
+    </item>
     <item>
       <title>[devops] 3-2-1 Backup Strategy with restic and Backblaze B2</title>
       <link>https://chuck.is/paranoid/</link>
@@ -328,18 +359,11 @@
       <pubDate>Sat, 03 Oct 2026 02:41:38 +0000</pubDate>
     </item>
     <item>
-      <title>[security, vcs] I got targeted: Trying to get your credentials via a git post-checkout hook</title>
+      <title>[vcs] I got targeted: Trying to get your credentials via a git post-checkout hook</title>
       <link>https://frankwiles.com/posts/i-got-targeted/</link>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/cd5gdk/i_got_targeted_trying_get_your"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/cd5gdk</guid>
       <pubDate>Fri, 02 Oct 2026 22:19:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>[security] Updates to Full Disk Access in macOS</title>
-      <link>https://developer.apple.com/news/?id=p6zjojqw</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/9ipypq/updates_full_disk_access_macos"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/9ipypq</guid>
-      <pubDate>Fri, 02 Oct 2026 20:10:26 +0000</pubDate>
     </item>
     <item>
       <title>[practices] The Four Horsemen of Agentic Coding</title>
@@ -560,13 +584,6 @@ Test instance where you are welcome to make a mess: &lt;a href="https://squalk-t
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/xgdt4u/beyond_jj_config_tools_ecosystem"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/xgdt4u</guid>
       <pubDate>Sun, 20 Sep 2026 10:51:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>[practices] Grit your teeth and ship it</title>
-      <link>https://www.seangoedecke.com/grit-your-teeth-and-ship-it/</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/pdulza/grit_your_teeth_ship_it"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/pdulza</guid>
-      <pubDate>Sun, 20 Sep 2026 02:12:23 +0000</pubDate>
     </item>
     <item>
       <title>[devops] Secure VMs for Kubernetes: Hardening Kata containers</title>
@@ -869,13 +886,6 @@ Test instance where you are welcome to make a mess: &lt;a href="https://squalk-t
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/98zvnf/tests_for_pdf"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/98zvnf</guid>
       <pubDate>Tue, 04 Aug 2026 10:23:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>[devops] Sovereign Tech Fellowship for Rust maintenance (June-July 2026 report)</title>
-      <link>https://kobzol.github.io/rust/2026/08/03/stf-june-july-2026.html</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/0zr9wr/sovereign_tech_fellowship_for_rust"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/0zr9wr</guid>
-      <pubDate>Mon, 03 Aug 2026 23:14:27 +0000</pubDate>
     </item>
   </channel>
 </rss>

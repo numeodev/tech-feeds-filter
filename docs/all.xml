@@ -8,7 +8,45 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 12 Oct 2026 06:46:08 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 16:18:49 +0000</lastBuildDate>
+    <item>
+      <title>[security] Finding a $90,000 Remote Code Execution Vulnerability in Google</title>
+      <link>https://simonkoeck.com/writeups/google-devsite-flask-session-pickle-rce</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/mldt0o/finding_90_000_remote_code_execution"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/mldt0o</guid>
+      <pubDate>Mon, 12 Oct 2026 14:40:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>[security] French supermarket chains say cyberattack forced refrigerator shutdown</title>
+      <link>https://www.afp.com/en/french-supermarket-chains-say-cyberattack-forced-refrigerator-shutdown</link>
+      <description>&lt;p&gt;This popped up and reminded me strangely of a story post a month ago here:&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://lobste.rs/s/ygjo0g/i_think_military_commissary_freezers" rel="ugc"&gt;https://lobste.rs/s/ygjo0g/i_think_military_commissary_freezers&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;And, lo and behold, the very same controller supplier is mentioned in both the earlier US article and the one covering this by &lt;a href="https://www.lemonde.fr/economie/article/2026/10/12/plusieurs-centaines-de-supermarches-intermarche-et-cooperative-u-victimes-d-une-cyberattaque-visant-leurs-installations-frigorifiques_6792621_3234.html" rel="ugc"&gt;french newspaper Le Monde&lt;/a&gt;: the danish company Danfoss. I could not find sources mentioning the supplier in English.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://lobste.rs/s/u4vlin/french_supermarket_chains_say"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/u4vlin</guid>
+      <pubDate>Mon, 12 Oct 2026 12:23:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>[practices] How to effectively debug when you no longer understand the code</title>
+      <link>https://copyconstruct.medium.com/how-to-effectively-debug-when-you-no-longer-understand-the-code-bd3dcb2c5f7b</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/pirgtp/how_effectively_debug_when_you_no_longer"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/pirgtp</guid>
+      <pubDate>Mon, 12 Oct 2026 12:01:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>[r/sre] how do you handle canary deployment rollback under real traffic?</title>
+      <link>https://www.reddit.com/r/sre/comments/1x3xgch/how_do_you_handle_canary_deployment_rollback/</link>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Our canary deployments catch obvious breakage fine, but subtle behavioral changes only show up once real traffic hits edge cases our canary percentage doesn't see often enough.&lt;/p&gt; &lt;p&gt;I've considered increasing the canary percentage, but that increases blast radius if something's actually wrong. What would you do, and what would you avoid?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/Far-ecurity65bert65"&gt; /u/Far-ecurity65bert65 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/r/sre/comments/1x3xgch/how_do_you_handle_canary_deployment_rollback/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/sre/comments/1x3xgch/how_do_you_handle_canary_deployment_rollback/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</description>
+      <guid isPermaLink="false">https://www.reddit.com/r/sre/t3_1x3xgch</guid>
+      <pubDate>Mon, 12 Oct 2026 09:35:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>[devops] Implementing kubernetes node bin packing</title>
+      <link>https://blog.costgraph.ai/node-rightsizing/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/nothr5/implementing_kubernetes_node_bin"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/nothr5</guid>
+      <pubDate>Mon, 12 Oct 2026 08:32:12 +0000</pubDate>
+    </item>
     <item>
       <title>[devops] 3-2-1 Backup Strategy with restic and Backblaze B2</title>
       <link>https://chuck.is/paranoid/</link>
@@ -300,13 +338,6 @@
       <pubDate>Mon, 05 Oct 2026 23:03:17 +0000</pubDate>
     </item>
     <item>
-      <title>SQL/PGQ property graph queries reverted from PostgreSQL 19</title>
-      <link>https://git.postgresql.org/pg/commitdiff/2b9e1aff4d3d933ae8ee377fef22c2af9c7797e8</link>
-      <description>2 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49964997'&gt;discussion sur Hacker News&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49964997</guid>
-      <pubDate>Mon, 05 Oct 2026 13:58:25 +0000</pubDate>
-    </item>
-    <item>
       <title>[devops] Using docker-compose with Podman rootless</title>
       <link>https://elou.world/en/tutorial/podman-docker-compose</link>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/tpxwfe/using_docker_compose_with_podman"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
@@ -398,18 +429,11 @@
       <pubDate>Sat, 03 Oct 2026 02:41:38 +0000</pubDate>
     </item>
     <item>
-      <title>[security, vcs] I got targeted: Trying to get your credentials via a git post-checkout hook</title>
+      <title>[vcs] I got targeted: Trying to get your credentials via a git post-checkout hook</title>
       <link>https://frankwiles.com/posts/i-got-targeted/</link>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/cd5gdk/i_got_targeted_trying_get_your"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/cd5gdk</guid>
       <pubDate>Fri, 02 Oct 2026 22:19:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>[security] Updates to Full Disk Access in macOS</title>
-      <link>https://developer.apple.com/news/?id=p6zjojqw</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/9ipypq/updates_full_disk_access_macos"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/9ipypq</guid>
-      <pubDate>Fri, 02 Oct 2026 20:10:26 +0000</pubDate>
     </item>
     <item>
       <title>[practices] The Four Horsemen of Agentic Coding</title>
@@ -530,20 +554,6 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/xaqlnv/first_steps_plc_organization"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/xaqlnv</guid>
       <pubDate>Tue, 29 Sep 2026 06:57:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>Show HN: Yengi, a local-first AIdevelopment environment for coding,Blender/Unity</title>
-      <link>https://github.com/mdaiWorks/yengi</link>
-      <description>2 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49879268'&gt;discussion sur Hacker News&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49879268</guid>
-      <pubDate>Mon, 28 Sep 2026 15:08:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>Log internet outages and show whether they're on your side or the ISP's</title>
-      <link>https://github.com/BoazCohenJ/OutageLog</link>
-      <description>1 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49878534'&gt;discussion sur Hacker News&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49878534</guid>
-      <pubDate>Mon, 28 Sep 2026 14:26:50 +0000</pubDate>
     </item>
     <item>
       <title>[practices] Yes, no AI is now a feature</title>
@@ -693,13 +703,6 @@ Test instance where you are welcome to make a mess: &lt;a href="https://squalk-t
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/xgdt4u/beyond_jj_config_tools_ecosystem"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/xgdt4u</guid>
       <pubDate>Sun, 20 Sep 2026 10:51:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>[practices] Grit your teeth and ship it</title>
-      <link>https://www.seangoedecke.com/grit-your-teeth-and-ship-it/</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/pdulza/grit_your_teeth_ship_it"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/pdulza</guid>
-      <pubDate>Sun, 20 Sep 2026 02:12:23 +0000</pubDate>
     </item>
     <item>
       <title>[devops] Secure VMs for Kubernetes: Hardening Kata containers</title>
@@ -1002,13 +1005,6 @@ Test instance where you are welcome to make a mess: &lt;a href="https://squalk-t
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/98zvnf/tests_for_pdf"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/98zvnf</guid>
       <pubDate>Tue, 04 Aug 2026 10:23:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>[devops] Sovereign Tech Fellowship for Rust maintenance (June-July 2026 report)</title>
-      <link>https://kobzol.github.io/rust/2026/08/03/stf-june-july-2026.html</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/0zr9wr/sovereign_tech_fellowship_for_rust"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/0zr9wr</guid>
-      <pubDate>Mon, 03 Aug 2026 23:14:27 +0000</pubDate>
     </item>
   </channel>
 </rss>
