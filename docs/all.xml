@@ -8,7 +8,35 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 13 Oct 2026 12:20:11 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 19:39:22 +0000</lastBuildDate>
+    <item>
+      <title>Show HN: Mac Markdown reader for your AI agents</title>
+      <link>https://news.ycombinator.com/item?id=50074607</link>
+      <description>1 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50074607'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50074607</guid>
+      <pubDate>Tue, 13 Oct 2026 16:40:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>[devops] A plea not to use uv-build</title>
+      <link>https://blogs.gentoo.org/mgorny/2026/10/12/a-plea-not-to-use-uv-build/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/73ssw1/plea_not_use_uv_build"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/73ssw1</guid>
+      <pubDate>Tue, 13 Oct 2026 14:36:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>The reverts will continue until morale improves</title>
+      <link>http://peter.eisentraut.org/blog/2026/10/09/the-reverts-will-continue-until-morale-improves</link>
+      <description>1 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50071955'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50071955</guid>
+      <pubDate>Tue, 13 Oct 2026 14:03:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>[security] Model backdoors are easy to create and hard to reliably remove</title>
+      <link>https://equistamp.substack.com/p/model-backdoors-are-easy-to-create</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/6r6mts/model_backdoors_are_easy_create_hard"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/6r6mts</guid>
+      <pubDate>Tue, 13 Oct 2026 12:52:01 +0000</pubDate>
+    </item>
     <item>
       <title>[practices] Where is all the new, good software?</title>
       <link>https://www.natemeyvis.com/where-is-all-the-new-good-software/</link>
@@ -46,13 +74,6 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/pirgtp/how_effectively_debug_when_you_no_longer"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/pirgtp</guid>
       <pubDate>Mon, 12 Oct 2026 12:01:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>[devops] Implementing kubernetes node bin packing</title>
-      <link>https://blog.costgraph.ai/node-rightsizing/</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/nothr5/implementing_kubernetes_node_bin"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/nothr5</guid>
-      <pubDate>Mon, 12 Oct 2026 08:32:12 +0000</pubDate>
     </item>
     <item>
       <title>[devops] 3-2-1 Backup Strategy with restic and Backblaze B2</title>
@@ -415,13 +436,6 @@
       <pubDate>Sat, 03 Oct 2026 13:31:58 +0000</pubDate>
     </item>
     <item>
-      <title>[security] How to Hack Time, With C2PA</title>
-      <link>https://www.da.vidbuchanan.co.uk/blog/hacking-time.html</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/u8uvlr/how_hack_time_with_c2pa"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/u8uvlr</guid>
-      <pubDate>Sat, 03 Oct 2026 11:58:14 +0000</pubDate>
-    </item>
-    <item>
       <title>[devops] gVisor is being donated to CNCF</title>
       <link>https://gvisor.dev/blog/2026/10/02/gvisor-cncf/</link>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/asoxjl/gvisor_is_being_donated_cncf"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
@@ -526,13 +540,6 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/joqdsi/shell_email"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/joqdsi</guid>
       <pubDate>Tue, 29 Sep 2026 20:14:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>Claude partial outage</title>
-      <link>https://status.claude.com/incidents/4xvtc2gnq73l</link>
-      <description>171 points, 152 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49893876'&gt;discussion sur Hacker News&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49893876</guid>
-      <pubDate>Tue, 29 Sep 2026 14:25:41 +0000</pubDate>
     </item>
     <item>
       <title>[distributed] Deterministic Concurrency</title>
