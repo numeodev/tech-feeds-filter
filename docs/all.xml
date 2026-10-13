@@ -8,7 +8,28 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 13 Oct 2026 19:39:22 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 23:31:18 +0000</lastBuildDate>
+    <item>
+      <title>[practices] The 2026 Maintainers Summit</title>
+      <link>https://lwn.net/SubscriberLink/1099594/fba1c2268c3e2fb5/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/fppgkl/2026_maintainers_summit"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/fppgkl</guid>
+      <pubDate>Tue, 13 Oct 2026 22:25:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The reverts will continue until morale improves</title>
+      <link>http://peter.eisentraut.org/blog/2026/10/09/the-reverts-will-continue-until-morale-improves</link>
+      <description>1 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50079761'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50079761</guid>
+      <pubDate>Tue, 13 Oct 2026 22:23:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>[vcs] Redesigning source control at Anthropic</title>
+      <link>https://www.anthropic.com/engineering/redesigning-source-control</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/5ucftp/redesigning_source_control_at_anthropic"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/5ucftp</guid>
+      <pubDate>Tue, 13 Oct 2026 20:37:52 +0000</pubDate>
+    </item>
     <item>
       <title>Show HN: Mac Markdown reader for your AI agents</title>
       <link>https://news.ycombinator.com/item?id=50074607</link>
@@ -648,13 +669,6 @@
       <pubDate>Wed, 23 Sep 2026 10:28:14 +0000</pubDate>
     </item>
     <item>
-      <title>[practices] Abandoning Scientific Linux Was a Mistake</title>
-      <link>https://blog.melashri.net/posts/scientific-linux-mistake/</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/qysrps/abandoning_scientific_linux_was_mistake"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/qysrps</guid>
-      <pubDate>Wed, 23 Sep 2026 09:53:20 +0000</pubDate>
-    </item>
-    <item>
       <title>[devops] Introducing Luxir</title>
       <link>https://yonik.com/blog/introducing-luxir/</link>
       <description>&lt;p&gt;The creator of Apache Solr announced a new high-performance search engine. Open Source, written in C++, featuring full-text search, vector search, faceting, and analytics.&lt;/p&gt;
@@ -830,13 +844,6 @@ Test instance where you are welcome to make a mess: &lt;a href="https://squalk-t
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/hwzvik/life_metric"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/hwzvik</guid>
       <pubDate>Mon, 07 Sep 2026 09:36:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>[vcs] How To: Federated Stars (2024)</title>
-      <link>https://domaindrivenarchitecture.org/blog/2024-06-05-howto-federated-stars/</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/1kdrx2/how_federated_stars_2024"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/1kdrx2</guid>
-      <pubDate>Sun, 06 Sep 2026 06:05:41 +0000</pubDate>
     </item>
     <item>
       <title>[distributed] The pattern language of software architecture</title>
