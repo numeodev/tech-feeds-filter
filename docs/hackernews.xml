@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 14 Oct 2026 14:11:23 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 19:03:51 +0000</lastBuildDate>
+    <item>
+      <title>GitLab outage during rate limit preview</title>
+      <link>https://status.gitlab.com/pages/incident/5b36dc6502d06804c08349f7/6acf92b0cb21fb05a5db93f4</link>
+      <description>4 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50089743'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50089743</guid>
+      <pubDate>Wed, 14 Oct 2026 15:59:18 +0000</pubDate>
+    </item>
     <item>
       <title>Postmortem: Sweden's citizenship law shipped with no migration path</title>
       <link>https://eric.pe/terson/writes/a-postmortem-on-swedens-citizenship-law/</link>
@@ -19,14 +26,14 @@
     <item>
       <title>Show HN: Mosh-rs, Mosh rewritten in Rust with scrollback and Windows support</title>
       <link>https://github.com/Arunjay4213/mosh-rs</link>
-      <description>18 points, 7 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50080836'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>19 points, 9 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50080836'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50080836</guid>
       <pubDate>Wed, 14 Oct 2026 00:22:19 +0000</pubDate>
     </item>
     <item>
       <title>The reverts will continue until morale improves</title>
       <link>http://peter.eisentraut.org/blog/2026/10/09/the-reverts-will-continue-until-morale-improves</link>
-      <description>2 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50079761'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>3 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50079761'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50079761</guid>
       <pubDate>Tue, 13 Oct 2026 22:23:45 +0000</pubDate>
     </item>
