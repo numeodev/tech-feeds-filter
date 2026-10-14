@@ -8,11 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 14 Oct 2026 02:42:59 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 08:11:41 +0000</lastBuildDate>
+    <item>
+      <title>[security] Ledger confirms spy chip implant behind wallet crypto thefts</title>
+      <link>https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/</link>
+      <description>&lt;p&gt;Video showing an implanted device: &lt;a href="https://www.youtube.com/watch?v=Nf4FEFlgv3Q" rel="ugc"&gt;https://www.youtube.com/watch?v=Nf4FEFlgv3Q&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://lobste.rs/s/cwota8/ledger_confirms_spy_chip_implant_behind"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/cwota8</guid>
+      <pubDate>Wed, 14 Oct 2026 07:54:56 +0000</pubDate>
+    </item>
     <item>
       <title>Show HN: Mosh-rs, Mosh rewritten in Rust with scrollback and Windows support</title>
       <link>https://github.com/Arunjay4213/mosh-rs</link>
-      <description>2 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50080836'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>18 points, 6 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50080836'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50080836</guid>
       <pubDate>Wed, 14 Oct 2026 00:22:19 +0000</pubDate>
     </item>
@@ -26,7 +34,7 @@
     <item>
       <title>The reverts will continue until morale improves</title>
       <link>http://peter.eisentraut.org/blog/2026/10/09/the-reverts-will-continue-until-morale-improves</link>
-      <description>1 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50079761'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>2 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50079761'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50079761</guid>
       <pubDate>Tue, 13 Oct 2026 22:23:45 +0000</pubDate>
     </item>
@@ -40,7 +48,7 @@
     <item>
       <title>Show HN: Mac Markdown reader for your AI agents</title>
       <link>https://news.ycombinator.com/item?id=50074607</link>
-      <description>1 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50074607'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>2 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50074607'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50074607</guid>
       <pubDate>Tue, 13 Oct 2026 16:40:57 +0000</pubDate>
     </item>
@@ -448,13 +456,6 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/xkwswd/we_re_going_need_default_hard_budget_caps"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/xkwswd</guid>
       <pubDate>Sun, 04 Oct 2026 07:58:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>[security] BSides Orlando 2026 Badge</title>
-      <link>https://github.com/bsidesorlando/2026-badge</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/opwgtj/bsides_orlando_2026_badge"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/opwgtj</guid>
-      <pubDate>Sat, 03 Oct 2026 18:57:32 +0000</pubDate>
     </item>
     <item>
       <title>[practices] The Era of Software Quality, or the Era of Ostriches?</title>

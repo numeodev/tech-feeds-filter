@@ -8,7 +8,15 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 14 Oct 2026 02:42:59 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 08:11:41 +0000</lastBuildDate>
+    <item>
+      <title>[security] Ledger confirms spy chip implant behind wallet crypto thefts</title>
+      <link>https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/</link>
+      <description>&lt;p&gt;Video showing an implanted device: &lt;a href="https://www.youtube.com/watch?v=Nf4FEFlgv3Q" rel="ugc"&gt;https://www.youtube.com/watch?v=Nf4FEFlgv3Q&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://lobste.rs/s/cwota8/ledger_confirms_spy_chip_implant_behind"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/cwota8</guid>
+      <pubDate>Wed, 14 Oct 2026 07:54:56 +0000</pubDate>
+    </item>
     <item>
       <title>[practices] The 2026 Maintainers Summit</title>
       <link>https://lwn.net/SubscriberLink/1099594/fba1c2268c3e2fb5/</link>
@@ -357,13 +365,6 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/xkwswd/we_re_going_need_default_hard_budget_caps"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/xkwswd</guid>
       <pubDate>Sun, 04 Oct 2026 07:58:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>[security] BSides Orlando 2026 Badge</title>
-      <link>https://github.com/bsidesorlando/2026-badge</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/opwgtj/bsides_orlando_2026_badge"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/opwgtj</guid>
-      <pubDate>Sat, 03 Oct 2026 18:57:32 +0000</pubDate>
     </item>
     <item>
       <title>[practices] The Era of Software Quality, or the Era of Ostriches?</title>
