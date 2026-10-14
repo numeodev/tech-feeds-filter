@@ -8,7 +8,28 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 14 Oct 2026 08:11:41 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 14:11:24 +0000</lastBuildDate>
+    <item>
+      <title>[security] A UAF turned RCE</title>
+      <link>https://daniel.haxx.se/blog/2026/10/14/a-uaf-turned-rce/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/g46xkj/uaf_turned_rce"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/g46xkj</guid>
+      <pubDate>Wed, 14 Oct 2026 09:44:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>[security] Linux Lockdown and Hibernation (again)</title>
+      <link>https://codon.org.uk/~mjg59/blog/p/linux-lockdown-and-hibernation-again/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/rrazyb/linux_lockdown_hibernation_again"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/rrazyb</guid>
+      <pubDate>Wed, 14 Oct 2026 08:52:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>Postmortem: Sweden's citizenship law shipped with no migration path</title>
+      <link>https://eric.pe/terson/writes/a-postmortem-on-swedens-citizenship-law/</link>
+      <description>4 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50084147'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50084147</guid>
+      <pubDate>Wed, 14 Oct 2026 08:18:21 +0000</pubDate>
+    </item>
     <item>
       <title>[security] Ledger confirms spy chip implant behind wallet crypto thefts</title>
       <link>https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/</link>
@@ -20,7 +41,7 @@
     <item>
       <title>Show HN: Mosh-rs, Mosh rewritten in Rust with scrollback and Windows support</title>
       <link>https://github.com/Arunjay4213/mosh-rs</link>
-      <description>18 points, 6 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50080836'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>18 points, 7 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50080836'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50080836</guid>
       <pubDate>Wed, 14 Oct 2026 00:22:19 +0000</pubDate>
     </item>
@@ -416,13 +437,6 @@
       <pubDate>Mon, 05 Oct 2026 09:34:42 +0000</pubDate>
     </item>
     <item>
-      <title>[security] From: anyone@icloud.com - Spoofing Arbitrary Apple iCloud Identities</title>
-      <link>https://sec-consult.com/blog/detail/from-anyoneicloudcom-spoofing-arbitrary-apple-icloud-identities/</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/jpwrmk/from_anyone_icloud_com_spoofing"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/jpwrmk</guid>
-      <pubDate>Mon, 05 Oct 2026 06:50:55 +0000</pubDate>
-    </item>
-    <item>
       <title>[distributed] Protocol-aware recovery for consensus-based storage (2018)</title>
       <link>https://www.usenix.org/system/files/conference/fast18/fast18-alagappan.pdf</link>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/4bzboj/protocol_aware_recovery_for_consensus"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
@@ -435,13 +449,6 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/eoibah/iroh_global_content_discovery"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/eoibah</guid>
       <pubDate>Sun, 04 Oct 2026 19:19:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>[security] A Mere Mortal's Introduction to JIT Vulnerabilities in JavaScript Engines</title>
-      <link>https://trustfoundry.net/blog/jit-vulnerabilities-javascript-engines</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/hucih9/mere_mortal_s_introduction_jit"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/hucih9</guid>
-      <pubDate>Sun, 04 Oct 2026 11:53:51 +0000</pubDate>
     </item>
     <item>
       <title>[vcs] grubby: static site generator for git repos written in Ruby</title>
@@ -533,13 +540,6 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ysiw3t/state_devs_2026"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/ysiw3t</guid>
       <pubDate>Wed, 30 Sep 2026 11:40:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Self-Destructing Hotfixes with Updatecli</title>
-      <link>https://lois.postu.la/posts/self-destructing-hotfixes-with-updatecli</link>
-      <description>2 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49907058'&gt;discussion sur Hacker News&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49907058</guid>
-      <pubDate>Wed, 30 Sep 2026 10:49:34 +0000</pubDate>
     </item>
     <item>
       <title>[practices] How to work in a software engineering team (2022)</title>

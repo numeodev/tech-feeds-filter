@@ -8,11 +8,18 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 14 Oct 2026 08:11:39 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 14:11:23 +0000</lastBuildDate>
+    <item>
+      <title>Postmortem: Sweden's citizenship law shipped with no migration path</title>
+      <link>https://eric.pe/terson/writes/a-postmortem-on-swedens-citizenship-law/</link>
+      <description>4 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50084147'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50084147</guid>
+      <pubDate>Wed, 14 Oct 2026 08:18:21 +0000</pubDate>
+    </item>
     <item>
       <title>Show HN: Mosh-rs, Mosh rewritten in Rust with scrollback and Windows support</title>
       <link>https://github.com/Arunjay4213/mosh-rs</link>
-      <description>18 points, 6 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50080836'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>18 points, 7 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50080836'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50080836</guid>
       <pubDate>Wed, 14 Oct 2026 00:22:19 +0000</pubDate>
     </item>
@@ -120,13 +127,6 @@
       <description>2 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49920413'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=49920413</guid>
       <pubDate>Thu, 01 Oct 2026 11:43:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>Self-Destructing Hotfixes with Updatecli</title>
-      <link>https://lois.postu.la/posts/self-destructing-hotfixes-with-updatecli</link>
-      <description>2 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49907058'&gt;discussion sur Hacker News&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49907058</guid>
-      <pubDate>Wed, 30 Sep 2026 10:49:34 +0000</pubDate>
     </item>
   </channel>
 </rss>
