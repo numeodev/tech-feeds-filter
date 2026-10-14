@@ -8,7 +8,35 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 14 Oct 2026 19:03:53 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 22:51:10 +0000</lastBuildDate>
+    <item>
+      <title>[vcs] Anthropic's Scion is heavily inspired by Mononoke</title>
+      <link>https://sunshowers.io/posts/anthropic-mononoke/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/plcgps/anthropic_s_scion_is_heavily_inspired_by"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/plcgps</guid>
+      <pubDate>Wed, 14 Oct 2026 20:56:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Yandex outage: data shows that instead of going dark, malicious bots moved</title>
+      <link>https://blog.cloudflare.com/yandex-outage/</link>
+      <description>156 points, 50 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50094673'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50094673</guid>
+      <pubDate>Wed, 14 Oct 2026 20:29:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>[security] We found a Chinese fleet</title>
+      <link>https://swarmcha.se/posts/chinese-agent-fleet-full-report</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/wcoes4/we_found_chinese_fleet"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/wcoes4</guid>
+      <pubDate>Wed, 14 Oct 2026 20:08:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>[vcs] Making git hooks visible in fish shell</title>
+      <link>https://offby1.website/posts/making-git-hooks-visible-in-fish-shell.html</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/k8z2q4/making_git_hooks_visible_fish_shell"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/k8z2q4</guid>
+      <pubDate>Wed, 14 Oct 2026 19:58:23 +0000</pubDate>
+    </item>
     <item>
       <title>[security] Black-Box HashDoS: Attacking Hash Tables Without Knowing the Hash Function</title>
       <link>https://orlp.net/blog/black-box-hashdos/</link>
@@ -66,6 +94,13 @@
       <pubDate>Wed, 14 Oct 2026 15:13:26 +0000</pubDate>
     </item>
     <item>
+      <title>[r/devops] Is Trunk Based Development possible if an integration test takes too long to run?</title>
+      <link>https://www.reddit.com/r/devops/comments/1x5r1w1/is_trunk_based_development_possible_if_an/</link>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;I'm proposing my team move from long-lived dev/stg/prd branches to trunk-based development, with PRs straight to main.&lt;/p&gt; &lt;p&gt;I'm fairly new to this, so forgive me if I'm missing something obvious.&lt;/p&gt; &lt;p&gt;The sticking point is testing before merge.&lt;/p&gt; &lt;p&gt;Our current integration test runs the entire DAG end-to-end. This is fine as a single check before merging our test branch (which will contain all commits from developers over the sprint) to main. But it's slow and costly if it were to run as part of every PR. Today we run it manually, check the outputs, then merge.&lt;/p&gt; &lt;p&gt;I am wondering if it’s bad practice to leave this integration test until the end of the sprint. As in, developers merge to main (with some automated checks running as part of each PR before merge), and then when are team want to deploy the sprint changes, first run a single integration test before creating a new release tag In GitHub.&lt;/p&gt; &lt;p&gt;This does mean that main can’t be considered prod ready at all times.&lt;/p&gt; &lt;p&gt;Edit: we’d be using release tags, so for rollbacks we’d rollback to last stable tag. For hotfixes, we would cut from last release, the merge changes to main and create a new release with target set to hotfix branch. &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/Data-Panda"&gt; /u/Data-Panda &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/r/devops/comments/1x5r1w1/is_trunk_based_development_possible_if_an/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/devops/comments/1x5r1w1/is_trunk_based_development_possible_if_an/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</description>
+      <guid isPermaLink="false">https://www.reddit.com/r/devops/t3_1x5r1w1</guid>
+      <pubDate>Wed, 14 Oct 2026 13:20:15 +0000</pubDate>
+    </item>
+    <item>
       <title>[security] A UAF turned RCE</title>
       <link>https://daniel.haxx.se/blog/2026/10/14/a-uaf-turned-rce/</link>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/g46xkj/uaf_turned_rce"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
@@ -97,7 +132,7 @@
     <item>
       <title>Show HN: Mosh-rs, Mosh rewritten in Rust with scrollback and Windows support</title>
       <link>https://github.com/Arunjay4213/mosh-rs</link>
-      <description>19 points, 9 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50080836'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>20 points, 9 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50080836'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50080836</guid>
       <pubDate>Wed, 14 Oct 2026 00:22:19 +0000</pubDate>
     </item>
@@ -399,13 +434,6 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/qffffv/chromium_hardening_guide"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/qffffv</guid>
       <pubDate>Wed, 07 Oct 2026 14:06:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>[security] Inside the Advisory Database and what happens when vulnerability volume breaks records</title>
-      <link>https://github.blog/security/supply-chain-security/inside-the-advisory-database-and-what-happens-when-vulnerability-volume-breaks-records/</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/0z17kf/inside_advisory_database_what_happens"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/0z17kf</guid>
-      <pubDate>Wed, 07 Oct 2026 13:39:28 +0000</pubDate>
     </item>
     <item>
       <title>How to Turn Customer Outage Reports into SLIs and Alerts for Earlier Detection</title>
@@ -812,25 +840,11 @@ Test instance where you are welcome to make a mess: &lt;a href="https://squalk-t
       <pubDate>Sun, 13 Sep 2026 16:10:06 +0000</pubDate>
     </item>
     <item>
-      <title>[vcs] From Git to Fossil (2025)</title>
-      <link>https://lucio.albenga.es/web-en/posts/2025/from-git-to-fossil.html</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/pomjkm/from_git_fossil_2025"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/pomjkm</guid>
-      <pubDate>Sun, 13 Sep 2026 07:51:19 +0000</pubDate>
-    </item>
-    <item>
       <title>[distributed] FISL — Finding Internet Structures &amp; Links</title>
       <link>https://dasl.ing/fisl.html</link>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/bzacyp/fisl_finding_internet_structures_links"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/bzacyp</guid>
       <pubDate>Fri, 11 Sep 2026 08:29:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>[vcs] What comes after git</title>
-      <link>https://ersc.io/blog/what-comes-after-git</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ez6ivp/what_comes_after_git"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/ez6ivp</guid>
-      <pubDate>Thu, 10 Sep 2026 17:44:27 +0000</pubDate>
     </item>
     <item>
       <title>[distributed] Absolutely Everything You Always Wanted to Know About Watermarks in Apache Flink</title>

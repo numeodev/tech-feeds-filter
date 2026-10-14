@@ -8,7 +8,28 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 14 Oct 2026 19:03:53 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 22:51:10 +0000</lastBuildDate>
+    <item>
+      <title>[vcs] Anthropic's Scion is heavily inspired by Mononoke</title>
+      <link>https://sunshowers.io/posts/anthropic-mononoke/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/plcgps/anthropic_s_scion_is_heavily_inspired_by"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/plcgps</guid>
+      <pubDate>Wed, 14 Oct 2026 20:56:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>[security] We found a Chinese fleet</title>
+      <link>https://swarmcha.se/posts/chinese-agent-fleet-full-report</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/wcoes4/we_found_chinese_fleet"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/wcoes4</guid>
+      <pubDate>Wed, 14 Oct 2026 20:08:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>[vcs] Making git hooks visible in fish shell</title>
+      <link>https://offby1.website/posts/making-git-hooks-visible-in-fish-shell.html</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/k8z2q4/making_git_hooks_visible_fish_shell"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/k8z2q4</guid>
+      <pubDate>Wed, 14 Oct 2026 19:58:23 +0000</pubDate>
+    </item>
     <item>
       <title>[security] Black-Box HashDoS: Attacking Hash Tables Without Knowing the Hash Function</title>
       <link>https://orlp.net/blog/black-box-hashdos/</link>
@@ -315,13 +336,6 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/qffffv/chromium_hardening_guide"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/qffffv</guid>
       <pubDate>Wed, 07 Oct 2026 14:06:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>[security] Inside the Advisory Database and what happens when vulnerability volume breaks records</title>
-      <link>https://github.blog/security/supply-chain-security/inside-the-advisory-database-and-what-happens-when-vulnerability-volume-breaks-records/</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/0z17kf/inside_advisory_database_what_happens"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/0z17kf</guid>
-      <pubDate>Wed, 07 Oct 2026 13:39:28 +0000</pubDate>
     </item>
     <item>
       <title>[distributed] Perseus: A Fail-Slow Detection Framework for Cloud Storage Systems (2023)</title>
@@ -679,25 +693,11 @@ Test instance where you are welcome to make a mess: &lt;a href="https://squalk-t
       <pubDate>Sun, 13 Sep 2026 16:10:06 +0000</pubDate>
     </item>
     <item>
-      <title>[vcs] From Git to Fossil (2025)</title>
-      <link>https://lucio.albenga.es/web-en/posts/2025/from-git-to-fossil.html</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/pomjkm/from_git_fossil_2025"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/pomjkm</guid>
-      <pubDate>Sun, 13 Sep 2026 07:51:19 +0000</pubDate>
-    </item>
-    <item>
       <title>[distributed] FISL — Finding Internet Structures &amp; Links</title>
       <link>https://dasl.ing/fisl.html</link>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/bzacyp/fisl_finding_internet_structures_links"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/bzacyp</guid>
       <pubDate>Fri, 11 Sep 2026 08:29:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>[vcs] What comes after git</title>
-      <link>https://ersc.io/blog/what-comes-after-git</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ez6ivp/what_comes_after_git"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/ez6ivp</guid>
-      <pubDate>Thu, 10 Sep 2026 17:44:27 +0000</pubDate>
     </item>
     <item>
       <title>[distributed] Absolutely Everything You Always Wanted to Know About Watermarks in Apache Flink</title>
