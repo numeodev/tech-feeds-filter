@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 14 Oct 2026 22:51:10 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 01:06:14 +0000</lastBuildDate>
+    <item>
+      <title>The reverts will continue until morale improves</title>
+      <link>http://peter.eisentraut.org/blog/2026/10/09/the-reverts-will-continue-until-morale-improves</link>
+      <description>1 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50097799'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50097799</guid>
+      <pubDate>Thu, 15 Oct 2026 00:56:45 +0000</pubDate>
+    </item>
     <item>
       <title>[vcs] Anthropic's Scion is heavily inspired by Mononoke</title>
       <link>https://sunshowers.io/posts/anthropic-mononoke/</link>
@@ -19,7 +26,7 @@
     <item>
       <title>Yandex outage: data shows that instead of going dark, malicious bots moved</title>
       <link>https://blog.cloudflare.com/yandex-outage/</link>
-      <description>156 points, 50 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50094673'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>204 points, 67 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50094673'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50094673</guid>
       <pubDate>Wed, 14 Oct 2026 20:29:13 +0000</pubDate>
     </item>
@@ -92,13 +99,6 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/x9fqa4/awesome_gaming_on_linux_without_cheating"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/x9fqa4</guid>
       <pubDate>Wed, 14 Oct 2026 15:13:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>[r/devops] Is Trunk Based Development possible if an integration test takes too long to run?</title>
-      <link>https://www.reddit.com/r/devops/comments/1x5r1w1/is_trunk_based_development_possible_if_an/</link>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;I'm proposing my team move from long-lived dev/stg/prd branches to trunk-based development, with PRs straight to main.&lt;/p&gt; &lt;p&gt;I'm fairly new to this, so forgive me if I'm missing something obvious.&lt;/p&gt; &lt;p&gt;The sticking point is testing before merge.&lt;/p&gt; &lt;p&gt;Our current integration test runs the entire DAG end-to-end. This is fine as a single check before merging our test branch (which will contain all commits from developers over the sprint) to main. But it's slow and costly if it were to run as part of every PR. Today we run it manually, check the outputs, then merge.&lt;/p&gt; &lt;p&gt;I am wondering if it’s bad practice to leave this integration test until the end of the sprint. As in, developers merge to main (with some automated checks running as part of each PR before merge), and then when are team want to deploy the sprint changes, first run a single integration test before creating a new release tag In GitHub.&lt;/p&gt; &lt;p&gt;This does mean that main can’t be considered prod ready at all times.&lt;/p&gt; &lt;p&gt;Edit: we’d be using release tags, so for rollbacks we’d rollback to last stable tag. For hotfixes, we would cut from last release, the merge changes to main and create a new release with target set to hotfix branch. &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/Data-Panda"&gt; /u/Data-Panda &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/r/devops/comments/1x5r1w1/is_trunk_based_development_possible_if_an/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/devops/comments/1x5r1w1/is_trunk_based_development_possible_if_an/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</description>
-      <guid isPermaLink="false">https://www.reddit.com/r/devops/t3_1x5r1w1</guid>
-      <pubDate>Wed, 14 Oct 2026 13:20:15 +0000</pubDate>
     </item>
     <item>
       <title>[security] A UAF turned RCE</title>
