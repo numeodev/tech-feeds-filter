@@ -8,11 +8,18 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 15 Oct 2026 17:29:34 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 20:42:49 +0000</lastBuildDate>
+    <item>
+      <title>[vcs] Forgejo v17.0 is available</title>
+      <link>https://forgejo.org/2026-10-release-v17-0/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/vemho2/forgejo_v17_0_is_available"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/vemho2</guid>
+      <pubDate>Thu, 15 Oct 2026 19:43:19 +0000</pubDate>
+    </item>
     <item>
       <title>Major Outage on Cloudflare</title>
       <link>https://www.cloudflarestatus.com/</link>
-      <description>15 points, 6 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50104773'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>16 points, 6 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50104773'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50104773</guid>
       <pubDate>Thu, 15 Oct 2026 15:06:12 +0000</pubDate>
     </item>
@@ -96,7 +103,7 @@
     <item>
       <title>Yandex outage: data shows that instead of going dark, malicious bots moved</title>
       <link>https://blog.cloudflare.com/yandex-outage/</link>
-      <description>275 points, 113 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50094673'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>277 points, 114 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50094673'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50094673</guid>
       <pubDate>Wed, 14 Oct 2026 20:29:13 +0000</pubDate>
     </item>
@@ -612,13 +619,6 @@
       <pubDate>Fri, 02 Oct 2026 14:51:12 +0000</pubDate>
     </item>
     <item>
-      <title>DeepSeek outage and degraded: API and status page:)</title>
-      <link>https://status.deepseek.com</link>
-      <description>1 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49926681'&gt;discussion sur Hacker News&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49926681</guid>
-      <pubDate>Thu, 01 Oct 2026 20:28:41 +0000</pubDate>
-    </item>
-    <item>
       <title>[vcs] Git 3.0's upcoming SHA-256 default will be a costly mistake</title>
       <link>https://blog.gitbutler.com/git-3-sha-256</link>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/bytzgl/git_3_0_s_upcoming_sha_256_default_will_be"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
@@ -838,13 +838,6 @@ Test instance where you are welcome to make a mess: &lt;a href="https://squalk-t
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/oihovt/comail_cooperative_email"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/oihovt</guid>
       <pubDate>Wed, 16 Sep 2026 15:48:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>[vcs] Reinventing issue tracking: Local-first and Git-native</title>
-      <link>https://blog.manganin.dev/blog/reinventing-issue-tracking/</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/4tb4nk/reinventing_issue_tracking_local_first"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/4tb4nk</guid>
-      <pubDate>Wed, 16 Sep 2026 10:17:30 +0000</pubDate>
     </item>
     <item>
       <title>[distributed] SplitFT: Fault Tolerance for Disaggregated Datacenters via Remote Memory Logging</title>
