@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 15 Oct 2026 01:06:13 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 06:43:14 +0000</lastBuildDate>
+    <item>
+      <title>DeepSeek Outage</title>
+      <link>https://status.deepseek.com/incidents/7116348214287</link>
+      <description>5 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50098365'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50098365</guid>
+      <pubDate>Thu, 15 Oct 2026 02:20:16 +0000</pubDate>
+    </item>
     <item>
       <title>The reverts will continue until morale improves</title>
       <link>http://peter.eisentraut.org/blog/2026/10/09/the-reverts-will-continue-until-morale-improves</link>
@@ -19,7 +26,7 @@
     <item>
       <title>Yandex outage: data shows that instead of going dark, malicious bots moved</title>
       <link>https://blog.cloudflare.com/yandex-outage/</link>
-      <description>204 points, 67 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50094673'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>248 points, 83 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50094673'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50094673</guid>
       <pubDate>Wed, 14 Oct 2026 20:29:13 +0000</pubDate>
     </item>

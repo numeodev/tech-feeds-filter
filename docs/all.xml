@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 15 Oct 2026 01:06:14 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 06:43:15 +0000</lastBuildDate>
+    <item>
+      <title>DeepSeek Outage</title>
+      <link>https://status.deepseek.com/incidents/7116348214287</link>
+      <description>5 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50098365'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50098365</guid>
+      <pubDate>Thu, 15 Oct 2026 02:20:16 +0000</pubDate>
+    </item>
     <item>
       <title>The reverts will continue until morale improves</title>
       <link>http://peter.eisentraut.org/blog/2026/10/09/the-reverts-will-continue-until-morale-improves</link>
@@ -26,14 +33,14 @@
     <item>
       <title>Yandex outage: data shows that instead of going dark, malicious bots moved</title>
       <link>https://blog.cloudflare.com/yandex-outage/</link>
-      <description>204 points, 67 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50094673'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>248 points, 83 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50094673'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50094673</guid>
       <pubDate>Wed, 14 Oct 2026 20:29:13 +0000</pubDate>
     </item>
     <item>
-      <title>[security] We found a Chinese fleet</title>
+      <title>[security] We found a Tencent agent fleet</title>
       <link>https://swarmcha.se/posts/chinese-agent-fleet-full-report</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/wcoes4/we_found_chinese_fleet"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/wcoes4/we_found_tencent_agent_fleet"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/wcoes4</guid>
       <pubDate>Wed, 14 Oct 2026 20:08:19 +0000</pubDate>
     </item>
@@ -87,9 +94,9 @@
       <pubDate>Wed, 14 Oct 2026 15:55:52 +0000</pubDate>
     </item>
     <item>
-      <title>[devops] What I Self-Host | Aspirational Self Hosting Guide</title>
+      <title>[devops] What I Self-Host</title>
       <link>https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/j4tlzg/what_i_self_host_aspirational_self"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/j4tlzg/what_i_self_host"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/j4tlzg</guid>
       <pubDate>Wed, 14 Oct 2026 15:32:48 +0000</pubDate>
     </item>

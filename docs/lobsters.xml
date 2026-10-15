@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 15 Oct 2026 01:06:14 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 06:43:15 +0000</lastBuildDate>
     <item>
       <title>[vcs] Anthropic's Scion is heavily inspired by Mononoke</title>
       <link>https://sunshowers.io/posts/anthropic-mononoke/</link>
@@ -17,9 +17,9 @@
       <pubDate>Wed, 14 Oct 2026 20:56:59 +0000</pubDate>
     </item>
     <item>
-      <title>[security] We found a Chinese fleet</title>
+      <title>[security] We found a Tencent agent fleet</title>
       <link>https://swarmcha.se/posts/chinese-agent-fleet-full-report</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/wcoes4/we_found_chinese_fleet"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/wcoes4/we_found_tencent_agent_fleet"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/wcoes4</guid>
       <pubDate>Wed, 14 Oct 2026 20:08:19 +0000</pubDate>
     </item>
@@ -66,9 +66,9 @@
       <pubDate>Wed, 14 Oct 2026 15:55:52 +0000</pubDate>
     </item>
     <item>
-      <title>[devops] What I Self-Host | Aspirational Self Hosting Guide</title>
+      <title>[devops] What I Self-Host</title>
       <link>https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/j4tlzg/what_i_self_host_aspirational_self"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/j4tlzg/what_i_self_host"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/j4tlzg</guid>
       <pubDate>Wed, 14 Oct 2026 15:32:48 +0000</pubDate>
     </item>
