@@ -8,7 +8,21 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 15 Oct 2026 12:17:49 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 17:29:34 +0000</lastBuildDate>
+    <item>
+      <title>[distributed] End-to-end encrypted relays for OCapN</title>
+      <link>https://spritely.institute/news/end-to-end-encrypted-relays-for-ocapn.html</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/yxnovw/end_end_encrypted_relays_for_ocapn"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/yxnovw</guid>
+      <pubDate>Thu, 15 Oct 2026 14:42:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>[security] Remote Attestation Should Not Be Tolerated</title>
+      <link>https://lumi.codeberg.page/blog/remote-attestation.html</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/s8bo3z/remote_attestation_should_not_be"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/s8bo3z</guid>
+      <pubDate>Thu, 15 Oct 2026 14:02:45 +0000</pubDate>
+    </item>
     <item>
       <title>[security] sslx: A fast, modern alternative to OpenSSL's CLI</title>
       <link>https://github.com/glincker/sslx</link>
@@ -357,13 +371,6 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/4hxxad/zeroization_part_1_wiping_can_make_things"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/4hxxad</guid>
       <pubDate>Wed, 07 Oct 2026 16:22:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>[security] Twenty-two pending curl vulnerabilities</title>
-      <link>https://daniel.haxx.se/blog/2026/10/07/twenty-two-pending-curl-vulnerabilities/</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/lu8hl9/twenty_two_pending_curl_vulnerabilities"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/lu8hl9</guid>
-      <pubDate>Wed, 07 Oct 2026 15:04:10 +0000</pubDate>
     </item>
     <item>
       <title>[distributed] Perseus: A Fail-Slow Detection Framework for Cloud Storage Systems (2023)</title>
@@ -789,13 +796,6 @@ Test instance where you are welcome to make a mess: &lt;a href="https://squalk-t
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ubeyqf/otel_isn_t_going_well_i_made_spreadsheet"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/ubeyqf</guid>
       <pubDate>Sat, 22 Aug 2026 07:27:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>[distributed] The Atproto Spaces Alpha is Live</title>
-      <link>https://atproto.com/blog/atproto-spaces-alpha</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/faggqv/atproto_spaces_alpha_is_live"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/faggqv</guid>
-      <pubDate>Fri, 21 Aug 2026 12:32:51 +0000</pubDate>
     </item>
     <item>
       <title>[devops] Ahab: Hermeticity Analyzer for Bazel</title>
