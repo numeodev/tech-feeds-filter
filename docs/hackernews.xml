@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 15 Oct 2026 06:43:14 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 12:17:49 +0000</lastBuildDate>
     <item>
       <title>DeepSeek Outage</title>
       <link>https://status.deepseek.com/incidents/7116348214287</link>
@@ -26,7 +26,7 @@
     <item>
       <title>Yandex outage: data shows that instead of going dark, malicious bots moved</title>
       <link>https://blog.cloudflare.com/yandex-outage/</link>
-      <description>248 points, 83 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50094673'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>265 points, 99 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50094673'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50094673</guid>
       <pubDate>Wed, 14 Oct 2026 20:29:13 +0000</pubDate>
     </item>
@@ -148,13 +148,6 @@
       <description>1 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49926681'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=49926681</guid>
       <pubDate>Thu, 01 Oct 2026 20:28:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hetzner: Load Balancers private network outage for dedicated servers</title>
-      <link>https://status.hetzner.com/incident/d5f60e1e-5919-4f0e-bfe4-2387ae7e1c9f</link>
-      <description>2 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49920413'&gt;discussion sur Hacker News&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49920413</guid>
-      <pubDate>Thu, 01 Oct 2026 11:43:24 +0000</pubDate>
     </item>
   </channel>
 </rss>

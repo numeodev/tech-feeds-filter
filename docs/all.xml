@@ -8,7 +8,42 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 15 Oct 2026 06:43:15 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 12:17:49 +0000</lastBuildDate>
+    <item>
+      <title>[security] sslx: A fast, modern alternative to OpenSSL's CLI</title>
+      <link>https://github.com/glincker/sslx</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/p7tf7i/sslx_fast_modern_alternative_openssl_s"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/p7tf7i</guid>
+      <pubDate>Thu, 15 Oct 2026 10:02:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>[distributed, vcs] Everyone is doing Git on S3 wrong</title>
+      <link>https://enroute.sh/blog/everyone-is-doing-git-on-s3-wrong</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ydo1wi/everyone_is_doing_git_on_s3_wrong"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/ydo1wi</guid>
+      <pubDate>Thu, 15 Oct 2026 09:07:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>[practices] Mods of Production - Agentic Bricoleurs, Slopensource and the Decentralisation of Software</title>
+      <link>https://reincantamentox.substack.com/p/drop-58-mods-of-production</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/gxchrx/mods_production_agentic_bricoleurs"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/gxchrx</guid>
+      <pubDate>Thu, 15 Oct 2026 08:34:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>[practices, vcs] Haxy on Haxy</title>
+      <link>https://try.haxy.net/haxy:haxy</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/bcaopz/haxy_on_haxy"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/bcaopz</guid>
+      <pubDate>Thu, 15 Oct 2026 07:58:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>[vcs] Haxy.net is live! — HAXY (git forge) devlog</title>
+      <link>https://youtu.be/89yAiqYEwKg</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/o0ixth/haxy_net_is_live_haxy_git_forge_devlog"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/o0ixth</guid>
+      <pubDate>Thu, 15 Oct 2026 07:47:41 +0000</pubDate>
+    </item>
     <item>
       <title>DeepSeek Outage</title>
       <link>https://status.deepseek.com/incidents/7116348214287</link>
@@ -33,7 +68,7 @@
     <item>
       <title>Yandex outage: data shows that instead of going dark, malicious bots moved</title>
       <link>https://blog.cloudflare.com/yandex-outage/</link>
-      <description>248 points, 83 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50094673'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>265 points, 99 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50094673'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50094673</guid>
       <pubDate>Wed, 14 Oct 2026 20:29:13 +0000</pubDate>
     </item>
@@ -436,13 +471,6 @@
       <pubDate>Wed, 07 Oct 2026 15:04:10 +0000</pubDate>
     </item>
     <item>
-      <title>[security] Chromium Hardening Guide</title>
-      <link>https://rknf404.github.io/chromium-hardening-guide/</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/qffffv/chromium_hardening_guide"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/qffffv</guid>
-      <pubDate>Wed, 07 Oct 2026 14:06:59 +0000</pubDate>
-    </item>
-    <item>
       <title>How to Turn Customer Outage Reports into SLIs and Alerts for Earlier Detection</title>
       <link>https://oneuptime.com/blog/post/2026-09-29-customer-outage-report-to-sli-alert/view</link>
       <description>1 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49982644'&gt;discussion sur Hacker News&lt;/a&gt;</description>
@@ -577,13 +605,6 @@
       <pubDate>Thu, 01 Oct 2026 18:26:59 +0000</pubDate>
     </item>
     <item>
-      <title>Hetzner: Load Balancers private network outage for dedicated servers</title>
-      <link>https://status.hetzner.com/incident/d5f60e1e-5919-4f0e-bfe4-2387ae7e1c9f</link>
-      <description>2 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49920413'&gt;discussion sur Hacker News&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49920413</guid>
-      <pubDate>Thu, 01 Oct 2026 11:43:24 +0000</pubDate>
-    </item>
-    <item>
       <title>[distributed] We used a database as a message queue. Now we use Kafka</title>
       <link>https://www.tigrisdata.com/blog/quick-fdb-kafka/</link>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/0xfpgo/we_used_database_as_message_queue_now_we"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
@@ -698,20 +719,6 @@
       <pubDate>Fri, 25 Sep 2026 21:20:41 +0000</pubDate>
     </item>
     <item>
-      <title>[practices] How to use this project?</title>
-      <link>https://github.com/antirez/ds4#how-to-use-this-project</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/5qgygw/how_use_this_project"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/5qgygw</guid>
-      <pubDate>Fri, 25 Sep 2026 21:01:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>[practices] katamari architecture</title>
-      <link>https://nove.dev/blog/katamari-architecture/</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/f0buwg/katamari_architecture"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/f0buwg</guid>
-      <pubDate>Thu, 24 Sep 2026 18:20:23 +0000</pubDate>
-    </item>
-    <item>
       <title>[distributed, vcs] Radicle: Disclosure of Vulnerability in the Network Protocol</title>
       <link>https://radicle.dev/2026/09/23/disclosure-of-vulnerability-in-network-protocol.html</link>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ad5vwg/radicle_disclosure_vulnerability"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
@@ -819,32 +826,11 @@ Test instance where you are welcome to make a mess: &lt;a href="https://squalk-t
       <pubDate>Wed, 16 Sep 2026 10:17:30 +0000</pubDate>
     </item>
     <item>
-      <title>[vcs] You can run git on object storage if you re-make packfiles</title>
-      <link>https://www.tigrisdata.com/blog/objgit-packfiles/</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/hyyq9h/you_can_run_git_on_object_storage_if_you_re"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/hyyq9h</guid>
-      <pubDate>Tue, 15 Sep 2026 17:03:08 +0000</pubDate>
-    </item>
-    <item>
       <title>[distributed] SplitFT: Fault Tolerance for Disaggregated Datacenters via Remote Memory Logging</title>
       <link>https://ramalagappan.github.io/pdfs/papers/splitft.pdf</link>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/eytyqv/splitft_fault_tolerance_for"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/eytyqv</guid>
       <pubDate>Mon, 14 Sep 2026 18:02:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[vcs] Mergiraf: A syntax-aware git merge driver for a growing collection of programming languages and file formats</title>
-      <link>https://codeberg.org/mergiraf/mergiraf</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/gslcz7/mergiraf_syntax_aware_git_merge_driver"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/gslcz7</guid>
-      <pubDate>Mon, 14 Sep 2026 11:16:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>[vcs] what if my git host were a static site generator?</title>
-      <link>https://char.lt/blog/2026/09/sorcery-repo-viewer/</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/6syfar/what_if_my_git_host_were_static_site"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/6syfar</guid>
-      <pubDate>Sun, 13 Sep 2026 16:10:06 +0000</pubDate>
     </item>
     <item>
       <title>[distributed] FISL — Finding Internet Structures &amp; Links</title>
@@ -957,13 +943,6 @@ Test instance where you are welcome to make a mess: &lt;a href="https://squalk-t
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/faggqv/atproto_spaces_alpha_is_live"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/faggqv</guid>
       <pubDate>Fri, 21 Aug 2026 12:32:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>[distributed] The road to ACID transactions in Cassandra 6</title>
-      <link>https://theconsensus.dev/p/2026/08/16/transactions-in-cassandra.html</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/c9xng0/road_acid_transactions_cassandra_6"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/c9xng0</guid>
-      <pubDate>Fri, 21 Aug 2026 12:08:34 +0000</pubDate>
     </item>
     <item>
       <title>[devops] Ahab: Hermeticity Analyzer for Bazel</title>
