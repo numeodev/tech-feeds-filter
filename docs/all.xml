@@ -8,7 +8,21 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 15 Oct 2026 20:42:49 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 23:25:55 +0000</lastBuildDate>
+    <item>
+      <title>[security] Epic's EAC2 v2 seems fairly easily bypassable</title>
+      <link>https://codon.org.uk/~mjg59/blog/p/epics-eac2-v2-seems-fairly-easily-bypassable/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/1iin5o/epic_s_eac2_v2_seems_fairly_easily"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/1iin5o</guid>
+      <pubDate>Thu, 15 Oct 2026 22:48:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>[vcs] GitHub Actions workflow lockfiles in public preview</title>
+      <link>https://github.blog/changelog/2026-10-14-github-actions-workflow-lockfiles-in-public-preview/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/fi9d4c/github_actions_workflow_lockfiles"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/fi9d4c</guid>
+      <pubDate>Thu, 15 Oct 2026 21:00:32 +0000</pubDate>
+    </item>
     <item>
       <title>[vcs] Forgejo v17.0 is available</title>
       <link>https://forgejo.org/2026-10-release-v17-0/</link>
@@ -103,7 +117,7 @@
     <item>
       <title>Yandex outage: data shows that instead of going dark, malicious bots moved</title>
       <link>https://blog.cloudflare.com/yandex-outage/</link>
-      <description>277 points, 114 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50094673'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>279 points, 117 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50094673'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50094673</guid>
       <pubDate>Wed, 14 Oct 2026 20:29:13 +0000</pubDate>
     </item>
@@ -485,13 +499,6 @@
       <pubDate>Wed, 07 Oct 2026 17:28:43 +0000</pubDate>
     </item>
     <item>
-      <title>[security] Zeroization, part 1: Wiping can make things worse</title>
-      <link>https://00f.net/2026/10/06/zeroization-1/</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/4hxxad/zeroization_part_1_wiping_can_make_things"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/4hxxad</guid>
-      <pubDate>Wed, 07 Oct 2026 16:22:50 +0000</pubDate>
-    </item>
-    <item>
       <title>GitHub Outage: Incident with Git Operations, Pull Requests and Actions</title>
       <link>https://www.githubstatus.com/incidents/djlmxz2zd0j7</link>
       <description>13 points, 3 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49994003'&gt;discussion sur Hacker News&lt;/a&gt;</description>
@@ -824,13 +831,6 @@ Test instance where you are welcome to make a mess: &lt;a href="https://squalk-t
 &lt;p&gt;&lt;a href="https://lobste.rs/s/wo4fuj/gothub_lists"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/wo4fuj</guid>
       <pubDate>Wed, 16 Sep 2026 16:55:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>[vcs] Replacing Pull Requests with Delta</title>
-      <link>https://zed.dev/blog/delta-public-beta</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/c5xrht/replacing_pull_requests_with_delta"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/c5xrht</guid>
-      <pubDate>Wed, 16 Sep 2026 16:27:39 +0000</pubDate>
     </item>
     <item>
       <title>[distributed] comail - Cooperative email infrastructure for atproto</title>
