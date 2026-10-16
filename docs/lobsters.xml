@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 16 Oct 2026 02:15:31 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 07:40:35 +0000</lastBuildDate>
+    <item>
+      <title>[devops] My self-hosted infrastructure with Incus OS</title>
+      <link>https://dataswamp.org/~solene/2026-10-15-selfhosting-infrastructure-incus-os.html</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/q0wobg/my_self_hosted_infrastructure_with_incus"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/q0wobg</guid>
+      <pubDate>Fri, 16 Oct 2026 03:25:49 +0000</pubDate>
+    </item>
     <item>
       <title>[security] Epic's EAC2 v2 seems fairly easily bypassable</title>
       <link>https://codon.org.uk/~mjg59/blog/p/epics-eac2-v2-seems-fairly-easily-bypassable/</link>
@@ -859,13 +866,6 @@ Test instance where you are welcome to make a mess: &lt;a href="https://squalk-t
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/wblbfk/proxmox_officially_supports_arm_with"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/wblbfk</guid>
       <pubDate>Wed, 05 Aug 2026 19:54:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>[devops] How Compiler Explorer Runs on AWS in 2026</title>
-      <link>https://xania.org/202608/how-compiler-explorer-runs-on-aws</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/1eie3y/how_compiler_explorer_runs_on_aws_2026"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/1eie3y</guid>
-      <pubDate>Wed, 05 Aug 2026 16:23:32 +0000</pubDate>
     </item>
   </channel>
 </rss>
