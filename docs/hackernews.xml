@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 16 Oct 2026 12:51:01 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 17:04:48 +0000</lastBuildDate>
+    <item>
+      <title>OS-native agent sandbox that can rollback in ms</title>
+      <link>https://delta-box.github.io/</link>
+      <description>2 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50118326'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50118326</guid>
+      <pubDate>Fri, 16 Oct 2026 13:44:20 +0000</pubDate>
+    </item>
     <item>
       <title>Matt Mullenweg Orders Accessibility Revert</title>
       <link>https://www.therepository.email/matt-mullenweg-orders-accessibility-revert-tells-core-committer-to-contribute-your-talents-to-another-project</link>
@@ -26,7 +33,7 @@
     <item>
       <title>Matt Mullenweg Orders Accessibility Revert, Bans Core Wordpress Committer</title>
       <link>https://www.therepository.email/matt-mullenweg-orders-accessibility-revert-tells-core-committer-to-contribute-your-talents-to-another-project</link>
-      <description>19 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50113348'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>20 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50113348'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50113348</guid>
       <pubDate>Fri, 16 Oct 2026 02:47:15 +0000</pubDate>
     </item>
@@ -40,7 +47,7 @@
     <item>
       <title>Deltabox: A rollback-able agent sandbox</title>
       <link>https://github.com/delta-box/deltabox-lite</link>
-      <description>9 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50104406'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>10 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50104406'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50104406</guid>
       <pubDate>Thu, 15 Oct 2026 14:44:12 +0000</pubDate>
     </item>
@@ -141,20 +148,6 @@
       <description>3 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49972434'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=49972434</guid>
       <pubDate>Tue, 06 Oct 2026 00:02:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>Show HN: One line so LLM workers share a 429 wait and keep jobs an outage stops</title>
-      <link>https://github.com/baldurhq/baldur</link>
-      <description>1 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49935573'&gt;discussion sur Hacker News&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49935573</guid>
-      <pubDate>Fri, 02 Oct 2026 16:40:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>Show HN: What's Agent Doing – a Claude Code UI mod that explains each step</title>
-      <link>https://github.com/tzafrir/whats-agent-doing</link>
-      <description>2 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49934165'&gt;discussion sur Hacker News&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49934165</guid>
-      <pubDate>Fri, 02 Oct 2026 14:51:12 +0000</pubDate>
     </item>
   </channel>
 </rss>
