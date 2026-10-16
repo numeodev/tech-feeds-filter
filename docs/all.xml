@@ -8,7 +8,35 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 16 Oct 2026 07:40:35 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 12:51:02 +0000</lastBuildDate>
+    <item>
+      <title>[r/sre] The smallest change that broke the internet</title>
+      <link>https://www.reddit.com/r/sre/comments/1x7f99u/the_smallest_change_that_broke_the_internet/</link>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://www.reddit.com/r/sre/comments/1x7f99u/the_smallest_change_that_broke_the_internet/"&gt; &lt;img alt="The smallest change that broke the internet" src="https://external-preview.redd.it/rSjbqDoDSUA-ziVfJytueKeZ-e6hbW0PdRQ-g6d3Q-Q.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=689f08494a7af12eb176cea8027e2740e3c6eea2" title="The smallest change that broke the internet" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Most of the biggest tech outages of the last thirty years started with something you could fit on a sticky note, a few characters or one setting or a command typed late at night. This page follows a few of them from the people they hit back to the change that started it.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/Mastbubbles"&gt; /u/Mastbubbles &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://sheets.works/data-viz/smallest-change"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/sre/comments/1x7f99u/the_smallest_change_that_broke_the_internet/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <guid isPermaLink="false">https://www.reddit.com/r/sre/t3_1x7f99u</guid>
+      <pubDate>Fri, 16 Oct 2026 12:45:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>[security] Lessons learned building Fronteira, an MCP proxy with behavioral guardrails</title>
+      <link>https://wiki.alcidesfonseca.com/blog/lessons-learned-building-fronteira/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/gtev9y/lessons_learned_building_fronteira_mcp"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/gtev9y</guid>
+      <pubDate>Fri, 16 Oct 2026 12:39:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>Matt Mullenweg Orders Accessibility Revert</title>
+      <link>https://www.therepository.email/matt-mullenweg-orders-accessibility-revert-tells-core-committer-to-contribute-your-talents-to-another-project</link>
+      <description>1 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50117236'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50117236</guid>
+      <pubDate>Fri, 16 Oct 2026 11:47:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>Unity Mass-Suspends Accounts</title>
+      <link>https://news.ycombinator.com/item?id=50116839</link>
+      <description>2 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50116839'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50116839</guid>
+      <pubDate>Fri, 16 Oct 2026 10:56:53 +0000</pubDate>
+    </item>
     <item>
       <title>[devops] My self-hosted infrastructure with Incus OS</title>
       <link>https://dataswamp.org/~solene/2026-10-15-selfhosting-infrastructure-incus-os.html</link>
@@ -19,7 +47,7 @@
     <item>
       <title>Matt Mullenweg Orders Accessibility Revert, Bans Core Wordpress Committer</title>
       <link>https://www.therepository.email/matt-mullenweg-orders-accessibility-revert-tells-core-committer-to-contribute-your-talents-to-another-project</link>
-      <description>14 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50113348'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>19 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50113348'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50113348</guid>
       <pubDate>Fri, 16 Oct 2026 02:47:15 +0000</pubDate>
     </item>
@@ -131,7 +159,7 @@
     <item>
       <title>Yandex outage: data shows that instead of going dark, malicious bots moved</title>
       <link>https://blog.cloudflare.com/yandex-outage/</link>
-      <description>283 points, 119 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50094673'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>285 points, 119 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50094673'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50094673</guid>
       <pubDate>Wed, 14 Oct 2026 20:29:13 +0000</pubDate>
     </item>
@@ -483,13 +511,6 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/u88nlh/on_git_refs"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/u88nlh</guid>
       <pubDate>Wed, 07 Oct 2026 18:14:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>[security] Hello, my name is Orca</title>
-      <link>https://linnemanlabs.com/posts/hello-my-name-is-orca/</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ffn6sm/hello_my_name_is_orca"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/ffn6sm</guid>
-      <pubDate>Wed, 07 Oct 2026 17:28:43 +0000</pubDate>
     </item>
     <item>
       <title>GitHub Outage: Incident with Git Operations, Pull Requests and Actions</title>
