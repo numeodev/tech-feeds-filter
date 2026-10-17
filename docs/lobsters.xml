@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 17 Oct 2026 07:19:07 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 11:51:15 +0000</lastBuildDate>
+    <item>
+      <title>[practices] Developing for Debugging (2025)</title>
+      <link>https://www.davepacheco.net/blog/2025/developing-for-debugging-dns-propagation/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/a0og2j/developing_for_debugging_2025"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/a0og2j</guid>
+      <pubDate>Sat, 17 Oct 2026 07:21:14 +0000</pubDate>
+    </item>
     <item>
       <title>[practices] How the Claude Code team does code review</title>
       <link>https://claude.dev/blog/solving-code-review-at-anthropic/</link>
@@ -59,6 +66,13 @@
       <pubDate>Thu, 15 Oct 2026 19:43:19 +0000</pubDate>
     </item>
     <item>
+      <title>[distributed] End-to-end encrypted relays for OCapN</title>
+      <link>https://spritely.institute/news/end-to-end-encrypted-relays-for-ocapn.html</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/yxnovw/end_end_encrypted_relays_for_ocapn"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/yxnovw</guid>
+      <pubDate>Thu, 15 Oct 2026 14:42:12 +0000</pubDate>
+    </item>
+    <item>
       <title>[security] Remote Attestation Should Not Be Tolerated</title>
       <link>https://lumi.codeberg.page/blog/remote-attestation.html</link>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/s8bo3z/remote_attestation_should_not_be"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
@@ -73,7 +87,7 @@
       <pubDate>Thu, 15 Oct 2026 10:02:33 +0000</pubDate>
     </item>
     <item>
-      <title>[vcs] Everyone is doing Git on S3 wrong</title>
+      <title>[distributed, vcs] Everyone is doing Git on S3 wrong</title>
       <link>https://enroute.sh/blog/everyone-is-doing-git-on-s3-wrong</link>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ydo1wi/everyone_is_doing_git_on_s3_wrong"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/ydo1wi</guid>
@@ -345,6 +359,13 @@
       <pubDate>Thu, 08 Oct 2026 19:06:25 +0000</pubDate>
     </item>
     <item>
+      <title>[distributed] Scaling and benchmarking a critical message bus using a new indexing strategy</title>
+      <link>https://blog.janestreet.com/scaling-and-benchmarking-a-critical-message-bus/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/gliabr/scaling_benchmarking_critical_message"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/gliabr</guid>
+      <pubDate>Thu, 08 Oct 2026 17:39:17 +0000</pubDate>
+    </item>
+    <item>
       <title>[practices] The Slow Formation of Durable Software</title>
       <link>https://newsletter.dancohen.org/archive/the-slow-formation-of-durable-software/</link>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/8mm3ec/slow_formation_durable_software"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
@@ -387,6 +408,14 @@
       <pubDate>Wed, 07 Oct 2026 18:14:26 +0000</pubDate>
     </item>
     <item>
+      <title>[distributed] Perseus: A Fail-Slow Detection Framework for Cloud Storage Systems (2023)</title>
+      <link>https://www.usenix.org/system/files/fast23-lu.pdf</link>
+      <description>&lt;p&gt;Abstract: The newly-emerging “fail-slow” failures plague both software and hardware where the victim components are still functioning yet with degraded performance. To address this problem, this paper presents PERSEUS, a practical fail-slow detection framework for storage devices. PERSEUS leverages a light regression-based model to fast pinpoint and analyze fail-slow failures at the granularity of drives. Within a 10-month close monitoring on 248K drives, PERSEUS managed to find 304 fail-slow cases. Isolating them can reduce the (node-level) 99.99th tail latency by 48%. We assemble a large-scale fail-slow dataset (including 41K normal drives and 315 verified fail-slow drives) from our production traces, based on which we provide root cause analysis on fail-slow drives covering a variety of ill-implemented scheduling, hardware defects, and environmental factors. We have released the dataset to the public for fail-slow study.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://lobste.rs/s/uvpts7/perseus_fail_slow_detection_framework"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/uvpts7</guid>
+      <pubDate>Tue, 06 Oct 2026 18:11:34 +0000</pubDate>
+    </item>
+    <item>
       <title>[practices] Last rites for Gentoo's Chromium package</title>
       <link>https://lwn.net/SubscriberLink/1097760/2be4d9e3eeb59039/</link>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/fpcicg/last_rites_for_gentoo_s_chromium_package"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
@@ -406,6 +435,20 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/9iztqv/flirt_is_now_open_source"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/9iztqv</guid>
       <pubDate>Mon, 05 Oct 2026 09:34:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>[distributed] Protocol-aware recovery for consensus-based storage (2018)</title>
+      <link>https://www.usenix.org/system/files/conference/fast18/fast18-alagappan.pdf</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/4bzboj/protocol_aware_recovery_for_consensus"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/4bzboj</guid>
+      <pubDate>Sun, 04 Oct 2026 20:00:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>[distributed] Iroh global content discovery</title>
+      <link>https://www.iroh.computer/blog/iroh-global-content-discovery</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/eoibah/iroh_global_content_discovery"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/eoibah</guid>
+      <pubDate>Sun, 04 Oct 2026 19:19:42 +0000</pubDate>
     </item>
     <item>
       <title>[vcs] grubby: static site generator for git repos written in Ruby</title>
@@ -457,6 +500,13 @@
       <pubDate>Thu, 01 Oct 2026 18:26:59 +0000</pubDate>
     </item>
     <item>
+      <title>[distributed] We used a database as a message queue. Now we use Kafka</title>
+      <link>https://www.tigrisdata.com/blog/quick-fdb-kafka/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/0xfpgo/we_used_database_as_message_queue_now_we"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/0xfpgo</guid>
+      <pubDate>Wed, 30 Sep 2026 20:28:27 +0000</pubDate>
+    </item>
+    <item>
       <title>[practices] State of Devs 2026</title>
       <link>https://2026.stateofdevs.com/en-US</link>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ysiw3t/state_devs_2026"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
@@ -486,11 +536,25 @@
       <pubDate>Tue, 29 Sep 2026 20:14:41 +0000</pubDate>
     </item>
     <item>
+      <title>[distributed] Deterministic Concurrency</title>
+      <link>https://www.youtube.com/watch?v=25x0UuSCKuU</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/wuiaba/deterministic_concurrency"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/wuiaba</guid>
+      <pubDate>Tue, 29 Sep 2026 09:42:58 +0000</pubDate>
+    </item>
+    <item>
       <title>[practices] What makes software development engineering</title>
       <link>https://parksb.github.io/en/article/44.html</link>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/scgtd6/what_makes_software_development"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/scgtd6</guid>
       <pubDate>Tue, 29 Sep 2026 07:49:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>[distributed] First steps of the PLC organization</title>
+      <link>https://blog.plcred.org/3mwlphq42d227</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/xaqlnv/first_steps_plc_organization"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/xaqlnv</guid>
+      <pubDate>Tue, 29 Sep 2026 06:57:31 +0000</pubDate>
     </item>
     <item>
       <title>[practices] Yes, no AI is now a feature</title>
@@ -529,14 +593,14 @@
       <pubDate>Sat, 26 Sep 2026 11:21:13 +0000</pubDate>
     </item>
     <item>
-      <title>[practices] There is more to code review than (automatable) detection</title>
-      <link>https://www.adaptivecapacitylabs.com/2026/08/24/there-is-more-to-code-review-than-automatable-detection/</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ivunna/there_is_more_code_review_than"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/ivunna</guid>
-      <pubDate>Sat, 26 Sep 2026 06:18:59 +0000</pubDate>
+      <title>[distributed] Kafgres: Embedding a Kafka Broker into Postgres</title>
+      <link>https://rynr.dev/blog/kafgres/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/wkn1lr/kafgres_embedding_kafka_broker_into"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/wkn1lr</guid>
+      <pubDate>Fri, 25 Sep 2026 21:20:41 +0000</pubDate>
     </item>
     <item>
-      <title>[vcs] Radicle: Disclosure of Vulnerability in the Network Protocol</title>
+      <title>[distributed, vcs] Radicle: Disclosure of Vulnerability in the Network Protocol</title>
       <link>https://radicle.dev/2026/09/23/disclosure-of-vulnerability-in-network-protocol.html</link>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ad5vwg/radicle_disclosure_vulnerability"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/ad5vwg</guid>
@@ -563,6 +627,27 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/d4wq0w/ju_ju_tsu"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/d4wq0w</guid>
       <pubDate>Mon, 21 Sep 2026 20:59:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>[distributed] Squalk: an old-school forum engine built on Nostr (NIP-29 groups, NIP-7D threads)</title>
+      <link>https://github.com/dtonon/squalk</link>
+      <description>&lt;p&gt;I miss classic forums: slow, asynchronous threads that stay readable and searchable for years, instead of knowledge dissolving into chat scrollback. Squalk is my attempt to rebuild that on top of Nostr, an open protocol where users hold a keypair, posts are signed events, and interchangeable relays store and serve them, instead of a private database.&lt;/p&gt;
+&lt;p&gt;The design in short: a forum is a view over relay-hosted data. Rooms are groups as specified in NIP-29, threads are NIP-7D events, identity is the user's own keypair. The consequence I care about is that the software and the community are decoupled: any other client speaking the same specs (Flotilla, Nostrord) can read and write the same conversations, and if my deployment disappears the history and identities survive on the relay.&lt;/p&gt;
+&lt;p&gt;Technical bits that might interest this crowd: one SvelteKit codebase builds either as a static SPA or as a server-rendered Node app; the SSR mode renders only the anonymous view (no keys server-side) so threads are crawlable, with a stale-while-revalidate snapshot cache in front of the relay queries. Content is rendered as djot rather than markdown. Deployment is a NIP-29 relay (Zooid) plus one systemd unit.&lt;/p&gt;
+&lt;p&gt;Pilot community (real threads, browsable without an account): &lt;a href="https://nostr-proto.org" rel="ugc"&gt;https://nostr-proto.org&lt;/a&gt;&lt;br /&gt;
+Test instance where you are welcome to make a mess: &lt;a href="https://squalk-test.dtonon.com" rel="ugc"&gt;https://squalk-test.dtonon.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Caveats: Nostr is niche, key management is still rough for non-enthusiasts, and relay-side moderation tooling is young.&lt;/p&gt;
+&lt;p&gt;Feedback on the architecture is welcome!&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://lobste.rs/s/haq46t/squalk_old_school_forum_engine_built_on"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/haq46t</guid>
+      <pubDate>Mon, 21 Sep 2026 14:44:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>[distributed] How Notion handles concurrent editing with CRDTs</title>
+      <link>https://www.notion.com/blog/how-notion-handles-concurrent-editing-with-crdts</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ppfyza/how_notion_handles_concurrent_editing"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/ppfyza</guid>
+      <pubDate>Sun, 20 Sep 2026 12:06:29 +0000</pubDate>
     </item>
     <item>
       <title>[vcs] Beyond jj: config &amp; tools ecosystem</title>
@@ -601,6 +686,34 @@
       <pubDate>Wed, 16 Sep 2026 16:55:24 +0000</pubDate>
     </item>
     <item>
+      <title>[distributed] comail - Cooperative email infrastructure for atproto</title>
+      <link>https://comail.at/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/oihovt/comail_cooperative_email"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/oihovt</guid>
+      <pubDate>Wed, 16 Sep 2026 15:48:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>[distributed] SplitFT: Fault Tolerance for Disaggregated Datacenters via Remote Memory Logging</title>
+      <link>https://ramalagappan.github.io/pdfs/papers/splitft.pdf</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/eytyqv/splitft_fault_tolerance_for"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/eytyqv</guid>
+      <pubDate>Mon, 14 Sep 2026 18:02:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[distributed] FISL — Finding Internet Structures &amp; Links</title>
+      <link>https://dasl.ing/fisl.html</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/bzacyp/fisl_finding_internet_structures_links"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/bzacyp</guid>
+      <pubDate>Fri, 11 Sep 2026 08:29:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>[distributed] Absolutely Everything You Always Wanted to Know About Watermarks in Apache Flink</title>
+      <link>https://developer.confluent.io/blog/all-about-flink-watermarks-1/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/llyiig/absolutely_everything_you_always_wanted"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/llyiig</guid>
+      <pubDate>Thu, 10 Sep 2026 08:15:49 +0000</pubDate>
+    </item>
+    <item>
       <title>[devops] Hardening Container Images</title>
       <link>https://www.grepular.com/Hardening_Container_Images</link>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/8hz82r/hardening_container_images"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
@@ -615,11 +728,60 @@
       <pubDate>Mon, 07 Sep 2026 09:36:28 +0000</pubDate>
     </item>
     <item>
+      <title>[distributed] The pattern language of software architecture</title>
+      <link>https://metapatterns.io/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/mkpgrk/pattern_language_software_architecture"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/mkpgrk</guid>
+      <pubDate>Tue, 01 Sep 2026 17:53:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>[distributed] Omnipresent availability risks in cloud software</title>
+      <link>https://surfingcomplexity.blog/2026/08/29/omnipresent-availability-risks-in-cloud-software/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/m3brob/omnipresent_availability_risks_cloud"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/m3brob</guid>
+      <pubDate>Sat, 29 Aug 2026 22:17:35 +0000</pubDate>
+    </item>
+    <item>
       <title>[devops] Creepy crawlies</title>
       <link>https://people.kernel.org/monsieuricon/creepy-crawlies</link>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/nbjo0i/creepy_crawlies"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/nbjo0i</guid>
       <pubDate>Sat, 29 Aug 2026 16:25:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>[distributed] Can Kafka Support Elastic Partitioning?</title>
+      <link>https://terroir.systems/can-kafka-support-elastic-partitioning/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/vfhaxz/can_kafka_support_elastic_partitioning"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/vfhaxz</guid>
+      <pubDate>Fri, 28 Aug 2026 19:03:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>[distributed] How we saved 100 terabytes of memory by optimizing 1.1.1.1’s DNS cache</title>
+      <link>https://blog.cloudflare.com/dns-cache-memory-optimization-1111/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/p7solr/how_we_saved_100_terabytes_memory_by"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/p7solr</guid>
+      <pubDate>Fri, 28 Aug 2026 06:54:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>[distributed] Life Beyond Distributed Transactions: An apostate’s opinion (2007)</title>
+      <link>https://spawn-queue.acm.org/doi/10.1145/3012426.3025012</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ftakj1/life_beyond_distributed_transactions"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/ftakj1</guid>
+      <pubDate>Tue, 25 Aug 2026 08:42:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>[distributed] Making the Impossible Possible (Again): Ten Years of Flexible Paxos</title>
+      <link>https://youtu.be/P0cAG-RM1_c</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/syper3/making_impossible_possible_again_ten"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/syper3</guid>
+      <pubDate>Tue, 25 Aug 2026 04:17:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>[distributed] distributed identity</title>
+      <link>https://jyn.dev/distributed-identity/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/al6sdh/distributed_identity"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/al6sdh</guid>
+      <pubDate>Mon, 24 Aug 2026 21:28:12 +0000</pubDate>
     </item>
     <item>
       <title>[devops] Dynamically Naming Servers</title>
@@ -634,6 +796,13 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/jzr2ey/wild_ai_related_reliability_incidents"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/jzr2ey</guid>
       <pubDate>Sun, 23 Aug 2026 19:04:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>[distributed] OTel Isn't Going Well (And I Made A Spreadsheet About It)</title>
+      <link>https://matduggan.com/otel-isnt-going-well-and-i-made-a-spreadsheet-about-it/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ubeyqf/otel_isn_t_going_well_i_made_spreadsheet"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/ubeyqf</guid>
+      <pubDate>Sat, 22 Aug 2026 07:27:26 +0000</pubDate>
     </item>
     <item>
       <title>[devops] Ahab: Hermeticity Analyzer for Bazel</title>
