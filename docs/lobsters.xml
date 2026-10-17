@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 17 Oct 2026 14:39:22 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 17:37:53 +0000</lastBuildDate>
+    <item>
+      <title>[practices] Principles of Anchor Engineering</title>
+      <link>https://nappingtoheavymetal.com/post/2026-09-15-principles-of-anchor-engineering/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/iyquo7/principles_anchor_engineering"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/iyquo7</guid>
+      <pubDate>Sat, 17 Oct 2026 17:08:33 +0000</pubDate>
+    </item>
     <item>
       <title>[practices] Developing for Debugging (2025)</title>
       <link>https://www.davepacheco.net/blog/2025/developing-for-debugging-dns-propagation/</link>
@@ -584,13 +591,6 @@
 &lt;p&gt;&lt;a href="https://lobste.rs/s/mwc2fu/what_improves_developer_productivity_at"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/mwc2fu</guid>
       <pubDate>Sun, 27 Sep 2026 12:52:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>[practices] A Roman name for software</title>
-      <link>https://marcosmagueta.com/blog/a-roman-name-for-software/</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/5yy6pd/roman_name_for_software"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/5yy6pd</guid>
-      <pubDate>Sat, 26 Sep 2026 11:21:13 +0000</pubDate>
     </item>
     <item>
       <title>[distributed] Kafgres: Embedding a Kafka Broker into Postgres</title>
