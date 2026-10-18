@@ -8,13 +8,27 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 18 Oct 2026 12:16:58 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 16:13:41 +0000</lastBuildDate>
     <item>
       <title>[r/sre] How have you moved past required client approval for software updates?</title>
       <link>https://www.reddit.com/r/sre/comments/1x8wrgd/how_have_you_moved_past_required_client_approval/</link>
       <description>&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;We have a simple .net agent that is changing constantly. Its like a multi tool for extracting data from the worst local APIs you could imagine (POS). &lt;/p&gt; &lt;p&gt;Due to a complete lack of error budgets and bad outsourced code, we lost a lot of trust with our oldest and largest clients. It's political at this point and slightly toxic, but we can't drop them. &lt;/p&gt; &lt;p&gt;All of our clients are on different versions and we keep seeing reoccurring issues we already fixed.&lt;/p&gt; &lt;p&gt;Ive built out update rings with monitoring and auto rollback, canaries etc, but the whole thing breaks when it requires us to beg and justify every minor patch. Sometimes we get ghosted by their IT teams and then updates have to move to next week as we've missed our window. Updates themselves could be performed mid-service without anyone even noticing as they are so fast to deploy.&lt;/p&gt; &lt;p&gt;How have you moved past this and won over trust to allow more control over updates? Adding update freezes to our SLAs when error budgets are exhausted?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/SWEETJUICYWALRUS"&gt; /u/SWEETJUICYWALRUS &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/r/sre/comments/1x8wrgd/how_have_you_moved_past_required_client_approval/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/sre/comments/1x8wrgd/how_have_you_moved_past_required_client_approval/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</description>
       <guid isPermaLink="false">https://www.reddit.com/r/sre/t3_1x8wrgd</guid>
       <pubDate>Sun, 18 Oct 2026 07:10:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>[security] It's time to talk about TEEs</title>
+      <link>https://alinush.github.io//tee</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/edli0x/it_s_time_talk_about_tees"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/edli0x</guid>
+      <pubDate>Sun, 18 Oct 2026 03:00:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>[security] PwnEscape: Guest-to-Host KVM Escape (CVE-2026-99999)</title>
+      <link>https://pwn.ai/blog/pwnescape</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/np84oh/pwnescape_guest_host_kvm_escape_cve_2026"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/np84oh</guid>
+      <pubDate>Sat, 17 Oct 2026 18:24:39 +0000</pubDate>
     </item>
     <item>
       <title>[practices] Principles of Anchor Engineering</title>
@@ -38,11 +52,25 @@
       <pubDate>Fri, 16 Oct 2026 23:06:35 +0000</pubDate>
     </item>
     <item>
+      <title>[security] Someone on Torrent Sites Kept Fucking With My Sonarr</title>
+      <link>https://thereallo.dev/blog/someone-on-torrent-sites-kept-fucking-with-my-sonarr-setup</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/1zknyw/someone_on_torrent_sites_kept_fucking"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/1zknyw</guid>
+      <pubDate>Fri, 16 Oct 2026 20:47:02 +0000</pubDate>
+    </item>
+    <item>
       <title>Widespread X Outage</title>
       <link>https://developer.x.com/status</link>
       <description>4 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50122307'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50122307</guid>
       <pubDate>Fri, 16 Oct 2026 18:24:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>[security] Big Fish: Exploiting a 37-Year-Old Kernel Bug in OpenBSD</title>
+      <link>https://calif.io/research/big-fish</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/cxlrc5/big_fish_exploiting_37_year_old_kernel_bug"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/cxlrc5</guid>
+      <pubDate>Fri, 16 Oct 2026 15:41:08 +0000</pubDate>
     </item>
     <item>
       <title>OS-native agent sandbox that can rollback in ms</title>
@@ -73,11 +101,25 @@
       <pubDate>Fri, 16 Oct 2026 10:56:53 +0000</pubDate>
     </item>
     <item>
+      <title>[devops] My self-hosted infrastructure with Incus OS</title>
+      <link>https://dataswamp.org/~solene/2026-10-15-selfhosting-infrastructure-incus-os.html</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/q0wobg/my_self_hosted_infrastructure_with_incus"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/q0wobg</guid>
+      <pubDate>Fri, 16 Oct 2026 03:25:49 +0000</pubDate>
+    </item>
+    <item>
       <title>Matt Mullenweg Orders Accessibility Revert, Bans Core Wordpress Committer</title>
       <link>https://www.therepository.email/matt-mullenweg-orders-accessibility-revert-tells-core-committer-to-contribute-your-talents-to-another-project</link>
       <description>23 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50113348'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50113348</guid>
       <pubDate>Fri, 16 Oct 2026 02:47:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>[security] Epic's EAC2 v2 seems fairly easily bypassable</title>
+      <link>https://codon.org.uk/~mjg59/blog/p/epics-eac2-v2-seems-fairly-easily-bypassable/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/1iin5o/epic_s_eac2_v2_seems_fairly_easily"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/1iin5o</guid>
+      <pubDate>Thu, 15 Oct 2026 22:48:19 +0000</pubDate>
     </item>
     <item>
       <title>[vcs] GitHub Actions workflow lockfiles in public preview</title>
@@ -106,6 +148,20 @@
       <description>10 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50104406'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50104406</guid>
       <pubDate>Thu, 15 Oct 2026 14:44:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>[security] Remote Attestation Should Not Be Tolerated</title>
+      <link>https://lumi.codeberg.page/blog/remote-attestation.html</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/s8bo3z/remote_attestation_should_not_be"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/s8bo3z</guid>
+      <pubDate>Thu, 15 Oct 2026 14:02:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>[security] sslx: A fast, modern alternative to OpenSSL's CLI</title>
+      <link>https://github.com/glincker/sslx</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/p7tf7i/sslx_fast_modern_alternative_openssl_s"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/p7tf7i</guid>
+      <pubDate>Thu, 15 Oct 2026 10:02:33 +0000</pubDate>
     </item>
     <item>
       <title>[vcs] Everyone is doing Git on S3 wrong</title>
@@ -164,11 +220,25 @@
       <pubDate>Wed, 14 Oct 2026 20:29:13 +0000</pubDate>
     </item>
     <item>
+      <title>[security] We found a Tencent agent fleet</title>
+      <link>https://swarmcha.se/posts/chinese-agent-fleet-full-report</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/wcoes4/we_found_tencent_agent_fleet"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/wcoes4</guid>
+      <pubDate>Wed, 14 Oct 2026 20:08:19 +0000</pubDate>
+    </item>
+    <item>
       <title>[vcs] Making git hooks visible in fish shell</title>
       <link>https://offby1.website/posts/making-git-hooks-visible-in-fish-shell.html</link>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/k8z2q4/making_git_hooks_visible_fish_shell"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/k8z2q4</guid>
       <pubDate>Wed, 14 Oct 2026 19:58:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>[security] Black-Box HashDoS: Attacking Hash Tables Without Knowing the Hash Function</title>
+      <link>https://orlp.net/blog/black-box-hashdos/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/gf3otc/black_box_hashdos_attacking_hash_tables"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/gf3otc</guid>
+      <pubDate>Wed, 14 Oct 2026 18:06:53 +0000</pubDate>
     </item>
     <item>
       <title>[practices] What Do We Do When We Read The Code?</title>
@@ -178,6 +248,20 @@
       <pubDate>Wed, 14 Oct 2026 17:50:22 +0000</pubDate>
     </item>
     <item>
+      <title>[security] Root DNSSEC trust anchors</title>
+      <link>https://jpmens.net/2026/10/14/root-dnssec-trust-anchors/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ysnvjn/root_dnssec_trust_anchors"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/ysnvjn</guid>
+      <pubDate>Wed, 14 Oct 2026 17:16:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>[security] Package managers have an integrity problem</title>
+      <link>https://blog.trailofbits.com/2026/10/14/package-managers-have-an-integrity-problem/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/lmx2hi/package_managers_have_integrity_problem"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/lmx2hi</guid>
+      <pubDate>Wed, 14 Oct 2026 16:14:11 +0000</pubDate>
+    </item>
+    <item>
       <title>GitLab outage during rate limit preview</title>
       <link>https://status.gitlab.com/pages/incident/5b36dc6502d06804c08349f7/6acf92b0cb21fb05a5db93f4</link>
       <description>4 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50089743'&gt;discussion sur Hacker News&lt;/a&gt;</description>
@@ -185,11 +269,39 @@
       <pubDate>Wed, 14 Oct 2026 15:59:18 +0000</pubDate>
     </item>
     <item>
-      <title>[vcs] GitLab warns of max severity code execution vulnerability</title>
+      <title>[security, vcs] GitLab warns of max severity code execution vulnerability</title>
       <link>https://www.bleepingcomputer.com/news/security/gitlab-warns-of-max-severity-rce-flaw-in-regex-compiler-engine/</link>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/tehays/gitlab_warns_max_severity_code_execution"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/tehays</guid>
       <pubDate>Wed, 14 Oct 2026 15:55:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>[devops] What I Self-Host</title>
+      <link>https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/j4tlzg/what_i_self_host"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/j4tlzg</guid>
+      <pubDate>Wed, 14 Oct 2026 15:32:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>[security] Awesome Gaming on Linux Without Cheating</title>
+      <link>https://onlineservices.epicgames.com/news/introducing-easy-anti-cheat-linux-v2</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/x9fqa4/awesome_gaming_on_linux_without_cheating"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/x9fqa4</guid>
+      <pubDate>Wed, 14 Oct 2026 15:13:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>[security] A UAF turned RCE</title>
+      <link>https://daniel.haxx.se/blog/2026/10/14/a-uaf-turned-rce/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/g46xkj/uaf_turned_rce"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/g46xkj</guid>
+      <pubDate>Wed, 14 Oct 2026 09:44:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>[security] Linux Lockdown and Hibernation (again)</title>
+      <link>https://codon.org.uk/~mjg59/blog/p/linux-lockdown-and-hibernation-again/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/rrazyb/linux_lockdown_hibernation_again"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/rrazyb</guid>
+      <pubDate>Wed, 14 Oct 2026 08:52:30 +0000</pubDate>
     </item>
     <item>
       <title>Postmortem: Sweden's citizenship law shipped with no migration path</title>
@@ -197,6 +309,14 @@
       <description>4 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50084147'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50084147</guid>
       <pubDate>Wed, 14 Oct 2026 08:18:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>[security] Ledger confirms spy chip implant behind wallet crypto thefts</title>
+      <link>https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/</link>
+      <description>&lt;p&gt;Video showing an implanted device: &lt;a href="https://www.youtube.com/watch?v=Nf4FEFlgv3Q" rel="ugc"&gt;https://www.youtube.com/watch?v=Nf4FEFlgv3Q&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://lobste.rs/s/cwota8/ledger_confirms_spy_chip_implant_behind"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/cwota8</guid>
+      <pubDate>Wed, 14 Oct 2026 07:54:56 +0000</pubDate>
     </item>
     <item>
       <title>[practices] The 2026 Maintainers Summit</title>
@@ -220,11 +340,25 @@
       <pubDate>Tue, 13 Oct 2026 20:37:52 +0000</pubDate>
     </item>
     <item>
+      <title>[devops] A plea not to use uv-build</title>
+      <link>https://blogs.gentoo.org/mgorny/2026/10/12/a-plea-not-to-use-uv-build/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/73ssw1/plea_not_use_uv_build"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/73ssw1</guid>
+      <pubDate>Tue, 13 Oct 2026 14:36:52 +0000</pubDate>
+    </item>
+    <item>
       <title>The reverts will continue until morale improves</title>
       <link>http://peter.eisentraut.org/blog/2026/10/09/the-reverts-will-continue-until-morale-improves</link>
       <description>1 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50071955'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50071955</guid>
       <pubDate>Tue, 13 Oct 2026 14:03:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>[security] Model backdoors are easy to create and hard to reliably remove</title>
+      <link>https://equistamp.substack.com/p/model-backdoors-are-easy-to-create</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/6r6mts/model_backdoors_are_easy_create_hard"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/6r6mts</guid>
+      <pubDate>Tue, 13 Oct 2026 12:52:01 +0000</pubDate>
     </item>
     <item>
       <title>[practices] Where is all the new, good software?</title>
@@ -234,6 +368,30 @@
       <pubDate>Tue, 13 Oct 2026 09:14:09 +0000</pubDate>
     </item>
     <item>
+      <title>[security] Freeze the Controller, Defrost the Food: Uncovering Vulnerabilities in Danfoss Refrigeration Controllers</title>
+      <link>https://claroty.com/team82/research/freeze-the-controller-defrost-the-food-uncovering-vulnerabilities-in-danfoss-refrigeration-controllers</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/nsmm3j/freeze_controller_defrost_food"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/nsmm3j</guid>
+      <pubDate>Tue, 13 Oct 2026 07:09:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>[security] Finding a $90,000 Remote Code Execution Vulnerability in Google</title>
+      <link>https://simonkoeck.com/writeups/google-devsite-flask-session-pickle-rce</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/mldt0o/finding_90_000_remote_code_execution"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/mldt0o</guid>
+      <pubDate>Mon, 12 Oct 2026 14:40:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>[security] French supermarket chains say cyberattack forced refrigerator shutdown</title>
+      <link>https://www.afp.com/en/french-supermarket-chains-say-cyberattack-forced-refrigerator-shutdown</link>
+      <description>&lt;p&gt;This popped up and reminded me strangely of a story post a month ago here:&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://lobste.rs/s/ygjo0g/i_think_military_commissary_freezers" rel="ugc"&gt;https://lobste.rs/s/ygjo0g/i_think_military_commissary_freezers&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;And, lo and behold, the very same controller supplier is mentioned in both the earlier US article and the one covering this by &lt;a href="https://www.lemonde.fr/economie/article/2026/10/12/plusieurs-centaines-de-supermarches-intermarche-et-cooperative-u-victimes-d-une-cyberattaque-visant-leurs-installations-frigorifiques_6792621_3234.html" rel="ugc"&gt;french newspaper Le Monde&lt;/a&gt;: the danish company Danfoss. I could not find sources mentioning the supplier in English.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://lobste.rs/s/u4vlin/french_supermarket_chains_say"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/u4vlin</guid>
+      <pubDate>Mon, 12 Oct 2026 12:23:52 +0000</pubDate>
+    </item>
+    <item>
       <title>[practices] How to effectively debug when you no longer understand the code</title>
       <link>https://copyconstruct.medium.com/how-to-effectively-debug-when-you-no-longer-understand-the-code-bd3dcb2c5f7b</link>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/pirgtp/how_effectively_debug_when_you_no_longer"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
@@ -241,11 +399,26 @@
       <pubDate>Mon, 12 Oct 2026 12:01:18 +0000</pubDate>
     </item>
     <item>
+      <title>[devops] 3-2-1 Backup Strategy with restic and Backblaze B2</title>
+      <link>https://chuck.is/paranoid/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/9zcxev/3_2_1_backup_strategy_with_restic"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/9zcxev</guid>
+      <pubDate>Mon, 12 Oct 2026 04:21:09 +0000</pubDate>
+    </item>
+    <item>
       <title>[practices] The wild west of polyglot docs sites</title>
       <link>https://technicalwriting.dev/blog/2026/10/polyglot/index.html</link>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/wyxufm/wild_west_polyglot_docs_sites"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/wyxufm</guid>
       <pubDate>Sun, 11 Oct 2026 17:43:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>[security] Hacking the Eufy Doorbell and Base Station</title>
+      <link>https://adepts.of0x.cc/Eufy-DoorBell-hacking/</link>
+      <description>&lt;p&gt;&lt;a href="https://adepts.of0x.cc/eufy-homestation2-firmware/" rel="ugc"&gt;Here is the follow-up dive into the base station&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://lobste.rs/s/e84scc/hacking_eufy_doorbell_base_station"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/e84scc</guid>
+      <pubDate>Sun, 11 Oct 2026 11:54:20 +0000</pubDate>
     </item>
     <item>
       <title>[vcs] What's Wrong with GitHub</title>
@@ -260,6 +433,27 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/9wcfld/how_big_is_git_commit"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/9wcfld</guid>
       <pubDate>Sun, 11 Oct 2026 09:25:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>[security] Reporting vulnerabilities to Estonian companies</title>
+      <link>https://www.youtube.com/watch?v=4gcSlBORoTI</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/roij3t/reporting_vulnerabilities_estonian"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/roij3t</guid>
+      <pubDate>Sat, 10 Oct 2026 14:56:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>[security] 1-click MMI execution in Android</title>
+      <link>https://karansaini.com/mmi-android/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/txa6dj/1_click_mmi_execution_android"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/txa6dj</guid>
+      <pubDate>Sat, 10 Oct 2026 07:20:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>[security] A Practical Guide to “Plug&amp;Pwn” for Pentesters and Defenders</title>
+      <link>https://blog.scrt.ch/2026/10/06/a-practical-guide-to-plugpwn-for-pentesters-and-defenders/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/yrcmjj/practical_guide_plug_pwn_for_pentesters"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/yrcmjj</guid>
+      <pubDate>Fri, 09 Oct 2026 20:25:21 +0000</pubDate>
     </item>
     <item>
       <title>[practices] Artificial Intelligence in the Firm: Bottlenecks in Software Production</title>
@@ -277,6 +471,13 @@
       <pubDate>Fri, 09 Oct 2026 12:15:07 +0000</pubDate>
     </item>
     <item>
+      <title>[security] Telegram Desktop: one-click account takeover via IPC injection</title>
+      <link>https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/vq6ly4/telegram_desktop_one_click_account"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/vq6ly4</guid>
+      <pubDate>Fri, 09 Oct 2026 11:26:00 +0000</pubDate>
+    </item>
+    <item>
       <title>[r/sre] Been burned by a bad Terraform change, any practical AWS backup config?</title>
       <link>https://www.reddit.com/r/sre/comments/1x1eg1v/been_burned_by_a_bad_terraform_change_any/</link>
       <description>&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;We broke prod routing with a rushed terraform change, rds snapshots and s3 were perfect but cloud recovery of the known good configuration was guesswork since half the estate is drifted, would love any tips from folks who can reliably recover infra, not just data.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/ViscitAppehensive443"&gt; /u/ViscitAppehensive443 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/r/sre/comments/1x1eg1v/been_burned_by_a_bad_terraform_change_any/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/sre/comments/1x1eg1v/been_burned_by_a_bad_terraform_change_any/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</description>
@@ -289,6 +490,13 @@
       <description>1 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50016452'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50016452</guid>
       <pubDate>Fri, 09 Oct 2026 05:44:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>[devops] 64-Day Certificate Lifetimes Coming Feb 2027</title>
+      <link>https://letsencrypt.org/2026/10/07/64-day-certs.html</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/dcrosf/64_day_certificate_lifetimes_coming_feb"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/dcrosf</guid>
+      <pubDate>Thu, 08 Oct 2026 19:06:25 +0000</pubDate>
     </item>
     <item>
       <title>Broke Prod</title>
@@ -375,6 +583,13 @@
       <pubDate>Tue, 06 Oct 2026 00:02:48 +0000</pubDate>
     </item>
     <item>
+      <title>[devops] Using docker-compose with Podman rootless</title>
+      <link>https://elou.world/en/tutorial/podman-docker-compose</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/tpxwfe/using_docker_compose_with_podman"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/tpxwfe</guid>
+      <pubDate>Mon, 05 Oct 2026 09:51:28 +0000</pubDate>
+    </item>
+    <item>
       <title>[vcs] Flirt is now Open-Source</title>
       <link>https://blog.buenzli.dev/flirt-is-open-source/</link>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/9iztqv/flirt_is_now_open_source"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
@@ -401,6 +616,13 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/elziso/era_software_quality_era_ostriches"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/elziso</guid>
       <pubDate>Sat, 03 Oct 2026 13:31:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>[devops] gVisor is being donated to CNCF</title>
+      <link>https://gvisor.dev/blog/2026/10/02/gvisor-cncf/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/asoxjl/gvisor_is_being_donated_cncf"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/asoxjl</guid>
+      <pubDate>Sat, 03 Oct 2026 02:41:38 +0000</pubDate>
     </item>
     <item>
       <title>[vcs] I got targeted: Trying to get your credentials via a git post-checkout hook</title>
@@ -496,6 +718,14 @@
       <pubDate>Wed, 23 Sep 2026 14:34:37 +0000</pubDate>
     </item>
     <item>
+      <title>[devops] Introducing Luxir</title>
+      <link>https://yonik.com/blog/introducing-luxir/</link>
+      <description>&lt;p&gt;The creator of Apache Solr announced a new high-performance search engine. Open Source, written in C++, featuring full-text search, vector search, faceting, and analytics.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://lobste.rs/s/rndct1/introducing_luxir"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/rndct1</guid>
+      <pubDate>Tue, 22 Sep 2026 15:15:48 +0000</pubDate>
+    </item>
+    <item>
       <title>[vcs] Looking forward to Git 2.56 - and 3.0</title>
       <link>https://lwn.net/SubscriberLink/1094575/2385e98583715c2b/</link>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/liey8q/looking_forward_git_2_56_3_0"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
@@ -517,12 +747,131 @@
       <pubDate>Sun, 20 Sep 2026 10:51:04 +0000</pubDate>
     </item>
     <item>
+      <title>[devops] Secure VMs for Kubernetes: Hardening Kata containers</title>
+      <link>https://srcreigh.ca/posts/auditable-kata/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/yfz406/secure_vms_for_kubernetes_hardening_kata"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/yfz406</guid>
+      <pubDate>Sat, 19 Sep 2026 17:11:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>[devops] awesome-tunneling: List of tunneling software and services</title>
+      <link>https://github.com/anderspitman/awesome-tunneling</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/myuake/awesome_tunneling_list_tunneling"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/myuake</guid>
+      <pubDate>Fri, 18 Sep 2026 16:25:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>[devops] Backups aren't simple</title>
+      <link>https://filipovski.net/2026/09/16/backups-arent-simple.html</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/uwbgby/backups_aren_t_simple"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/uwbgby</guid>
+      <pubDate>Thu, 17 Sep 2026 07:48:17 +0000</pubDate>
+    </item>
+    <item>
       <title>[vcs] Gothub lists</title>
       <link>https://gothub.org/lists.html</link>
       <description>&lt;p&gt;Gothub got mailing lists.&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://lobste.rs/s/wo4fuj/gothub_lists"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/wo4fuj</guid>
       <pubDate>Wed, 16 Sep 2026 16:55:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>[devops] Hardening Container Images</title>
+      <link>https://www.grepular.com/Hardening_Container_Images</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/8hz82r/hardening_container_images"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/8hz82r</guid>
+      <pubDate>Mon, 07 Sep 2026 21:39:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>[devops] The Life of a Metric</title>
+      <link>https://victoriametrics.com/blog/the-life-of-a-metric/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/hwzvik/life_metric"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/hwzvik</guid>
+      <pubDate>Mon, 07 Sep 2026 09:36:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>[devops] Creepy crawlies</title>
+      <link>https://people.kernel.org/monsieuricon/creepy-crawlies</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/nbjo0i/creepy_crawlies"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/nbjo0i</guid>
+      <pubDate>Sat, 29 Aug 2026 16:25:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>[devops] Dynamically Naming Servers</title>
+      <link>https://arch.dog/bark/dynamically-naming-servers</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/swzhtb/dynamically_naming_servers"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/swzhtb</guid>
+      <pubDate>Mon, 24 Aug 2026 14:36:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>[devops] Wild AI-related reliability incidents are coming</title>
+      <link>https://surfingcomplexity.blog/2026/08/22/wild-ai-related-reliability-incidents-are-coming/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/jzr2ey/wild_ai_related_reliability_incidents"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/jzr2ey</guid>
+      <pubDate>Sun, 23 Aug 2026 19:04:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>[devops] Ahab: Hermeticity Analyzer for Bazel</title>
+      <link>https://markkarpov.com/post/announcing-ahab</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/lt0cqn/ahab_hermeticity_analyzer_for_bazel"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/lt0cqn</guid>
+      <pubDate>Thu, 20 Aug 2026 02:50:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>[devops] Fargate Is Not Firecracker (2024)</title>
+      <link>https://justingarrison.com/blog/2024-02-08-fargate-is-not-firecracker/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/qrbu3o/fargate_is_not_firecracker_2024"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/qrbu3o</guid>
+      <pubDate>Wed, 19 Aug 2026 06:42:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>[devops] Incident Report for GitHub outage on 2026-08-17</title>
+      <link>https://www.githubstatus.com/incidents/zkxwbgr0cnmx</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ljhgcd/incident_report_for_github_outage_on_2026"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/ljhgcd</guid>
+      <pubDate>Tue, 18 Aug 2026 20:18:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>[devops] beszel</title>
+      <link>https://github.com/henrygd/beszel</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/6dw7pl/beszel"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/6dw7pl</guid>
+      <pubDate>Thu, 13 Aug 2026 03:28:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>[devops] My Homelab Got Hacked - A Postmortem</title>
+      <link>https://phunky.cafe/my-homelab-got-hacked/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ugkhor/my_homelab_got_hacked_postmortem"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/ugkhor</guid>
+      <pubDate>Wed, 12 Aug 2026 15:50:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>[devops] An inter-mesh deployment pipeline</title>
+      <link>https://blog.zm.is/an-inter-mesh-deployment-pipeline/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/xoivjb/inter_mesh_deployment_pipeline"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/xoivjb</guid>
+      <pubDate>Tue, 11 Aug 2026 10:11:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>[devops] The Promise None of Them Kept</title>
+      <link>https://webframp.com/posts/the-promise-none-of-them-kept/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/sjxzgt/promise_none_them_kept"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/sjxzgt</guid>
+      <pubDate>Mon, 10 Aug 2026 11:04:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>[devops] Infrastructure Gravity &amp; Domain Engineering</title>
+      <link>https://jackdanger.com/infrastructure-gravity/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/kkrnyc/infrastructure_gravity_domain"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/kkrnyc</guid>
+      <pubDate>Thu, 06 Aug 2026 01:24:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>[devops] Proxmox officially supports Arm, with some caveats</title>
+      <link>https://www.jeffgeerling.com/blog/2026/proxmox-ve-arm-official/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/wblbfk/proxmox_officially_supports_arm_with"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/wblbfk</guid>
+      <pubDate>Wed, 05 Aug 2026 19:54:59 +0000</pubDate>
     </item>
   </channel>
 </rss>
