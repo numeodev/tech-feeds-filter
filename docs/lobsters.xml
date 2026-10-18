@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 18 Oct 2026 19:05:18 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 22:03:25 +0000</lastBuildDate>
+    <item>
+      <title>[security] How Discover-Tech turned targeted ads into a pipeline for zero-click spywares</title>
+      <link>https://citizenlab.ca/research/how-discover-tech-turned-targeted-ads-into-a-pipeline-for-spyware/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/zytoux/how_discover_tech_turned_targeted_ads"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/zytoux</guid>
+      <pubDate>Sun, 18 Oct 2026 20:55:02 +0000</pubDate>
+    </item>
     <item>
       <title>[security] It's time to talk about TEEs</title>
       <link>https://alinush.github.io//tee</link>
@@ -357,13 +364,6 @@
 &lt;p&gt;&lt;a href="https://lobste.rs/s/aqdswf/artificial_intelligence_firm"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/aqdswf</guid>
       <pubDate>Fri, 09 Oct 2026 15:03:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>[security] Telegram Desktop: one-click account takeover via IPC injection</title>
-      <link>https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/vq6ly4/telegram_desktop_one_click_account"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/vq6ly4</guid>
-      <pubDate>Fri, 09 Oct 2026 11:26:00 +0000</pubDate>
     </item>
     <item>
       <title>[devops] 64-Day Certificate Lifetimes Coming Feb 2027</title>
