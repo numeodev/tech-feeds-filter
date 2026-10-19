@@ -8,7 +8,28 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 19 Oct 2026 00:36:41 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 05:29:21 +0000</lastBuildDate>
+    <item>
+      <title>[devops] Why is GitOps so good?</title>
+      <link>https://thorsell.io/2026/10/16/gitops.html</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/bt7ehs/why_is_gitops_so_good"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/bt7ehs</guid>
+      <pubDate>Mon, 19 Oct 2026 04:19:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>[security] A response to claims about flatpak being insecure</title>
+      <link>https://oro.gay/posts/flatpak-an-insecurity-nightmare/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/jdjtqt/response_claims_about_flatpak_being"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/jdjtqt</guid>
+      <pubDate>Mon, 19 Oct 2026 04:02:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>[practices] What requirements don't you have?</title>
+      <link>https://www.seangoedecke.com/what-requirements-dont-you-have/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/nuepys/what_requirements_don_t_you_have"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/nuepys</guid>
+      <pubDate>Mon, 19 Oct 2026 02:59:07 +0000</pubDate>
+    </item>
     <item>
       <title>[security] How Discover-Tech turned targeted ads into a pipeline for zero-click spywares</title>
       <link>https://citizenlab.ca/research/how-discover-tech-turned-targeted-ads-into-a-pipeline-for-spyware/</link>
@@ -31,25 +52,11 @@
       <pubDate>Sat, 17 Oct 2026 18:24:39 +0000</pubDate>
     </item>
     <item>
-      <title>[practices] Principles of Anchor Engineering</title>
-      <link>https://nappingtoheavymetal.com/post/2026-09-15-principles-of-anchor-engineering/</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/iyquo7/principles_anchor_engineering"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/iyquo7</guid>
-      <pubDate>Sat, 17 Oct 2026 17:08:33 +0000</pubDate>
-    </item>
-    <item>
       <title>[practices] Developing for Debugging (2025)</title>
       <link>https://www.davepacheco.net/blog/2025/developing-for-debugging-dns-propagation/</link>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/a0og2j/developing_for_debugging_2025"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/a0og2j</guid>
       <pubDate>Sat, 17 Oct 2026 07:21:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>[practices] How the Claude Code team does code review</title>
-      <link>https://claude.dev/blog/solving-code-review-at-anthropic/</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/kufmuy/how_claude_code_team_does_code_review"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/kufmuy</guid>
-      <pubDate>Fri, 16 Oct 2026 23:06:35 +0000</pubDate>
     </item>
     <item>
       <title>[security] Someone on Torrent Sites Kept Fucking With My Sonarr</title>
@@ -351,13 +358,6 @@
       <pubDate>Sat, 10 Oct 2026 07:20:53 +0000</pubDate>
     </item>
     <item>
-      <title>[security] A Practical Guide to “Plug&amp;Pwn” for Pentesters and Defenders</title>
-      <link>https://blog.scrt.ch/2026/10/06/a-practical-guide-to-plugpwn-for-pentesters-and-defenders/</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/yrcmjj/practical_guide_plug_pwn_for_pentesters"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/yrcmjj</guid>
-      <pubDate>Fri, 09 Oct 2026 20:25:21 +0000</pubDate>
-    </item>
-    <item>
       <title>[practices] Artificial Intelligence in the Firm: Bottlenecks in Software Production</title>
       <link>https://fion.ac/jellyfish.pdf</link>
       <description>&lt;p&gt;We study the impacts of AI coding assistants and agents on software engineering work, using a novel proprietary dataset from an engineering analytics platform, covering 300 million work events — including GitHub coding activity, Jira issues, and Google Calendar events — across 718 firms. We use a staggered difference-in-differences design, exploiting variation in firm- level adoption timing of AI coding assistants and agents. Both technologies increase coding productivity. However, productivity gains do not fully pass through to changes in software output or employment. For AI agents, this incomplete pass-through reflects a bottleneck from code review: review times increase, a larger share of code updates require revisions, and reviews involve more comments. We develop a model of software production to structure these results, in which AI affects both productivity and quality of intermediate outputs, and in turn can generate a review bottleneck and limit pass-through.&lt;/p&gt;
@@ -598,6 +598,13 @@
 &lt;p&gt;&lt;a href="https://lobste.rs/s/mwc2fu/what_improves_developer_productivity_at"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/mwc2fu</guid>
       <pubDate>Sun, 27 Sep 2026 12:52:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>[practices] A Roman name for software</title>
+      <link>https://marcosmagueta.com/blog/a-roman-name-for-software/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/5yy6pd/roman_name_for_software"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/5yy6pd</guid>
+      <pubDate>Sat, 26 Sep 2026 11:21:13 +0000</pubDate>
     </item>
     <item>
       <title>[distributed] Kafgres: Embedding a Kafka Broker into Postgres</title>
@@ -866,13 +873,6 @@ Test instance where you are welcome to make a mess: &lt;a href="https://squalk-t
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/kkrnyc/infrastructure_gravity_domain"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/kkrnyc</guid>
       <pubDate>Thu, 06 Aug 2026 01:24:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>[devops] Proxmox officially supports Arm, with some caveats</title>
-      <link>https://www.jeffgeerling.com/blog/2026/proxmox-ve-arm-official/</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/wblbfk/proxmox_officially_supports_arm_with"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/wblbfk</guid>
-      <pubDate>Wed, 05 Aug 2026 19:54:59 +0000</pubDate>
     </item>
   </channel>
 </rss>
