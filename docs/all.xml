@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 19 Oct 2026 11:34:10 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 17:57:41 +0000</lastBuildDate>
+    <item>
+      <title>Now You're Cooking – Announce Postmortem</title>
+      <link>https://gamesbymason.com/blog/2026/nyc-announce-postmortem/</link>
+      <description>2 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50154089'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50154089</guid>
+      <pubDate>Mon, 19 Oct 2026 16:05:42 +0000</pubDate>
+    </item>
     <item>
       <title>[security] Tor VPN Beta: What we've learned building our own VPN for Android from scratch</title>
       <link>https://blog.torproject.org/tor-vpn-beta/</link>
@@ -22,13 +29,6 @@
       <description>3 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50149746'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50149746</guid>
       <pubDate>Mon, 19 Oct 2026 08:19:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>[devops] A Bazel Bard</title>
-      <link>https://sluongng.substack.com/p/a-bazel-bard</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/c1zbmq/bazel_bard"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/c1zbmq</guid>
-      <pubDate>Mon, 19 Oct 2026 07:35:01 +0000</pubDate>
     </item>
     <item>
       <title>[security] Crawlers, floods and fleets: a year of keeping our digital collections open</title>
@@ -50,6 +50,13 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/nuepys/what_requirements_don_t_you_have"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/nuepys</guid>
       <pubDate>Mon, 19 Oct 2026 02:59:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>[practices] Speeding up code review with `small-change`</title>
+      <link>https://lethain.com/small-changes/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/opyxtm/speeding_up_code_review_with_small_change"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/opyxtm</guid>
+      <pubDate>Mon, 19 Oct 2026 00:38:15 +0000</pubDate>
     </item>
     <item>
       <title>[security] How Discover-Tech turned targeted ads into a pipeline for zero-click spywares</title>
@@ -775,13 +782,6 @@
       <pubDate>Sun, 27 Sep 2026 12:52:57 +0000</pubDate>
     </item>
     <item>
-      <title>[practices] A Roman name for software</title>
-      <link>https://marcosmagueta.com/blog/a-roman-name-for-software/</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/5yy6pd/roman_name_for_software"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/5yy6pd</guid>
-      <pubDate>Sat, 26 Sep 2026 11:21:13 +0000</pubDate>
-    </item>
-    <item>
       <title>[distributed] Kafgres: Embedding a Kafka Broker into Postgres</title>
       <link>https://rynr.dev/blog/kafgres/</link>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/wkn1lr/kafgres_embedding_kafka_broker_into"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
@@ -1048,6 +1048,13 @@ Test instance where you are welcome to make a mess: &lt;a href="https://squalk-t
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/kkrnyc/infrastructure_gravity_domain"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/kkrnyc</guid>
       <pubDate>Thu, 06 Aug 2026 01:24:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>[devops] Proxmox officially supports Arm, with some caveats</title>
+      <link>https://www.jeffgeerling.com/blog/2026/proxmox-ve-arm-official/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/wblbfk/proxmox_officially_supports_arm_with"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/wblbfk</guid>
+      <pubDate>Wed, 05 Aug 2026 19:54:59 +0000</pubDate>
     </item>
   </channel>
 </rss>
