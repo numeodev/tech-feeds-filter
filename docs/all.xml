@@ -8,7 +8,21 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 19 Oct 2026 17:57:41 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 21:58:07 +0000</lastBuildDate>
+    <item>
+      <title>Hetzner object storage outage since last 10 days in HEL data center</title>
+      <link>https://status.hetzner.com/incident/382ed0e5-f1c4-45ec-a7a3-326d3970d6b3</link>
+      <description>9 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50158360'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50158360</guid>
+      <pubDate>Mon, 19 Oct 2026 21:33:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>The reverts will continue until morale improves</title>
+      <link>http://peter.eisentraut.org/blog/2026/10/09/the-reverts-will-continue-until-morale-improves</link>
+      <description>128 points, 19 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50156206'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50156206</guid>
+      <pubDate>Mon, 19 Oct 2026 18:42:32 +0000</pubDate>
+    </item>
     <item>
       <title>Now You're Cooking – Announce Postmortem</title>
       <link>https://gamesbymason.com/blog/2026/nyc-announce-postmortem/</link>
@@ -264,7 +278,7 @@
     <item>
       <title>Yandex outage: data shows that instead of going dark, malicious bots moved</title>
       <link>https://blog.cloudflare.com/yandex-outage/</link>
-      <description>287 points, 117 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50094673'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>288 points, 117 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50094673'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50094673</guid>
       <pubDate>Wed, 14 Oct 2026 20:29:13 +0000</pubDate>
     </item>
@@ -396,13 +410,6 @@
       <pubDate>Tue, 13 Oct 2026 14:36:52 +0000</pubDate>
     </item>
     <item>
-      <title>The reverts will continue until morale improves</title>
-      <link>http://peter.eisentraut.org/blog/2026/10/09/the-reverts-will-continue-until-morale-improves</link>
-      <description>1 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50071955'&gt;discussion sur Hacker News&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50071955</guid>
-      <pubDate>Tue, 13 Oct 2026 14:03:30 +0000</pubDate>
-    </item>
-    <item>
       <title>[security] Model backdoors are easy to create and hard to reliably remove</title>
       <link>https://equistamp.substack.com/p/model-backdoors-are-easy-to-create</link>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/6r6mts/model_backdoors_are_easy_create_hard"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
@@ -497,13 +504,6 @@
       <description>2 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50019403'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50019403</guid>
       <pubDate>Fri, 09 Oct 2026 12:15:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>[r/sre] Been burned by a bad Terraform change, any practical AWS backup config?</title>
-      <link>https://www.reddit.com/r/sre/comments/1x1eg1v/been_burned_by_a_bad_terraform_change_any/</link>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;We broke prod routing with a rushed terraform change, rds snapshots and s3 were perfect but cloud recovery of the known good configuration was guesswork since half the estate is drifted, would love any tips from folks who can reliably recover infra, not just data.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/ViscitAppehensive443"&gt; /u/ViscitAppehensive443 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/r/sre/comments/1x1eg1v/been_burned_by_a_bad_terraform_change_any/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/sre/comments/1x1eg1v/been_burned_by_a_bad_terraform_change_any/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</description>
-      <guid isPermaLink="false">https://www.reddit.com/r/sre/t3_1x1eg1v</guid>
-      <pubDate>Fri, 09 Oct 2026 06:54:30 +0000</pubDate>
     </item>
     <item>
       <title>Firebase's Global Outage</title>
