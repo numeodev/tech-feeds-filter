@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 20 Oct 2026 05:32:44 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 10:39:13 +0000</lastBuildDate>
+    <item>
+      <title>[security] Setting up SSH keys on macOS with Touch ID</title>
+      <link>https://nmattia.com/posts/2026-10-19-setting-up-ssh-keys-touch-id/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/d7m5j1/setting_up_ssh_keys_on_macos_with_touch_id"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/d7m5j1</guid>
+      <pubDate>Tue, 20 Oct 2026 10:23:58 +0000</pubDate>
+    </item>
     <item>
       <title>[security] Go will reject certificate chains containing eight distrusted SPKIs</title>
       <link>https://github.com/golang/go/commit/90617fb7ceb59cf08bee7826bb51b8c8fb8c11de</link>
@@ -312,16 +319,6 @@ I complied the list here &lt;a href="https://gist.github.com/mendymm/ff7a9fd0033
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/mldt0o/finding_90_000_remote_code_execution"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/mldt0o</guid>
       <pubDate>Mon, 12 Oct 2026 14:40:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>[security] French supermarket chains say cyberattack forced refrigerator shutdown</title>
-      <link>https://www.afp.com/en/french-supermarket-chains-say-cyberattack-forced-refrigerator-shutdown</link>
-      <description>&lt;p&gt;This popped up and reminded me strangely of a story post a month ago here:&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://lobste.rs/s/ygjo0g/i_think_military_commissary_freezers" rel="ugc"&gt;https://lobste.rs/s/ygjo0g/i_think_military_commissary_freezers&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;And, lo and behold, the very same controller supplier is mentioned in both the earlier US article and the one covering this by &lt;a href="https://www.lemonde.fr/economie/article/2026/10/12/plusieurs-centaines-de-supermarches-intermarche-et-cooperative-u-victimes-d-une-cyberattaque-visant-leurs-installations-frigorifiques_6792621_3234.html" rel="ugc"&gt;french newspaper Le Monde&lt;/a&gt;: the danish company Danfoss. I could not find sources mentioning the supplier in English.&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://lobste.rs/s/u4vlin/french_supermarket_chains_say"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/u4vlin</guid>
-      <pubDate>Mon, 12 Oct 2026 12:23:52 +0000</pubDate>
     </item>
     <item>
       <title>[practices] How to effectively debug when you no longer understand the code</title>
