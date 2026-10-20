@@ -8,11 +8,32 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 20 Oct 2026 15:28:39 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 19:44:46 +0000</lastBuildDate>
+    <item>
+      <title>[security] How I got over 300 Tor exit nodes removed</title>
+      <link>https://kaba.cx/posts/20261020_Tor/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/9h14un/how_i_got_over_300_tor_exit_nodes_removed"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/9h14un</guid>
+      <pubDate>Tue, 20 Oct 2026 18:44:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>Incident Control D DNS Outage on October 11, 2026</title>
+      <link>https://controld.com/blog/incident-october-11-2026/</link>
+      <description>1 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50170116'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50170116</guid>
+      <pubDate>Tue, 20 Oct 2026 17:55:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>Google cloud outage knocks out Revolut and others</title>
+      <link>https://www.bloomberg.com/news/articles/2026-10-20/google-cloud-outage-takes-down-revolut-and-other-banks-in-uk</link>
+      <description>1 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50168753'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50168753</guid>
+      <pubDate>Tue, 20 Oct 2026 16:22:14 +0000</pubDate>
+    </item>
     <item>
       <title>Show HN: An archive of AWS outages that keeps them after AWS's 12-month window</title>
       <link>https://mimobn.github.io/aws-status-archive/</link>
-      <description>3 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50167478'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>4 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50167478'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50167478</guid>
       <pubDate>Tue, 20 Oct 2026 15:01:42 +0000</pubDate>
     </item>
@@ -26,7 +47,7 @@
     <item>
       <title>Google Cloud's Europe-west2 (London) outage</title>
       <link>https://twitter.com/CloudflareRadar/status/2112486747032457726</link>
-      <description>1 points, 2 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50166864'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>2 points, 2 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50166864'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50166864</guid>
       <pubDate>Tue, 20 Oct 2026 14:19:59 +0000</pubDate>
     </item>
@@ -73,9 +94,9 @@
       <pubDate>Tue, 20 Oct 2026 10:29:35 +0000</pubDate>
     </item>
     <item>
-      <title>Google cloud outage takes down banks</title>
+      <title>Google Cloud outage affects almost all banking and other operations in Europe</title>
       <link>https://www.neowin.net/news/google-cloud-outage-takes-down-hsbc-revolut-bank-of-scotland-llyods-equifax-more/</link>
-      <description>192 points, 84 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50163961'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>240 points, 112 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50163961'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50163961</guid>
       <pubDate>Tue, 20 Oct 2026 10:26:02 +0000</pubDate>
     </item>
@@ -96,7 +117,7 @@
     <item>
       <title>GCP Europe-West2 Outage</title>
       <link>https://news.ycombinator.com/item?id=50162712</link>
-      <description>26 points, 12 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50162712'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>29 points, 12 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50162712'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50162712</guid>
       <pubDate>Tue, 20 Oct 2026 07:56:59 +0000</pubDate>
     </item>
@@ -131,7 +152,7 @@
     <item>
       <title>The reverts will continue until morale improves</title>
       <link>http://peter.eisentraut.org/blog/2026/10/09/the-reverts-will-continue-until-morale-improves</link>
-      <description>228 points, 45 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50156206'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>231 points, 46 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50156206'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50156206</guid>
       <pubDate>Mon, 19 Oct 2026 18:42:32 +0000</pubDate>
     </item>
@@ -529,13 +550,6 @@
       <pubDate>Tue, 13 Oct 2026 09:14:09 +0000</pubDate>
     </item>
     <item>
-      <title>[security] Freeze the Controller, Defrost the Food: Uncovering Vulnerabilities in Danfoss Refrigeration Controllers</title>
-      <link>https://claroty.com/team82/research/freeze-the-controller-defrost-the-food-uncovering-vulnerabilities-in-danfoss-refrigeration-controllers</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/nsmm3j/freeze_controller_defrost_food"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/nsmm3j</guid>
-      <pubDate>Tue, 13 Oct 2026 07:09:54 +0000</pubDate>
-    </item>
-    <item>
       <title>[practices] How to effectively debug when you no longer understand the code</title>
       <link>https://copyconstruct.medium.com/how-to-effectively-debug-when-you-no-longer-understand-the-code-bd3dcb2c5f7b</link>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/pirgtp/how_effectively_debug_when_you_no_longer"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
@@ -661,13 +675,6 @@
       <description>13 points, 3 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49994003'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=49994003</guid>
       <pubDate>Wed, 07 Oct 2026 15:15:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>How to Turn Customer Outage Reports into SLIs and Alerts for Earlier Detection</title>
-      <link>https://oneuptime.com/blog/post/2026-09-29-customer-outage-report-to-sli-alert/view</link>
-      <description>1 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49982644'&gt;discussion sur Hacker News&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49982644</guid>
-      <pubDate>Tue, 06 Oct 2026 19:06:08 +0000</pubDate>
     </item>
     <item>
       <title>[distributed] Perseus: A Fail-Slow Detection Framework for Cloud Storage Systems (2023)</title>
