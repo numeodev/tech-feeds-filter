@@ -8,32 +8,60 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 20 Oct 2026 10:39:12 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 15:28:38 +0000</lastBuildDate>
+    <item>
+      <title>Show HN: An archive of AWS outages that keeps them after AWS's 12-month window</title>
+      <link>https://mimobn.github.io/aws-status-archive/</link>
+      <description>3 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50167478'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50167478</guid>
+      <pubDate>Tue, 20 Oct 2026 15:01:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>Google Cloud's Europe-west2 (London) outage</title>
+      <link>https://twitter.com/CloudflareRadar/status/2112486747032457726</link>
+      <description>1 points, 2 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50166864'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50166864</guid>
+      <pubDate>Tue, 20 Oct 2026 14:19:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ask HN: How to organize teams to ship AI-written code?</title>
+      <link>https://news.ycombinator.com/item?id=50166173</link>
+      <description>1 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50166173'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50166173</guid>
+      <pubDate>Tue, 20 Oct 2026 13:34:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>Since when was availability no longer part of security?</title>
+      <link>https://news.ycombinator.com/item?id=50165964</link>
+      <description>1 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50165964'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50165964</guid>
+      <pubDate>Tue, 20 Oct 2026 13:19:36 +0000</pubDate>
+    </item>
     <item>
       <title>Google outage hits websites and apps as some bank customers report issues</title>
       <link>https://www.bbc.co.uk/news/live/c58jd2kjp93xt</link>
-      <description>4 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50164006'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>22 points, 3 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50164006'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50164006</guid>
       <pubDate>Tue, 20 Oct 2026 10:29:35 +0000</pubDate>
     </item>
     <item>
       <title>Google cloud outage takes down banks</title>
       <link>https://www.neowin.net/news/google-cloud-outage-takes-down-hsbc-revolut-bank-of-scotland-llyods-equifax-more/</link>
-      <description>8 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50163961'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>192 points, 84 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50163961'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50163961</guid>
       <pubDate>Tue, 20 Oct 2026 10:26:02 +0000</pubDate>
     </item>
     <item>
       <title>Google Cloud Disruptions / Outage in parts of Europe</title>
       <link>https://status.cloud.google.com/</link>
-      <description>10 points, 2 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50163128'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>13 points, 2 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50163128'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50163128</guid>
       <pubDate>Tue, 20 Oct 2026 08:50:14 +0000</pubDate>
     </item>
     <item>
       <title>GCP Europe-West2 Outage</title>
       <link>https://news.ycombinator.com/item?id=50162712</link>
-      <description>22 points, 12 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50162712'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>26 points, 12 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50162712'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50162712</guid>
       <pubDate>Tue, 20 Oct 2026 07:56:59 +0000</pubDate>
     </item>
@@ -68,7 +96,7 @@
     <item>
       <title>The reverts will continue until morale improves</title>
       <link>http://peter.eisentraut.org/blog/2026/10/09/the-reverts-will-continue-until-morale-improves</link>
-      <description>220 points, 43 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50156206'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>228 points, 45 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50156206'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50156206</guid>
       <pubDate>Mon, 19 Oct 2026 18:42:32 +0000</pubDate>
     </item>
@@ -169,13 +197,6 @@
       <description>4 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50084147'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50084147</guid>
       <pubDate>Wed, 14 Oct 2026 08:18:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>The reverts will continue until morale improves</title>
-      <link>http://peter.eisentraut.org/blog/2026/10/09/the-reverts-will-continue-until-morale-improves</link>
-      <description>3 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50079761'&gt;discussion sur Hacker News&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50079761</guid>
-      <pubDate>Tue, 13 Oct 2026 22:23:45 +0000</pubDate>
     </item>
     <item>
       <title>We Put Rollback Netcode in StarCraft: Brood War [video]</title>

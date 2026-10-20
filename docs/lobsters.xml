@@ -8,22 +8,34 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 20 Oct 2026 10:39:13 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 15:28:39 +0000</lastBuildDate>
+    <item>
+      <title>[security] CVE-2026-106173: FortiSIEM gRPC Path Traversal to RCE</title>
+      <link>https://horizon3.ai/attack-research/cve-2026-106173-deep-dive-fortisiem-grpc-path-traversal-file-write-rce/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/d0bbhd/cve_2026_106173_fortisiem_grpc_path"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/d0bbhd</guid>
+      <pubDate>Tue, 20 Oct 2026 14:10:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>[distributed] Jepsen: Orkes Conductor 5.3.2</title>
+      <link>https://jepsen.io/analyses/orkes-conductor-5.3.2</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/42zgmq/jepsen_orkes_conductor_5_3_2"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/42zgmq</guid>
+      <pubDate>Tue, 20 Oct 2026 13:14:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>[security] Protecting Firefox users following the compromise of eMudhra intermediate certificates</title>
+      <link>https://blog.mozilla.org/security/2026/10/20/protecting-firefox-users-following-the-compromise-of-emudhra-intermediate-certificates/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/gqyvn5/protecting_firefox_users_following"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/gqyvn5</guid>
+      <pubDate>Tue, 20 Oct 2026 13:00:50 +0000</pubDate>
+    </item>
     <item>
       <title>[security] Setting up SSH keys on macOS with Touch ID</title>
       <link>https://nmattia.com/posts/2026-10-19-setting-up-ssh-keys-touch-id/</link>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/d7m5j1/setting_up_ssh_keys_on_macos_with_touch_id"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/d7m5j1</guid>
       <pubDate>Tue, 20 Oct 2026 10:23:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>[security] Go will reject certificate chains containing eight distrusted SPKIs</title>
-      <link>https://github.com/golang/go/commit/90617fb7ceb59cf08bee7826bb51b8c8fb8c11de</link>
-      <description>&lt;p&gt;I downloaded the CA cert data from &lt;a href="https://www.ccadb.org/resources" rel="ugc"&gt;https://www.ccadb.org/resources&lt;/a&gt; and it seems to be affecting 16 certs, all from eMudhra.
-I complied the list here &lt;a href="https://gist.github.com/mendymm/ff7a9fd00339260b4d2dbdcb0f489b57" rel="ugc"&gt;https://gist.github.com/mendymm/ff7a9fd00339260b4d2dbdcb0f489b57&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://lobste.rs/s/vze0kx/go_will_reject_certificate_chains"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/vze0kx</guid>
-      <pubDate>Tue, 20 Oct 2026 03:10:23 +0000</pubDate>
     </item>
     <item>
       <title>[security] Tor VPN Beta: What we've learned building our own VPN for Android from scratch</title>
@@ -312,13 +324,6 @@ I complied the list here &lt;a href="https://gist.github.com/mendymm/ff7a9fd0033
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/nsmm3j/freeze_controller_defrost_food"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/nsmm3j</guid>
       <pubDate>Tue, 13 Oct 2026 07:09:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>[security] Finding a $90,000 Remote Code Execution Vulnerability in Google</title>
-      <link>https://simonkoeck.com/writeups/google-devsite-flask-session-pickle-rce</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/mldt0o/finding_90_000_remote_code_execution"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/mldt0o</guid>
-      <pubDate>Mon, 12 Oct 2026 14:40:35 +0000</pubDate>
     </item>
     <item>
       <title>[practices] How to effectively debug when you no longer understand the code</title>
@@ -801,13 +806,6 @@ Test instance where you are welcome to make a mess: &lt;a href="https://squalk-t
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/jzr2ey/wild_ai_related_reliability_incidents"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/jzr2ey</guid>
       <pubDate>Sun, 23 Aug 2026 19:04:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>[distributed] OTel Isn't Going Well (And I Made A Spreadsheet About It)</title>
-      <link>https://matduggan.com/otel-isnt-going-well-and-i-made-a-spreadsheet-about-it/</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ubeyqf/otel_isn_t_going_well_i_made_spreadsheet"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/ubeyqf</guid>
-      <pubDate>Sat, 22 Aug 2026 07:27:26 +0000</pubDate>
     </item>
     <item>
       <title>[devops] Ahab: Hermeticity Analyzer for Bazel</title>
