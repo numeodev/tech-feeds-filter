@@ -8,25 +8,41 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 20 Oct 2026 00:54:18 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 05:32:44 +0000</lastBuildDate>
+    <item>
+      <title>Cloudflare: There is a major outage on Zero Trust services</title>
+      <link>https://www.cloudflarestatus.com/incidents/0eqtn0khkz87</link>
+      <description>4 points, 3 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50161029'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50161029</guid>
+      <pubDate>Tue, 20 Oct 2026 03:34:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>[security] Go will reject certificate chains containing eight distrusted SPKIs</title>
+      <link>https://github.com/golang/go/commit/90617fb7ceb59cf08bee7826bb51b8c8fb8c11de</link>
+      <description>&lt;p&gt;I downloaded the CA cert data from &lt;a href="https://www.ccadb.org/resources" rel="ugc"&gt;https://www.ccadb.org/resources&lt;/a&gt; and it seems to be affecting 16 certs, all from eMudhra.
+I complied the list here &lt;a href="https://gist.github.com/mendymm/ff7a9fd00339260b4d2dbdcb0f489b57" rel="ugc"&gt;https://gist.github.com/mendymm/ff7a9fd00339260b4d2dbdcb0f489b57&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://lobste.rs/s/vze0kx/go_will_reject_certificate_chains"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/vze0kx</guid>
+      <pubDate>Tue, 20 Oct 2026 03:10:23 +0000</pubDate>
+    </item>
     <item>
       <title>Japanese players liken Tekken rollback mod to serious crimes, playerbase split</title>
       <link>https://www.ign.com/articles/japanese-tekken-players-are-likening-tekken-6s-rollback-netcode-mod-to-serious-crimes-and-the-fighting-game-community-is-split</link>
-      <description>3 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50158971'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>4 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50158971'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50158971</guid>
       <pubDate>Mon, 19 Oct 2026 22:35:47 +0000</pubDate>
     </item>
     <item>
       <title>Hetzner object storage outage since last 10 days in HEL data center</title>
       <link>https://status.hetzner.com/incident/382ed0e5-f1c4-45ec-a7a3-326d3970d6b3</link>
-      <description>14 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50158360'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>15 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50158360'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50158360</guid>
       <pubDate>Mon, 19 Oct 2026 21:33:26 +0000</pubDate>
     </item>
     <item>
       <title>The reverts will continue until morale improves</title>
       <link>http://peter.eisentraut.org/blog/2026/10/09/the-reverts-will-continue-until-morale-improves</link>
-      <description>191 points, 36 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50156206'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>210 points, 40 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50156206'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50156206</guid>
       <pubDate>Mon, 19 Oct 2026 18:42:32 +0000</pubDate>
     </item>
@@ -474,14 +490,6 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/wyxufm/wild_west_polyglot_docs_sites"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/wyxufm</guid>
       <pubDate>Sun, 11 Oct 2026 17:43:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>[security] Hacking the Eufy Doorbell and Base Station</title>
-      <link>https://adepts.of0x.cc/Eufy-DoorBell-hacking/</link>
-      <description>&lt;p&gt;&lt;a href="https://adepts.of0x.cc/eufy-homestation2-firmware/" rel="ugc"&gt;Here is the follow-up dive into the base station&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://lobste.rs/s/e84scc/hacking_eufy_doorbell_base_station"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/e84scc</guid>
-      <pubDate>Sun, 11 Oct 2026 11:54:20 +0000</pubDate>
     </item>
     <item>
       <title>[vcs] What's Wrong with GitHub</title>
