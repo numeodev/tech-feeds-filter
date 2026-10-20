@@ -8,18 +8,25 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 19 Oct 2026 21:58:07 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 00:54:18 +0000</lastBuildDate>
+    <item>
+      <title>Japanese players liken Tekken rollback mod to serious crimes, playerbase split</title>
+      <link>https://www.ign.com/articles/japanese-tekken-players-are-likening-tekken-6s-rollback-netcode-mod-to-serious-crimes-and-the-fighting-game-community-is-split</link>
+      <description>3 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50158971'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50158971</guid>
+      <pubDate>Mon, 19 Oct 2026 22:35:47 +0000</pubDate>
+    </item>
     <item>
       <title>Hetzner object storage outage since last 10 days in HEL data center</title>
       <link>https://status.hetzner.com/incident/382ed0e5-f1c4-45ec-a7a3-326d3970d6b3</link>
-      <description>9 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50158360'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>14 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50158360'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50158360</guid>
       <pubDate>Mon, 19 Oct 2026 21:33:26 +0000</pubDate>
     </item>
     <item>
       <title>The reverts will continue until morale improves</title>
       <link>http://peter.eisentraut.org/blog/2026/10/09/the-reverts-will-continue-until-morale-improves</link>
-      <description>128 points, 19 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50156206'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>191 points, 36 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50156206'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50156206</guid>
       <pubDate>Mon, 19 Oct 2026 18:42:32 +0000</pubDate>
     </item>
@@ -278,7 +285,7 @@
     <item>
       <title>Yandex outage: data shows that instead of going dark, malicious bots moved</title>
       <link>https://blog.cloudflare.com/yandex-outage/</link>
-      <description>288 points, 117 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50094673'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>288 points, 118 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50094673'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50094673</guid>
       <pubDate>Wed, 14 Oct 2026 20:29:13 +0000</pubDate>
     </item>
@@ -603,20 +610,6 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/fpcicg/last_rites_for_gentoo_s_chromium_package"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/fpcicg</guid>
       <pubDate>Tue, 06 Oct 2026 17:46:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>Wikipedia operator says OpenAI's 'rogue' bots may be linked to a May outage</title>
-      <link>https://www.theverge.com/news/1004929/wikipedia-openai-rogue-bots-wikimedia-foundation-outage</link>
-      <description>18 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49972467'&gt;discussion sur Hacker News&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49972467</guid>
-      <pubDate>Tue, 06 Oct 2026 00:07:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>XCOR launches to trace outages in minutes. It still pages engineers</title>
-      <link>https://thenewstack.io/cortex-xcor-ai-observability/</link>
-      <description>3 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49972434'&gt;discussion sur Hacker News&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49972434</guid>
-      <pubDate>Tue, 06 Oct 2026 00:02:48 +0000</pubDate>
     </item>
     <item>
       <title>[devops] Using docker-compose with Podman rootless</title>
