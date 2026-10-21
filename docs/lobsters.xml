@@ -8,7 +8,35 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 21 Oct 2026 12:34:50 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 17:46:55 +0000</lastBuildDate>
+    <item>
+      <title>[security] CVE-2026-107891: musl libc: multiple integer overflow in regcomp, possibly leading to incorrect allocation sizes and out-of-bounds heap writes</title>
+      <link>https://www.openwall.com/lists/oss-security/2026/10/21/18</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/dldfel/cve_2026_107891_musl_libc_multiple"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/dldfel</guid>
+      <pubDate>Wed, 21 Oct 2026 17:40:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>[practices, security] Your AI agent fixed the bug, but what else did it change?</title>
+      <link>https://blog.trailofbits.com/2026/10/21/your-ai-agent-fixed-the-bug-but-what-else-did-it-change/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/17bp4z/your_ai_agent_fixed_bug_what_else_did_it"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/17bp4z</guid>
+      <pubDate>Wed, 21 Oct 2026 16:07:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>[security] Node.js — Wednesday, October 21, 2026 Security Releases</title>
+      <link>https://nodejs.org/en/blog/vulnerability/october-2026-security-releases</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/gu7bow/node_js_wednesday_october_21_2026"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/gu7bow</guid>
+      <pubDate>Wed, 21 Oct 2026 15:53:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>[security] Eight Bits of Trust; eMudhra's CA keys cracked in milliseconds</title>
+      <link>https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ebsqsp/eight_bits_trust_emudhra_s_ca_keys_cracked"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/ebsqsp</guid>
+      <pubDate>Wed, 21 Oct 2026 13:50:10 +0000</pubDate>
+    </item>
     <item>
       <title>[security] Firefox security patch tests are now private for at least a week</title>
       <link>https://groups.google.com/a/mozilla.org/g/firefox-dev/c/4I1HSPtVyrI/m/giGra4ZzAQAJ</link>
@@ -255,13 +283,6 @@
       <pubDate>Wed, 14 Oct 2026 19:58:23 +0000</pubDate>
     </item>
     <item>
-      <title>[security] Black-Box HashDoS: Attacking Hash Tables Without Knowing the Hash Function</title>
-      <link>https://orlp.net/blog/black-box-hashdos/</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/gf3otc/black_box_hashdos_attacking_hash_tables"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/gf3otc</guid>
-      <pubDate>Wed, 14 Oct 2026 18:06:53 +0000</pubDate>
-    </item>
-    <item>
       <title>[practices] What Do We Do When We Read The Code?</title>
       <link>https://okayfail.com/2026/what-do-we-do-when-we-read-the-code.html</link>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/inl9co/what_do_we_do_when_we_read_code"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
@@ -269,21 +290,7 @@
       <pubDate>Wed, 14 Oct 2026 17:50:22 +0000</pubDate>
     </item>
     <item>
-      <title>[security] Root DNSSEC trust anchors</title>
-      <link>https://jpmens.net/2026/10/14/root-dnssec-trust-anchors/</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ysnvjn/root_dnssec_trust_anchors"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/ysnvjn</guid>
-      <pubDate>Wed, 14 Oct 2026 17:16:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>[security] Package managers have an integrity problem</title>
-      <link>https://blog.trailofbits.com/2026/10/14/package-managers-have-an-integrity-problem/</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/lmx2hi/package_managers_have_integrity_problem"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/lmx2hi</guid>
-      <pubDate>Wed, 14 Oct 2026 16:14:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>[security, vcs] GitLab warns of max severity code execution vulnerability</title>
+      <title>[vcs] GitLab warns of max severity code execution vulnerability</title>
       <link>https://www.bleepingcomputer.com/news/security/gitlab-warns-of-max-severity-rce-flaw-in-regex-compiler-engine/</link>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/tehays/gitlab_warns_max_severity_code_execution"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/tehays</guid>
@@ -592,14 +599,6 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/0knxvq/expert_asterisks"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/0knxvq</guid>
       <pubDate>Mon, 28 Sep 2026 03:48:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>[practices] What Improves Developer Productivity at Google? Code Quality (2022)</title>
-      <link>https://dl.acm.org/doi/pdf/10.1145/3540250.3558940</link>
-      <description>&lt;p&gt;Abstract: Understanding what affects software developer productivity can help organizations choose wise investments in their technical and social environment. But the research literature either focuses on what correlates with developer productivity in ecologically valid settings or focuses on what causes developer productivity in highly constrained settings. In this paper, we bridge the gap by studying software developers at Google through two analyses. In the first analysis, we use panel data with 39 productivity factors, finding that code quality, technical debt, infrastructure tools and support, team communication, goals and priorities, and organizational change and process are all causally linked to self-reported developer productivity. In the second analysis, we use a lagged panel analysis to strengthen our causal claims. We find that increases in perceived code quality tend to be followed by increased perceived developer productivity, but not vice versa, providing the strongest evidence to date that code quality affects individual developer productivity.&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://lobste.rs/s/mwc2fu/what_improves_developer_productivity_at"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/mwc2fu</guid>
-      <pubDate>Sun, 27 Sep 2026 12:52:57 +0000</pubDate>
     </item>
     <item>
       <title>[distributed] Kafgres: Embedding a Kafka Broker into Postgres</title>

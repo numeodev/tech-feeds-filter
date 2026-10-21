@@ -8,18 +8,39 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 21 Oct 2026 12:34:49 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 17:46:54 +0000</lastBuildDate>
+    <item>
+      <title>Europe's financial regulators query Google over cloud outage that hit banks</title>
+      <link>https://www.reuters.com/business/finance/europes-financial-regulators-query-google-over-cloud-outage-that-hit-banks-2026-10-21/</link>
+      <description>3 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50183922'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50183922</guid>
+      <pubDate>Wed, 21 Oct 2026 16:46:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Railway (PaaS) Major Outage</title>
+      <link>https://status.railway.com/incident/QH8L8B3E</link>
+      <description>3 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50183126'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50183126</guid>
+      <pubDate>Wed, 21 Oct 2026 15:56:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>Google Cloud's status page was the 51st to report its own outage</title>
+      <link>https://stackpulse.app/blog/google-cloud-london-outage</link>
+      <description>2 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50181507'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50181507</guid>
+      <pubDate>Wed, 21 Oct 2026 14:21:31 +0000</pubDate>
+    </item>
     <item>
       <title>Hetzner Outage</title>
       <link>https://status.hetzner.com/</link>
-      <description>3 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50178645'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>4 points, 2 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50178645'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50178645</guid>
       <pubDate>Wed, 21 Oct 2026 10:35:32 +0000</pubDate>
     </item>
     <item>
       <title>Railway Major Outage</title>
       <link>https://status.railway.com/incident/QH8L8B3E</link>
-      <description>3 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50177413'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>8 points, 3 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50177413'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50177413</guid>
       <pubDate>Wed, 21 Oct 2026 07:55:53 +0000</pubDate>
     </item>
@@ -40,7 +61,7 @@
     <item>
       <title>Show HN: An archive of AWS outages that keeps them after AWS's 12-month window</title>
       <link>https://mimobn.github.io/aws-status-archive/</link>
-      <description>5 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50167478'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>6 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50167478'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50167478</guid>
       <pubDate>Tue, 20 Oct 2026 15:01:42 +0000</pubDate>
     </item>
@@ -75,7 +96,7 @@
     <item>
       <title>Google Cloud outage affects almost all banking and other operations in Europe</title>
       <link>https://www.neowin.net/news/google-cloud-outage-takes-down-hsbc-revolut-bank-of-scotland-llyods-equifax-more/</link>
-      <description>392 points, 197 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50163961'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>396 points, 203 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50163961'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50163961</guid>
       <pubDate>Tue, 20 Oct 2026 10:26:02 +0000</pubDate>
     </item>
@@ -124,7 +145,7 @@
     <item>
       <title>The reverts will continue until morale improves</title>
       <link>http://peter.eisentraut.org/blog/2026/10/09/the-reverts-will-continue-until-morale-improves</link>
-      <description>233 points, 46 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50156206'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>234 points, 47 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50156206'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50156206</guid>
       <pubDate>Mon, 19 Oct 2026 18:42:32 +0000</pubDate>
     </item>
@@ -199,13 +220,6 @@
       <pubDate>Thu, 15 Oct 2026 02:20:16 +0000</pubDate>
     </item>
     <item>
-      <title>The reverts will continue until morale improves</title>
-      <link>http://peter.eisentraut.org/blog/2026/10/09/the-reverts-will-continue-until-morale-improves</link>
-      <description>1 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50097799'&gt;discussion sur Hacker News&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50097799</guid>
-      <pubDate>Thu, 15 Oct 2026 00:56:45 +0000</pubDate>
-    </item>
-    <item>
       <title>Yandex outage: data shows that instead of going dark, malicious bots moved</title>
       <link>https://blog.cloudflare.com/yandex-outage/</link>
       <description>288 points, 118 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50094673'&gt;discussion sur Hacker News&lt;/a&gt;</description>
@@ -246,13 +260,6 @@
       <description>2 points, 2 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50007566'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50007566</guid>
       <pubDate>Thu, 08 Oct 2026 16:06:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>GitHub Outage: Incident with Git Operations, Pull Requests and Actions</title>
-      <link>https://www.githubstatus.com/incidents/djlmxz2zd0j7</link>
-      <description>13 points, 3 commentaires — &lt;a href='https://news.ycombinator.com/item?id=49994003'&gt;discussion sur Hacker News&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=49994003</guid>
-      <pubDate>Wed, 07 Oct 2026 15:15:58 +0000</pubDate>
     </item>
   </channel>
 </rss>
