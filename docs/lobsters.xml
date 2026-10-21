@@ -8,7 +8,21 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 21 Oct 2026 17:46:55 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 21:01:59 +0000</lastBuildDate>
+    <item>
+      <title>[security, vcs] GitLab Critical Patch Release</title>
+      <link>https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/pnpcso/gitlab_critical_patch_release"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/pnpcso</guid>
+      <pubDate>Wed, 21 Oct 2026 20:48:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>[security] Passkeys Attestation Trap</title>
+      <link>https://mjtsai.com/blog/2026/10/15/passkeys-attestation-trap/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/cdnepk/passkeys_attestation_trap"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/cdnepk</guid>
+      <pubDate>Wed, 21 Oct 2026 18:16:22 +0000</pubDate>
+    </item>
     <item>
       <title>[security] CVE-2026-107891: musl libc: multiple integer overflow in regcomp, possibly leading to incorrect allocation sizes and out-of-bounds heap writes</title>
       <link>https://www.openwall.com/lists/oss-security/2026/10/21/18</link>
@@ -227,13 +241,6 @@
       <pubDate>Thu, 15 Oct 2026 14:02:45 +0000</pubDate>
     </item>
     <item>
-      <title>[security] sslx: A fast, modern alternative to OpenSSL's CLI</title>
-      <link>https://github.com/glincker/sslx</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/p7tf7i/sslx_fast_modern_alternative_openssl_s"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/p7tf7i</guid>
-      <pubDate>Thu, 15 Oct 2026 10:02:33 +0000</pubDate>
-    </item>
-    <item>
       <title>[distributed, vcs] Everyone is doing Git on S3 wrong</title>
       <link>https://enroute.sh/blog/everyone-is-doing-git-on-s3-wrong</link>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ydo1wi/everyone_is_doing_git_on_s3_wrong"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
@@ -267,13 +274,6 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/plcgps/anthropic_s_scion_is_heavily_inspired_by"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/plcgps</guid>
       <pubDate>Wed, 14 Oct 2026 20:56:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>[security] We found a Tencent agent fleet</title>
-      <link>https://swarmcha.se/posts/chinese-agent-fleet-full-report</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/wcoes4/we_found_tencent_agent_fleet"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/wcoes4</guid>
-      <pubDate>Wed, 14 Oct 2026 20:08:19 +0000</pubDate>
     </item>
     <item>
       <title>[vcs] Making git hooks visible in fish shell</title>
@@ -684,14 +684,6 @@ Test instance where you are welcome to make a mess: &lt;a href="https://squalk-t
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/uwbgby/backups_aren_t_simple"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/uwbgby</guid>
       <pubDate>Thu, 17 Sep 2026 07:48:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>[vcs] Gothub lists</title>
-      <link>https://gothub.org/lists.html</link>
-      <description>&lt;p&gt;Gothub got mailing lists.&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://lobste.rs/s/wo4fuj/gothub_lists"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/wo4fuj</guid>
-      <pubDate>Wed, 16 Sep 2026 16:55:24 +0000</pubDate>
     </item>
     <item>
       <title>[distributed] comail - Cooperative email infrastructure for atproto</title>

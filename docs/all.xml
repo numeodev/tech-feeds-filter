@@ -8,7 +8,28 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 21 Oct 2026 17:46:55 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 21:01:59 +0000</lastBuildDate>
+    <item>
+      <title>[security, vcs] GitLab Critical Patch Release</title>
+      <link>https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/pnpcso/gitlab_critical_patch_release"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/pnpcso</guid>
+      <pubDate>Wed, 21 Oct 2026 20:48:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>Canonical's LaunchPad PPA is having an outage</title>
+      <link>https://launchpad.net</link>
+      <description>1 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50185646'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50185646</guid>
+      <pubDate>Wed, 21 Oct 2026 18:46:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>[security] Passkeys Attestation Trap</title>
+      <link>https://mjtsai.com/blog/2026/10/15/passkeys-attestation-trap/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/cdnepk/passkeys_attestation_trap"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/cdnepk</guid>
+      <pubDate>Wed, 21 Oct 2026 18:16:22 +0000</pubDate>
+    </item>
     <item>
       <title>[security] CVE-2026-107891: musl libc: multiple integer overflow in regcomp, possibly leading to incorrect allocation sizes and out-of-bounds heap writes</title>
       <link>https://www.openwall.com/lists/oss-security/2026/10/21/18</link>
@@ -33,7 +54,7 @@
     <item>
       <title>Railway (PaaS) Major Outage</title>
       <link>https://status.railway.com/incident/QH8L8B3E</link>
-      <description>3 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50183126'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>4 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50183126'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50183126</guid>
       <pubDate>Wed, 21 Oct 2026 15:56:44 +0000</pubDate>
     </item>
@@ -68,7 +89,7 @@
     <item>
       <title>Railway Major Outage</title>
       <link>https://status.railway.com/incident/QH8L8B3E</link>
-      <description>8 points, 3 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50177413'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>12 points, 4 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50177413'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50177413</guid>
       <pubDate>Wed, 21 Oct 2026 07:55:53 +0000</pubDate>
     </item>
@@ -194,7 +215,7 @@
     <item>
       <title>Google Cloud outage affects almost all banking and other operations in Europe</title>
       <link>https://www.neowin.net/news/google-cloud-outage-takes-down-hsbc-revolut-bank-of-scotland-llyods-equifax-more/</link>
-      <description>396 points, 203 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50163961'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>398 points, 203 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50163961'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50163961</guid>
       <pubDate>Tue, 20 Oct 2026 10:26:02 +0000</pubDate>
     </item>
@@ -250,7 +271,7 @@
     <item>
       <title>The reverts will continue until morale improves</title>
       <link>http://peter.eisentraut.org/blog/2026/10/09/the-reverts-will-continue-until-morale-improves</link>
-      <description>234 points, 47 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50156206'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>235 points, 47 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50156206'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50156206</guid>
       <pubDate>Mon, 19 Oct 2026 18:42:32 +0000</pubDate>
     </item>
@@ -451,13 +472,6 @@
       <pubDate>Thu, 15 Oct 2026 14:02:45 +0000</pubDate>
     </item>
     <item>
-      <title>[security] sslx: A fast, modern alternative to OpenSSL's CLI</title>
-      <link>https://github.com/glincker/sslx</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/p7tf7i/sslx_fast_modern_alternative_openssl_s"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/p7tf7i</guid>
-      <pubDate>Thu, 15 Oct 2026 10:02:33 +0000</pubDate>
-    </item>
-    <item>
       <title>[distributed, vcs] Everyone is doing Git on S3 wrong</title>
       <link>https://enroute.sh/blog/everyone-is-doing-git-on-s3-wrong</link>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ydo1wi/everyone_is_doing_git_on_s3_wrong"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
@@ -505,13 +519,6 @@
       <description>288 points, 118 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50094673'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50094673</guid>
       <pubDate>Wed, 14 Oct 2026 20:29:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>[security] We found a Tencent agent fleet</title>
-      <link>https://swarmcha.se/posts/chinese-agent-fleet-full-report</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/wcoes4/we_found_tencent_agent_fleet"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/wcoes4</guid>
-      <pubDate>Wed, 14 Oct 2026 20:08:19 +0000</pubDate>
     </item>
     <item>
       <title>[vcs] Making git hooks visible in fish shell</title>
@@ -957,14 +964,6 @@ Test instance where you are welcome to make a mess: &lt;a href="https://squalk-t
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/uwbgby/backups_aren_t_simple"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/uwbgby</guid>
       <pubDate>Thu, 17 Sep 2026 07:48:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>[vcs] Gothub lists</title>
-      <link>https://gothub.org/lists.html</link>
-      <description>&lt;p&gt;Gothub got mailing lists.&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://lobste.rs/s/wo4fuj/gothub_lists"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/wo4fuj</guid>
-      <pubDate>Wed, 16 Sep 2026 16:55:24 +0000</pubDate>
     </item>
     <item>
       <title>[distributed] comail - Cooperative email infrastructure for atproto</title>
