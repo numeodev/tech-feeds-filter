@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 20 Oct 2026 22:49:22 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 01:07:56 +0000</lastBuildDate>
+    <item>
+      <title>[security] Unauthorized Access to PingCAP Cloud Resources</title>
+      <link>https://www.pingcap.com/trust-hub/security/security-update-october-2026/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/x7codz/unauthorized_access_pingcap_cloud"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/x7codz</guid>
+      <pubDate>Wed, 21 Oct 2026 00:44:49 +0000</pubDate>
+    </item>
     <item>
       <title>[security] Upcoming Critical PHP Security Release</title>
       <link>https://www.php.net/archive/2026.php#2026-10-20-1</link>
@@ -117,7 +124,7 @@
     <item>
       <title>Google Cloud outage affects almost all banking and other operations in Europe</title>
       <link>https://www.neowin.net/news/google-cloud-outage-takes-down-hsbc-revolut-bank-of-scotland-llyods-equifax-more/</link>
-      <description>299 points, 154 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50163961'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>332 points, 166 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50163961'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50163961</guid>
       <pubDate>Tue, 20 Oct 2026 10:26:02 +0000</pubDate>
     </item>
@@ -138,7 +145,7 @@
     <item>
       <title>GCP Europe-West2 Outage</title>
       <link>https://news.ycombinator.com/item?id=50162712</link>
-      <description>29 points, 12 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50162712'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>30 points, 12 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50162712'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50162712</guid>
       <pubDate>Tue, 20 Oct 2026 07:56:59 +0000</pubDate>
     </item>
@@ -348,7 +355,7 @@
     <item>
       <title>Major Outage on Cloudflare</title>
       <link>https://www.cloudflarestatus.com/</link>
-      <description>18 points, 6 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50104773'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>19 points, 6 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50104773'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50104773</guid>
       <pubDate>Thu, 15 Oct 2026 15:06:12 +0000</pubDate>
     </item>
@@ -505,13 +512,6 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/x9fqa4/awesome_gaming_on_linux_without_cheating"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/x9fqa4</guid>
       <pubDate>Wed, 14 Oct 2026 15:13:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>[security] A UAF turned RCE</title>
-      <link>https://daniel.haxx.se/blog/2026/10/14/a-uaf-turned-rce/</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/g46xkj/uaf_turned_rce"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/g46xkj</guid>
-      <pubDate>Wed, 14 Oct 2026 09:44:11 +0000</pubDate>
     </item>
     <item>
       <title>Postmortem: Sweden's citizenship law shipped with no migration path</title>
