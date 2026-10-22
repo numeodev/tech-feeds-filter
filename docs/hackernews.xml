@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 21 Oct 2026 21:01:58 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 00:19:19 +0000</lastBuildDate>
+    <item>
+      <title>Postgres Recovery_prefetch Considered Harmful and Causing Outages</title>
+      <link>https://ardentperf.com/2026/10/20/postgres-recovery_prefetch-considered-harmful-and-causing-outages/</link>
+      <description>1 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50188614'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50188614</guid>
+      <pubDate>Wed, 21 Oct 2026 22:33:08 +0000</pubDate>
+    </item>
     <item>
       <title>Canonical's LaunchPad PPA is having an outage</title>
       <link>https://launchpad.net</link>
@@ -26,7 +33,7 @@
     <item>
       <title>Railway (PaaS) Major Outage</title>
       <link>https://status.railway.com/incident/QH8L8B3E</link>
-      <description>4 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50183126'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>6 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50183126'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50183126</guid>
       <pubDate>Wed, 21 Oct 2026 15:56:44 +0000</pubDate>
     </item>
@@ -47,7 +54,7 @@
     <item>
       <title>Railway Major Outage</title>
       <link>https://status.railway.com/incident/QH8L8B3E</link>
-      <description>12 points, 4 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50177413'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>21 points, 6 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50177413'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50177413</guid>
       <pubDate>Wed, 21 Oct 2026 07:55:53 +0000</pubDate>
     </item>
@@ -103,7 +110,7 @@
     <item>
       <title>Google Cloud outage affects almost all banking and other operations in Europe</title>
       <link>https://www.neowin.net/news/google-cloud-outage-takes-down-hsbc-revolut-bank-of-scotland-llyods-equifax-more/</link>
-      <description>398 points, 203 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50163961'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>400 points, 203 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50163961'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50163961</guid>
       <pubDate>Tue, 20 Oct 2026 10:26:02 +0000</pubDate>
     </item>
@@ -152,7 +159,7 @@
     <item>
       <title>The reverts will continue until morale improves</title>
       <link>http://peter.eisentraut.org/blog/2026/10/09/the-reverts-will-continue-until-morale-improves</link>
-      <description>235 points, 47 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50156206'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>235 points, 48 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50156206'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50156206</guid>
       <pubDate>Mon, 19 Oct 2026 18:42:32 +0000</pubDate>
     </item>
@@ -229,7 +236,7 @@
     <item>
       <title>Yandex outage: data shows that instead of going dark, malicious bots moved</title>
       <link>https://blog.cloudflare.com/yandex-outage/</link>
-      <description>288 points, 118 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50094673'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>289 points, 118 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50094673'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50094673</guid>
       <pubDate>Wed, 14 Oct 2026 20:29:13 +0000</pubDate>
     </item>

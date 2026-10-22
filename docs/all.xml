@@ -8,7 +8,35 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 21 Oct 2026 21:01:59 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 00:19:20 +0000</lastBuildDate>
+    <item>
+      <title>Postgres Recovery_prefetch Considered Harmful and Causing Outages</title>
+      <link>https://ardentperf.com/2026/10/20/postgres-recovery_prefetch-considered-harmful-and-causing-outages/</link>
+      <description>1 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50188614'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50188614</guid>
+      <pubDate>Wed, 21 Oct 2026 22:33:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>[devops, security] Railway Security Disclosure: Wednesday October 21st</title>
+      <link>https://blog.railway.com/p/security-disclosure-wednesday-october-21st</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/wi4nnl/railway_security_disclosure_wednesday"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/wi4nnl</guid>
+      <pubDate>Wed, 21 Oct 2026 22:31:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>[security] Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor</title>
+      <link>https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/2czsv4/compromised_litellm_1_107_0_on_pypi"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/2czsv4</guid>
+      <pubDate>Wed, 21 Oct 2026 21:32:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>[security] How to Run Turing-Complete Malware in PyTorch's Backward Pass</title>
+      <link>https://elonlit.com/scrivings/how-to-run-turing-complete-malware-in-pytorchs-backward-pass/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/urfgc9/how_run_turing_complete_malware_pytorch_s"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/urfgc9</guid>
+      <pubDate>Wed, 21 Oct 2026 21:06:35 +0000</pubDate>
+    </item>
     <item>
       <title>[security, vcs] GitLab Critical Patch Release</title>
       <link>https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/</link>
@@ -54,7 +82,7 @@
     <item>
       <title>Railway (PaaS) Major Outage</title>
       <link>https://status.railway.com/incident/QH8L8B3E</link>
-      <description>4 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50183126'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>6 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50183126'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50183126</guid>
       <pubDate>Wed, 21 Oct 2026 15:56:44 +0000</pubDate>
     </item>
@@ -89,7 +117,7 @@
     <item>
       <title>Railway Major Outage</title>
       <link>https://status.railway.com/incident/QH8L8B3E</link>
-      <description>12 points, 4 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50177413'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>21 points, 6 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50177413'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50177413</guid>
       <pubDate>Wed, 21 Oct 2026 07:55:53 +0000</pubDate>
     </item>
@@ -215,7 +243,7 @@
     <item>
       <title>Google Cloud outage affects almost all banking and other operations in Europe</title>
       <link>https://www.neowin.net/news/google-cloud-outage-takes-down-hsbc-revolut-bank-of-scotland-llyods-equifax-more/</link>
-      <description>398 points, 203 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50163961'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>400 points, 203 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50163961'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50163961</guid>
       <pubDate>Tue, 20 Oct 2026 10:26:02 +0000</pubDate>
     </item>
@@ -271,7 +299,7 @@
     <item>
       <title>The reverts will continue until morale improves</title>
       <link>http://peter.eisentraut.org/blog/2026/10/09/the-reverts-will-continue-until-morale-improves</link>
-      <description>235 points, 47 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50156206'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>235 points, 48 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50156206'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50156206</guid>
       <pubDate>Mon, 19 Oct 2026 18:42:32 +0000</pubDate>
     </item>
@@ -374,13 +402,6 @@
       <pubDate>Fri, 16 Oct 2026 18:24:28 +0000</pubDate>
     </item>
     <item>
-      <title>[security] Big Fish: Exploiting a 37-Year-Old Kernel Bug in OpenBSD</title>
-      <link>https://calif.io/research/big-fish</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/cxlrc5/big_fish_exploiting_37_year_old_kernel_bug"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/cxlrc5</guid>
-      <pubDate>Fri, 16 Oct 2026 15:41:08 +0000</pubDate>
-    </item>
-    <item>
       <title>OS-native agent sandbox that can rollback in ms</title>
       <link>https://delta-box.github.io/</link>
       <description>2 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50118326'&gt;discussion sur Hacker News&lt;/a&gt;</description>
@@ -423,13 +444,6 @@
       <pubDate>Fri, 16 Oct 2026 02:47:15 +0000</pubDate>
     </item>
     <item>
-      <title>[security] Epic's EAC2 v2 seems fairly easily bypassable</title>
-      <link>https://codon.org.uk/~mjg59/blog/p/epics-eac2-v2-seems-fairly-easily-bypassable/</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/1iin5o/epic_s_eac2_v2_seems_fairly_easily"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/1iin5o</guid>
-      <pubDate>Thu, 15 Oct 2026 22:48:19 +0000</pubDate>
-    </item>
-    <item>
       <title>[vcs] GitHub Actions workflow lockfiles in public preview</title>
       <link>https://github.blog/changelog/2026-10-14-github-actions-workflow-lockfiles-in-public-preview/</link>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/fi9d4c/github_actions_workflow_lockfiles"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
@@ -463,13 +477,6 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/yxnovw/end_end_encrypted_relays_for_ocapn"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/yxnovw</guid>
       <pubDate>Thu, 15 Oct 2026 14:42:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>[security] Remote Attestation Should Not Be Tolerated</title>
-      <link>https://lumi.codeberg.page/blog/remote-attestation.html</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/s8bo3z/remote_attestation_should_not_be"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/s8bo3z</guid>
-      <pubDate>Thu, 15 Oct 2026 14:02:45 +0000</pubDate>
     </item>
     <item>
       <title>[distributed, vcs] Everyone is doing Git on S3 wrong</title>
@@ -516,7 +523,7 @@
     <item>
       <title>Yandex outage: data shows that instead of going dark, malicious bots moved</title>
       <link>https://blog.cloudflare.com/yandex-outage/</link>
-      <description>288 points, 118 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50094673'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>289 points, 118 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50094673'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50094673</guid>
       <pubDate>Wed, 14 Oct 2026 20:29:13 +0000</pubDate>
     </item>
@@ -1132,13 +1139,6 @@ Test instance where you are welcome to make a mess: &lt;a href="https://squalk-t
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/kkrnyc/infrastructure_gravity_domain"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/kkrnyc</guid>
       <pubDate>Thu, 06 Aug 2026 01:24:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>[devops] Proxmox officially supports Arm, with some caveats</title>
-      <link>https://www.jeffgeerling.com/blog/2026/proxmox-ve-arm-official/</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/wblbfk/proxmox_officially_supports_arm_with"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/wblbfk</guid>
-      <pubDate>Wed, 05 Aug 2026 19:54:59 +0000</pubDate>
     </item>
   </channel>
 </rss>
