@@ -8,18 +8,25 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 22 Oct 2026 10:51:16 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 15:44:23 +0000</lastBuildDate>
     <item>
-      <title>[security] Two Welsh organisations reprimanded after cyber-attack exposed children’s information</title>
-      <link>https://ico.org.uk/about-the-ico/media-centre/news-and-blogs/2026/10/password1-is-not-an-appropriate-password/</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/azc9ip/two_welsh_organisations_reprimanded"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/azc9ip</guid>
-      <pubDate>Thu, 22 Oct 2026 10:13:24 +0000</pubDate>
+      <title>[security] Header Accordions: QPACK amplification attacks against HTTP/3 servers</title>
+      <link>https://foxio.io/blog/header-accordions-qpack-amplification-attacks-against-http-3-servers</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/l2l50n/header_accordions_qpack_amplification"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/l2l50n</guid>
+      <pubDate>Thu, 22 Oct 2026 15:15:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>[security] jailbreaking the switch 2</title>
+      <link>https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/me75ey/jailbreaking_switch_2"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/me75ey</guid>
+      <pubDate>Thu, 22 Oct 2026 12:10:48 +0000</pubDate>
     </item>
     <item>
       <title>Cable theft causes Openreach broadband outage for thousands in Thurnscoe, UK</title>
       <link>https://www.datacenterdynamics.com/en/news/cable-theft-causes-openreach-broadband-outage-for-thousands-in-thurnscoe-uk/</link>
-      <description>4 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50192380'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>5 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50192380'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50192380</guid>
       <pubDate>Thu, 22 Oct 2026 07:37:57 +0000</pubDate>
     </item>
@@ -40,7 +47,7 @@
     <item>
       <title>Postgres recovery_prefetch can cause outages</title>
       <link>https://ardentperf.com/2026/10/20/postgres-recovery_prefetch-considered-harmful-and-causing-outages/</link>
-      <description>25 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50188614'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>27 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50188614'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50188614</guid>
       <pubDate>Wed, 21 Oct 2026 22:33:08 +0000</pubDate>
     </item>
@@ -348,7 +355,7 @@
     <item>
       <title>Postmortem: Sweden's citizenship law shipped with no migration path</title>
       <link>https://eric.pe/terson/writes/a-postmortem-on-swedens-citizenship-law/</link>
-      <description>3 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50149746'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>4 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50149746'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50149746</guid>
       <pubDate>Mon, 19 Oct 2026 08:19:39 +0000</pubDate>
     </item>
@@ -393,13 +400,6 @@
       <description>&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;We have a simple .net agent that is changing constantly. Its like a multi tool for extracting data from the worst local APIs you could imagine (POS). &lt;/p&gt; &lt;p&gt;Due to a complete lack of error budgets and bad outsourced code, we lost a lot of trust with our oldest and largest clients. It's political at this point and slightly toxic, but we can't drop them. &lt;/p&gt; &lt;p&gt;All of our clients are on different versions and we keep seeing reoccurring issues we already fixed.&lt;/p&gt; &lt;p&gt;Ive built out update rings with monitoring and auto rollback, canaries etc, but the whole thing breaks when it requires us to beg and justify every minor patch. Sometimes we get ghosted by their IT teams and then updates have to move to next week as we've missed our window. Updates themselves could be performed mid-service without anyone even noticing as they are so fast to deploy.&lt;/p&gt; &lt;p&gt;How have you moved past this and won over trust to allow more control over updates? Adding update freezes to our SLAs when error budgets are exhausted?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/SWEETJUICYWALRUS"&gt; /u/SWEETJUICYWALRUS &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/r/sre/comments/1x8wrgd/how_have_you_moved_past_required_client_approval/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/sre/comments/1x8wrgd/how_have_you_moved_past_required_client_approval/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</description>
       <guid isPermaLink="false">https://www.reddit.com/r/sre/t3_1x8wrgd</guid>
       <pubDate>Sun, 18 Oct 2026 07:10:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>[security] It's time to talk about TEEs</title>
-      <link>https://alinush.github.io//tee</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/edli0x/it_s_time_talk_about_tees"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/edli0x</guid>
-      <pubDate>Sun, 18 Oct 2026 03:00:39 +0000</pubDate>
     </item>
     <item>
       <title>[practices] Developing for Debugging (2025)</title>
