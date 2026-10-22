@@ -8,7 +8,21 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 22 Oct 2026 05:36:24 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 10:51:16 +0000</lastBuildDate>
+    <item>
+      <title>[security] Two Welsh organisations reprimanded after cyber-attack exposed children’s information</title>
+      <link>https://ico.org.uk/about-the-ico/media-centre/news-and-blogs/2026/10/password1-is-not-an-appropriate-password/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/azc9ip/two_welsh_organisations_reprimanded"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/azc9ip</guid>
+      <pubDate>Thu, 22 Oct 2026 10:13:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cable theft causes Openreach broadband outage for thousands in Thurnscoe, UK</title>
+      <link>https://www.datacenterdynamics.com/en/news/cable-theft-causes-openreach-broadband-outage-for-thousands-in-thurnscoe-uk/</link>
+      <description>4 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50192380'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50192380</guid>
+      <pubDate>Thu, 22 Oct 2026 07:37:57 +0000</pubDate>
+    </item>
     <item>
       <title>[security] Turning IPv6 tunnels into programmable delay lines for pulsing DoS</title>
       <link>https://blog.apnic.net/2026/10/22/turning-ipv6-tunnels-into-programmable-delay-lines-for-pulsing-dos/</link>
@@ -19,14 +33,14 @@
     <item>
       <title>Widespread PHP Flaw May Cause Many Site Outages Today</title>
       <link>https://krebsonsecurity.com/2026/10/widespread-php-flaw-may-cause-many-site-outages-today/</link>
-      <description>1 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50190192'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>2 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50190192'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50190192</guid>
       <pubDate>Thu, 22 Oct 2026 01:55:12 +0000</pubDate>
     </item>
     <item>
       <title>Postgres recovery_prefetch can cause outages</title>
       <link>https://ardentperf.com/2026/10/20/postgres-recovery_prefetch-considered-harmful-and-causing-outages/</link>
-      <description>13 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50188614'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>25 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50188614'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50188614</guid>
       <pubDate>Wed, 21 Oct 2026 22:33:08 +0000</pubDate>
     </item>
@@ -131,7 +145,7 @@
     <item>
       <title>Railway Major Outage</title>
       <link>https://status.railway.com/incident/QH8L8B3E</link>
-      <description>21 points, 6 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50177413'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>24 points, 6 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50177413'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50177413</guid>
       <pubDate>Wed, 21 Oct 2026 07:55:53 +0000</pubDate>
     </item>
@@ -257,7 +271,7 @@
     <item>
       <title>Google Cloud outage affects almost all banking and other operations in Europe</title>
       <link>https://www.neowin.net/news/google-cloud-outage-takes-down-hsbc-revolut-bank-of-scotland-llyods-equifax-more/</link>
-      <description>402 points, 204 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50163961'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>403 points, 205 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50163961'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50163961</guid>
       <pubDate>Tue, 20 Oct 2026 10:26:02 +0000</pubDate>
     </item>
@@ -386,13 +400,6 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/edli0x/it_s_time_talk_about_tees"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/edli0x</guid>
       <pubDate>Sun, 18 Oct 2026 03:00:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>[security] PwnEscape: Guest-to-Host KVM Escape (CVE-2026-99999)</title>
-      <link>https://pwn.ai/blog/pwnescape</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/np84oh/pwnescape_guest_host_kvm_escape_cve_2026"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/np84oh</guid>
-      <pubDate>Sat, 17 Oct 2026 18:24:39 +0000</pubDate>
     </item>
     <item>
       <title>[practices] Developing for Debugging (2025)</title>
