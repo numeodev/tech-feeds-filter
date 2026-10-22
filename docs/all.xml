@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 22 Oct 2026 15:44:23 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 19:38:03 +0000</lastBuildDate>
+    <item>
+      <title>[devops, security] Expose only share links of a private service with caddy</title>
+      <link>https://dataswamp.org/~solene/2026-10-21-caddy-forward-auth-public-share-links.html</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/tu5ynp/expose_only_share_links_private_service"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/tu5ynp</guid>
+      <pubDate>Thu, 22 Oct 2026 16:30:14 +0000</pubDate>
+    </item>
     <item>
       <title>[security] Header Accordions: QPACK amplification attacks against HTTP/3 servers</title>
       <link>https://foxio.io/blog/header-accordions-qpack-amplification-attacks-against-http-3-servers</link>
@@ -40,14 +47,14 @@
     <item>
       <title>Widespread PHP Flaw May Cause Many Site Outages Today</title>
       <link>https://krebsonsecurity.com/2026/10/widespread-php-flaw-may-cause-many-site-outages-today/</link>
-      <description>2 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50190192'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>3 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50190192'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50190192</guid>
       <pubDate>Thu, 22 Oct 2026 01:55:12 +0000</pubDate>
     </item>
     <item>
       <title>Postgres recovery_prefetch can cause outages</title>
       <link>https://ardentperf.com/2026/10/20/postgres-recovery_prefetch-considered-harmful-and-causing-outages/</link>
-      <description>27 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50188614'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>28 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50188614'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50188614</guid>
       <pubDate>Wed, 21 Oct 2026 22:33:08 +0000</pubDate>
     </item>
@@ -278,7 +285,7 @@
     <item>
       <title>Google Cloud outage affects almost all banking and other operations in Europe</title>
       <link>https://www.neowin.net/news/google-cloud-outage-takes-down-hsbc-revolut-bank-of-scotland-llyods-equifax-more/</link>
-      <description>403 points, 205 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50163961'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>403 points, 207 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50163961'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50163961</guid>
       <pubDate>Tue, 20 Oct 2026 10:26:02 +0000</pubDate>
     </item>
@@ -388,13 +395,6 @@
       <pubDate>Mon, 19 Oct 2026 00:38:15 +0000</pubDate>
     </item>
     <item>
-      <title>[security] How Discover-Tech turned targeted ads into a pipeline for zero-click spywares</title>
-      <link>https://citizenlab.ca/research/how-discover-tech-turned-targeted-ads-into-a-pipeline-for-spyware/</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/zytoux/how_discover_tech_turned_targeted_ads"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/zytoux</guid>
-      <pubDate>Sun, 18 Oct 2026 20:55:02 +0000</pubDate>
-    </item>
-    <item>
       <title>[r/sre] How have you moved past required client approval for software updates?</title>
       <link>https://www.reddit.com/r/sre/comments/1x8wrgd/how_have_you_moved_past_required_client_approval/</link>
       <description>&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;We have a simple .net agent that is changing constantly. Its like a multi tool for extracting data from the worst local APIs you could imagine (POS). &lt;/p&gt; &lt;p&gt;Due to a complete lack of error budgets and bad outsourced code, we lost a lot of trust with our oldest and largest clients. It's political at this point and slightly toxic, but we can't drop them. &lt;/p&gt; &lt;p&gt;All of our clients are on different versions and we keep seeing reoccurring issues we already fixed.&lt;/p&gt; &lt;p&gt;Ive built out update rings with monitoring and auto rollback, canaries etc, but the whole thing breaks when it requires us to beg and justify every minor patch. Sometimes we get ghosted by their IT teams and then updates have to move to next week as we've missed our window. Updates themselves could be performed mid-service without anyone even noticing as they are so fast to deploy.&lt;/p&gt; &lt;p&gt;How have you moved past this and won over trust to allow more control over updates? Adding update freezes to our SLAs when error budgets are exhausted?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/SWEETJUICYWALRUS"&gt; /u/SWEETJUICYWALRUS &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/r/sre/comments/1x8wrgd/how_have_you_moved_past_required_client_approval/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/sre/comments/1x8wrgd/how_have_you_moved_past_required_client_approval/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</description>
@@ -449,13 +449,6 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/q0wobg/my_self_hosted_infrastructure_with_incus"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/q0wobg</guid>
       <pubDate>Fri, 16 Oct 2026 03:25:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>Matt Mullenweg Orders Accessibility Revert, Bans Core Wordpress Committer</title>
-      <link>https://www.therepository.email/matt-mullenweg-orders-accessibility-revert-tells-core-committer-to-contribute-your-talents-to-another-project</link>
-      <description>23 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50113348'&gt;discussion sur Hacker News&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50113348</guid>
-      <pubDate>Fri, 16 Oct 2026 02:47:15 +0000</pubDate>
     </item>
     <item>
       <title>[vcs] GitHub Actions workflow lockfiles in public preview</title>
@@ -681,13 +674,6 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/gliabr/scaling_benchmarking_critical_message"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/gliabr</guid>
       <pubDate>Thu, 08 Oct 2026 17:39:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>Broke Prod</title>
-      <link>https://news.ycombinator.com/item?id=50007566</link>
-      <description>2 points, 2 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50007566'&gt;discussion sur Hacker News&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50007566</guid>
-      <pubDate>Thu, 08 Oct 2026 16:06:34 +0000</pubDate>
     </item>
     <item>
       <title>[practices] The Slow Formation of Durable Software</title>
@@ -1146,13 +1132,6 @@ Test instance where you are welcome to make a mess: &lt;a href="https://squalk-t
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/sjxzgt/promise_none_them_kept"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/sjxzgt</guid>
       <pubDate>Mon, 10 Aug 2026 11:04:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>[devops] Infrastructure Gravity &amp; Domain Engineering</title>
-      <link>https://jackdanger.com/infrastructure-gravity/</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/kkrnyc/infrastructure_gravity_domain"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/kkrnyc</guid>
-      <pubDate>Thu, 06 Aug 2026 01:24:30 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 22 Oct 2026 15:44:22 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 19:38:01 +0000</lastBuildDate>
     <item>
       <title>Cable theft causes Openreach broadband outage for thousands in Thurnscoe, UK</title>
       <link>https://www.datacenterdynamics.com/en/news/cable-theft-causes-openreach-broadband-outage-for-thousands-in-thurnscoe-uk/</link>
@@ -19,14 +19,14 @@
     <item>
       <title>Widespread PHP Flaw May Cause Many Site Outages Today</title>
       <link>https://krebsonsecurity.com/2026/10/widespread-php-flaw-may-cause-many-site-outages-today/</link>
-      <description>2 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50190192'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>3 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50190192'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50190192</guid>
       <pubDate>Thu, 22 Oct 2026 01:55:12 +0000</pubDate>
     </item>
     <item>
       <title>Postgres recovery_prefetch can cause outages</title>
       <link>https://ardentperf.com/2026/10/20/postgres-recovery_prefetch-considered-harmful-and-causing-outages/</link>
-      <description>27 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50188614'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>28 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50188614'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50188614</guid>
       <pubDate>Wed, 21 Oct 2026 22:33:08 +0000</pubDate>
     </item>
@@ -124,7 +124,7 @@
     <item>
       <title>Google Cloud outage affects almost all banking and other operations in Europe</title>
       <link>https://www.neowin.net/news/google-cloud-outage-takes-down-hsbc-revolut-bank-of-scotland-llyods-equifax-more/</link>
-      <description>403 points, 205 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50163961'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>403 points, 207 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50163961'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50163961</guid>
       <pubDate>Tue, 20 Oct 2026 10:26:02 +0000</pubDate>
     </item>
@@ -220,13 +220,6 @@
       <pubDate>Fri, 16 Oct 2026 10:56:53 +0000</pubDate>
     </item>
     <item>
-      <title>Matt Mullenweg Orders Accessibility Revert, Bans Core Wordpress Committer</title>
-      <link>https://www.therepository.email/matt-mullenweg-orders-accessibility-revert-tells-core-committer-to-contribute-your-talents-to-another-project</link>
-      <description>23 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50113348'&gt;discussion sur Hacker News&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50113348</guid>
-      <pubDate>Fri, 16 Oct 2026 02:47:15 +0000</pubDate>
-    </item>
-    <item>
       <title>Major Outage on Cloudflare</title>
       <link>https://www.cloudflarestatus.com/</link>
       <description>19 points, 6 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50104773'&gt;discussion sur Hacker News&lt;/a&gt;</description>
@@ -281,13 +274,6 @@
       <description>1 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50016452'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50016452</guid>
       <pubDate>Fri, 09 Oct 2026 05:44:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>Broke Prod</title>
-      <link>https://news.ycombinator.com/item?id=50007566</link>
-      <description>2 points, 2 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50007566'&gt;discussion sur Hacker News&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50007566</guid>
-      <pubDate>Thu, 08 Oct 2026 16:06:34 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 22 Oct 2026 15:44:23 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 19:38:03 +0000</lastBuildDate>
+    <item>
+      <title>[devops, security] Expose only share links of a private service with caddy</title>
+      <link>https://dataswamp.org/~solene/2026-10-21-caddy-forward-auth-public-share-links.html</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/tu5ynp/expose_only_share_links_private_service"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/tu5ynp</guid>
+      <pubDate>Thu, 22 Oct 2026 16:30:14 +0000</pubDate>
+    </item>
     <item>
       <title>[security] Header Accordions: QPACK amplification attacks against HTTP/3 servers</title>
       <link>https://foxio.io/blog/header-accordions-qpack-amplification-attacks-against-http-3-servers</link>
@@ -197,13 +204,6 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/opyxtm/speeding_up_code_review_with_small_change"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/opyxtm</guid>
       <pubDate>Mon, 19 Oct 2026 00:38:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>[security] How Discover-Tech turned targeted ads into a pipeline for zero-click spywares</title>
-      <link>https://citizenlab.ca/research/how-discover-tech-turned-targeted-ads-into-a-pipeline-for-spyware/</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/zytoux/how_discover_tech_turned_targeted_ads"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/zytoux</guid>
-      <pubDate>Sun, 18 Oct 2026 20:55:02 +0000</pubDate>
     </item>
     <item>
       <title>[practices] Developing for Debugging (2025)</title>
@@ -845,13 +845,6 @@ Test instance where you are welcome to make a mess: &lt;a href="https://squalk-t
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/sjxzgt/promise_none_them_kept"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/sjxzgt</guid>
       <pubDate>Mon, 10 Aug 2026 11:04:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>[devops] Infrastructure Gravity &amp; Domain Engineering</title>
-      <link>https://jackdanger.com/infrastructure-gravity/</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/kkrnyc/infrastructure_gravity_domain"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/kkrnyc</guid>
-      <pubDate>Thu, 06 Aug 2026 01:24:30 +0000</pubDate>
     </item>
   </channel>
 </rss>
