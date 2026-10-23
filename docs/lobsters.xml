@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 23 Oct 2026 20:48:36 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 23:40:17 +0000</lastBuildDate>
     <item>
       <title>[distributed] Animations for System Builders: Metastability and Lost Writes - Marc's Blog</title>
       <link>https://brooker.co.za/blog/2026/10/23/animations.html</link>
@@ -50,6 +50,13 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/l2l50n/header_accordions_qpack_amplification"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/l2l50n</guid>
       <pubDate>Thu, 22 Oct 2026 15:15:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>[distributed] The bridge to agent-scale Git infrastructure</title>
+      <link>https://github.blog/engineering/architecture-optimization/the-bridge-to-agent-scale-git-infrastructure/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/nxvfjx/bridge_agent_scale_git_infrastructure"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/nxvfjx</guid>
+      <pubDate>Thu, 22 Oct 2026 12:24:15 +0000</pubDate>
     </item>
     <item>
       <title>[security] Turning IPv6 tunnels into programmable delay lines for pulsing DoS</title>
@@ -775,13 +782,6 @@ Test instance where you are welcome to make a mess: &lt;a href="https://squalk-t
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/p7solr/how_we_saved_100_terabytes_memory_by"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/p7solr</guid>
       <pubDate>Fri, 28 Aug 2026 06:54:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>[distributed] Life Beyond Distributed Transactions: An apostate’s opinion (2007)</title>
-      <link>https://spawn-queue.acm.org/doi/10.1145/3012426.3025012</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ftakj1/life_beyond_distributed_transactions"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/ftakj1</guid>
-      <pubDate>Tue, 25 Aug 2026 08:42:09 +0000</pubDate>
     </item>
     <item>
       <title>[devops] Dynamically Naming Servers</title>
