@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 23 Oct 2026 01:05:51 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 06:44:30 +0000</lastBuildDate>
+    <item>
+      <title>[distributed] UUIDv7 doesn't have the properties you think it does</title>
+      <link>https://alexsci.com/blog/uuidv7-is-weird/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/kcyzco/uuidv7_doesn_t_have_properties_you_think"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/kcyzco</guid>
+      <pubDate>Fri, 23 Oct 2026 01:22:17 +0000</pubDate>
+    </item>
     <item>
       <title>[devops, security] Expose only share links of a private service with caddy</title>
       <link>https://dataswamp.org/~solene/2026-10-21-caddy-forward-auth-public-share-links.html</link>
@@ -775,13 +782,6 @@ Test instance where you are welcome to make a mess: &lt;a href="https://squalk-t
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/syper3/making_impossible_possible_again_ten"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/syper3</guid>
       <pubDate>Tue, 25 Aug 2026 04:17:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>[distributed] distributed identity</title>
-      <link>https://jyn.dev/distributed-identity/</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/al6sdh/distributed_identity"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/al6sdh</guid>
-      <pubDate>Mon, 24 Aug 2026 21:28:12 +0000</pubDate>
     </item>
     <item>
       <title>[devops] Dynamically Naming Servers</title>

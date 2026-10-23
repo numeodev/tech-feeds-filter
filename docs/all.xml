@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 23 Oct 2026 01:05:51 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 06:44:30 +0000</lastBuildDate>
+    <item>
+      <title>[distributed] UUIDv7 doesn't have the properties you think it does</title>
+      <link>https://alexsci.com/blog/uuidv7-is-weird/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/kcyzco/uuidv7_doesn_t_have_properties_you_think"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/kcyzco</guid>
+      <pubDate>Fri, 23 Oct 2026 01:22:17 +0000</pubDate>
+    </item>
     <item>
       <title>[devops, security] Expose only share links of a private service with caddy</title>
       <link>https://dataswamp.org/~solene/2026-10-21-caddy-forward-auth-public-share-links.html</link>
@@ -54,7 +61,7 @@
     <item>
       <title>Postgres recovery_prefetch can cause outages</title>
       <link>https://ardentperf.com/2026/10/20/postgres-recovery_prefetch-considered-harmful-and-causing-outages/</link>
-      <description>28 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50188614'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>32 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50188614'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50188614</guid>
       <pubDate>Wed, 21 Oct 2026 22:33:08 +0000</pubDate>
     </item>
@@ -159,7 +166,7 @@
     <item>
       <title>Railway Major Outage</title>
       <link>https://status.railway.com/incident/QH8L8B3E</link>
-      <description>24 points, 6 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50177413'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>24 points, 7 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50177413'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50177413</guid>
       <pubDate>Wed, 21 Oct 2026 07:55:53 +0000</pubDate>
     </item>
@@ -655,13 +662,6 @@
       <pubDate>Fri, 09 Oct 2026 12:15:07 +0000</pubDate>
     </item>
     <item>
-      <title>Firebase's Global Outage</title>
-      <link>https://blog.pragmaticengineer.com/the-pulse-firebases-global-outage-poor-response/</link>
-      <description>1 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50016452'&gt;discussion sur Hacker News&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50016452</guid>
-      <pubDate>Fri, 09 Oct 2026 05:44:53 +0000</pubDate>
-    </item>
-    <item>
       <title>[devops] 64-Day Certificate Lifetimes Coming Feb 2027</title>
       <link>https://letsencrypt.org/2026/10/07/64-day-certs.html</link>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/dcrosf/64_day_certificate_lifetimes_coming_feb"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
@@ -1062,13 +1062,6 @@ Test instance where you are welcome to make a mess: &lt;a href="https://squalk-t
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/syper3/making_impossible_possible_again_ten"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/syper3</guid>
       <pubDate>Tue, 25 Aug 2026 04:17:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>[distributed] distributed identity</title>
-      <link>https://jyn.dev/distributed-identity/</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/al6sdh/distributed_identity"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/al6sdh</guid>
-      <pubDate>Mon, 24 Aug 2026 21:28:12 +0000</pubDate>
     </item>
     <item>
       <title>[devops] Dynamically Naming Servers</title>

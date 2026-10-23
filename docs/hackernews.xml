@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 23 Oct 2026 01:05:51 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 06:44:29 +0000</lastBuildDate>
     <item>
       <title>Cable theft causes Openreach broadband outage for thousands in Thurnscoe, UK</title>
       <link>https://www.datacenterdynamics.com/en/news/cable-theft-causes-openreach-broadband-outage-for-thousands-in-thurnscoe-uk/</link>
@@ -26,7 +26,7 @@
     <item>
       <title>Postgres recovery_prefetch can cause outages</title>
       <link>https://ardentperf.com/2026/10/20/postgres-recovery_prefetch-considered-harmful-and-causing-outages/</link>
-      <description>28 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50188614'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>32 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50188614'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50188614</guid>
       <pubDate>Wed, 21 Oct 2026 22:33:08 +0000</pubDate>
     </item>
@@ -68,7 +68,7 @@
     <item>
       <title>Railway Major Outage</title>
       <link>https://status.railway.com/incident/QH8L8B3E</link>
-      <description>24 points, 6 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50177413'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>24 points, 7 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50177413'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50177413</guid>
       <pubDate>Wed, 21 Oct 2026 07:55:53 +0000</pubDate>
     </item>
@@ -267,13 +267,6 @@
       <description>2 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50019403'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50019403</guid>
       <pubDate>Fri, 09 Oct 2026 12:15:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Firebase's Global Outage</title>
-      <link>https://blog.pragmaticengineer.com/the-pulse-firebases-global-outage-poor-response/</link>
-      <description>1 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50016452'&gt;discussion sur Hacker News&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50016452</guid>
-      <pubDate>Fri, 09 Oct 2026 05:44:53 +0000</pubDate>
     </item>
   </channel>
 </rss>
