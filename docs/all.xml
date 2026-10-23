@@ -8,11 +8,32 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 23 Oct 2026 17:36:16 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 20:48:36 +0000</lastBuildDate>
+    <item>
+      <title>[distributed] Animations for System Builders: Metastability and Lost Writes - Marc's Blog</title>
+      <link>https://brooker.co.za/blog/2026/10/23/animations.html</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/awlefz/animations_for_system_builders"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/awlefz</guid>
+      <pubDate>Fri, 23 Oct 2026 20:46:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>[security] Distributed data, centralized fixes</title>
+      <link>https://miren.dev/blog/distributed-data-centralized-fixes</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/qc1ahp/distributed_data_centralized_fixes"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/qc1ahp</guid>
+      <pubDate>Fri, 23 Oct 2026 19:50:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>[devops, security] Railway Preliminary Report: Oct 21st Security Incident</title>
+      <link>https://blog.railway.com/p/preliminary-report-october-security-incident</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/hq3tu8/railway_preliminary_report_oct_21st"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/hq3tu8</guid>
+      <pubDate>Fri, 23 Oct 2026 18:35:24 +0000</pubDate>
+    </item>
     <item>
       <title>Bitchat Becomes France's Top Social App Amid Riots and Mobile Network Outage</title>
       <link>https://gizmodo.com/jack-dorseys-bitchat-becomes-frances-top-social-app-amid-riots-and-mobile-network-outage-2000829670</link>
-      <description>5 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50206782'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>8 points, 2 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50206782'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50206782</guid>
       <pubDate>Fri, 23 Oct 2026 10:23:10 +0000</pubDate>
     </item>
@@ -388,13 +409,6 @@
       <pubDate>Mon, 19 Oct 2026 06:44:48 +0000</pubDate>
     </item>
     <item>
-      <title>[security] A response to claims about flatpak being insecure (2023)</title>
-      <link>https://oro.gay/posts/flatpak-an-insecurity-nightmare/</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/jdjtqt/response_claims_about_flatpak_being"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/jdjtqt</guid>
-      <pubDate>Mon, 19 Oct 2026 04:02:34 +0000</pubDate>
-    </item>
-    <item>
       <title>[practices] What requirements don't you have?</title>
       <link>https://www.seangoedecke.com/what-requirements-dont-you-have/</link>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/nuepys/what_requirements_don_t_you_have"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
@@ -407,13 +421,6 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/opyxtm/speeding_up_code_review_with_small_change"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/opyxtm</guid>
       <pubDate>Mon, 19 Oct 2026 00:38:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>[security] How Discover-Tech turned targeted ads into a pipeline for zero-click spywares</title>
-      <link>https://citizenlab.ca/research/how-discover-tech-turned-targeted-ads-into-a-pipeline-for-spyware/</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/zytoux/how_discover_tech_turned_targeted_ads"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/zytoux</guid>
-      <pubDate>Sun, 18 Oct 2026 20:55:02 +0000</pubDate>
     </item>
     <item>
       <title>[r/sre] How have you moved past required client approval for software updates?</title>
@@ -1057,13 +1064,6 @@ Test instance where you are welcome to make a mess: &lt;a href="https://squalk-t
       <pubDate>Tue, 25 Aug 2026 08:42:09 +0000</pubDate>
     </item>
     <item>
-      <title>[distributed] Making the Impossible Possible (Again): Ten Years of Flexible Paxos</title>
-      <link>https://youtu.be/P0cAG-RM1_c</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/syper3/making_impossible_possible_again_ten"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/syper3</guid>
-      <pubDate>Tue, 25 Aug 2026 04:17:56 +0000</pubDate>
-    </item>
-    <item>
       <title>[devops] Dynamically Naming Servers</title>
       <link>https://arch.dog/bark/dynamically-naming-servers</link>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/swzhtb/dynamically_naming_servers"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
@@ -1118,13 +1118,6 @@ Test instance where you are welcome to make a mess: &lt;a href="https://squalk-t
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/xoivjb/inter_mesh_deployment_pipeline"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/xoivjb</guid>
       <pubDate>Tue, 11 Aug 2026 10:11:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>[devops] The Promise None of Them Kept</title>
-      <link>https://webframp.com/posts/the-promise-none-of-them-kept/</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/sjxzgt/promise_none_them_kept"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/sjxzgt</guid>
-      <pubDate>Mon, 10 Aug 2026 11:04:33 +0000</pubDate>
     </item>
   </channel>
 </rss>
