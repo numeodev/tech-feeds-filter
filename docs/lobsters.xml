@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 23 Oct 2026 06:44:30 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 12:17:06 +0000</lastBuildDate>
     <item>
       <title>[distributed] UUIDv7 doesn't have the properties you think it does</title>
       <link>https://alexsci.com/blog/uuidv7-is-weird/</link>
@@ -29,13 +29,6 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/l2l50n/header_accordions_qpack_amplification"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/l2l50n</guid>
       <pubDate>Thu, 22 Oct 2026 15:15:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>[security] jailbreaking the switch 2</title>
-      <link>https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/me75ey/jailbreaking_switch_2"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/me75ey</guid>
-      <pubDate>Thu, 22 Oct 2026 12:10:48 +0000</pubDate>
     </item>
     <item>
       <title>[security] Turning IPv6 tunnels into programmable delay lines for pulsing DoS</title>
@@ -211,6 +204,13 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/opyxtm/speeding_up_code_review_with_small_change"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/opyxtm</guid>
       <pubDate>Mon, 19 Oct 2026 00:38:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>[security] How Discover-Tech turned targeted ads into a pipeline for zero-click spywares</title>
+      <link>https://citizenlab.ca/research/how-discover-tech-turned-targeted-ads-into-a-pipeline-for-spyware/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/zytoux/how_discover_tech_turned_targeted_ads"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/zytoux</guid>
+      <pubDate>Sun, 18 Oct 2026 20:55:02 +0000</pubDate>
     </item>
     <item>
       <title>[practices] Developing for Debugging (2025)</title>

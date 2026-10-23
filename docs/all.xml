@@ -8,7 +8,21 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 23 Oct 2026 06:44:30 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 12:17:06 +0000</lastBuildDate>
+    <item>
+      <title>Bitchat Becomes France's Top Social App Amid Riots and Mobile Network Outage</title>
+      <link>https://gizmodo.com/jack-dorseys-bitchat-becomes-frances-top-social-app-amid-riots-and-mobile-network-outage-2000829670</link>
+      <description>1 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50206782'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50206782</guid>
+      <pubDate>Fri, 23 Oct 2026 10:23:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>Tell HN: The latest macOS Sequoia update seems to revert the eMudhra workaround</title>
+      <link>https://news.ycombinator.com/item?id=50206041</link>
+      <description>2 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50206041'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50206041</guid>
+      <pubDate>Fri, 23 Oct 2026 08:35:44 +0000</pubDate>
+    </item>
     <item>
       <title>[distributed] UUIDv7 doesn't have the properties you think it does</title>
       <link>https://alexsci.com/blog/uuidv7-is-weird/</link>
@@ -29,13 +43,6 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/l2l50n/header_accordions_qpack_amplification"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/l2l50n</guid>
       <pubDate>Thu, 22 Oct 2026 15:15:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>[security] jailbreaking the switch 2</title>
-      <link>https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/me75ey/jailbreaking_switch_2"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/me75ey</guid>
-      <pubDate>Thu, 22 Oct 2026 12:10:48 +0000</pubDate>
     </item>
     <item>
       <title>Cable theft causes Openreach broadband outage for thousands in Thurnscoe, UK</title>
@@ -61,7 +68,7 @@
     <item>
       <title>Postgres recovery_prefetch can cause outages</title>
       <link>https://ardentperf.com/2026/10/20/postgres-recovery_prefetch-considered-harmful-and-causing-outages/</link>
-      <description>32 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50188614'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>41 points, 5 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50188614'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50188614</guid>
       <pubDate>Wed, 21 Oct 2026 22:33:08 +0000</pubDate>
     </item>
@@ -292,7 +299,7 @@
     <item>
       <title>Google Cloud outage affects almost all banking and other operations in Europe</title>
       <link>https://www.neowin.net/news/google-cloud-outage-takes-down-hsbc-revolut-bank-of-scotland-llyods-equifax-more/</link>
-      <description>404 points, 207 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50163961'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>404 points, 208 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50163961'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50163961</guid>
       <pubDate>Tue, 20 Oct 2026 10:26:02 +0000</pubDate>
     </item>
@@ -400,6 +407,13 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/opyxtm/speeding_up_code_review_with_small_change"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/opyxtm</guid>
       <pubDate>Mon, 19 Oct 2026 00:38:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>[security] How Discover-Tech turned targeted ads into a pipeline for zero-click spywares</title>
+      <link>https://citizenlab.ca/research/how-discover-tech-turned-targeted-ads-into-a-pipeline-for-spyware/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/zytoux/how_discover_tech_turned_targeted_ads"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/zytoux</guid>
+      <pubDate>Sun, 18 Oct 2026 20:55:02 +0000</pubDate>
     </item>
     <item>
       <title>[r/sre] How have you moved past required client approval for software updates?</title>
@@ -653,13 +667,6 @@
 &lt;p&gt;&lt;a href="https://lobste.rs/s/aqdswf/artificial_intelligence_firm"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/aqdswf</guid>
       <pubDate>Fri, 09 Oct 2026 15:03:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>We Put Rollback Netcode in StarCraft: Brood War [video]</title>
-      <link>https://www.youtube.com/watch?v=vIt9xua9bLc</link>
-      <description>2 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50019403'&gt;discussion sur Hacker News&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50019403</guid>
-      <pubDate>Fri, 09 Oct 2026 12:15:07 +0000</pubDate>
     </item>
     <item>
       <title>[devops] 64-Day Certificate Lifetimes Coming Feb 2027</title>
