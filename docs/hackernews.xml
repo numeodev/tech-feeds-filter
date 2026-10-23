@@ -8,11 +8,11 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 23 Oct 2026 12:17:05 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 17:36:15 +0000</lastBuildDate>
     <item>
       <title>Bitchat Becomes France's Top Social App Amid Riots and Mobile Network Outage</title>
       <link>https://gizmodo.com/jack-dorseys-bitchat-becomes-frances-top-social-app-amid-riots-and-mobile-network-outage-2000829670</link>
-      <description>1 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50206782'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>5 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50206782'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50206782</guid>
       <pubDate>Fri, 23 Oct 2026 10:23:10 +0000</pubDate>
     </item>
@@ -40,7 +40,7 @@
     <item>
       <title>Postgres recovery_prefetch can cause outages</title>
       <link>https://ardentperf.com/2026/10/20/postgres-recovery_prefetch-considered-harmful-and-causing-outages/</link>
-      <description>41 points, 5 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50188614'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>42 points, 6 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50188614'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50188614</guid>
       <pubDate>Wed, 21 Oct 2026 22:33:08 +0000</pubDate>
     </item>
@@ -218,13 +218,6 @@
       <description>2 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50118326'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50118326</guid>
       <pubDate>Fri, 16 Oct 2026 13:44:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>Matt Mullenweg Orders Accessibility Revert</title>
-      <link>https://www.therepository.email/matt-mullenweg-orders-accessibility-revert-tells-core-committer-to-contribute-your-talents-to-another-project</link>
-      <description>3 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50117236'&gt;discussion sur Hacker News&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50117236</guid>
-      <pubDate>Fri, 16 Oct 2026 11:47:17 +0000</pubDate>
     </item>
     <item>
       <title>Unity Mass-Suspends Accounts</title>
