@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 24 Oct 2026 02:31:44 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 07:44:46 +0000</lastBuildDate>
+    <item>
+      <title>[security] Indian government sites are serving revoked eMudhra certificates</title>
+      <link>https://captnemo.in/blog/2026/10/23/emsign-revoked-gov-in/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/zug8xv/indian_government_sites_are_serving"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/zug8xv</guid>
+      <pubDate>Sat, 24 Oct 2026 04:06:06 +0000</pubDate>
+    </item>
     <item>
       <title>[security] Distributed data, centralized fixes</title>
       <link>https://miren.dev/blog/distributed-data-centralized-fixes</link>
@@ -26,7 +33,7 @@
     <item>
       <title>Bitchat Becomes France's Top Social App Amid Riots and Mobile Network Outage</title>
       <link>https://gizmodo.com/jack-dorseys-bitchat-becomes-frances-top-social-app-amid-riots-and-mobile-network-outage-2000829670</link>
-      <description>9 points, 3 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50206782'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>10 points, 3 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50206782'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50206782</guid>
       <pubDate>Fri, 23 Oct 2026 10:23:10 +0000</pubDate>
     </item>
@@ -386,13 +393,6 @@
       <description>4 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50149746'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50149746</guid>
       <pubDate>Mon, 19 Oct 2026 08:19:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>[security] Crawlers, floods and fleets: a year of keeping our digital collections open</title>
-      <link>https://stacks.wellcomecollection.org/crawlers-floods-and-fleets-a-year-of-keeping-our-digital-collections-open-10af777199c4</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/4sgimt/crawlers_floods_fleets_year_keeping_our"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/4sgimt</guid>
-      <pubDate>Mon, 19 Oct 2026 06:44:48 +0000</pubDate>
     </item>
     <item>
       <title>[practices] What requirements don't you have?</title>
