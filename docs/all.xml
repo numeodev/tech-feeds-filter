@@ -8,7 +8,21 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 24 Oct 2026 16:21:48 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 19:09:52 +0000</lastBuildDate>
+    <item>
+      <title>[practices] The Polyglot's Dilemma: Conformance Testing a Dozen Specs in as Many Languages</title>
+      <link>https://emptysqua.re/blog/polyglots-dilemma/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/gzpdsk/polyglot_s_dilemma_conformance_testing"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/gzpdsk</guid>
+      <pubDate>Sat, 24 Oct 2026 16:59:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>Jack Dorsey's Bitchat Becomes France's Top Social App Amid Mobile Network Outage</title>
+      <link>https://gizmodo.com/jack-dorseys-bitchat-becomes-frances-top-social-app-amid-riots-and-mobile-network-outage-2000829670</link>
+      <description>3 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50222928'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50222928</guid>
+      <pubDate>Sat, 24 Oct 2026 16:42:07 +0000</pubDate>
+    </item>
     <item>
       <title>[security] This week's "node2shell" Brotli vulnerability (CVE-2026-111497) is exploitable in Python, other consumers of Brotli</title>
       <link>https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497</link>
@@ -879,13 +893,6 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/yidvju/pragmatic_anthropomorphism_how_talk"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/yidvju</guid>
       <pubDate>Mon, 28 Sep 2026 05:48:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>[practices] Expert asterisks</title>
-      <link>https://nedbatchelder.com/blog/202609/expert_asterisks</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/0knxvq/expert_asterisks"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/0knxvq</guid>
-      <pubDate>Mon, 28 Sep 2026 03:48:21 +0000</pubDate>
     </item>
     <item>
       <title>[distributed] Kafgres: Embedding a Kafka Broker into Postgres</title>
