@@ -8,7 +8,21 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 24 Oct 2026 07:44:46 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 12:20:47 +0000</lastBuildDate>
+    <item>
+      <title>[security] This week's "node2shell" Brotli vulnerability (CVE-2026-111497) is exploitable in Python, other consumers of Brotli</title>
+      <link>https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/al3yyf/this_week_s_node2shell_brotli"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/al3yyf</guid>
+      <pubDate>Sat, 24 Oct 2026 11:01:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>[security] I want my Wednesday back</title>
+      <link>https://blog.luitjes.it/posts/i-want-my-wednesday-back/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/xgih2x/i_want_my_wednesday_back"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/xgih2x</guid>
+      <pubDate>Sat, 24 Oct 2026 10:09:28 +0000</pubDate>
+    </item>
     <item>
       <title>[security] Indian government sites are serving revoked eMudhra certificates</title>
       <link>https://captnemo.in/blog/2026/10/23/emsign-revoked-gov-in/</link>
@@ -50,6 +64,13 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/l2l50n/header_accordions_qpack_amplification"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/l2l50n</guid>
       <pubDate>Thu, 22 Oct 2026 15:15:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>[distributed] The bridge to agent-scale Git infrastructure</title>
+      <link>https://github.blog/engineering/architecture-optimization/the-bridge-to-agent-scale-git-infrastructure/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/nxvfjx/bridge_agent_scale_git_infrastructure"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/nxvfjx</guid>
+      <pubDate>Thu, 22 Oct 2026 12:24:15 +0000</pubDate>
     </item>
     <item>
       <title>[security] Turning IPv6 tunnels into programmable delay lines for pulsing DoS</title>
@@ -183,20 +204,6 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/gqyvn5/protecting_firefox_users_following"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/gqyvn5</guid>
       <pubDate>Tue, 20 Oct 2026 13:00:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>[security] Setting up SSH keys on macOS with Touch ID</title>
-      <link>https://nmattia.com/posts/2026-10-19-setting-up-ssh-keys-touch-id/</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/d7m5j1/setting_up_ssh_keys_on_macos_with_touch_id"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/d7m5j1</guid>
-      <pubDate>Tue, 20 Oct 2026 10:23:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>[security] Tor VPN Beta: What we've learned building our own VPN for Android from scratch</title>
-      <link>https://blog.torproject.org/tor-vpn-beta/</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/s3w7hd/tor_vpn_beta_what_we_ve_learned_building"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/s3w7hd</guid>
-      <pubDate>Mon, 19 Oct 2026 08:27:55 +0000</pubDate>
     </item>
     <item>
       <title>[practices] What requirements don't you have?</title>
@@ -775,13 +782,6 @@ Test instance where you are welcome to make a mess: &lt;a href="https://squalk-t
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ftakj1/life_beyond_distributed_transactions"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/ftakj1</guid>
       <pubDate>Tue, 25 Aug 2026 08:42:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>[distributed] Making the Impossible Possible (Again): Ten Years of Flexible Paxos</title>
-      <link>https://youtu.be/P0cAG-RM1_c</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/syper3/making_impossible_possible_again_ten"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/syper3</guid>
-      <pubDate>Tue, 25 Aug 2026 04:17:56 +0000</pubDate>
     </item>
     <item>
       <title>[devops] Dynamically Naming Servers</title>

@@ -8,7 +8,21 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 24 Oct 2026 07:44:46 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 12:20:47 +0000</lastBuildDate>
+    <item>
+      <title>[security] This week's "node2shell" Brotli vulnerability (CVE-2026-111497) is exploitable in Python, other consumers of Brotli</title>
+      <link>https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/al3yyf/this_week_s_node2shell_brotli"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/al3yyf</guid>
+      <pubDate>Sat, 24 Oct 2026 11:01:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>[security] I want my Wednesday back</title>
+      <link>https://blog.luitjes.it/posts/i-want-my-wednesday-back/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/xgih2x/i_want_my_wednesday_back"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/xgih2x</guid>
+      <pubDate>Sat, 24 Oct 2026 10:09:28 +0000</pubDate>
+    </item>
     <item>
       <title>[security] Indian government sites are serving revoked eMudhra certificates</title>
       <link>https://captnemo.in/blog/2026/10/23/emsign-revoked-gov-in/</link>
@@ -33,7 +47,7 @@
     <item>
       <title>Bitchat Becomes France's Top Social App Amid Riots and Mobile Network Outage</title>
       <link>https://gizmodo.com/jack-dorseys-bitchat-becomes-frances-top-social-app-amid-riots-and-mobile-network-outage-2000829670</link>
-      <description>10 points, 3 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50206782'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>12 points, 3 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50206782'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50206782</guid>
       <pubDate>Fri, 23 Oct 2026 10:23:10 +0000</pubDate>
     </item>
@@ -66,6 +80,13 @@
       <pubDate>Thu, 22 Oct 2026 15:15:44 +0000</pubDate>
     </item>
     <item>
+      <title>[distributed] The bridge to agent-scale Git infrastructure</title>
+      <link>https://github.blog/engineering/architecture-optimization/the-bridge-to-agent-scale-git-infrastructure/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/nxvfjx/bridge_agent_scale_git_infrastructure"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/nxvfjx</guid>
+      <pubDate>Thu, 22 Oct 2026 12:24:15 +0000</pubDate>
+    </item>
+    <item>
       <title>Cable theft causes Openreach broadband outage for thousands in Thurnscoe, UK</title>
       <link>https://www.datacenterdynamics.com/en/news/cable-theft-causes-openreach-broadband-outage-for-thousands-in-thurnscoe-uk/</link>
       <description>5 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50192380'&gt;discussion sur Hacker News&lt;/a&gt;</description>
@@ -89,7 +110,7 @@
     <item>
       <title>Postgres recovery_prefetch can cause outages</title>
       <link>https://ardentperf.com/2026/10/20/postgres-recovery_prefetch-considered-harmful-and-causing-outages/</link>
-      <description>42 points, 6 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50188614'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>43 points, 6 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50188614'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50188614</guid>
       <pubDate>Wed, 21 Oct 2026 22:33:08 +0000</pubDate>
     </item>
@@ -318,13 +339,6 @@
       <pubDate>Tue, 20 Oct 2026 10:26:02 +0000</pubDate>
     </item>
     <item>
-      <title>[security] Setting up SSH keys on macOS with Touch ID</title>
-      <link>https://nmattia.com/posts/2026-10-19-setting-up-ssh-keys-touch-id/</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/d7m5j1/setting_up_ssh_keys_on_macos_with_touch_id"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/d7m5j1</guid>
-      <pubDate>Tue, 20 Oct 2026 10:23:58 +0000</pubDate>
-    </item>
-    <item>
       <title>Google Cloud Disruptions / Outage in parts of Europe</title>
       <link>https://status.cloud.google.com/</link>
       <description>13 points, 2 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50163128'&gt;discussion sur Hacker News&lt;/a&gt;</description>
@@ -379,13 +393,6 @@
       <description>2 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50154089'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50154089</guid>
       <pubDate>Mon, 19 Oct 2026 16:05:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>[security] Tor VPN Beta: What we've learned building our own VPN for Android from scratch</title>
-      <link>https://blog.torproject.org/tor-vpn-beta/</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/s3w7hd/tor_vpn_beta_what_we_ve_learned_building"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/s3w7hd</guid>
-      <pubDate>Mon, 19 Oct 2026 08:27:55 +0000</pubDate>
     </item>
     <item>
       <title>Postmortem: Sweden's citizenship law shipped with no migration path</title>
@@ -1048,13 +1055,6 @@ Test instance where you are welcome to make a mess: &lt;a href="https://squalk-t
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ftakj1/life_beyond_distributed_transactions"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/ftakj1</guid>
       <pubDate>Tue, 25 Aug 2026 08:42:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>[distributed] Making the Impossible Possible (Again): Ten Years of Flexible Paxos</title>
-      <link>https://youtu.be/P0cAG-RM1_c</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/syper3/making_impossible_possible_again_ten"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/syper3</guid>
-      <pubDate>Tue, 25 Aug 2026 04:17:56 +0000</pubDate>
     </item>
     <item>
       <title>[devops] Dynamically Naming Servers</title>
