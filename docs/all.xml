@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 23 Oct 2026 23:40:17 +0000</lastBuildDate>
-    <item>
-      <title>[distributed] Animations for System Builders: Metastability and Lost Writes - Marc's Blog</title>
-      <link>https://brooker.co.za/blog/2026/10/23/animations.html</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/awlefz/animations_for_system_builders"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/awlefz</guid>
-      <pubDate>Fri, 23 Oct 2026 20:46:12 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 24 Oct 2026 02:31:44 +0000</lastBuildDate>
     <item>
       <title>[security] Distributed data, centralized fixes</title>
       <link>https://miren.dev/blog/distributed-data-centralized-fixes</link>
@@ -33,7 +26,7 @@
     <item>
       <title>Bitchat Becomes France's Top Social App Amid Riots and Mobile Network Outage</title>
       <link>https://gizmodo.com/jack-dorseys-bitchat-becomes-frances-top-social-app-amid-riots-and-mobile-network-outage-2000829670</link>
-      <description>8 points, 3 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50206782'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>9 points, 3 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50206782'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50206782</guid>
       <pubDate>Fri, 23 Oct 2026 10:23:10 +0000</pubDate>
     </item>
@@ -64,13 +57,6 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/l2l50n/header_accordions_qpack_amplification"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/l2l50n</guid>
       <pubDate>Thu, 22 Oct 2026 15:15:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>[distributed] The bridge to agent-scale Git infrastructure</title>
-      <link>https://github.blog/engineering/architecture-optimization/the-bridge-to-agent-scale-git-infrastructure/</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/nxvfjx/bridge_agent_scale_git_infrastructure"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/nxvfjx</guid>
-      <pubDate>Thu, 22 Oct 2026 12:24:15 +0000</pubDate>
     </item>
     <item>
       <title>Cable theft causes Openreach broadband outage for thousands in Thurnscoe, UK</title>
@@ -320,7 +306,7 @@
     <item>
       <title>Google Cloud outage affects almost all banking and other operations in Europe</title>
       <link>https://www.neowin.net/news/google-cloud-outage-takes-down-hsbc-revolut-bank-of-scotland-llyods-equifax-more/</link>
-      <description>404 points, 208 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50163961'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>404 points, 209 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50163961'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50163961</guid>
       <pubDate>Tue, 20 Oct 2026 10:26:02 +0000</pubDate>
     </item>
@@ -1055,6 +1041,20 @@ Test instance where you are welcome to make a mess: &lt;a href="https://squalk-t
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/p7solr/how_we_saved_100_terabytes_memory_by"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/p7solr</guid>
       <pubDate>Fri, 28 Aug 2026 06:54:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>[distributed] Life Beyond Distributed Transactions: An apostate’s opinion (2007)</title>
+      <link>https://spawn-queue.acm.org/doi/10.1145/3012426.3025012</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ftakj1/life_beyond_distributed_transactions"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/ftakj1</guid>
+      <pubDate>Tue, 25 Aug 2026 08:42:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>[distributed] Making the Impossible Possible (Again): Ten Years of Flexible Paxos</title>
+      <link>https://youtu.be/P0cAG-RM1_c</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/syper3/making_impossible_possible_again_ten"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/syper3</guid>
+      <pubDate>Tue, 25 Aug 2026 04:17:56 +0000</pubDate>
     </item>
     <item>
       <title>[devops] Dynamically Naming Servers</title>
