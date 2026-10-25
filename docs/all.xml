@@ -8,7 +8,22 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 25 Oct 2026 14:41:11 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 17:58:37 +0000</lastBuildDate>
+    <item>
+      <title>[security] POSIX wordexp(3) is dangerous</title>
+      <link>https://yossarian.net/til/post/posix-wordexp-3-is-dangerous/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/tbbiqb/posix_wordexp_3_is_dangerous"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/tbbiqb</guid>
+      <pubDate>Sun, 25 Oct 2026 15:09:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>[distributed] A vision for a next-generation timeline</title>
+      <link>https://media.ccc.de/v/matrix-conference-2026-99070-a-vision-for-a-next-generation-timeline</link>
+      <description>&lt;p&gt;Slides: &lt;a href="https://cfp.2026.matrix.org/media/matrix-conference-2026/submissions/WRGTRX/resources/sli_ZZVyXQu.pdf" rel="ugc"&gt;https://cfp.2026.matrix.org/media/matrix-conference-2026/submissions/WRGTRX/resources/sli_ZZVyXQu.pdf&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://lobste.rs/s/jdczl6/vision_for_next_generation_timeline"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/jdczl6</guid>
+      <pubDate>Sun, 25 Oct 2026 15:03:10 +0000</pubDate>
+    </item>
     <item>
       <title>Claude Mythos 5's GitHub adventure: The postmortem</title>
       <link>https://www.anthropic.com/research/alignment-assessment-ukaisi</link>
@@ -22,13 +37,6 @@
       <description>2 points, 2 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50227527'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50227527</guid>
       <pubDate>Sun, 25 Oct 2026 02:01:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>[practices] We should be more ambitious with the software we build</title>
-      <link>https://danluu.com/ambitious/</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/8h9sey/we_should_be_more_ambitious_with_software"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/8h9sey</guid>
-      <pubDate>Sat, 24 Oct 2026 23:06:08 +0000</pubDate>
     </item>
     <item>
       <title>[practices] The Polyglot's Dilemma: Conformance Testing a Dozen Specs in as Many Languages</title>
@@ -351,13 +359,6 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/42zgmq/jepsen_orkes_conductor_5_3_2"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/42zgmq</guid>
       <pubDate>Tue, 20 Oct 2026 13:14:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>[security] Protecting Firefox users following the compromise of eMudhra intermediate certificates</title>
-      <link>https://blog.mozilla.org/security/2026/10/20/protecting-firefox-users-following-the-compromise-of-emudhra-intermediate-certificates/</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/gqyvn5/protecting_firefox_users_following"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/gqyvn5</guid>
-      <pubDate>Tue, 20 Oct 2026 13:00:50 +0000</pubDate>
     </item>
     <item>
       <title>Google outage hits websites and apps as some bank customers report issues</title>
@@ -909,6 +910,13 @@
       <pubDate>Mon, 28 Sep 2026 09:58:26 +0000</pubDate>
     </item>
     <item>
+      <title>[practices] Pragmatic Anthropomorphism, or: How to Talk to an Autocompleting Cricket</title>
+      <link>https://blog.lmorchard.com/2026/09/27/pragmatic-anthropomorphism/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/yidvju/pragmatic_anthropomorphism_how_talk"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/yidvju</guid>
+      <pubDate>Mon, 28 Sep 2026 05:48:54 +0000</pubDate>
+    </item>
+    <item>
       <title>[distributed] Kafgres: Embedding a Kafka Broker into Postgres</title>
       <link>https://rynr.dev/blog/kafgres/</link>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/wkn1lr/kafgres_embedding_kafka_broker_into"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
@@ -1069,13 +1077,6 @@ Test instance where you are welcome to make a mess: &lt;a href="https://squalk-t
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/p7solr/how_we_saved_100_terabytes_memory_by"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/p7solr</guid>
       <pubDate>Fri, 28 Aug 2026 06:54:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>[distributed] Life Beyond Distributed Transactions: An apostate’s opinion (2007)</title>
-      <link>https://spawn-queue.acm.org/doi/10.1145/3012426.3025012</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ftakj1/life_beyond_distributed_transactions"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/ftakj1</guid>
-      <pubDate>Tue, 25 Aug 2026 08:42:09 +0000</pubDate>
     </item>
     <item>
       <title>[devops] Dynamically Naming Servers</title>
