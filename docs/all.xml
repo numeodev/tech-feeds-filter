@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 24 Oct 2026 22:07:07 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 00:41:09 +0000</lastBuildDate>
+    <item>
+      <title>[practices] We should be more ambitious with the software we build</title>
+      <link>https://danluu.com/ambitious/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/8h9sey/we_should_be_more_ambitious_with_software"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/8h9sey</guid>
+      <pubDate>Sat, 24 Oct 2026 23:06:08 +0000</pubDate>
+    </item>
     <item>
       <title>[practices] The Polyglot's Dilemma: Conformance Testing a Dozen Specs in as Many Languages</title>
       <link>https://emptysqua.re/blog/polyglots-dilemma/</link>
@@ -124,7 +131,7 @@
     <item>
       <title>Postgres recovery_prefetch can cause outages</title>
       <link>https://ardentperf.com/2026/10/20/postgres-recovery_prefetch-considered-harmful-and-causing-outages/</link>
-      <description>43 points, 6 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50188614'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>44 points, 6 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50188614'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50188614</guid>
       <pubDate>Wed, 21 Oct 2026 22:33:08 +0000</pubDate>
     </item>
@@ -886,13 +893,6 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/sxcz4v/yes_no_ai_is_now_feature"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/sxcz4v</guid>
       <pubDate>Mon, 28 Sep 2026 09:58:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>[practices] Pragmatic Anthropomorphism, or: How to Talk to an Autocompleting Cricket</title>
-      <link>https://blog.lmorchard.com/2026/09/27/pragmatic-anthropomorphism/</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/yidvju/pragmatic_anthropomorphism_how_talk"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/yidvju</guid>
-      <pubDate>Mon, 28 Sep 2026 05:48:54 +0000</pubDate>
     </item>
     <item>
       <title>[distributed] Kafgres: Embedding a Kafka Broker into Postgres</title>
