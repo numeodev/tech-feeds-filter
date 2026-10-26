@@ -8,7 +8,23 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 26 Oct 2026 11:52:24 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 17:54:40 +0000</lastBuildDate>
+    <item>
+      <title>[security] Web Page Crawler Revealed - tracking down requests from Contabo GmbH</title>
+      <link>https://bruceediger.com/posts/contabo-crawler/</link>
+      <description>&lt;p&gt;The story is a technical breakdown attempting to trace a series of crawlers from Contabo GmbH. Edited the title to be more clear.&lt;/p&gt;
+&lt;p&gt;This feels relevant here but I struggled with tagging this. I welcome suggestions for how to tag it better!&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://lobste.rs/s/eyrbup/web_page_crawler_revealed_tracking_down"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/eyrbup</guid>
+      <pubDate>Mon, 26 Oct 2026 16:28:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>[practices] Aggro is the Foundation (2022)</title>
+      <link>https://radimentary.wordpress.com/2022/11/07/aggro-is-the-foundation/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/lh8nvx/aggro_is_foundation_2022"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/lh8nvx</guid>
+      <pubDate>Mon, 26 Oct 2026 13:21:37 +0000</pubDate>
+    </item>
     <item>
       <title>[security] About the compromised eMudhra intermediate CAs</title>
       <link>https://support.apple.com/en-us/149555</link>
@@ -212,13 +228,6 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/nryxzd/do_minor_curl_vulnerabilities_open"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/nryxzd</guid>
       <pubDate>Tue, 20 Oct 2026 19:47:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>[security] How I got over 300 Tor exit nodes removed</title>
-      <link>https://kaba.cx/posts/20261020_Tor/</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/9h14un/how_i_got_over_300_tor_exit_nodes_removed"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/9h14un</guid>
-      <pubDate>Tue, 20 Oct 2026 18:44:42 +0000</pubDate>
     </item>
     <item>
       <title>[distributed] Jepsen: Orkes Conductor 5.3.2</title>
@@ -614,13 +623,6 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/xaqlnv/first_steps_plc_organization"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/xaqlnv</guid>
       <pubDate>Tue, 29 Sep 2026 06:57:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>[practices] Yes, no AI is now a feature</title>
-      <link>https://blog.documentfoundation.org/blog/2026/09/03/yes-no-ai-is-now-a-feature/</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/sxcz4v/yes_no_ai_is_now_feature"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/sxcz4v</guid>
-      <pubDate>Mon, 28 Sep 2026 09:58:26 +0000</pubDate>
     </item>
     <item>
       <title>[distributed] Kafgres: Embedding a Kafka Broker into Postgres</title>
