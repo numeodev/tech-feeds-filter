@@ -8,7 +8,21 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 26 Oct 2026 17:54:40 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 22:05:47 +0000</lastBuildDate>
+    <item>
+      <title>[security] The Limits of Fingerprint Blocklists: A Reproducible Java Certificate Bypass</title>
+      <link>https://www.sonatype.com/blog/the-limits-of-fingerprint-blocklists-a-reproducible-java-certificate-bypass</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/aszhzo/limits_fingerprint_blocklists"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/aszhzo</guid>
+      <pubDate>Mon, 26 Oct 2026 20:33:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>[security] Less Is More: From 1M Lines of Firmware to 300 of Assembly</title>
+      <link>https://tinfoil.sh/blog/2026-10-25-less-is-more</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/q5dung/less_is_more_from_1m_lines_firmware_300"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/q5dung</guid>
+      <pubDate>Mon, 26 Oct 2026 17:56:24 +0000</pubDate>
+    </item>
     <item>
       <title>[security] Web Page Crawler Revealed - tracking down requests from Contabo GmbH</title>
       <link>https://bruceediger.com/posts/contabo-crawler/</link>
@@ -214,20 +228,6 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ekxoyt/upcoming_critical_php_security_release"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/ekxoyt</guid>
       <pubDate>Tue, 20 Oct 2026 22:23:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>[security] thebroken Episode 1 (2003)</title>
-      <link>https://www.youtube.com/watch?v=A_xTA-YAa9U&amp;t=2m10s</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/hypbid/thebroken_episode_1_2003"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/hypbid</guid>
-      <pubDate>Tue, 20 Oct 2026 20:49:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>[security] Do minor curl vulnerabilities in the open</title>
-      <link>https://daniel.haxx.se/blog/2026/10/20/do-minor-curl-vulnerabilities-in-the-open/</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/nryxzd/do_minor_curl_vulnerabilities_open"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/nryxzd</guid>
-      <pubDate>Tue, 20 Oct 2026 19:47:54 +0000</pubDate>
     </item>
     <item>
       <title>[distributed] Jepsen: Orkes Conductor 5.3.2</title>
