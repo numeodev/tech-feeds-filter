@@ -8,7 +8,28 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 27 Oct 2026 19:04:56 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 23:21:02 +0000</lastBuildDate>
+    <item>
+      <title>[security] The next circle of security hell</title>
+      <link>https://blogs.gentoo.org/mgorny/2026/10/27/the-next-circle-of-security-hell/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/f3jpq3/next_circle_security_hell"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/f3jpq3</guid>
+      <pubDate>Tue, 27 Oct 2026 20:10:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>[security] Hardening a shared Linux host against cache covert channels</title>
+      <link>https://gctl.io/blog/2026/hardening-a-shared-host-against-cache-covert-channels/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/mruv8a/hardening_shared_linux_host_against"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/mruv8a</guid>
+      <pubDate>Tue, 27 Oct 2026 19:14:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>[security] Fuzzers vs. AI: Comparing Fuzzilli and BigSleep on JavaScript Engines</title>
+      <link>https://projectzero.google/2026/10/fuzzing-v-AI.html</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/rswyzt/fuzzers_vs_ai_comparing_fuzzilli"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/rswyzt</guid>
+      <pubDate>Tue, 27 Oct 2026 19:08:23 +0000</pubDate>
+    </item>
     <item>
       <title>[security] An Evening with Berferd: In Which a Cracker is Lured, Endured, and Studied (1992)</title>
       <link>https://www.cheswick.com/ches/papers/berferd.pdf</link>
@@ -207,27 +228,6 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ebsqsp/eight_bits_trust_emudhra_s_ca_keys_cracked"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/ebsqsp</guid>
       <pubDate>Wed, 21 Oct 2026 13:50:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>[security] Firefox security patch tests are now private for at least a week</title>
-      <link>https://groups.google.com/a/mozilla.org/g/firefox-dev/c/4I1HSPtVyrI/m/giGra4ZzAQAJ</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/othohc/firefox_security_patch_tests_are_now"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/othohc</guid>
-      <pubDate>Wed, 21 Oct 2026 07:13:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>[security] Unauthorized Access to PingCAP Cloud Resources</title>
-      <link>https://www.pingcap.com/trust-hub/security/security-update-october-2026/</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/x7codz/unauthorized_access_pingcap_cloud"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/x7codz</guid>
-      <pubDate>Wed, 21 Oct 2026 00:44:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>[security] Upcoming Critical PHP Security Release</title>
-      <link>https://www.php.net/archive/2026.php#2026-10-20-1</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ekxoyt/upcoming_critical_php_security_release"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/ekxoyt</guid>
-      <pubDate>Tue, 20 Oct 2026 22:23:54 +0000</pubDate>
     </item>
     <item>
       <title>[distributed] Jepsen: Orkes Conductor 5.3.2</title>
