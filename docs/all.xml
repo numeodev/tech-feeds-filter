@@ -8,20 +8,27 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 26 Oct 2026 22:05:47 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 01:43:30 +0000</lastBuildDate>
+    <item>
+      <title>[security] The passkey is worse</title>
+      <link>https://www.kcoleman.me/2026/10/22/hacked.html</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ihmfsc/passkey_is_worse"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/ihmfsc</guid>
+      <pubDate>Mon, 26 Oct 2026 23:44:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>[r/sre] Stop &amp; Shop's outage made me map what could take us down</title>
+      <link>https://www.reddit.com/r/sre/comments/1xgd0iv/stop_shops_outage_made_me_map_what_could_take_us/</link>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Stop &amp;amp; Shop's website and app went down this month after a cybersecurity incident at Ahold Delhaize, while the stores stayed open.&lt;/p&gt; &lt;p&gt;It got me listing everything that could take our online shops down for a week right before Black Friday.&lt;/p&gt; &lt;p&gt;Neither of our 2 platforms made the list (one brand is on Scayle, the other on Shopify Plus), since both are hosted and have held up through every peak we've had on them.&lt;/p&gt; &lt;p&gt;What made the list is everything sitting behind both of them, the SSO our team logs in with, the job that syncs stock from the warehouse system, the payment provider they share and the DNS account both domains live in.&lt;/p&gt; &lt;p&gt;If the stock sync goes down on a peak day, both shops keep selling things we don't have, and if SSO goes down the team can't get into anything to fix it.&lt;/p&gt; &lt;p&gt;A ransomware hit on the corporate network would reach most of those at once, and that's the scenario our runbook has the least to say about.&lt;/p&gt; &lt;p&gt;So before Black Friday, each of those is getting a way to fail without taking both shops down with it.&lt;/p&gt; &lt;p&gt;thoughts?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/BrynleeCampbell"&gt; /u/BrynleeCampbell &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/r/sre/comments/1xgd0iv/stop_shops_outage_made_me_map_what_could_take_us/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/sre/comments/1xgd0iv/stop_shops_outage_made_me_map_what_could_take_us/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</description>
+      <guid isPermaLink="false">https://www.reddit.com/r/sre/t3_1xgd0iv</guid>
+      <pubDate>Mon, 26 Oct 2026 23:42:36 +0000</pubDate>
+    </item>
     <item>
       <title>[security] The Limits of Fingerprint Blocklists: A Reproducible Java Certificate Bypass</title>
       <link>https://www.sonatype.com/blog/the-limits-of-fingerprint-blocklists-a-reproducible-java-certificate-bypass</link>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/aszhzo/limits_fingerprint_blocklists"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/aszhzo</guid>
       <pubDate>Mon, 26 Oct 2026 20:33:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>[security] Less Is More: From 1M Lines of Firmware to 300 of Assembly</title>
-      <link>https://tinfoil.sh/blog/2026-10-25-less-is-more</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/q5dung/less_is_more_from_1m_lines_firmware_300"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/q5dung</guid>
-      <pubDate>Mon, 26 Oct 2026 17:56:24 +0000</pubDate>
     </item>
     <item>
       <title>[security] Web Page Crawler Revealed - tracking down requests from Contabo GmbH</title>
