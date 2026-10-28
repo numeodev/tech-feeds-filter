@@ -8,7 +8,35 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 28 Oct 2026 03:03:38 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 10:09:27 +0000</lastBuildDate>
+    <item>
+      <title>[security] Code-execution flaw in UEFI firmware affects most servers on planet Earth</title>
+      <link>https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/0gomue/code_execution_flaw_uefi_firmware"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/0gomue</guid>
+      <pubDate>Wed, 28 Oct 2026 09:18:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>[security] Scalable Vector Grief</title>
+      <link>https://portswigger.net/research/scalable-vector-grief</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/vekgyd/scalable_vector_grief"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/vekgyd</guid>
+      <pubDate>Wed, 28 Oct 2026 07:26:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>[security] This is not sustainable</title>
+      <link>https://www.netmeister.org/blog/defense-ddos.html</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/cpaibp/this_is_not_sustainable"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/cpaibp</guid>
+      <pubDate>Wed, 28 Oct 2026 03:56:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>[security] Tailscale SSH: Investigation and remediation update</title>
+      <link>https://tailscale.com/ssh-investigation-update</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/qmvxuh/tailscale_ssh_investigation"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/qmvxuh</guid>
+      <pubDate>Wed, 28 Oct 2026 01:31:44 +0000</pubDate>
+    </item>
     <item>
       <title>[security] The next circle of security hell</title>
       <link>https://blogs.gentoo.org/mgorny/2026/10/27/the-next-circle-of-security-hell/</link>
@@ -202,32 +230,11 @@
       <pubDate>Wed, 21 Oct 2026 17:40:17 +0000</pubDate>
     </item>
     <item>
-      <title>[practices, security] Your AI agent fixed the bug, but what else did it change?</title>
+      <title>[practices] Your AI agent fixed the bug, but what else did it change?</title>
       <link>https://blog.trailofbits.com/2026/10/21/your-ai-agent-fixed-the-bug-but-what-else-did-it-change/</link>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/17bp4z/your_ai_agent_fixed_bug_what_else_did_it"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/17bp4z</guid>
       <pubDate>Wed, 21 Oct 2026 16:07:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>[security] Node.js — Wednesday, October 21, 2026 Security Releases</title>
-      <link>https://nodejs.org/en/blog/vulnerability/october-2026-security-releases</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/gu7bow/node_js_wednesday_october_21_2026"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/gu7bow</guid>
-      <pubDate>Wed, 21 Oct 2026 15:53:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>[security] Eight Bits of Trust; eMudhra's CA keys cracked in milliseconds</title>
-      <link>https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ebsqsp/eight_bits_trust_emudhra_s_ca_keys_cracked"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/ebsqsp</guid>
-      <pubDate>Wed, 21 Oct 2026 13:50:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>[security] Firefox security patch tests are now private for at least a week</title>
-      <link>https://groups.google.com/a/mozilla.org/g/firefox-dev/c/4I1HSPtVyrI/m/giGra4ZzAQAJ</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/othohc/firefox_security_patch_tests_are_now"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/othohc</guid>
-      <pubDate>Wed, 21 Oct 2026 07:13:16 +0000</pubDate>
     </item>
     <item>
       <title>[distributed] Jepsen: Orkes Conductor 5.3.2</title>
