@@ -8,20 +8,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 27 Oct 2026 23:21:02 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 03:03:38 +0000</lastBuildDate>
     <item>
       <title>[security] The next circle of security hell</title>
       <link>https://blogs.gentoo.org/mgorny/2026/10/27/the-next-circle-of-security-hell/</link>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/f3jpq3/next_circle_security_hell"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/f3jpq3</guid>
       <pubDate>Tue, 27 Oct 2026 20:10:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>[security] Hardening a shared Linux host against cache covert channels</title>
-      <link>https://gctl.io/blog/2026/hardening-a-shared-host-against-cache-covert-channels/</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/mruv8a/hardening_shared_linux_host_against"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/mruv8a</guid>
-      <pubDate>Tue, 27 Oct 2026 19:14:01 +0000</pubDate>
     </item>
     <item>
       <title>[security] Fuzzers vs. AI: Comparing Fuzzilli and BigSleep on JavaScript Engines</title>
@@ -228,6 +221,13 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ebsqsp/eight_bits_trust_emudhra_s_ca_keys_cracked"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/ebsqsp</guid>
       <pubDate>Wed, 21 Oct 2026 13:50:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>[security] Firefox security patch tests are now private for at least a week</title>
+      <link>https://groups.google.com/a/mozilla.org/g/firefox-dev/c/4I1HSPtVyrI/m/giGra4ZzAQAJ</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/othohc/firefox_security_patch_tests_are_now"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/othohc</guid>
+      <pubDate>Wed, 21 Oct 2026 07:13:16 +0000</pubDate>
     </item>
     <item>
       <title>[distributed] Jepsen: Orkes Conductor 5.3.2</title>

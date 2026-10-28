@@ -8,11 +8,11 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 27 Oct 2026 23:21:02 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 03:03:38 +0000</lastBuildDate>
     <item>
       <title>Hacking attempts against US Federal Election Commission system triggered outage</title>
       <link>https://www.reuters.com/technology/hacker-trying-breach-us-federal-election-commission-system-email-shows-2026-10-27/</link>
-      <description>3 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50265147'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>4 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50265147'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50265147</guid>
       <pubDate>Tue, 27 Oct 2026 20:15:20 +0000</pubDate>
     </item>
@@ -22,13 +22,6 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/f3jpq3/next_circle_security_hell"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/f3jpq3</guid>
       <pubDate>Tue, 27 Oct 2026 20:10:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>[security] Hardening a shared Linux host against cache covert channels</title>
-      <link>https://gctl.io/blog/2026/hardening-a-shared-host-against-cache-covert-channels/</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/mruv8a/hardening_shared_linux_host_against"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/mruv8a</guid>
-      <pubDate>Tue, 27 Oct 2026 19:14:01 +0000</pubDate>
     </item>
     <item>
       <title>[security] Fuzzers vs. AI: Comparing Fuzzilli and BigSleep on JavaScript Engines</title>
@@ -342,6 +335,13 @@
       <pubDate>Wed, 21 Oct 2026 07:55:53 +0000</pubDate>
     </item>
     <item>
+      <title>[security] Firefox security patch tests are now private for at least a week</title>
+      <link>https://groups.google.com/a/mozilla.org/g/firefox-dev/c/4I1HSPtVyrI/m/giGra4ZzAQAJ</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/othohc/firefox_security_patch_tests_are_now"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/othohc</guid>
+      <pubDate>Wed, 21 Oct 2026 07:13:16 +0000</pubDate>
+    </item>
+    <item>
       <title>Incident Control D DNS Outage on October 11, 2026</title>
       <link>https://controld.com/blog/incident-october-11-2026/</link>
       <description>1 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50170116'&gt;discussion sur Hacker News&lt;/a&gt;</description>
@@ -648,13 +648,6 @@
       <description>4 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50084147'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50084147</guid>
       <pubDate>Wed, 14 Oct 2026 08:18:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>Show HN: Mosh-rs, Mosh rewritten in Rust with scrollback and Windows support</title>
-      <link>https://github.com/Arunjay4213/mosh-rs</link>
-      <description>20 points, 11 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50080836'&gt;discussion sur Hacker News&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50080836</guid>
-      <pubDate>Wed, 14 Oct 2026 00:22:19 +0000</pubDate>
     </item>
     <item>
       <title>[practices] The 2026 Maintainers Summit</title>
