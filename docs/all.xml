@@ -8,7 +8,28 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 28 Oct 2026 10:09:27 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 16:53:11 +0000</lastBuildDate>
+    <item>
+      <title>[security] Forging a Microsoft Edge Full Chain with Logic Bugs Only</title>
+      <link>https://blog.orange.tw/posts/2026-10-the-last-proof-of-human-craft-browser-full-chain/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ansfvi/forging_microsoft_edge_full_chain_with"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/ansfvi</guid>
+      <pubDate>Wed, 28 Oct 2026 13:34:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>[practices] A Little Bit of Slope Makes Up For a Lot of Y-Intercept</title>
+      <link>https://www.youtube.com/watch?v=mE98Is1quwY</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/gqo17p/little_bit_slope_makes_up_for_lot_y"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/gqo17p</guid>
+      <pubDate>Wed, 28 Oct 2026 10:56:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>[practices] Hunger beats tenure: Advice for junior engineers</title>
+      <link>https://felixrieseberg.com/hunger-beats-tenure-advice-for-junior-engineers/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/fcwca6/hunger_beats_tenure_advice_for_junior"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/fcwca6</guid>
+      <pubDate>Wed, 28 Oct 2026 10:12:06 +0000</pubDate>
+    </item>
     <item>
       <title>[security] Code-execution flaw in UEFI firmware affects most servers on planet Earth</title>
       <link>https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth/</link>
@@ -298,13 +319,6 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/cdnepk/passkeys_attestation_trap"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/cdnepk</guid>
       <pubDate>Wed, 21 Oct 2026 18:16:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>[security] CVE-2026-107891: musl libc: multiple integer overflow in regcomp, possibly leading to incorrect allocation sizes and out-of-bounds heap writes</title>
-      <link>https://www.openwall.com/lists/oss-security/2026/10/21/18</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/dldfel/cve_2026_107891_musl_libc_multiple"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/dldfel</guid>
-      <pubDate>Wed, 21 Oct 2026 17:40:17 +0000</pubDate>
     </item>
     <item>
       <title>Europe's financial regulators query Google over cloud outage that hit banks</title>
@@ -629,13 +643,6 @@
       <pubDate>Wed, 14 Oct 2026 17:50:22 +0000</pubDate>
     </item>
     <item>
-      <title>GitLab outage during rate limit preview</title>
-      <link>https://status.gitlab.com/pages/incident/5b36dc6502d06804c08349f7/6acf92b0cb21fb05a5db93f4</link>
-      <description>4 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50089743'&gt;discussion sur Hacker News&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50089743</guid>
-      <pubDate>Wed, 14 Oct 2026 15:59:18 +0000</pubDate>
-    </item>
-    <item>
       <title>[vcs] GitLab warns of max severity code execution vulnerability</title>
       <link>https://www.bleepingcomputer.com/news/security/gitlab-warns-of-max-severity-rce-flaw-in-regex-compiler-engine/</link>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/tehays/gitlab_warns_max_severity_code_execution"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
@@ -883,13 +890,6 @@
       <pubDate>Wed, 30 Sep 2026 11:40:02 +0000</pubDate>
     </item>
     <item>
-      <title>[practices] How to work in a software engineering team (2022)</title>
-      <link>https://kimmosaaskilahti.fi/blog/2022/02/25/how-to-work-in-a-software-engineering-team/</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/fmnvbk/how_work_software_engineering_team_2022"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/fmnvbk</guid>
-      <pubDate>Tue, 29 Sep 2026 22:34:26 +0000</pubDate>
-    </item>
-    <item>
       <title>[vcs] Change Tours | Because understanding a code change is hard</title>
       <link>https://hannahpotter.github.io/projects/change_tours.html</link>
       <description>&lt;p&gt;Project available at &lt;a href="https://github.com/hannahpotter/changetours-vscode-pull-request-github" rel="ugc"&gt;https://github.com/hannahpotter/changetours-vscode-pull-request-github&lt;/a&gt;&lt;/p&gt;
@@ -910,13 +910,6 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/wuiaba/deterministic_concurrency"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/wuiaba</guid>
       <pubDate>Tue, 29 Sep 2026 09:42:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>[practices] What makes software development engineering</title>
-      <link>https://parksb.github.io/en/article/44.html</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/scgtd6/what_makes_software_development"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/scgtd6</guid>
-      <pubDate>Tue, 29 Sep 2026 07:49:39 +0000</pubDate>
     </item>
     <item>
       <title>[distributed] First steps of the PLC organization</title>
