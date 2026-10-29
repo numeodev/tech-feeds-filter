@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 29 Oct 2026 01:24:01 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 07:48:26 +0000</lastBuildDate>
+    <item>
+      <title>Tangled.org ongoing outage (&gt;= 7 hours) due to AT protocol</title>
+      <link>https://status.tangled.org</link>
+      <description>2 points, 3 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50283664'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50283664</guid>
+      <pubDate>Thu, 29 Oct 2026 02:00:54 +0000</pubDate>
+    </item>
     <item>
       <title>CSX operations affected by technology systems outage</title>
       <link>https://www.trains.com/pro/freight/class-i/csx-operations-affected-by-technology-systems-outage/</link>
@@ -274,13 +281,6 @@
       <description>10 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50104406'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50104406</guid>
       <pubDate>Thu, 15 Oct 2026 14:44:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>DeepSeek Outage</title>
-      <link>https://status.deepseek.com/incidents/7116348214287</link>
-      <description>6 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50098365'&gt;discussion sur Hacker News&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50098365</guid>
-      <pubDate>Thu, 15 Oct 2026 02:20:16 +0000</pubDate>
     </item>
   </channel>
 </rss>
