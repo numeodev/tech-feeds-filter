@@ -8,7 +8,35 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 29 Oct 2026 14:46:45 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 19:57:33 +0000</lastBuildDate>
+    <item>
+      <title>[security] Cybersecurity Is About to Be the Biggest Problem in Tech</title>
+      <link>https://projectautonomy.substack.com/p/cybersecurity-is-about-to-be-the</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/esit9r/cybersecurity_is_about_be_biggest"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/esit9r</guid>
+      <pubDate>Thu, 29 Oct 2026 19:00:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>[practices] An open format for writing agent-native software requirements</title>
+      <link>https://slcr.dev/announcements#2026-10-29-slcr-launches</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/nexvnc/open_format_for_writing_agent_native"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/nexvnc</guid>
+      <pubDate>Thu, 29 Oct 2026 16:17:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>[vcs] Phorge</title>
+      <link>https://www.phorge.it/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/tw3rsp/phorge"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/tw3rsp</guid>
+      <pubDate>Thu, 29 Oct 2026 16:08:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>[security] Azure’s Weakest Link - Five Full Cross-Tenant Compromises</title>
+      <link>https://www.binarysecurity.no/posts/2026/10/one-root-case</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/gttasf/azure_s_weakest_link_five_full_cross"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/gttasf</guid>
+      <pubDate>Thu, 29 Oct 2026 14:57:21 +0000</pubDate>
+    </item>
     <item>
       <title>[security] Shared password manager for families?</title>
       <link>https://lobste.rs/s/eccbci/shared_password_manager_for_families</link>
@@ -45,7 +73,7 @@ Forgery attacks that affect many Web applicatio&lt;/p&gt;
     <item>
       <title>Tangled.org ongoing outage (&gt;= 7 hours) due to AT protocol</title>
       <link>https://status.tangled.org</link>
-      <description>2 points, 4 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50283664'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>3 points, 4 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50283664'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50283664</guid>
       <pubDate>Thu, 29 Oct 2026 02:00:54 +0000</pubDate>
     </item>
@@ -319,13 +347,6 @@ Forgery attacks that affect many Web applicatio&lt;/p&gt;
       <pubDate>Thu, 22 Oct 2026 07:37:57 +0000</pubDate>
     </item>
     <item>
-      <title>[security] Turning IPv6 tunnels into programmable delay lines for pulsing DoS</title>
-      <link>https://blog.apnic.net/2026/10/22/turning-ipv6-tunnels-into-programmable-delay-lines-for-pulsing-dos/</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/qgbvku/turning_ipv6_tunnels_into_programmable"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/qgbvku</guid>
-      <pubDate>Thu, 22 Oct 2026 02:18:33 +0000</pubDate>
-    </item>
-    <item>
       <title>Widespread PHP Flaw May Cause Many Site Outages Today</title>
       <link>https://krebsonsecurity.com/2026/10/widespread-php-flaw-may-cause-many-site-outages-today/</link>
       <description>3 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50190192'&gt;discussion sur Hacker News&lt;/a&gt;</description>
@@ -340,7 +361,7 @@ Forgery attacks that affect many Web applicatio&lt;/p&gt;
       <pubDate>Wed, 21 Oct 2026 22:33:08 +0000</pubDate>
     </item>
     <item>
-      <title>[devops, security] Railway Security Disclosure: Wednesday October 21st</title>
+      <title>[devops] Railway Security Disclosure: Wednesday October 21st</title>
       <link>https://blog.railway.com/p/security-disclosure-wednesday-october-21st</link>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/wi4nnl/railway_security_disclosure_wednesday"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/wi4nnl</guid>
@@ -415,6 +436,13 @@ Forgery attacks that affect many Web applicatio&lt;/p&gt;
       <description>6 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50167478'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50167478</guid>
       <pubDate>Tue, 20 Oct 2026 15:01:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>[r/sre] Vendor Outages</title>
+      <link>https://www.reddit.com/r/sre/comments/1xau38p/vendor_outages/</link>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Quick one. What tools do you use for notifying your team of major outages outside of the usual observability tools for the services you look after? Are there any free tools/apps that can be used outside of work?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/Baddster"&gt; /u/Baddster &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/r/sre/comments/1xau38p/vendor_outages/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/sre/comments/1xau38p/vendor_outages/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</description>
+      <guid isPermaLink="false">https://www.reddit.com/r/sre/t3_1xau38p</guid>
+      <pubDate>Tue, 20 Oct 2026 14:46:52 +0000</pubDate>
     </item>
     <item>
       <title>Google Cloud's Europe-west2 (London) outage</title>
@@ -583,13 +611,6 @@ Forgery attacks that affect many Web applicatio&lt;/p&gt;
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/vemho2/forgejo_v17_0_is_available"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/vemho2</guid>
       <pubDate>Thu, 15 Oct 2026 19:43:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>Major Outage on Cloudflare</title>
-      <link>https://www.cloudflarestatus.com/</link>
-      <description>19 points, 6 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50104773'&gt;discussion sur Hacker News&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50104773</guid>
-      <pubDate>Thu, 15 Oct 2026 15:06:12 +0000</pubDate>
     </item>
     <item>
       <title>[distributed] End-to-end encrypted relays for OCapN</title>
@@ -895,13 +916,6 @@ Forgery attacks that affect many Web applicatio&lt;/p&gt;
       <pubDate>Wed, 30 Sep 2026 11:40:02 +0000</pubDate>
     </item>
     <item>
-      <title>[practices] How to work in a software engineering team (2022)</title>
-      <link>https://kimmosaaskilahti.fi/blog/2022/02/25/how-to-work-in-a-software-engineering-team/</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/fmnvbk/how_work_software_engineering_team_2022"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/fmnvbk</guid>
-      <pubDate>Tue, 29 Sep 2026 22:34:26 +0000</pubDate>
-    </item>
-    <item>
       <title>[vcs] Change Tours | Because understanding a code change is hard</title>
       <link>https://hannahpotter.github.io/projects/change_tours.html</link>
       <description>&lt;p&gt;Project available at &lt;a href="https://github.com/hannahpotter/changetours-vscode-pull-request-github" rel="ugc"&gt;https://github.com/hannahpotter/changetours-vscode-pull-request-github&lt;/a&gt;&lt;/p&gt;
@@ -986,13 +1000,6 @@ Test instance where you are welcome to make a mess: &lt;a href="https://squalk-t
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ppfyza/how_notion_handles_concurrent_editing"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/ppfyza</guid>
       <pubDate>Sun, 20 Sep 2026 12:06:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>[vcs] Beyond jj: config &amp; tools ecosystem</title>
-      <link>https://andre.arko.net/2026/09/16/beyond-jj-config-and-tools-ecosystem/</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/xgdt4u/beyond_jj_config_tools_ecosystem"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/xgdt4u</guid>
-      <pubDate>Sun, 20 Sep 2026 10:51:04 +0000</pubDate>
     </item>
     <item>
       <title>[devops] Secure VMs for Kubernetes: Hardening Kata containers</title>
