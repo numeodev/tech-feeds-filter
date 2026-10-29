@@ -8,13 +8,20 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 29 Oct 2026 07:48:27 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 14:46:45 +0000</lastBuildDate>
     <item>
-      <title>[devops] My Terminal Setup in 2026: Ghostty, tmux, and Neovim</title>
-      <link>https://nick-liu.com/posts/my-terminal-setup-2026/</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/opmxlq/my_terminal_setup_2026_ghostty_tmux"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/opmxlq</guid>
-      <pubDate>Thu, 29 Oct 2026 07:39:00 +0000</pubDate>
+      <title>[security] Shared password manager for families?</title>
+      <link>https://lobste.rs/s/eccbci/shared_password_manager_for_families</link>
+      <description>&lt;p&gt;Long story short, I need to have a bunch of shared accounts with family for finance and insurance and stuff, mostly for the sake of family members who are getting old and need help keeping things organized.  So the requirements are:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Shared over long distances; just having each of us have our own password manager won't work well&lt;/li&gt;
+&lt;li&gt;Usable for non-techie people, so no command line stuff&lt;/li&gt;
+&lt;li&gt;I can self-host a web thing if necessary&lt;/li&gt;
+&lt;li&gt;Works on Linux and MacOS/iOS&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;I &lt;em&gt;would&lt;/em&gt; just use 1Password, but recent events have demonstrated them as not exactly competent.  I could always use KeepassXC and keep the file in a Google Drive folder, or maybe teach my siblings to use Syncthing, but that feels like extra steps we could do without.  Anyone have any recommendations for how to do this well?&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/eccbci</guid>
+      <pubDate>Thu, 29 Oct 2026 14:39:51 +0000</pubDate>
     </item>
     <item>
       <title>[security] A single malformed WAP Push SMS crashes com.android.phone on Android, dropping active calls (including emergency calls)</title>
@@ -38,7 +45,7 @@ Forgery attacks that affect many Web applicatio&lt;/p&gt;
     <item>
       <title>Tangled.org ongoing outage (&gt;= 7 hours) due to AT protocol</title>
       <link>https://status.tangled.org</link>
-      <description>2 points, 3 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50283664'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>2 points, 4 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50283664'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50283664</guid>
       <pubDate>Thu, 29 Oct 2026 02:00:54 +0000</pubDate>
     </item>
@@ -340,13 +347,6 @@ Forgery attacks that affect many Web applicatio&lt;/p&gt;
       <pubDate>Wed, 21 Oct 2026 22:31:11 +0000</pubDate>
     </item>
     <item>
-      <title>[security] Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor</title>
-      <link>https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/2czsv4/compromised_litellm_1_107_0_on_pypi"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/2czsv4</guid>
-      <pubDate>Wed, 21 Oct 2026 21:32:29 +0000</pubDate>
-    </item>
-    <item>
       <title>[vcs] GitLab Critical Patch Release</title>
       <link>https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/</link>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/pnpcso/gitlab_critical_patch_release"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
@@ -415,13 +415,6 @@ Forgery attacks that affect many Web applicatio&lt;/p&gt;
       <description>6 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50167478'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50167478</guid>
       <pubDate>Tue, 20 Oct 2026 15:01:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>[r/sre] Vendor Outages</title>
-      <link>https://www.reddit.com/r/sre/comments/1xau38p/vendor_outages/</link>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Quick one. What tools do you use for notifying your team of major outages outside of the usual observability tools for the services you look after? Are there any free tools/apps that can be used outside of work?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/Baddster"&gt; /u/Baddster &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/r/sre/comments/1xau38p/vendor_outages/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/sre/comments/1xau38p/vendor_outages/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</description>
-      <guid isPermaLink="false">https://www.reddit.com/r/sre/t3_1xau38p</guid>
-      <pubDate>Tue, 20 Oct 2026 14:46:52 +0000</pubDate>
     </item>
     <item>
       <title>Google Cloud's Europe-west2 (London) outage</title>
@@ -597,13 +590,6 @@ Forgery attacks that affect many Web applicatio&lt;/p&gt;
       <description>19 points, 6 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50104773'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50104773</guid>
       <pubDate>Thu, 15 Oct 2026 15:06:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Deltabox: A rollback-able agent sandbox</title>
-      <link>https://github.com/delta-box/deltabox-lite</link>
-      <description>10 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50104406'&gt;discussion sur Hacker News&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50104406</guid>
-      <pubDate>Thu, 15 Oct 2026 14:44:12 +0000</pubDate>
     </item>
     <item>
       <title>[distributed] End-to-end encrypted relays for OCapN</title>
@@ -1154,6 +1140,13 @@ Test instance where you are welcome to make a mess: &lt;a href="https://squalk-t
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ugkhor/my_homelab_got_hacked_postmortem"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/ugkhor</guid>
       <pubDate>Wed, 12 Aug 2026 15:50:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>[devops] An inter-mesh deployment pipeline</title>
+      <link>https://blog.zm.is/an-inter-mesh-deployment-pipeline/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/xoivjb/inter_mesh_deployment_pipeline"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/xoivjb</guid>
+      <pubDate>Tue, 11 Aug 2026 10:11:38 +0000</pubDate>
     </item>
   </channel>
 </rss>
