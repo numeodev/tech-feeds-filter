@@ -8,11 +8,18 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 28 Oct 2026 21:25:54 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 01:24:02 +0000</lastBuildDate>
+    <item>
+      <title>[security] GitLab security incident: attempted exploitation of CVE-2026-97229 | Alpine Linux</title>
+      <link>https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/2zsjwt/gitlab_security_incident_attempted"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/2zsjwt</guid>
+      <pubDate>Wed, 28 Oct 2026 23:01:26 +0000</pubDate>
+    </item>
     <item>
       <title>CSX operations affected by technology systems outage</title>
       <link>https://www.trains.com/pro/freight/class-i/csx-operations-affected-by-technology-systems-outage/</link>
-      <description>1 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50279719'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>2 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50279719'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50279719</guid>
       <pubDate>Wed, 28 Oct 2026 19:41:01 +0000</pubDate>
     </item>
@@ -319,13 +326,6 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/pnpcso/gitlab_critical_patch_release"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/pnpcso</guid>
       <pubDate>Wed, 21 Oct 2026 20:48:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>[security] Passkeys Attestation Trap</title>
-      <link>https://mjtsai.com/blog/2026/10/15/passkeys-attestation-trap/</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/cdnepk/passkeys_attestation_trap"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/cdnepk</guid>
-      <pubDate>Wed, 21 Oct 2026 18:16:22 +0000</pubDate>
     </item>
     <item>
       <title>Europe's financial regulators query Google over cloud outage that hit banks</title>
