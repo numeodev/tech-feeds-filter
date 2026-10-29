@@ -8,13 +8,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 29 Oct 2026 19:57:33 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 23:46:15 +0000</lastBuildDate>
     <item>
-      <title>[security] Cybersecurity Is About to Be the Biggest Problem in Tech</title>
-      <link>https://projectautonomy.substack.com/p/cybersecurity-is-about-to-be-the</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/esit9r/cybersecurity_is_about_be_biggest"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/esit9r</guid>
-      <pubDate>Thu, 29 Oct 2026 19:00:39 +0000</pubDate>
+      <title>[security] C2PA's eMudhra Moment</title>
+      <link>https://www.da.vidbuchanan.co.uk/blog/c2pa-four.html</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/2matgw/c2pa_s_emudhra_moment"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/2matgw</guid>
+      <pubDate>Thu, 29 Oct 2026 20:33:44 +0000</pubDate>
     </item>
     <item>
       <title>[practices] An open format for writing agent-native software requirements</title>
