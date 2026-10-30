@@ -8,20 +8,42 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 30 Oct 2026 10:34:51 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 16:52:11 +0000</lastBuildDate>
+    <item>
+      <title>[vcs] Building fine-grained version control for agents with Rust and Durable Objects</title>
+      <link>https://delta.dev/blog/fine-grained-version-control-for-agents</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/cctbcu/building_fine_grained_version_control"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/cctbcu</guid>
+      <pubDate>Fri, 30 Oct 2026 16:50:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>[practices] Reviewing vs Doing</title>
+      <link>https://youtu.be/www4Q-EbD_4</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/srnmml/reviewing_vs_doing"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/srnmml</guid>
+      <pubDate>Fri, 30 Oct 2026 15:19:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>[security] Update on AO3 Downtime, October 30, 2026</title>
+      <link>https://www.transformativeworks.org/update-on-ao3-downtime-october-30-2026/</link>
+      <description>&lt;p&gt;The Archive of our Own aka AO3, a huge, non-profit, volunteer-run fanfic archive with over 11 million registered users, discovered a security incident yesterday and took the site down. They expect the site to be down at least two weeks.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://lobste.rs/s/yu5k5y/update_on_ao3_downtime_october_30_2026"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/yu5k5y</guid>
+      <pubDate>Fri, 30 Oct 2026 13:54:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>[security] Backdoors in Claude Code for VS, Cursor official extensions</title>
+      <link>https://cyberplace.social/@GossiTheDog/117528831681803563</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ttp7aq/backdoors_claude_code_for_vs_cursor"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/ttp7aq</guid>
+      <pubDate>Fri, 30 Oct 2026 11:04:55 +0000</pubDate>
+    </item>
     <item>
       <title>Big Tech lobbying pushing EU towards data-protection rollback</title>
       <link>https://euobserver.com/245206/revealed-new-data-shows-big-tech-lobbying-pushing-eu-towards-sweeping-data-protection-rollback/</link>
       <description>1 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50301714'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50301714</guid>
       <pubDate>Fri, 30 Oct 2026 09:48:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>[devops] VictoriaLogs vs Loki, Elasticsearch, OpenSearch, SigNoz and ClickStack on structured log ingestion</title>
-      <link>https://victoriametrics.com/blog/structured-log-ingestion-benchmark/</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/76otqu/victorialogs_vs_loki_elasticsearch"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/76otqu</guid>
-      <pubDate>Fri, 30 Oct 2026 08:39:47 +0000</pubDate>
     </item>
     <item>
       <title>[r/sre] does deploy failure rate tied to AI code get worse before better???</title>
@@ -334,14 +356,7 @@ Forgery attacks that affect many Web applicatio&lt;/p&gt;
       <pubDate>Sat, 24 Oct 2026 04:06:06 +0000</pubDate>
     </item>
     <item>
-      <title>[security] Distributed data, centralized fixes</title>
-      <link>https://miren.dev/blog/distributed-data-centralized-fixes</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/qc1ahp/distributed_data_centralized_fixes"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/qc1ahp</guid>
-      <pubDate>Fri, 23 Oct 2026 19:50:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>[devops, security] Railway Preliminary Report: Oct 21st Security Incident</title>
+      <title>[devops] Railway Preliminary Report: Oct 21st Security Incident</title>
       <link>https://blog.railway.com/p/preliminary-report-october-security-incident</link>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/hq3tu8/railway_preliminary_report_oct_21st"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/hq3tu8</guid>
@@ -565,13 +580,6 @@ Forgery attacks that affect many Web applicatio&lt;/p&gt;
       <pubDate>Mon, 19 Oct 2026 21:33:26 +0000</pubDate>
     </item>
     <item>
-      <title>The reverts will continue until morale improves</title>
-      <link>http://peter.eisentraut.org/blog/2026/10/09/the-reverts-will-continue-until-morale-improves</link>
-      <description>235 points, 48 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50156206'&gt;discussion sur Hacker News&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50156206</guid>
-      <pubDate>Mon, 19 Oct 2026 18:42:32 +0000</pubDate>
-    </item>
-    <item>
       <title>Now You're Cooking – Announce Postmortem</title>
       <link>https://gamesbymason.com/blog/2026/nyc-announce-postmortem/</link>
       <description>2 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50154089'&gt;discussion sur Hacker News&lt;/a&gt;</description>
@@ -612,20 +620,6 @@ Forgery attacks that affect many Web applicatio&lt;/p&gt;
       <description>4 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50122307'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50122307</guid>
       <pubDate>Fri, 16 Oct 2026 18:24:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>OS-native agent sandbox that can rollback in ms</title>
-      <link>https://delta-box.github.io/</link>
-      <description>2 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50118326'&gt;discussion sur Hacker News&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50118326</guid>
-      <pubDate>Fri, 16 Oct 2026 13:44:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>Unity Mass-Suspends Accounts</title>
-      <link>https://news.ycombinator.com/item?id=50116839</link>
-      <description>2 points, 2 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50116839'&gt;discussion sur Hacker News&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50116839</guid>
-      <pubDate>Fri, 16 Oct 2026 10:56:53 +0000</pubDate>
     </item>
     <item>
       <title>[devops] My self-hosted infrastructure with Incus OS</title>
@@ -945,13 +939,6 @@ Forgery attacks that affect many Web applicatio&lt;/p&gt;
       <pubDate>Wed, 30 Sep 2026 20:28:27 +0000</pubDate>
     </item>
     <item>
-      <title>[practices] State of Devs 2026</title>
-      <link>https://2026.stateofdevs.com/en-US</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ysiw3t/state_devs_2026"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/ysiw3t</guid>
-      <pubDate>Wed, 30 Sep 2026 11:40:02 +0000</pubDate>
-    </item>
-    <item>
       <title>[vcs] Change Tours | Because understanding a code change is hard</title>
       <link>https://hannahpotter.github.io/projects/change_tours.html</link>
       <description>&lt;p&gt;Project available at &lt;a href="https://github.com/hannahpotter/changetours-vscode-pull-request-github" rel="ugc"&gt;https://github.com/hannahpotter/changetours-vscode-pull-request-github&lt;/a&gt;&lt;/p&gt;
@@ -1008,13 +995,6 @@ Forgery attacks that affect many Web applicatio&lt;/p&gt;
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/liey8q/looking_forward_git_2_56_3_0"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/liey8q</guid>
       <pubDate>Tue, 22 Sep 2026 05:23:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>[vcs] Ju! Ju! Tsu</title>
-      <link>https://arialdo.codeberg.page/ju-ju-tsu/</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/d4wq0w/ju_ju_tsu"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/d4wq0w</guid>
-      <pubDate>Mon, 21 Sep 2026 20:59:09 +0000</pubDate>
     </item>
     <item>
       <title>[distributed] Squalk: an old-school forum engine built on Nostr (NIP-29 groups, NIP-7D threads)</title>
@@ -1183,6 +1163,13 @@ Test instance where you are welcome to make a mess: &lt;a href="https://squalk-t
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ugkhor/my_homelab_got_hacked_postmortem"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/ugkhor</guid>
       <pubDate>Wed, 12 Aug 2026 15:50:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>[devops] An inter-mesh deployment pipeline</title>
+      <link>https://blog.zm.is/an-inter-mesh-deployment-pipeline/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/xoivjb/inter_mesh_deployment_pipeline"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/xoivjb</guid>
+      <pubDate>Tue, 11 Aug 2026 10:11:38 +0000</pubDate>
     </item>
   </channel>
 </rss>
