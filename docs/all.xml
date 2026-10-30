@@ -8,13 +8,27 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 30 Oct 2026 16:52:11 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 21:14:44 +0000</lastBuildDate>
     <item>
-      <title>[vcs] Building fine-grained version control for agents with Rust and Durable Objects</title>
-      <link>https://delta.dev/blog/fine-grained-version-control-for-agents</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/cctbcu/building_fine_grained_version_control"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/cctbcu</guid>
-      <pubDate>Fri, 30 Oct 2026 16:50:44 +0000</pubDate>
+      <title>[security] Defending the patch gap against automated attackers</title>
+      <link>https://blog.mozilla.org/en/firefox/privacy-security/defending-patch-gap/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/dtvr7y/defending_patch_gap_against_automated"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/dtvr7y</guid>
+      <pubDate>Fri, 30 Oct 2026 21:06:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>[distributed, vcs] The federated code forge</title>
+      <link>https://tangled.org/blog/forge/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ukj8mm/federated_code_forge"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/ukj8mm</guid>
+      <pubDate>Fri, 30 Oct 2026 17:57:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>[security] Protecting against CVE-2026-98432</title>
+      <link>https://groups.google.com/g/golang-announce/c/PCoQcdxoScw</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/mp8yqt/protecting_against_cve_2026_98432"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/mp8yqt</guid>
+      <pubDate>Fri, 30 Oct 2026 17:54:52 +0000</pubDate>
     </item>
     <item>
       <title>[practices] Reviewing vs Doing</title>
@@ -22,14 +36,6 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/srnmml/reviewing_vs_doing"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/srnmml</guid>
       <pubDate>Fri, 30 Oct 2026 15:19:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>[security] Update on AO3 Downtime, October 30, 2026</title>
-      <link>https://www.transformativeworks.org/update-on-ao3-downtime-october-30-2026/</link>
-      <description>&lt;p&gt;The Archive of our Own aka AO3, a huge, non-profit, volunteer-run fanfic archive with over 11 million registered users, discovered a security incident yesterday and took the site down. They expect the site to be down at least two weeks.&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://lobste.rs/s/yu5k5y/update_on_ao3_downtime_october_30_2026"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/yu5k5y</guid>
-      <pubDate>Fri, 30 Oct 2026 13:54:17 +0000</pubDate>
     </item>
     <item>
       <title>[security] Backdoors in Claude Code for VS, Cursor official extensions</title>
@@ -349,13 +355,6 @@ Forgery attacks that affect many Web applicatio&lt;/p&gt;
       <pubDate>Sat, 24 Oct 2026 10:09:28 +0000</pubDate>
     </item>
     <item>
-      <title>[security] Indian government sites are serving revoked eMudhra certificates</title>
-      <link>https://captnemo.in/blog/2026/10/23/emsign-revoked-gov-in/</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/zug8xv/indian_government_sites_are_serving"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/zug8xv</guid>
-      <pubDate>Sat, 24 Oct 2026 04:06:06 +0000</pubDate>
-    </item>
-    <item>
       <title>[devops] Railway Preliminary Report: Oct 21st Security Incident</title>
       <link>https://blog.railway.com/p/preliminary-report-october-security-incident</link>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/hq3tu8/railway_preliminary_report_oct_21st"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
@@ -613,13 +612,6 @@ Forgery attacks that affect many Web applicatio&lt;/p&gt;
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/a0og2j/developing_for_debugging_2025"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/a0og2j</guid>
       <pubDate>Sat, 17 Oct 2026 07:21:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>Widespread X Outage</title>
-      <link>https://developer.x.com/status</link>
-      <description>4 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50122307'&gt;discussion sur Hacker News&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50122307</guid>
-      <pubDate>Fri, 16 Oct 2026 18:24:28 +0000</pubDate>
     </item>
     <item>
       <title>[devops] My self-hosted infrastructure with Incus OS</title>
@@ -1107,13 +1099,6 @@ Test instance where you are welcome to make a mess: &lt;a href="https://squalk-t
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/vfhaxz/can_kafka_support_elastic_partitioning"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/vfhaxz</guid>
       <pubDate>Fri, 28 Aug 2026 19:03:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>[distributed] How we saved 100 terabytes of memory by optimizing 1.1.1.1’s DNS cache</title>
-      <link>https://blog.cloudflare.com/dns-cache-memory-optimization-1111/</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/p7solr/how_we_saved_100_terabytes_memory_by"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/p7solr</guid>
-      <pubDate>Fri, 28 Aug 2026 06:54:56 +0000</pubDate>
     </item>
     <item>
       <title>[devops] Dynamically Naming Servers</title>
