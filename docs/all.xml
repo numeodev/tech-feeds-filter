@@ -8,7 +8,15 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 29 Oct 2026 23:46:15 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 03:32:50 +0000</lastBuildDate>
+    <item>
+      <title>[security] XSS in yarr RSS reader</title>
+      <link>https://0x67673068.me/xss-in-yarr/</link>
+      <description>&lt;p&gt;Note: The dark mode of this site is kind of hard to read.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://lobste.rs/s/1r7enm/xss_yarr_rss_reader"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/1r7enm</guid>
+      <pubDate>Thu, 29 Oct 2026 23:55:54 +0000</pubDate>
+    </item>
     <item>
       <title>[security] C2PA's eMudhra Moment</title>
       <link>https://www.da.vidbuchanan.co.uk/blog/c2pa-four.html</link>
@@ -324,13 +332,6 @@ Forgery attacks that affect many Web applicatio&lt;/p&gt;
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/tu5ynp/expose_only_share_links_private_service"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/tu5ynp</guid>
       <pubDate>Thu, 22 Oct 2026 16:30:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>[security] Header Accordions: QPACK amplification attacks against HTTP/3 servers</title>
-      <link>https://foxio.io/blog/header-accordions-qpack-amplification-attacks-against-http-3-servers</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/l2l50n/header_accordions_qpack_amplification"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/l2l50n</guid>
-      <pubDate>Thu, 22 Oct 2026 15:15:44 +0000</pubDate>
     </item>
     <item>
       <title>[distributed] The bridge to agent-scale Git infrastructure</title>
