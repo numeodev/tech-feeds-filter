@@ -8,7 +8,15 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 31 Oct 2026 14:02:08 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 18:55:11 +0000</lastBuildDate>
+    <item>
+      <title>[vcs] Tangled, hire a front-end accessibility expert</title>
+      <link>https://dbushell.com/2026/11/01/tangled-accessibility/</link>
+      <description>&lt;p&gt;A response to &lt;a href="https://lobste.rs/s/ukj8mm/federated_code_forge" rel="ugc"&gt;https://lobste.rs/s/ukj8mm/federated_code_forge&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://lobste.rs/s/ymqjuj/tangled_hire_front_end_accessibility"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/ymqjuj</guid>
+      <pubDate>Sat, 31 Oct 2026 16:29:45 +0000</pubDate>
+    </item>
     <item>
       <title>[security] Defending the patch gap against automated attackers</title>
       <link>https://blog.mozilla.org/en/firefox/privacy-security/defending-patch-gap/</link>
@@ -502,13 +510,6 @@ Forgery attacks that affect many Web applicatio&lt;/p&gt;
       <pubDate>Tue, 20 Oct 2026 14:19:59 +0000</pubDate>
     </item>
     <item>
-      <title>Ask HN: How to organize teams to ship AI-written code?</title>
-      <link>https://news.ycombinator.com/item?id=50166173</link>
-      <description>1 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50166173'&gt;discussion sur Hacker News&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50166173</guid>
-      <pubDate>Tue, 20 Oct 2026 13:34:20 +0000</pubDate>
-    </item>
-    <item>
       <title>Since when was availability no longer part of security?</title>
       <link>https://news.ycombinator.com/item?id=50165964</link>
       <description>1 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50165964'&gt;discussion sur Hacker News&lt;/a&gt;</description>
@@ -967,7 +968,7 @@ Forgery attacks that affect many Web applicatio&lt;/p&gt;
       <pubDate>Fri, 25 Sep 2026 21:20:41 +0000</pubDate>
     </item>
     <item>
-      <title>[distributed, vcs] Radicle: Disclosure of Vulnerability in the Network Protocol</title>
+      <title>[distributed] Radicle: Disclosure of Vulnerability in the Network Protocol</title>
       <link>https://radicle.dev/2026/09/23/disclosure-of-vulnerability-in-network-protocol.html</link>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ad5vwg/radicle_disclosure_vulnerability"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/ad5vwg</guid>
