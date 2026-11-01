@@ -8,7 +8,21 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 01 Nov 2026 08:24:38 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 15:35:49 +0000</lastBuildDate>
+    <item>
+      <title>[vcs] An outsider's perspective on Scion and Mononoke</title>
+      <link>https://typesanitizer.com/blog/scion.html</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/s2qeww/outsider_s_perspective_on_scion_mononoke"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/s2qeww</guid>
+      <pubDate>Sun, 01 Nov 2026 15:22:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>Show HN: ElmTUI. Declarative terminal user interface framework in Common Lisp</title>
+      <link>https://github.com/fkr-0/elmtui</link>
+      <description>1 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50326094'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50326094</guid>
+      <pubDate>Sun, 01 Nov 2026 14:34:14 +0000</pubDate>
+    </item>
     <item>
       <title>[security] The Duty of a Scholar</title>
       <link>https://www.daemonology.net/blog/2026-10-31-The-Duty-of-a-Scholar.html</link>
@@ -19,7 +33,7 @@
     <item>
       <title>Bidirectional Charging During Grid Outages</title>
       <link>https://www.jefftk.com/p/bidirectional-charging-during-grid-outages</link>
-      <description>2 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50319749'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>4 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50319749'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50319749</guid>
       <pubDate>Sat, 31 Oct 2026 20:21:55 +0000</pubDate>
     </item>
@@ -945,13 +959,6 @@ Forgery attacks that affect many Web applicatio&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://lobste.rs/s/gl9h27/change_tours_because_understanding_code"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/gl9h27</guid>
       <pubDate>Tue, 29 Sep 2026 20:57:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>[vcs] The Shell &amp; Email</title>
-      <link>https://www.machtiani.chat/blogs/the-shell</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/joqdsi/shell_email"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/joqdsi</guid>
-      <pubDate>Tue, 29 Sep 2026 20:14:41 +0000</pubDate>
     </item>
     <item>
       <title>[distributed] Deterministic Concurrency</title>

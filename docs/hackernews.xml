@@ -8,11 +8,18 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 01 Nov 2026 08:24:37 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 15:35:48 +0000</lastBuildDate>
+    <item>
+      <title>Show HN: ElmTUI. Declarative terminal user interface framework in Common Lisp</title>
+      <link>https://github.com/fkr-0/elmtui</link>
+      <description>1 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50326094'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50326094</guid>
+      <pubDate>Sun, 01 Nov 2026 14:34:14 +0000</pubDate>
+    </item>
     <item>
       <title>Bidirectional Charging During Grid Outages</title>
       <link>https://www.jefftk.com/p/bidirectional-charging-during-grid-outages</link>
-      <description>2 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50319749'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>4 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50319749'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50319749</guid>
       <pubDate>Sat, 31 Oct 2026 20:21:55 +0000</pubDate>
     </item>
