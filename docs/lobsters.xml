@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 31 Oct 2026 22:03:39 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 01:40:03 +0000</lastBuildDate>
+    <item>
+      <title>[security] The Duty of a Scholar</title>
+      <link>https://www.daemonology.net/blog/2026-10-31-The-Duty-of-a-Scholar.html</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/vo4337/duty_scholar"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/vo4337</guid>
+      <pubDate>Sun, 01 Nov 2026 00:46:07 +0000</pubDate>
+    </item>
     <item>
       <title>[vcs] Tangled, hire a front-end accessibility expert</title>
       <link>https://dbushell.com/2026/11/01/tangled-accessibility/</link>
@@ -270,13 +277,6 @@ Forgery attacks that affect many Web applicatio&lt;/p&gt;
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/al3yyf/this_week_s_node2shell_brotli"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/al3yyf</guid>
       <pubDate>Sat, 24 Oct 2026 11:01:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>[security] I want my Wednesday back</title>
-      <link>https://blog.luitjes.it/posts/i-want-my-wednesday-back/</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/xgih2x/i_want_my_wednesday_back"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/xgih2x</guid>
-      <pubDate>Sat, 24 Oct 2026 10:09:28 +0000</pubDate>
     </item>
     <item>
       <title>[devops] Railway Preliminary Report: Oct 21st Security Incident</title>
