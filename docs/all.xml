@@ -8,7 +8,35 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 01 Nov 2026 15:35:49 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 19:58:25 +0000</lastBuildDate>
+    <item>
+      <title>Postmortem of Database Outage (2017)</title>
+      <link>https://about.gitlab.com/blog/postmortem-of-database-outage-of-january-31/</link>
+      <description>1 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50328314'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50328314</guid>
+      <pubDate>Sun, 01 Nov 2026 18:35:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ask HN: Cannot log in to my AWS account</title>
+      <link>https://news.ycombinator.com/item?id=50328267</link>
+      <description>1 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50328267'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50328267</guid>
+      <pubDate>Sun, 01 Nov 2026 18:30:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>Pesticide lobby touts MAHA report rollback as its biggest win of 2025</title>
+      <link>https://usrtk.org/pesticides/pesticide-lobby-touts-maha-report-rollback-as-its-biggest-win-of-2025/</link>
+      <description>1 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50327797'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50327797</guid>
+      <pubDate>Sun, 01 Nov 2026 17:42:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>Show HN: PewPewPew – Multiplayer Asteroids with deterministic rollback at 60hz</title>
+      <link>https://pewpewpew.io/</link>
+      <description>4 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50326850'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50326850</guid>
+      <pubDate>Sun, 01 Nov 2026 16:02:24 +0000</pubDate>
+    </item>
     <item>
       <title>[vcs] An outsider's perspective on Scion and Mononoke</title>
       <link>https://typesanitizer.com/blog/scion.html</link>
@@ -31,9 +59,9 @@
       <pubDate>Sun, 01 Nov 2026 00:46:07 +0000</pubDate>
     </item>
     <item>
-      <title>Bidirectional Charging During Grid Outages</title>
+      <title>Bidirectional charging during grid outages</title>
       <link>https://www.jefftk.com/p/bidirectional-charging-during-grid-outages</link>
-      <description>4 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50319749'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>57 points, 70 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50319749'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50319749</guid>
       <pubDate>Sat, 31 Oct 2026 20:21:55 +0000</pubDate>
     </item>
@@ -136,13 +164,6 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/2matgw/c2pa_s_emudhra_moment"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/2matgw</guid>
       <pubDate>Thu, 29 Oct 2026 20:33:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>[security] Cybersecurity Is About to Be the Biggest Problem in Tech</title>
-      <link>https://projectautonomy.substack.com/p/cybersecurity-is-about-to-be-the</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/esit9r/cybersecurity_is_about_be_biggest"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/esit9r</guid>
-      <pubDate>Thu, 29 Oct 2026 19:00:39 +0000</pubDate>
     </item>
     <item>
       <title>[practices] An open format for writing agent-native software requirements</title>
@@ -382,6 +403,13 @@ Forgery attacks that affect many Web applicatio&lt;/p&gt;
       <description>6 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50222928'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50222928</guid>
       <pubDate>Sat, 24 Oct 2026 16:42:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>[security] This week's "node2shell" Brotli vulnerability (CVE-2026-111497) is exploitable in Python, other consumers of Brotli</title>
+      <link>https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/al3yyf/this_week_s_node2shell_brotli"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/al3yyf</guid>
+      <pubDate>Sat, 24 Oct 2026 11:01:27 +0000</pubDate>
     </item>
     <item>
       <title>[devops] Railway Preliminary Report: Oct 21st Security Incident</title>
