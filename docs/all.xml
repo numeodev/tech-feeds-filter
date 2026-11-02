@@ -8,7 +8,84 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 02 Nov 2026 11:50:11 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 21:04:24 +0000</lastBuildDate>
+    <item>
+      <title>[security] This background sound leaks your exact location</title>
+      <link>https://youtu.be/UytYrhYLOKI</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/s1btqo/this_background_sound_leaks_your_exact"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/s1btqo</guid>
+      <pubDate>Mon, 02 Nov 2026 19:42:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>[practices] Stop Hardcoding Your Timeouts</title>
+      <link>https://alfy.blog/2026/04/23/stop-hardcoding-your-timeouts.html</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/qa0owz/stop_hardcoding_your_timeouts"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/qa0owz</guid>
+      <pubDate>Mon, 02 Nov 2026 19:22:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Linux reverts a feature designed to reduce bug-report noise</title>
+      <link>https://www.phoronix.com/news/Linux-7.4-Drops-Taint-Bind</link>
+      <description>2 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50341372'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50341372</guid>
+      <pubDate>Mon, 02 Nov 2026 18:33:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>Show HN: Subvocal – Talk to your computer without making noise</title>
+      <link>https://news.ycombinator.com/item?id=50340088</link>
+      <description>357 points, 223 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50340088'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50340088</guid>
+      <pubDate>Mon, 02 Nov 2026 17:16:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>[security] Jailbreaking my car's navigation system just so I can change the time</title>
+      <link>https://blog.nns.ee/2026/11/02/renault-hack/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/qvdatp/jailbreaking_my_car_s_navigation_system"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/qvdatp</guid>
+      <pubDate>Mon, 02 Nov 2026 16:30:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>[security] The Gift of It's Your Problem Now (2021)</title>
+      <link>https://apenwarr.ca/log/20211229-the-gift-of-its-your-problem-now</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/girvtu/gift_it_s_your_problem_now_2021"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/girvtu</guid>
+      <pubDate>Mon, 02 Nov 2026 16:19:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>Show HN: Devpush – Self-Hosted PaaS for Docker Compose</title>
+      <link>https://devpu.sh/</link>
+      <description>1 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50338205'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50338205</guid>
+      <pubDate>Mon, 02 Nov 2026 15:31:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>Codeberg Is Unusable</title>
+      <link>https://news.ycombinator.com/item?id=50338195</link>
+      <description>1 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50338195'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50338195</guid>
+      <pubDate>Mon, 02 Nov 2026 15:30:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>[security] Securing Internet-Critical Software: How We Could Have Backdoored Bash</title>
+      <link>https://www.hacktron.ai/blog/hacking-gnu-savannah</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/0mdf8w/securing_internet_critical_software_how"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/0mdf8w</guid>
+      <pubDate>Mon, 02 Nov 2026 15:06:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>[security] Shutting the Door on the XCPE Botnet</title>
+      <link>https://cloud.google.com/blog/topics/threat-intelligence/shutting-the-door-on-the-xcpe-botnet/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/chn4hu/shutting_door_on_xcpe_botnet"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/chn4hu</guid>
+      <pubDate>Mon, 02 Nov 2026 15:02:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>[security] Recognizing Keystrokes Using WiFi Devices</title>
+      <link>https://ieeexplore.ieee.org/document/7875144</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/8gsafe/recognizing_keystrokes_using_wifi"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/8gsafe</guid>
+      <pubDate>Mon, 02 Nov 2026 14:43:13 +0000</pubDate>
+    </item>
     <item>
       <title>[devops] My reflex of assuming our servers need ever-growing amounts of RAM</title>
       <link>https://utcc.utoronto.ca/~cks/space/blog/sysadmin/ServerRAMGrowthReflex</link>
@@ -61,7 +138,7 @@
     <item>
       <title>Show HN: PewPewPew – Multiplayer Asteroids with deterministic rollback at 60hz</title>
       <link>https://pewpewpew.io/</link>
-      <description>4 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50326850'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>4 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50326850'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50326850</guid>
       <pubDate>Sun, 01 Nov 2026 16:02:24 +0000</pubDate>
     </item>
@@ -82,7 +159,7 @@
     <item>
       <title>Bidirectional charging during grid outages</title>
       <link>https://www.jefftk.com/p/bidirectional-charging-during-grid-outages</link>
-      <description>103 points, 153 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50319749'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>108 points, 167 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50319749'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50319749</guid>
       <pubDate>Sat, 31 Oct 2026 20:21:55 +0000</pubDate>
     </item>
@@ -332,34 +409,11 @@ Forgery attacks that affect many Web applicatio&lt;/p&gt;
       <pubDate>Tue, 27 Oct 2026 19:08:23 +0000</pubDate>
     </item>
     <item>
-      <title>[security] An Evening with Berferd: In Which a Cracker is Lured, Endured, and Studied (1992)</title>
-      <link>https://www.cheswick.com/ches/papers/berferd.pdf</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/7bbzjf/evening_with_berferd_which_cracker_is"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/7bbzjf</guid>
-      <pubDate>Tue, 27 Oct 2026 18:48:45 +0000</pubDate>
-    </item>
-    <item>
       <title>[r/sre] [Hiring] Senior Site Reliability Engineer – Backend Platform | Japan, Tokyo</title>
       <link>https://www.reddit.com/r/sre/comments/1xgq68m/hiring_senior_site_reliability_engineer_backend/</link>
       <description>&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Our client is a leading global technology company that develops large-scale digital platforms and innovative marketing solutions for customers worldwide.&lt;/p&gt; &lt;p&gt;We are looking for an experienced Senior Site Reliability Engineer (SRE) to drive system reliability, operational excellence, and automation across critical cloud-based platforms.&lt;/p&gt; &lt;p&gt;Key Responsibilities &lt;/p&gt; &lt;ol&gt; &lt;li&gt;SRE Strategy and Reliability Engineering&lt;/li&gt; &lt;/ol&gt; &lt;p&gt;Define and implement SRE strategies, including Service Level Objectives (SLOs), Service Level Indicators (SLIs), error budgets, and reliability targets.&lt;/p&gt; &lt;p&gt;Align reliability initiatives with business objectives and customer expectations.&lt;/p&gt; &lt;ol&gt; &lt;li&gt;Incident Management and Response&lt;/li&gt; &lt;/ol&gt; &lt;p&gt;Establish and continuously improve incident management processes, including on-call rotations and escalation procedures.&lt;/p&gt; &lt;p&gt;Lead incident response activities and facilitate blameless postmortems.&lt;/p&gt; &lt;p&gt;Reduce mean time to recovery (MTTR) and implement preventive measures to avoid recurring incidents.&lt;/p&gt; &lt;ol&gt; &lt;li&gt;Reliability in the Software Development Lifecycle&lt;/li&gt; &lt;/ol&gt; &lt;p&gt;Collaborate with development teams to integrate reliability practices throughout the software development lifecycle.&lt;/p&gt; &lt;p&gt;Promote design reviews, chaos engineering, and production readiness assessments.&lt;/p&gt; &lt;ol&gt; &lt;li&gt;Observability and Monitoring&lt;/li&gt; &lt;/ol&gt; &lt;p&gt;Design and implement comprehensive observability solutions covering monitoring, logging, distributed tracing, and alerting.&lt;/p&gt; &lt;p&gt;Establish actionable insights into system health, availability, and performance.&lt;/p&gt; &lt;ol&gt; &lt;li&gt;Automation and Operational Efficiency&lt;/li&gt; &lt;/ol&gt; &lt;p&gt;Drive automation initiatives to reduce repetitive operational tasks and improve deployment reliability.&lt;/p&gt; &lt;p&gt;Develop self-service capabilities that enable engineering teams to operate more efficiently.&lt;/p&gt; &lt;ol&gt; &lt;li&gt;Infrastructure Architecture and Optimization&lt;/li&gt; &lt;/ol&gt; &lt;p&gt;Partner with architecture and platform teams to design scalable, fault-tolerant infrastructure.&lt;/p&gt; &lt;p&gt;Contribute to cloud infrastructure optimization and cost-efficiency initiatives.&lt;/p&gt; &lt;ol&gt; &lt;li&gt;Capacity Planning and Performance Optimization&lt;/li&gt; &lt;/ol&gt; &lt;p&gt;Lead capacity planning and performance optimization for high-volume marketing platforms.&lt;/p&gt; &lt;p&gt;Ensure systems can reliably support large-scale campaign execution and real-time personalization workloads.&lt;/p&gt; &lt;ol&gt; &lt;li&gt;Reliability Reporting and Stakeholder Collaboration&lt;/li&gt; &lt;/ol&gt; &lt;p&gt;Track and report reliability metrics, incident trends, and operational health.&lt;/p&gt; &lt;p&gt;Communicate technical findings and their business impact to engineering leaders and other stakeholders.&lt;/p&gt; &lt;p&gt;Mandatory Qualifications&lt;/p&gt; &lt;p&gt;・ 8+ years of experience in software engineering, DevOps, or site reliability engineering&lt;/p&gt; &lt;p&gt;・ Proven track record of building and leading high-performing SRE or platform engineering teams in a distributed, multi-timezone environment&lt;/p&gt; &lt;p&gt;・ Deep expertise in cloud platforms (GCP preferred, AWS/Azure acceptable) including compute, networking, storage, and managed services&lt;/p&gt; &lt;p&gt;・ Strong knowledge of containerization and orchestration technologies (Kubernetes, Docker) and Infrastructure as Code (Terraform, Ansible)&lt;/p&gt; &lt;p&gt;・ Hands-on experience with observability tools and practices (Prometheus, Grafana, Datadog, ELK Stack, or similar) and defining meaningful SLOs/SLIs&lt;/p&gt; &lt;p&gt;・ Experience with CI/CD pipelines, deployment strategies (blue-green, canary), and release engineering best practices&lt;/p&gt; &lt;p&gt;・ Strong programming/scripting skills in languages such as Python, Go, or Java for automation and tooling development&lt;/p&gt; &lt;p&gt;・ Excellent communication skills with the ability to collaborate effectively across engineering, product, and business stakeholders&lt;/p&gt; &lt;p&gt;・ Strong incident management experience with demonstrated ability to lead high-pressure situations calmly and effectively&lt;/p&gt; &lt;p&gt;Languages&lt;br /&gt; English: Fluent&lt;br /&gt; Japanese: Optional / a plus&lt;/p&gt; &lt;p&gt;Work Environment&lt;br /&gt; Fast-paced, dynamic global environment with collaborative teams across multiple locations&lt;/p&gt; &lt;p&gt;Salary: ¥8M – ¥11M JPY per year (Middle, Senior level)&lt;br /&gt; Location: Hybrid (4 days in the office, 1 day remote)&lt;br /&gt; Office Location: Tokyo, Japan&lt;br /&gt; Working Hours: Flexible schedule with core hours from 11:00 AM to 3:00 PM&lt;br /&gt; Visa Sponsorship: Available&lt;br /&gt; Language Requirement: English only&lt;/p&gt; &lt;p&gt;Apply now or contact us for further information:&lt;br /&gt; [&lt;a href="mailto:Aleksey.kim@tg-hr.com"&gt;Aleksey.kim@tg-hr.com&lt;/a&gt;](mailto:&lt;a href="mailto:Aleksey.kim@tg-hr.com"&gt;Aleksey.kim@tg-hr.com&lt;/a&gt;)&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/FunMuted6440"&gt; /u/FunMuted6440 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/r/sre/comments/1xgq68m/hiring_senior_site_reliability_engineer_backend/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/sre/comments/1xgq68m/hiring_senior_site_reliability_engineer_backend/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</description>
       <guid isPermaLink="false">https://www.reddit.com/r/sre/t3_1xgq68m</guid>
       <pubDate>Tue, 27 Oct 2026 11:38:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>[security] The Limits of Fingerprint Blocklists: A Reproducible Java Certificate Bypass</title>
-      <link>https://www.sonatype.com/blog/the-limits-of-fingerprint-blocklists-a-reproducible-java-certificate-bypass</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/aszhzo/limits_fingerprint_blocklists"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/aszhzo</guid>
-      <pubDate>Mon, 26 Oct 2026 20:33:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>[security] Web Page Crawler Revealed - tracking down requests from Contabo GmbH</title>
-      <link>https://bruceediger.com/posts/contabo-crawler/</link>
-      <description>&lt;p&gt;The story is a technical breakdown attempting to trace a series of crawlers from Contabo GmbH. Edited the title to be more clear.&lt;/p&gt;
-&lt;p&gt;This feels relevant here but I struggled with tagging this. I welcome suggestions for how to tag it better!&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://lobste.rs/s/eyrbup/web_page_crawler_revealed_tracking_down"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/eyrbup</guid>
-      <pubDate>Mon, 26 Oct 2026 16:28:12 +0000</pubDate>
     </item>
     <item>
       <title>[practices] Aggro is the Foundation (2022)</title>
@@ -369,25 +423,11 @@ Forgery attacks that affect many Web applicatio&lt;/p&gt;
       <pubDate>Mon, 26 Oct 2026 13:21:37 +0000</pubDate>
     </item>
     <item>
-      <title>[security] About the compromised eMudhra intermediate CAs</title>
-      <link>https://support.apple.com/en-us/149555</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/xzp4m0/about_compromised_emudhra_intermediate"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/xzp4m0</guid>
-      <pubDate>Mon, 26 Oct 2026 09:58:55 +0000</pubDate>
-    </item>
-    <item>
       <title>[practices] “AI Skills” are worthless in 2026</title>
       <link>https://fishbowl.pastiche.org/2026/10/26/ai-skills</link>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/x1s5oq/ai_skills_are_worthless_2026"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/x1s5oq</guid>
       <pubDate>Mon, 26 Oct 2026 00:23:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>[security] POSIX wordexp(3) is dangerous</title>
-      <link>https://yossarian.net/til/post/posix-wordexp-3-is-dangerous/</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/tbbiqb/posix_wordexp_3_is_dangerous"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/tbbiqb</guid>
-      <pubDate>Sun, 25 Oct 2026 15:09:29 +0000</pubDate>
     </item>
     <item>
       <title>[distributed] A vision for a next-generation timeline</title>
@@ -424,13 +464,6 @@ Forgery attacks that affect many Web applicatio&lt;/p&gt;
       <description>6 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50222928'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50222928</guid>
       <pubDate>Sat, 24 Oct 2026 16:42:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>[security] This week's "node2shell" Brotli vulnerability (CVE-2026-111497) is exploitable in Python, other consumers of Brotli</title>
-      <link>https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/al3yyf/this_week_s_node2shell_brotli"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/al3yyf</guid>
-      <pubDate>Sat, 24 Oct 2026 11:01:27 +0000</pubDate>
     </item>
     <item>
       <title>[devops] Railway Preliminary Report: Oct 21st Security Incident</title>
@@ -603,7 +636,7 @@ Forgery attacks that affect many Web applicatio&lt;/p&gt;
     <item>
       <title>Google Cloud outage affects almost all banking and other operations in Europe</title>
       <link>https://www.neowin.net/news/google-cloud-outage-takes-down-hsbc-revolut-bank-of-scotland-llyods-equifax-more/</link>
-      <description>407 points, 209 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50163961'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>407 points, 210 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50163961'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50163961</guid>
       <pubDate>Tue, 20 Oct 2026 10:26:02 +0000</pubDate>
     </item>
@@ -648,13 +681,6 @@ Forgery attacks that affect many Web applicatio&lt;/p&gt;
       <description>16 points, 2 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50158360'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50158360</guid>
       <pubDate>Mon, 19 Oct 2026 21:33:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>Now You're Cooking – Announce Postmortem</title>
-      <link>https://gamesbymason.com/blog/2026/nyc-announce-postmortem/</link>
-      <description>2 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50154089'&gt;discussion sur Hacker News&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50154089</guid>
-      <pubDate>Mon, 19 Oct 2026 16:05:42 +0000</pubDate>
     </item>
     <item>
       <title>[practices] What requirements don't you have?</title>
@@ -951,13 +977,6 @@ Forgery attacks that affect many Web applicatio&lt;/p&gt;
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/xkwswd/we_re_going_need_default_hard_budget_caps"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/xkwswd</guid>
       <pubDate>Sun, 04 Oct 2026 07:58:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>[practices] The Era of Software Quality, or the Era of Ostriches?</title>
-      <link>https://blogs.gnome.org/mcatanzaro/2026/10/02/the-era-of-software-quality-or-the-era-of-ostriches/</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/elziso/era_software_quality_era_ostriches"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/elziso</guid>
-      <pubDate>Sat, 03 Oct 2026 13:31:58 +0000</pubDate>
     </item>
     <item>
       <title>[devops] gVisor is being donated to CNCF</title>

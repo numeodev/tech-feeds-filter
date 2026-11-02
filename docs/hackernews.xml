@@ -8,7 +8,35 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 02 Nov 2026 11:50:10 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 21:04:23 +0000</lastBuildDate>
+    <item>
+      <title>Linux reverts a feature designed to reduce bug-report noise</title>
+      <link>https://www.phoronix.com/news/Linux-7.4-Drops-Taint-Bind</link>
+      <description>2 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50341372'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50341372</guid>
+      <pubDate>Mon, 02 Nov 2026 18:33:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>Show HN: Subvocal – Talk to your computer without making noise</title>
+      <link>https://news.ycombinator.com/item?id=50340088</link>
+      <description>357 points, 223 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50340088'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50340088</guid>
+      <pubDate>Mon, 02 Nov 2026 17:16:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>Show HN: Devpush – Self-Hosted PaaS for Docker Compose</title>
+      <link>https://devpu.sh/</link>
+      <description>1 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50338205'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50338205</guid>
+      <pubDate>Mon, 02 Nov 2026 15:31:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>Codeberg Is Unusable</title>
+      <link>https://news.ycombinator.com/item?id=50338195</link>
+      <description>1 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50338195'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50338195</guid>
+      <pubDate>Mon, 02 Nov 2026 15:30:43 +0000</pubDate>
+    </item>
     <item>
       <title>Snap Services Experiencing Ongoing Outages and Failures Today</title>
       <link>https://status.snapcraft.io</link>
@@ -47,14 +75,14 @@
     <item>
       <title>Show HN: PewPewPew – Multiplayer Asteroids with deterministic rollback at 60hz</title>
       <link>https://pewpewpew.io/</link>
-      <description>4 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50326850'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>4 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50326850'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50326850</guid>
       <pubDate>Sun, 01 Nov 2026 16:02:24 +0000</pubDate>
     </item>
     <item>
       <title>Bidirectional charging during grid outages</title>
       <link>https://www.jefftk.com/p/bidirectional-charging-during-grid-outages</link>
-      <description>103 points, 153 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50319749'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>108 points, 167 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50319749'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50319749</guid>
       <pubDate>Sat, 31 Oct 2026 20:21:55 +0000</pubDate>
     </item>
@@ -229,7 +257,7 @@
     <item>
       <title>Google Cloud outage affects almost all banking and other operations in Europe</title>
       <link>https://www.neowin.net/news/google-cloud-outage-takes-down-hsbc-revolut-bank-of-scotland-llyods-equifax-more/</link>
-      <description>407 points, 209 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50163961'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>407 points, 210 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50163961'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50163961</guid>
       <pubDate>Tue, 20 Oct 2026 10:26:02 +0000</pubDate>
     </item>
@@ -274,13 +302,6 @@
       <description>16 points, 2 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50158360'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50158360</guid>
       <pubDate>Mon, 19 Oct 2026 21:33:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>Now You're Cooking – Announce Postmortem</title>
-      <link>https://gamesbymason.com/blog/2026/nyc-announce-postmortem/</link>
-      <description>2 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50154089'&gt;discussion sur Hacker News&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50154089</guid>
-      <pubDate>Mon, 19 Oct 2026 16:05:42 +0000</pubDate>
     </item>
   </channel>
 </rss>

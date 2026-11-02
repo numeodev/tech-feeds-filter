@@ -8,7 +8,56 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 02 Nov 2026 11:50:11 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 21:04:24 +0000</lastBuildDate>
+    <item>
+      <title>[security] This background sound leaks your exact location</title>
+      <link>https://youtu.be/UytYrhYLOKI</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/s1btqo/this_background_sound_leaks_your_exact"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/s1btqo</guid>
+      <pubDate>Mon, 02 Nov 2026 19:42:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>[practices] Stop Hardcoding Your Timeouts</title>
+      <link>https://alfy.blog/2026/04/23/stop-hardcoding-your-timeouts.html</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/qa0owz/stop_hardcoding_your_timeouts"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/qa0owz</guid>
+      <pubDate>Mon, 02 Nov 2026 19:22:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>[security] Jailbreaking my car's navigation system just so I can change the time</title>
+      <link>https://blog.nns.ee/2026/11/02/renault-hack/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/qvdatp/jailbreaking_my_car_s_navigation_system"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/qvdatp</guid>
+      <pubDate>Mon, 02 Nov 2026 16:30:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>[security] The Gift of It's Your Problem Now (2021)</title>
+      <link>https://apenwarr.ca/log/20211229-the-gift-of-its-your-problem-now</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/girvtu/gift_it_s_your_problem_now_2021"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/girvtu</guid>
+      <pubDate>Mon, 02 Nov 2026 16:19:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>[security] Securing Internet-Critical Software: How We Could Have Backdoored Bash</title>
+      <link>https://www.hacktron.ai/blog/hacking-gnu-savannah</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/0mdf8w/securing_internet_critical_software_how"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/0mdf8w</guid>
+      <pubDate>Mon, 02 Nov 2026 15:06:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>[security] Shutting the Door on the XCPE Botnet</title>
+      <link>https://cloud.google.com/blog/topics/threat-intelligence/shutting-the-door-on-the-xcpe-botnet/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/chn4hu/shutting_door_on_xcpe_botnet"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/chn4hu</guid>
+      <pubDate>Mon, 02 Nov 2026 15:02:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>[security] Recognizing Keystrokes Using WiFi Devices</title>
+      <link>https://ieeexplore.ieee.org/document/7875144</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/8gsafe/recognizing_keystrokes_using_wifi"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/8gsafe</guid>
+      <pubDate>Mon, 02 Nov 2026 14:43:13 +0000</pubDate>
+    </item>
     <item>
       <title>[devops] My reflex of assuming our servers need ever-growing amounts of RAM</title>
       <link>https://utcc.utoronto.ca/~cks/space/blog/sysadmin/ServerRAMGrowthReflex</link>
@@ -227,29 +276,6 @@ Forgery attacks that affect many Web applicatio&lt;/p&gt;
       <pubDate>Tue, 27 Oct 2026 19:08:23 +0000</pubDate>
     </item>
     <item>
-      <title>[security] An Evening with Berferd: In Which a Cracker is Lured, Endured, and Studied (1992)</title>
-      <link>https://www.cheswick.com/ches/papers/berferd.pdf</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/7bbzjf/evening_with_berferd_which_cracker_is"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/7bbzjf</guid>
-      <pubDate>Tue, 27 Oct 2026 18:48:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>[security] The Limits of Fingerprint Blocklists: A Reproducible Java Certificate Bypass</title>
-      <link>https://www.sonatype.com/blog/the-limits-of-fingerprint-blocklists-a-reproducible-java-certificate-bypass</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/aszhzo/limits_fingerprint_blocklists"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/aszhzo</guid>
-      <pubDate>Mon, 26 Oct 2026 20:33:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>[security] Web Page Crawler Revealed - tracking down requests from Contabo GmbH</title>
-      <link>https://bruceediger.com/posts/contabo-crawler/</link>
-      <description>&lt;p&gt;The story is a technical breakdown attempting to trace a series of crawlers from Contabo GmbH. Edited the title to be more clear.&lt;/p&gt;
-&lt;p&gt;This feels relevant here but I struggled with tagging this. I welcome suggestions for how to tag it better!&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://lobste.rs/s/eyrbup/web_page_crawler_revealed_tracking_down"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/eyrbup</guid>
-      <pubDate>Mon, 26 Oct 2026 16:28:12 +0000</pubDate>
-    </item>
-    <item>
       <title>[practices] Aggro is the Foundation (2022)</title>
       <link>https://radimentary.wordpress.com/2022/11/07/aggro-is-the-foundation/</link>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/lh8nvx/aggro_is_foundation_2022"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
@@ -257,25 +283,11 @@ Forgery attacks that affect many Web applicatio&lt;/p&gt;
       <pubDate>Mon, 26 Oct 2026 13:21:37 +0000</pubDate>
     </item>
     <item>
-      <title>[security] About the compromised eMudhra intermediate CAs</title>
-      <link>https://support.apple.com/en-us/149555</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/xzp4m0/about_compromised_emudhra_intermediate"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/xzp4m0</guid>
-      <pubDate>Mon, 26 Oct 2026 09:58:55 +0000</pubDate>
-    </item>
-    <item>
       <title>[practices] “AI Skills” are worthless in 2026</title>
       <link>https://fishbowl.pastiche.org/2026/10/26/ai-skills</link>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/x1s5oq/ai_skills_are_worthless_2026"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/x1s5oq</guid>
       <pubDate>Mon, 26 Oct 2026 00:23:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>[security] POSIX wordexp(3) is dangerous</title>
-      <link>https://yossarian.net/til/post/posix-wordexp-3-is-dangerous/</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/tbbiqb/posix_wordexp_3_is_dangerous"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/tbbiqb</guid>
-      <pubDate>Sun, 25 Oct 2026 15:09:29 +0000</pubDate>
     </item>
     <item>
       <title>[distributed] A vision for a next-generation timeline</title>
@@ -291,13 +303,6 @@ Forgery attacks that affect many Web applicatio&lt;/p&gt;
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/gzpdsk/polyglot_s_dilemma_conformance_testing"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/gzpdsk</guid>
       <pubDate>Sat, 24 Oct 2026 16:59:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>[security] This week's "node2shell" Brotli vulnerability (CVE-2026-111497) is exploitable in Python, other consumers of Brotli</title>
-      <link>https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/al3yyf/this_week_s_node2shell_brotli"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/al3yyf</guid>
-      <pubDate>Sat, 24 Oct 2026 11:01:27 +0000</pubDate>
     </item>
     <item>
       <title>[devops] Railway Preliminary Report: Oct 21st Security Incident</title>
@@ -650,13 +655,6 @@ Forgery attacks that affect many Web applicatio&lt;/p&gt;
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/xkwswd/we_re_going_need_default_hard_budget_caps"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/xkwswd</guid>
       <pubDate>Sun, 04 Oct 2026 07:58:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>[practices] The Era of Software Quality, or the Era of Ostriches?</title>
-      <link>https://blogs.gnome.org/mcatanzaro/2026/10/02/the-era-of-software-quality-or-the-era-of-ostriches/</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/elziso/era_software_quality_era_ostriches"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/elziso</guid>
-      <pubDate>Sat, 03 Oct 2026 13:31:58 +0000</pubDate>
     </item>
     <item>
       <title>[devops] gVisor is being donated to CNCF</title>
