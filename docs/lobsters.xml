@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 02 Nov 2026 03:25:04 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 11:50:11 +0000</lastBuildDate>
+    <item>
+      <title>[devops] My reflex of assuming our servers need ever-growing amounts of RAM</title>
+      <link>https://utcc.utoronto.ca/~cks/space/blog/sysadmin/ServerRAMGrowthReflex</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/saskzi/my_reflex_assuming_our_servers_need_ever"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/saskzi</guid>
+      <pubDate>Mon, 02 Nov 2026 10:33:02 +0000</pubDate>
+    </item>
     <item>
       <title>[practices] Postgres 19 is late, and it's AI's fault</title>
       <link>http://rhaas.blogspot.com/2026/10/postgres-19-is-late-and-its-ais-fault.html</link>
@@ -883,13 +890,6 @@ Test instance where you are welcome to make a mess: &lt;a href="https://squalk-t
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ugkhor/my_homelab_got_hacked_postmortem"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/ugkhor</guid>
       <pubDate>Wed, 12 Aug 2026 15:50:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>[devops] An inter-mesh deployment pipeline</title>
-      <link>https://blog.zm.is/an-inter-mesh-deployment-pipeline/</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/xoivjb/inter_mesh_deployment_pipeline"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/xoivjb</guid>
-      <pubDate>Tue, 11 Aug 2026 10:11:38 +0000</pubDate>
     </item>
   </channel>
 </rss>

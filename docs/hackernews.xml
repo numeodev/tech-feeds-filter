@@ -8,11 +8,18 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 02 Nov 2026 03:25:03 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 11:50:10 +0000</lastBuildDate>
+    <item>
+      <title>Snap Services Experiencing Ongoing Outages and Failures Today</title>
+      <link>https://status.snapcraft.io</link>
+      <description>1 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50334876'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50334876</guid>
+      <pubDate>Mon, 02 Nov 2026 09:56:28 +0000</pubDate>
+    </item>
     <item>
       <title>Postmortem on Claude Code Cursor extension hack</title>
       <link>https://www.microsoft.com/en-us/security/blog/2026/10/30/inside-malicious-claude-code-branded-cursor-extension-persistent-ssh-backdoor/</link>
-      <description>4 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50332497'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>8 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50332497'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50332497</guid>
       <pubDate>Mon, 02 Nov 2026 02:41:26 +0000</pubDate>
     </item>
@@ -45,16 +52,9 @@
       <pubDate>Sun, 01 Nov 2026 16:02:24 +0000</pubDate>
     </item>
     <item>
-      <title>Show HN: ElmTUI. Declarative terminal user interface framework in Common Lisp</title>
-      <link>https://github.com/fkr-0/elmtui</link>
-      <description>1 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50326094'&gt;discussion sur Hacker News&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50326094</guid>
-      <pubDate>Sun, 01 Nov 2026 14:34:14 +0000</pubDate>
-    </item>
-    <item>
       <title>Bidirectional charging during grid outages</title>
       <link>https://www.jefftk.com/p/bidirectional-charging-during-grid-outages</link>
-      <description>90 points, 131 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50319749'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>103 points, 153 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50319749'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50319749</guid>
       <pubDate>Sat, 31 Oct 2026 20:21:55 +0000</pubDate>
     </item>
@@ -281,13 +281,6 @@
       <description>2 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50154089'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50154089</guid>
       <pubDate>Mon, 19 Oct 2026 16:05:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>Postmortem: Sweden's citizenship law shipped with no migration path</title>
-      <link>https://eric.pe/terson/writes/a-postmortem-on-swedens-citizenship-law/</link>
-      <description>4 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50149746'&gt;discussion sur Hacker News&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50149746</guid>
-      <pubDate>Mon, 19 Oct 2026 08:19:39 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -8,11 +8,25 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 02 Nov 2026 03:25:04 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 11:50:11 +0000</lastBuildDate>
+    <item>
+      <title>[devops] My reflex of assuming our servers need ever-growing amounts of RAM</title>
+      <link>https://utcc.utoronto.ca/~cks/space/blog/sysadmin/ServerRAMGrowthReflex</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/saskzi/my_reflex_assuming_our_servers_need_ever"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/saskzi</guid>
+      <pubDate>Mon, 02 Nov 2026 10:33:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>Snap Services Experiencing Ongoing Outages and Failures Today</title>
+      <link>https://status.snapcraft.io</link>
+      <description>1 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50334876'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50334876</guid>
+      <pubDate>Mon, 02 Nov 2026 09:56:28 +0000</pubDate>
+    </item>
     <item>
       <title>Postmortem on Claude Code Cursor extension hack</title>
       <link>https://www.microsoft.com/en-us/security/blog/2026/10/30/inside-malicious-claude-code-branded-cursor-extension-persistent-ssh-backdoor/</link>
-      <description>4 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50332497'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>8 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50332497'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50332497</guid>
       <pubDate>Mon, 02 Nov 2026 02:41:26 +0000</pubDate>
     </item>
@@ -59,13 +73,6 @@
       <pubDate>Sun, 01 Nov 2026 15:22:36 +0000</pubDate>
     </item>
     <item>
-      <title>Show HN: ElmTUI. Declarative terminal user interface framework in Common Lisp</title>
-      <link>https://github.com/fkr-0/elmtui</link>
-      <description>1 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50326094'&gt;discussion sur Hacker News&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50326094</guid>
-      <pubDate>Sun, 01 Nov 2026 14:34:14 +0000</pubDate>
-    </item>
-    <item>
       <title>[security] The Duty of a Scholar</title>
       <link>https://www.daemonology.net/blog/2026-10-31-The-Duty-of-a-Scholar.html</link>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/vo4337/duty_scholar"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
@@ -75,7 +82,7 @@
     <item>
       <title>Bidirectional charging during grid outages</title>
       <link>https://www.jefftk.com/p/bidirectional-charging-during-grid-outages</link>
-      <description>90 points, 131 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50319749'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>103 points, 153 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50319749'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50319749</guid>
       <pubDate>Sat, 31 Oct 2026 20:21:55 +0000</pubDate>
     </item>
@@ -650,13 +657,6 @@ Forgery attacks that affect many Web applicatio&lt;/p&gt;
       <pubDate>Mon, 19 Oct 2026 16:05:42 +0000</pubDate>
     </item>
     <item>
-      <title>Postmortem: Sweden's citizenship law shipped with no migration path</title>
-      <link>https://eric.pe/terson/writes/a-postmortem-on-swedens-citizenship-law/</link>
-      <description>4 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50149746'&gt;discussion sur Hacker News&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50149746</guid>
-      <pubDate>Mon, 19 Oct 2026 08:19:39 +0000</pubDate>
-    </item>
-    <item>
       <title>[practices] What requirements don't you have?</title>
       <link>https://www.seangoedecke.com/what-requirements-dont-you-have/</link>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/nuepys/what_requirements_don_t_you_have"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
@@ -1191,13 +1191,6 @@ Test instance where you are welcome to make a mess: &lt;a href="https://squalk-t
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ugkhor/my_homelab_got_hacked_postmortem"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/ugkhor</guid>
       <pubDate>Wed, 12 Aug 2026 15:50:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>[devops] An inter-mesh deployment pipeline</title>
-      <link>https://blog.zm.is/an-inter-mesh-deployment-pipeline/</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/xoivjb/inter_mesh_deployment_pipeline"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/xoivjb</guid>
-      <pubDate>Tue, 11 Aug 2026 10:11:38 +0000</pubDate>
     </item>
   </channel>
 </rss>
