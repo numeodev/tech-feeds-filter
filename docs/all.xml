@@ -8,7 +8,21 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 02 Nov 2026 21:04:24 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 03:10:19 +0000</lastBuildDate>
+    <item>
+      <title>[vcs] Scaling Git at OpenAI</title>
+      <link>https://openai.com/index/scaling-git-at-openai/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/bpnooq/scaling_git_at_openai"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/bpnooq</guid>
+      <pubDate>Tue, 03 Nov 2026 02:18:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>[security] Expat 2.10.0 released, fixes four vulnerabilities</title>
+      <link>https://blog.hartwork.org/posts/expat-2-10-0-released/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/aqyfya/expat_2_10_0_released_fixes_four"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/aqyfya</guid>
+      <pubDate>Mon, 02 Nov 2026 23:47:22 +0000</pubDate>
+    </item>
     <item>
       <title>[security] This background sound leaks your exact location</title>
       <link>https://youtu.be/UytYrhYLOKI</link>
@@ -33,7 +47,7 @@
     <item>
       <title>Show HN: Subvocal – Talk to your computer without making noise</title>
       <link>https://news.ycombinator.com/item?id=50340088</link>
-      <description>357 points, 223 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50340088'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>579 points, 311 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50340088'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50340088</guid>
       <pubDate>Mon, 02 Nov 2026 17:16:17 +0000</pubDate>
     </item>
@@ -124,7 +138,7 @@
     <item>
       <title>Ask HN: Cannot log in to my AWS account</title>
       <link>https://news.ycombinator.com/item?id=50328267</link>
-      <description>1 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50328267'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>1 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50328267'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50328267</guid>
       <pubDate>Sun, 01 Nov 2026 18:30:24 +0000</pubDate>
     </item>
@@ -150,6 +164,13 @@
       <pubDate>Sun, 01 Nov 2026 15:22:36 +0000</pubDate>
     </item>
     <item>
+      <title>Show HN: ElmTUI. Declarative terminal user interface framework in Common Lisp</title>
+      <link>https://github.com/fkr-0/elmtui</link>
+      <description>1 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50326094'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50326094</guid>
+      <pubDate>Sun, 01 Nov 2026 14:34:14 +0000</pubDate>
+    </item>
+    <item>
       <title>[security] The Duty of a Scholar</title>
       <link>https://www.daemonology.net/blog/2026-10-31-The-Duty-of-a-Scholar.html</link>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/vo4337/duty_scholar"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
@@ -159,7 +180,7 @@
     <item>
       <title>Bidirectional charging during grid outages</title>
       <link>https://www.jefftk.com/p/bidirectional-charging-during-grid-outages</link>
-      <description>108 points, 167 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50319749'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>112 points, 169 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50319749'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50319749</guid>
       <pubDate>Sat, 31 Oct 2026 20:21:55 +0000</pubDate>
     </item>
@@ -400,13 +421,6 @@ Forgery attacks that affect many Web applicatio&lt;/p&gt;
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/f3jpq3/next_circle_security_hell"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/f3jpq3</guid>
       <pubDate>Tue, 27 Oct 2026 20:10:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>[security] Fuzzers vs. AI: Comparing Fuzzilli and BigSleep on JavaScript Engines</title>
-      <link>https://projectzero.google/2026/10/fuzzing-v-AI.html</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/rswyzt/fuzzers_vs_ai_comparing_fuzzilli"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/rswyzt</guid>
-      <pubDate>Tue, 27 Oct 2026 19:08:23 +0000</pubDate>
     </item>
     <item>
       <title>[r/sre] [Hiring] Senior Site Reliability Engineer – Backend Platform | Japan, Tokyo</title>
@@ -667,20 +681,6 @@ Forgery attacks that affect many Web applicatio&lt;/p&gt;
       <description>4 points, 3 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50161029'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50161029</guid>
       <pubDate>Tue, 20 Oct 2026 03:34:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>Japanese players liken Tekken rollback mod to serious crimes, playerbase split</title>
-      <link>https://www.ign.com/articles/japanese-tekken-players-are-likening-tekken-6s-rollback-netcode-mod-to-serious-crimes-and-the-fighting-game-community-is-split</link>
-      <description>4 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50158971'&gt;discussion sur Hacker News&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50158971</guid>
-      <pubDate>Mon, 19 Oct 2026 22:35:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hetzner object storage outage since last 10 days in HEL data center</title>
-      <link>https://status.hetzner.com/incident/382ed0e5-f1c4-45ec-a7a3-326d3970d6b3</link>
-      <description>16 points, 2 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50158360'&gt;discussion sur Hacker News&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50158360</guid>
-      <pubDate>Mon, 19 Oct 2026 21:33:26 +0000</pubDate>
     </item>
     <item>
       <title>[practices] What requirements don't you have?</title>
@@ -1005,14 +1005,6 @@ Forgery attacks that affect many Web applicatio&lt;/p&gt;
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/0xfpgo/we_used_database_as_message_queue_now_we"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/0xfpgo</guid>
       <pubDate>Wed, 30 Sep 2026 20:28:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>[vcs] Change Tours | Because understanding a code change is hard</title>
-      <link>https://hannahpotter.github.io/projects/change_tours.html</link>
-      <description>&lt;p&gt;Project available at &lt;a href="https://github.com/hannahpotter/changetours-vscode-pull-request-github" rel="ugc"&gt;https://github.com/hannahpotter/changetours-vscode-pull-request-github&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://lobste.rs/s/gl9h27/change_tours_because_understanding_code"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/gl9h27</guid>
-      <pubDate>Tue, 29 Sep 2026 20:57:11 +0000</pubDate>
     </item>
     <item>
       <title>[distributed] Deterministic Concurrency</title>
