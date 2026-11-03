@@ -8,7 +8,21 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 03 Nov 2026 18:49:22 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 23:47:32 +0000</lastBuildDate>
+    <item>
+      <title>[security] Common Beliefs About DNSSEC Put to the Test: An Invitation to Fact-Check Your Assumptions</title>
+      <link>https://circleid.com/posts/common-beliefs-about-dnssec-put-to-the-test-an-invitation-to-fact-check-your-assumptions</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/qvpzfa/common_beliefs_about_dnssec_put_test"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/qvpzfa</guid>
+      <pubDate>Tue, 03 Nov 2026 19:45:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>A free live outage feed for your agents</title>
+      <link>https://outages.live/</link>
+      <description>2 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50356458'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50356458</guid>
+      <pubDate>Tue, 03 Nov 2026 18:55:22 +0000</pubDate>
+    </item>
     <item>
       <title>[r/sre] AI SRE tools, November 2026: updated list, who got bought</title>
       <link>https://www.reddit.com/r/sre/comments/1xmyjif/ai_sre_tools_november_2026_updated_list_who_got/</link>
@@ -36,6 +50,13 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/trqbi2/firefox_security_privacy_newsletter"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/trqbi2</guid>
       <pubDate>Tue, 03 Nov 2026 08:03:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>[practices] The software industry: annealing, but wrong</title>
+      <link>https://apenwarr.ca/log/20260531-the-software-industry-annealing-but-wrong</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/z8wvkd/software_industry_annealing_wrong"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/z8wvkd</guid>
+      <pubDate>Tue, 03 Nov 2026 07:39:47 +0000</pubDate>
     </item>
     <item>
       <title>[vcs] Scaling Git at OpenAI</title>
@@ -75,7 +96,7 @@
     <item>
       <title>Show HN: Subvocal – Talk to your computer without making noise</title>
       <link>https://news.ycombinator.com/item?id=50340088</link>
-      <description>799 points, 373 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50340088'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>810 points, 380 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50340088'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50340088</guid>
       <pubDate>Mon, 02 Nov 2026 17:16:17 +0000</pubDate>
     </item>
@@ -201,7 +222,7 @@
     <item>
       <title>Bidirectional charging during grid outages</title>
       <link>https://www.jefftk.com/p/bidirectional-charging-during-grid-outages</link>
-      <description>113 points, 172 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50319749'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>113 points, 173 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50319749'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50319749</guid>
       <pubDate>Sat, 31 Oct 2026 20:21:55 +0000</pubDate>
     </item>
@@ -421,13 +442,6 @@ Forgery attacks that affect many Web applicatio&lt;/p&gt;
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/cpaibp/this_is_not_sustainable"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/cpaibp</guid>
       <pubDate>Wed, 28 Oct 2026 03:56:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>[security] Tailscale SSH: Investigation and remediation update</title>
-      <link>https://tailscale.com/ssh-investigation-update</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/qmvxuh/tailscale_ssh_investigation"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/qmvxuh</guid>
-      <pubDate>Wed, 28 Oct 2026 01:31:44 +0000</pubDate>
     </item>
     <item>
       <title>Hacking attempts against US Federal Election Commission system triggered outage</title>
@@ -900,13 +914,6 @@ Forgery attacks that affect many Web applicatio&lt;/p&gt;
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/xpyahx/grubby_static_site_generator_for_git"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/xpyahx</guid>
       <pubDate>Sun, 04 Oct 2026 10:28:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>[practices] We’re going to need default hard budget caps on pretty much everything</title>
-      <link>https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/xkwswd/we_re_going_need_default_hard_budget_caps"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/xkwswd</guid>
-      <pubDate>Sun, 04 Oct 2026 07:58:14 +0000</pubDate>
     </item>
     <item>
       <title>[devops] gVisor is being donated to CNCF</title>
