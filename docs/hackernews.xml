@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 03 Nov 2026 11:28:29 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 18:49:21 +0000</lastBuildDate>
+    <item>
+      <title>Show HN: AllTheStatus, status page central dashboard</title>
+      <link>https://allthestatus.com/</link>
+      <description>1 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50352173'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50352173</guid>
+      <pubDate>Tue, 03 Nov 2026 14:07:59 +0000</pubDate>
+    </item>
     <item>
       <title>Linux reverts a feature designed to reduce bug-report noise</title>
       <link>https://www.phoronix.com/news/Linux-7.4-Drops-Taint-Bind</link>
@@ -19,7 +26,7 @@
     <item>
       <title>Show HN: Subvocal – Talk to your computer without making noise</title>
       <link>https://news.ycombinator.com/item?id=50340088</link>
-      <description>711 points, 344 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50340088'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>799 points, 373 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50340088'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50340088</guid>
       <pubDate>Mon, 02 Nov 2026 17:16:17 +0000</pubDate>
     </item>
@@ -82,7 +89,7 @@
     <item>
       <title>Bidirectional charging during grid outages</title>
       <link>https://www.jefftk.com/p/bidirectional-charging-during-grid-outages</link>
-      <description>113 points, 170 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50319749'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>113 points, 172 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50319749'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50319749</guid>
       <pubDate>Sat, 31 Oct 2026 20:21:55 +0000</pubDate>
     </item>
@@ -211,41 +218,6 @@
       <description>25 points, 7 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50177413'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50177413</guid>
       <pubDate>Wed, 21 Oct 2026 07:55:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>Incident Control D DNS Outage on October 11, 2026</title>
-      <link>https://controld.com/blog/incident-october-11-2026/</link>
-      <description>1 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50170116'&gt;discussion sur Hacker News&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50170116</guid>
-      <pubDate>Tue, 20 Oct 2026 17:55:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>Google cloud outage knocks out Revolut and others</title>
-      <link>https://www.bloomberg.com/news/articles/2026-10-20/google-cloud-outage-takes-down-revolut-and-other-banks-in-uk</link>
-      <description>1 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50168753'&gt;discussion sur Hacker News&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50168753</guid>
-      <pubDate>Tue, 20 Oct 2026 16:22:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>Show HN: An archive of AWS outages that keeps them after AWS's 12-month window</title>
-      <link>https://mimobn.github.io/aws-status-archive/</link>
-      <description>6 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50167478'&gt;discussion sur Hacker News&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50167478</guid>
-      <pubDate>Tue, 20 Oct 2026 15:01:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>Google Cloud's Europe-west2 (London) outage</title>
-      <link>https://twitter.com/CloudflareRadar/status/2112486747032457726</link>
-      <description>2 points, 2 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50166864'&gt;discussion sur Hacker News&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50166864</guid>
-      <pubDate>Tue, 20 Oct 2026 14:19:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>Since when was availability no longer part of security?</title>
-      <link>https://news.ycombinator.com/item?id=50165964</link>
-      <description>1 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50165964'&gt;discussion sur Hacker News&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50165964</guid>
-      <pubDate>Tue, 20 Oct 2026 13:19:36 +0000</pubDate>
     </item>
   </channel>
 </rss>
