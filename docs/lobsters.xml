@@ -8,13 +8,27 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 03 Nov 2026 23:47:32 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 03:55:37 +0000</lastBuildDate>
+    <item>
+      <title>[security] Observations from Running stealmybitcoin.com</title>
+      <link>https://pavursec.com/blog/stealmybitcoin/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/fgucra/observations_from_running"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/fgucra</guid>
+      <pubDate>Tue, 03 Nov 2026 23:45:21 +0000</pubDate>
+    </item>
     <item>
       <title>[security] Common Beliefs About DNSSEC Put to the Test: An Invitation to Fact-Check Your Assumptions</title>
       <link>https://circleid.com/posts/common-beliefs-about-dnssec-put-to-the-test-an-invitation-to-fact-check-your-assumptions</link>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/qvpzfa/common_beliefs_about_dnssec_put_test"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/qvpzfa</guid>
       <pubDate>Tue, 03 Nov 2026 19:45:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>[vcs] git-loom 1.0</title>
+      <link>https://narnaud.github.io/git-loom/introduction.html</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/bw6uqz/git_loom_1_0"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/bw6uqz</guid>
+      <pubDate>Tue, 03 Nov 2026 11:54:42 +0000</pubDate>
     </item>
     <item>
       <title>[distributed] Designing a planned switchover for minimum disruption</title>
@@ -288,13 +302,6 @@ Forgery attacks that affect many Web applicatio&lt;/p&gt;
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/vekgyd/scalable_vector_grief"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/vekgyd</guid>
       <pubDate>Wed, 28 Oct 2026 07:26:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>[security] This is not sustainable</title>
-      <link>https://www.netmeister.org/blog/defense-ddos.html</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/cpaibp/this_is_not_sustainable"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/cpaibp</guid>
-      <pubDate>Wed, 28 Oct 2026 03:56:49 +0000</pubDate>
     </item>
     <item>
       <title>[practices] Aggro is the Foundation (2022)</title>
@@ -683,13 +690,6 @@ Forgery attacks that affect many Web applicatio&lt;/p&gt;
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/cd5gdk/i_got_targeted_trying_get_your"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/cd5gdk</guid>
       <pubDate>Fri, 02 Oct 2026 22:19:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>[vcs] Git 3.0's upcoming SHA-256 default will be a costly mistake</title>
-      <link>https://blog.gitbutler.com/git-3-sha-256</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/bytzgl/git_3_0_s_upcoming_sha_256_default_will_be"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/bytzgl</guid>
-      <pubDate>Thu, 01 Oct 2026 18:26:59 +0000</pubDate>
     </item>
     <item>
       <title>[distributed] We used a database as a message queue. Now we use Kafka</title>
