@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 04 Nov 2026 03:55:37 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 11:45:24 +0000</lastBuildDate>
+    <item>
+      <title>[security] Pulling the right strings for RCE on a Puppet</title>
+      <link>https://neodyme.io/en/blog/puppet_rce</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/sfzkeb/pulling_right_strings_for_rce_on_puppet"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/sfzkeb</guid>
+      <pubDate>Wed, 04 Nov 2026 07:39:20 +0000</pubDate>
+    </item>
     <item>
       <title>[security] Observations from Running stealmybitcoin.com</title>
       <link>https://pavursec.com/blog/stealmybitcoin/</link>
@@ -110,7 +117,7 @@
     <item>
       <title>Show HN: Subvocal – Talk to your computer without making noise</title>
       <link>https://news.ycombinator.com/item?id=50340088</link>
-      <description>813 points, 384 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50340088'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>819 points, 388 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50340088'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50340088</guid>
       <pubDate>Mon, 02 Nov 2026 17:16:17 +0000</pubDate>
     </item>
@@ -444,13 +451,6 @@ Forgery attacks that affect many Web applicatio&lt;/p&gt;
       <pubDate>Wed, 28 Oct 2026 09:18:31 +0000</pubDate>
     </item>
     <item>
-      <title>[security] Scalable Vector Grief</title>
-      <link>https://portswigger.net/research/scalable-vector-grief</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/vekgyd/scalable_vector_grief"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/vekgyd</guid>
-      <pubDate>Wed, 28 Oct 2026 07:26:03 +0000</pubDate>
-    </item>
-    <item>
       <title>Hacking attempts against US Federal Election Commission system triggered outage</title>
       <link>https://www.reuters.com/technology/hacker-trying-breach-us-federal-election-commission-system-email-shows-2026-10-27/</link>
       <description>5 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50265147'&gt;discussion sur Hacker News&lt;/a&gt;</description>
@@ -611,20 +611,6 @@ Forgery attacks that affect many Web applicatio&lt;/p&gt;
       <description>2 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50181507'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50181507</guid>
       <pubDate>Wed, 21 Oct 2026 14:21:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hetzner Outage</title>
-      <link>https://status.hetzner.com/</link>
-      <description>4 points, 2 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50178645'&gt;discussion sur Hacker News&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50178645</guid>
-      <pubDate>Wed, 21 Oct 2026 10:35:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>Railway Major Outage</title>
-      <link>https://status.railway.com/incident/QH8L8B3E</link>
-      <description>25 points, 7 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50177413'&gt;discussion sur Hacker News&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50177413</guid>
-      <pubDate>Wed, 21 Oct 2026 07:55:53 +0000</pubDate>
     </item>
     <item>
       <title>[distributed] Jepsen: Orkes Conductor 5.3.2</title>
