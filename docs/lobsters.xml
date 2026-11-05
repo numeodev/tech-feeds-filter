@@ -8,7 +8,21 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 05 Nov 2026 15:56:04 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 21:42:54 +0000</lastBuildDate>
+    <item>
+      <title>[security] SourceHut disabled registration bypass | CVE-2026-121728</title>
+      <link>https://blog.arusekk.pl/posts/srht-disabled-registration-bypass/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/x2hcss/sourcehut_disabled_registration_bypass"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/x2hcss</guid>
+      <pubDate>Thu, 05 Nov 2026 18:34:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>[distributed] How Flink's Kafka connector commits offsets to Kafka</title>
+      <link>https://dalelane.co.uk/blog/?p=6161</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/wfw32o/how_flink_s_kafka_connector_commits"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/wfw32o</guid>
+      <pubDate>Thu, 05 Nov 2026 16:31:51 +0000</pubDate>
+    </item>
     <item>
       <title>[security] sshhole</title>
       <link>https://sshhole.com/</link>
@@ -276,13 +290,6 @@
 &lt;p&gt;I &lt;em&gt;would&lt;/em&gt; just use 1Password, but recent events have demonstrated them as not exactly competent.  I could always use KeepassXC and keep the file in a Google Drive folder, or maybe teach my siblings to use Syncthing, but that feels like extra steps we could do without.  Anyone have any recommendations for how to do this well?&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/eccbci</guid>
       <pubDate>Thu, 29 Oct 2026 14:39:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>[security] A single malformed WAP Push SMS crashes com.android.phone on Android, dropping active calls (including emergency calls)</title>
-      <link>https://smsofdeath.com/</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/udg9co/single_malformed_wap_push_sms_crashes_com"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/udg9co</guid>
-      <pubDate>Thu, 29 Oct 2026 07:22:37 +0000</pubDate>
     </item>
     <item>
       <title>[practices] A Little Bit of Slope Makes Up For a Lot of Y-Intercept</title>
@@ -819,13 +826,6 @@ Test instance where you are welcome to make a mess: &lt;a href="https://squalk-t
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/mkpgrk/pattern_language_software_architecture"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/mkpgrk</guid>
       <pubDate>Tue, 01 Sep 2026 17:53:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>[distributed] Omnipresent availability risks in cloud software</title>
-      <link>https://surfingcomplexity.blog/2026/08/29/omnipresent-availability-risks-in-cloud-software/</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/m3brob/omnipresent_availability_risks_cloud"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/m3brob</guid>
-      <pubDate>Sat, 29 Aug 2026 22:17:35 +0000</pubDate>
     </item>
     <item>
       <title>[devops] Creepy crawlies</title>

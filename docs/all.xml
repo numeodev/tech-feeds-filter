@@ -8,11 +8,25 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 05 Nov 2026 15:56:04 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 21:42:54 +0000</lastBuildDate>
+    <item>
+      <title>[security] SourceHut disabled registration bypass | CVE-2026-121728</title>
+      <link>https://blog.arusekk.pl/posts/srht-disabled-registration-bypass/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/x2hcss/sourcehut_disabled_registration_bypass"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/x2hcss</guid>
+      <pubDate>Thu, 05 Nov 2026 18:34:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>[distributed] How Flink's Kafka connector commits offsets to Kafka</title>
+      <link>https://dalelane.co.uk/blog/?p=6161</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/wfw32o/how_flink_s_kafka_connector_commits"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/wfw32o</guid>
+      <pubDate>Thu, 05 Nov 2026 16:31:51 +0000</pubDate>
+    </item>
     <item>
       <title>Show HN: K8sman – A Native Kubernetes IDE</title>
       <link>https://github.com/matty234/k8sman</link>
-      <description>2 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50380277'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>6 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50380277'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50380277</guid>
       <pubDate>Thu, 05 Nov 2026 15:25:51 +0000</pubDate>
     </item>
@@ -159,7 +173,7 @@
     <item>
       <title>Show HN: Subvocal – Talk to your computer without making noise</title>
       <link>https://news.ycombinator.com/item?id=50340088</link>
-      <description>834 points, 390 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50340088'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>836 points, 392 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50340088'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50340088</guid>
       <pubDate>Mon, 02 Nov 2026 17:16:17 +0000</pubDate>
     </item>
@@ -361,13 +375,6 @@
       <pubDate>Fri, 30 Oct 2026 07:39:04 +0000</pubDate>
     </item>
     <item>
-      <title>[r/sre] What evidence should an operations agent produce before you act on its root cause analysis?</title>
-      <link>https://www.reddit.com/r/sre/comments/1xj5eal/what_evidence_should_an_operations_agent_produce/</link>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;AI agents are increasingly used for incident investigation. In most demonstrations the output is a single conclusion, such as “the root cause is X”. A conclusion without its basis is of limited use during an incident: the on-call engineer must repeat the investigation to decide whether to trust it, and the time saved is lost.&lt;/p&gt; &lt;p&gt;My working position is that an operations agent should be required to return an &lt;strong&gt;evidence chain&lt;/strong&gt; together with each conclusion, with four parts:&lt;/p&gt; &lt;p&gt;1. &lt;strong&gt;Topology.&lt;/strong&gt; The dependency path the agent considered and any recent changes on it.&lt;/p&gt; &lt;p&gt;2. &lt;strong&gt;Metrics.&lt;/strong&gt; Which signals moved, and when relative to the first symptom.&lt;/p&gt; &lt;p&gt;3. &lt;strong&gt;Errors and logs.&lt;/strong&gt; Which failures appeared first, and on which path.&lt;/p&gt; &lt;p&gt;4. &lt;strong&gt;A hypothesis referencing all three,&lt;/strong&gt; so that each link can be verified individually.&lt;/p&gt; &lt;p&gt;(The image shows the structure. The example in it is fictional.)&lt;/p&gt; &lt;p&gt;From this position I draw three practical conclusions, which I would like to test against your experience:&lt;/p&gt; &lt;p&gt;● &lt;strong&gt;Evidence is a precondition for action, not an optional extra.&lt;/strong&gt; A conclusion that cannot be traced to data should be treated as a hypothesis, regardless of how confident it sounds.&lt;/p&gt; &lt;p&gt;● &lt;strong&gt;Autonomy should be tiered by reversibility and blast radius, not by model confidence.&lt;/strong&gt; Reading data and attaching diagnostics can be autonomous. Changing configuration or restarting shared services should require approval, with the evidence presented in the approval request.&lt;/p&gt; &lt;p&gt;● &lt;strong&gt;Agents should be allowed to report uncertainty.&lt;/strong&gt; “Two candidate causes, evidence for each” is a more useful output than a single confident answer.&lt;/p&gt; &lt;p&gt;Known weaknesses of this approach: it depends on topology and telemetry being complete, so gaps in either skew the chain without being visible; and an evidence chain can be assembled to support a wrong hypothesis as easily as a right one, so it makes errors checkable rather than impossible.&lt;/p&gt; &lt;p&gt;Questions for people who carry a pager:&lt;/p&gt; &lt;p&gt;● Which part of an evidence chain do you check first, and which part do you not trust?&lt;/p&gt; &lt;p&gt;● Would you permit an agent to execute a remediation, and under which approval conditions?&lt;/p&gt; &lt;p&gt;● Where have AI-assisted RCA tools failed you in practice: false confidence, hidden assumptions, or missing data?&lt;/p&gt; &lt;p&gt;&lt;em&gt;Disclosure: I work at Bonree, an observability vendor. This post is about the design question, not a product.&lt;/em&gt;&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/Bonree"&gt; /u/Bonree &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/r/sre/comments/1xj5eal/what_evidence_should_an_operations_agent_produce/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/sre/comments/1xj5eal/what_evidence_should_an_operations_agent_produce/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</description>
-      <guid isPermaLink="false">https://www.reddit.com/r/sre/t3_1xj5eal</guid>
-      <pubDate>Fri, 30 Oct 2026 03:59:56 +0000</pubDate>
-    </item>
-    <item>
       <title>[security] XSS in yarr RSS reader</title>
       <link>https://0x67673068.me/xss-in-yarr/</link>
       <description>&lt;p&gt;Note: The dark mode of this site is kind of hard to read.&lt;/p&gt;
@@ -416,13 +423,6 @@
 &lt;p&gt;I &lt;em&gt;would&lt;/em&gt; just use 1Password, but recent events have demonstrated them as not exactly competent.  I could always use KeepassXC and keep the file in a Google Drive folder, or maybe teach my siblings to use Syncthing, but that feels like extra steps we could do without.  Anyone have any recommendations for how to do this well?&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/eccbci</guid>
       <pubDate>Thu, 29 Oct 2026 14:39:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>[security] A single malformed WAP Push SMS crashes com.android.phone on Android, dropping active calls (including emergency calls)</title>
-      <link>https://smsofdeath.com/</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/udg9co/single_malformed_wap_push_sms_crashes_com"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/udg9co</guid>
-      <pubDate>Thu, 29 Oct 2026 07:22:37 +0000</pubDate>
     </item>
     <item>
       <title>Tangled.org ongoing outage (&gt;= 7 hours) due to AT protocol</title>
@@ -1015,13 +1015,6 @@ Test instance where you are welcome to make a mess: &lt;a href="https://squalk-t
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/mkpgrk/pattern_language_software_architecture"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/mkpgrk</guid>
       <pubDate>Tue, 01 Sep 2026 17:53:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>[distributed] Omnipresent availability risks in cloud software</title>
-      <link>https://surfingcomplexity.blog/2026/08/29/omnipresent-availability-risks-in-cloud-software/</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/m3brob/omnipresent_availability_risks_cloud"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/m3brob</guid>
-      <pubDate>Sat, 29 Aug 2026 22:17:35 +0000</pubDate>
     </item>
     <item>
       <title>[devops] Creepy crawlies</title>
