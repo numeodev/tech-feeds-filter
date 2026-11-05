@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 04 Nov 2026 19:04:42 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 00:38:15 +0000</lastBuildDate>
+    <item>
+      <title>[r/sre] Agent actions that can't be tied to an owner are useless in a postmortem</title>
+      <link>https://www.reddit.com/r/sre/comments/1xnxkkv/agent_actions_that_cant_be_tied_to_an_owner_are/</link>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;A poster on &lt;a href="https://www.reddit.com/r/IdentityManagement"&gt;r/IdentityManagement&lt;/a&gt; described an audit that turned up agent actions under a shared credential, with nothing linking them to which agent or which owner. That kind of log is empty when you're reconstructing an incident.&lt;/p&gt; &lt;p&gt;I wanted to see whether a bastion with named sessions gives you something usable when the client is automated. I pointed a bastion at one SSH target and used a script as the client, no AI agent involved. The bastion ran JumpServer Community Edition. The token the script received expired after 299 seconds, was limited to that one host, and could not be reused. The script never knew the target password.&lt;/p&gt; &lt;p&gt;The target account was a local user, but all 8 commands landed in the log under the gateway identity, with the asset name, timestamp, source IP, full input and full output. That's attribution a postmortem reviewer can trace.&lt;/p&gt; &lt;p&gt;After I disabled the asset rule, new token requests failed within 2.1 seconds. Tokens created before that change that went unused also stopped authenticating. Pressing terminate on the gateway ended the open session and the connection dropped at once. Everything typed before that point was already recorded with output.&lt;/p&gt; &lt;p&gt;The gateway only covers what passes through it. A direct SSH login to the host bypassed it entirely and left no session record. That's a host configuration problem to solve separately: firewall rules, sshd config, or changing the account password.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/More-Radio-7418"&gt; /u/More-Radio-7418 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/r/sre/comments/1xnxkkv/agent_actions_that_cant_be_tied_to_an_owner_are/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/sre/comments/1xnxkkv/agent_actions_that_cant_be_tied_to_an_owner_are/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</description>
+      <guid isPermaLink="false">https://www.reddit.com/r/sre/t3_1xnxkkv</guid>
+      <pubDate>Wed, 04 Nov 2026 19:34:53 +0000</pubDate>
+    </item>
     <item>
       <title>[r/sre] AI SRE tools, November 2026: updated list, who got bought</title>
       <link>https://www.reddit.com/r/sre/comments/1xmyjif/ai_sre_tools_november_2026_updated_list_who_got/</link>

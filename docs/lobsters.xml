@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 04 Nov 2026 19:04:49 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 00:38:25 +0000</lastBuildDate>
+    <item>
+      <title>[security] Residential Proxies Detected on White House Network</title>
+      <link>https://layer3intel.com/blog/residential-proxies-white-house-network</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/253two/residential_proxies_detected_on_white"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/253two</guid>
+      <pubDate>Thu, 05 Nov 2026 00:30:40 +0000</pubDate>
+    </item>
     <item>
       <title>[security] Single Point of Failure: The (Fictional) Day Google Forgot To Check Passwords (2014)</title>
       <link>https://youtube.com/watch?v=y4GB_NDU43Q</link>
@@ -281,13 +288,6 @@ Forgery attacks that affect many Web applicatio&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://lobste.rs/s/9h6lc4/acls_don_t_2009"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/9h6lc4</guid>
       <pubDate>Thu, 29 Oct 2026 04:13:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>[security] GitLab security incident: attempted exploitation of CVE-2026-97229</title>
-      <link>https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/2zsjwt/gitlab_security_incident_attempted"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/2zsjwt</guid>
-      <pubDate>Wed, 28 Oct 2026 23:01:26 +0000</pubDate>
     </item>
     <item>
       <title>[practices] A Little Bit of Slope Makes Up For a Lot of Y-Intercept</title>
