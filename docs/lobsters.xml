@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 05 Nov 2026 21:42:54 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 01:55:00 +0000</lastBuildDate>
+    <item>
+      <title>[practices] I Go to Olympics of 4KB Coding</title>
+      <link>https://inv.nadeko.net/watch?v=PeZNLvD4mds</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/vwkurz/i_go_olympics_4kb_coding"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/vwkurz</guid>
+      <pubDate>Thu, 05 Nov 2026 23:33:07 +0000</pubDate>
+    </item>
     <item>
       <title>[security] SourceHut disabled registration bypass | CVE-2026-121728</title>
       <link>https://blog.arusekk.pl/posts/srht-disabled-registration-bypass/</link>
@@ -629,13 +636,6 @@
 &lt;p&gt;&lt;a href="https://lobste.rs/s/uvpts7/perseus_fail_slow_detection_framework"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/uvpts7</guid>
       <pubDate>Tue, 06 Oct 2026 18:11:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>[practices] Last rites for Gentoo's Chromium package</title>
-      <link>https://lwn.net/SubscriberLink/1097760/2be4d9e3eeb59039/</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/fpcicg/last_rites_for_gentoo_s_chromium_package"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/fpcicg</guid>
-      <pubDate>Tue, 06 Oct 2026 17:46:53 +0000</pubDate>
     </item>
     <item>
       <title>[devops] Using docker-compose with Podman rootless</title>
