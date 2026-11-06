@@ -8,11 +8,25 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 06 Nov 2026 08:45:26 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 16:29:19 +0000</lastBuildDate>
+    <item>
+      <title>[security] Pushing the Limits with getaddrinfo</title>
+      <link>https://acid.vegas/blog/pushing-the-limits-with-getaddrinfo/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/5cwnpu/pushing_limits_with_getaddrinfo"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/5cwnpu</guid>
+      <pubDate>Fri, 06 Nov 2026 14:47:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>[security] Practical guide on out of tree mitigations on Linux</title>
+      <link>https://clehaxze.tw/gemlog/2026/11-04-practical-guide-on-out-of-tree-mitigations-on-linux.gmi</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/l6gu7r/practical_guide_on_out_tree_mitigations"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/l6gu7r</guid>
+      <pubDate>Fri, 06 Nov 2026 08:53:27 +0000</pubDate>
+    </item>
     <item>
       <title>Show HN: Repairer – close the breach when a Linux flaw goes public</title>
       <link>https://gno.security/repairer/</link>
-      <description>1 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50388417'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>3 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50388417'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50388417</guid>
       <pubDate>Fri, 06 Nov 2026 05:00:14 +0000</pubDate>
     </item>
@@ -194,7 +208,7 @@
     <item>
       <title>Show HN: Subvocal – Talk to your computer without making noise</title>
       <link>https://news.ycombinator.com/item?id=50340088</link>
-      <description>837 points, 393 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50340088'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>838 points, 393 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50340088'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50340088</guid>
       <pubDate>Mon, 02 Nov 2026 17:16:17 +0000</pubDate>
     </item>
@@ -425,27 +439,6 @@
       <pubDate>Thu, 29 Oct 2026 16:08:47 +0000</pubDate>
     </item>
     <item>
-      <title>[security] Azure’s Weakest Link - Five Full Cross-Tenant Compromises</title>
-      <link>https://www.binarysecurity.no/posts/2026/10/one-root-case</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/gttasf/azure_s_weakest_link_five_full_cross"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/gttasf</guid>
-      <pubDate>Thu, 29 Oct 2026 14:57:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>[security] Shared password manager for families?</title>
-      <link>https://lobste.rs/s/eccbci/shared_password_manager_for_families</link>
-      <description>&lt;p&gt;Long story short, I need to have a bunch of shared accounts with family for finance and insurance and stuff, mostly for the sake of family members who are getting old and need help keeping things organized.  So the requirements are:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Shared over long distances; just having each of us have our own password manager won't work well&lt;/li&gt;
-&lt;li&gt;Usable for non-techie people, so no command line stuff&lt;/li&gt;
-&lt;li&gt;I can self-host a web thing if necessary&lt;/li&gt;
-&lt;li&gt;Works on Linux and MacOS/iOS&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;I &lt;em&gt;would&lt;/em&gt; just use 1Password, but recent events have demonstrated them as not exactly competent.  I could always use KeepassXC and keep the file in a Google Drive folder, or maybe teach my siblings to use Syncthing, but that feels like extra steps we could do without.  Anyone have any recommendations for how to do this well?&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/eccbci</guid>
-      <pubDate>Thu, 29 Oct 2026 14:39:51 +0000</pubDate>
-    </item>
-    <item>
       <title>Tangled.org ongoing outage (&gt;= 7 hours) due to AT protocol</title>
       <link>https://status.tangled.org</link>
       <description>3 points, 4 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50283664'&gt;discussion sur Hacker News&lt;/a&gt;</description>
@@ -536,13 +529,6 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/hq3tu8/railway_preliminary_report_oct_21st"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/hq3tu8</guid>
       <pubDate>Fri, 23 Oct 2026 18:35:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>Bitchat Becomes France's Top Social App Amid Riots and Mobile Network Outage</title>
-      <link>https://gizmodo.com/jack-dorseys-bitchat-becomes-frances-top-social-app-amid-riots-and-mobile-network-outage-2000829670</link>
-      <description>14 points, 3 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50206782'&gt;discussion sur Hacker News&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50206782</guid>
-      <pubDate>Fri, 23 Oct 2026 10:23:10 +0000</pubDate>
     </item>
     <item>
       <title>[distributed] UUIDv7 doesn't have the properties you think it does</title>
