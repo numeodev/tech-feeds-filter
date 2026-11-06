@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 06 Nov 2026 16:29:18 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 21:53:21 +0000</lastBuildDate>
+    <item>
+      <title>We stress-tested AI spend limits under bursts and outages</title>
+      <link>https://stipend-ai.com/blog/ai-spend-limits-tested/</link>
+      <description>3 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50396021'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50396021</guid>
+      <pubDate>Fri, 06 Nov 2026 18:10:14 +0000</pubDate>
+    </item>
     <item>
       <title>Show HN: Repairer – close the breach when a Linux flaw goes public</title>
       <link>https://gno.security/repairer/</link>
@@ -61,7 +68,7 @@
     <item>
       <title>Show HN: Subvocal – Talk to your computer without making noise</title>
       <link>https://news.ycombinator.com/item?id=50340088</link>
-      <description>838 points, 393 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50340088'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>839 points, 394 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50340088'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50340088</guid>
       <pubDate>Mon, 02 Nov 2026 17:16:17 +0000</pubDate>
     </item>

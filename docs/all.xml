@@ -8,7 +8,28 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 06 Nov 2026 16:29:19 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 21:53:22 +0000</lastBuildDate>
+    <item>
+      <title>[security] Hacking the meta ray-ban smartglasses</title>
+      <link>https://p0pcycle.com/2026/11/06/hacking-the-meta-ray-ban-smartglasses/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/xhrab6/hacking_meta_ray_ban_smartglasses"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/xhrab6</guid>
+      <pubDate>Fri, 06 Nov 2026 20:50:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>We stress-tested AI spend limits under bursts and outages</title>
+      <link>https://stipend-ai.com/blog/ai-spend-limits-tested/</link>
+      <description>3 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50396021'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50396021</guid>
+      <pubDate>Fri, 06 Nov 2026 18:10:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>[distributed, vcs] Inside GitHub's new Git storage architecture</title>
+      <link>https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/y3hvme/inside_github_s_new_git_storage"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/y3hvme</guid>
+      <pubDate>Fri, 06 Nov 2026 17:50:09 +0000</pubDate>
+    </item>
     <item>
       <title>[security] Pushing the Limits with getaddrinfo</title>
       <link>https://acid.vegas/blog/pushing-the-limits-with-getaddrinfo/</link>
@@ -208,7 +229,7 @@
     <item>
       <title>Show HN: Subvocal – Talk to your computer without making noise</title>
       <link>https://news.ycombinator.com/item?id=50340088</link>
-      <description>838 points, 393 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50340088'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>839 points, 394 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50340088'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50340088</guid>
       <pubDate>Mon, 02 Nov 2026 17:16:17 +0000</pubDate>
     </item>
@@ -416,13 +437,6 @@
 &lt;p&gt;&lt;a href="https://lobste.rs/s/1r7enm/xss_yarr_rss_reader"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/1r7enm</guid>
       <pubDate>Thu, 29 Oct 2026 23:55:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>[security] C2PA's eMudhra Moment</title>
-      <link>https://www.da.vidbuchanan.co.uk/blog/c2pa-four.html</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/2matgw/c2pa_s_emudhra_moment"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/2matgw</guid>
-      <pubDate>Thu, 29 Oct 2026 20:33:44 +0000</pubDate>
     </item>
     <item>
       <title>[practices] An open format for writing agent-native software requirements</title>
@@ -876,13 +890,6 @@
       <pubDate>Fri, 02 Oct 2026 22:19:02 +0000</pubDate>
     </item>
     <item>
-      <title>[vcs] Git 3.0's upcoming SHA-256 default will be a costly mistake</title>
-      <link>https://blog.gitbutler.com/git-3-sha-256</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/bytzgl/git_3_0_s_upcoming_sha_256_default_will_be"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/bytzgl</guid>
-      <pubDate>Thu, 01 Oct 2026 18:26:59 +0000</pubDate>
-    </item>
-    <item>
       <title>[distributed] We used a database as a message queue. Now we use Kafka</title>
       <link>https://www.tigrisdata.com/blog/quick-fdb-kafka/</link>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/0xfpgo/we_used_database_as_message_queue_now_we"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
@@ -1008,13 +1015,6 @@ Test instance where you are welcome to make a mess: &lt;a href="https://squalk-t
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/hwzvik/life_metric"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/hwzvik</guid>
       <pubDate>Mon, 07 Sep 2026 09:36:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>[distributed] The pattern language of software architecture</title>
-      <link>https://metapatterns.io/</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/mkpgrk/pattern_language_software_architecture"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/mkpgrk</guid>
-      <pubDate>Tue, 01 Sep 2026 17:53:50 +0000</pubDate>
     </item>
     <item>
       <title>[devops] Creepy crawlies</title>
