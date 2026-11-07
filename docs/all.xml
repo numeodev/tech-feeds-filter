@@ -8,7 +8,35 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 07 Nov 2026 14:45:20 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 19:11:56 +0000</lastBuildDate>
+    <item>
+      <title>[security] OpenBSD top(1) adds flag to show chroot, pledge and unveil status</title>
+      <link>https://undeadly.org/cgi?action=article;sid=20261106104957</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/tfywf1/openbsd_top_1_adds_flag_show_chroot_pledge"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/tfywf1</guid>
+      <pubDate>Sat, 07 Nov 2026 18:41:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>[security] GhostMap: The Android flaw that crashes your phone before you open the app</title>
+      <link>https://www.bitdefender.com/en-us/blog/labs/ghostmap-android</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/c99mdx/ghostmap_android_flaw_crashes_your_phone"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/c99mdx</guid>
+      <pubDate>Sat, 07 Nov 2026 18:12:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>[distributed] Just how far can the FOR UPDATE SKIP LOCKED Postgres queue go?</title>
+      <link>https://garbagecollected.io/posts/postgres-task-queue-where-it-breaks/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/y8i714/just_how_far_can_for_update_skip_locked"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/y8i714</guid>
+      <pubDate>Sat, 07 Nov 2026 15:20:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>[security] Alpine Linux : openssh-server password authentication bypass</title>
+      <link>https://www.alpinelinux.org/posts/2026-11-05-openssh-password-authentication-bypass/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/7dbarm/alpine_linux_openssh_server_password"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/7dbarm</guid>
+      <pubDate>Sat, 07 Nov 2026 14:51:26 +0000</pubDate>
+    </item>
     <item>
       <title>[security] Firecracker VM Escape: PwnEscape Part 2</title>
       <link>https://pwn.ai/blog/firecracker-escape</link>
@@ -388,13 +416,6 @@
       <pubDate>Sun, 01 Nov 2026 15:22:36 +0000</pubDate>
     </item>
     <item>
-      <title>[security] The Duty of a Scholar</title>
-      <link>https://www.daemonology.net/blog/2026-10-31-The-Duty-of-a-Scholar.html</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/vo4337/duty_scholar"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/vo4337</guid>
-      <pubDate>Sun, 01 Nov 2026 00:46:07 +0000</pubDate>
-    </item>
-    <item>
       <title>Bidirectional charging during grid outages</title>
       <link>https://www.jefftk.com/p/bidirectional-charging-during-grid-outages</link>
       <description>113 points, 174 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50319749'&gt;discussion sur Hacker News&lt;/a&gt;</description>
@@ -410,25 +431,11 @@
       <pubDate>Sat, 31 Oct 2026 16:29:45 +0000</pubDate>
     </item>
     <item>
-      <title>[security] Defending the patch gap against automated attackers</title>
-      <link>https://blog.mozilla.org/en/firefox/privacy-security/defending-patch-gap/</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/dtvr7y/defending_patch_gap_against_automated"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/dtvr7y</guid>
-      <pubDate>Fri, 30 Oct 2026 21:06:04 +0000</pubDate>
-    </item>
-    <item>
       <title>[distributed, vcs] The federated code forge</title>
       <link>https://tangled.org/blog/forge/</link>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ukj8mm/federated_code_forge"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/ukj8mm</guid>
       <pubDate>Fri, 30 Oct 2026 17:57:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>[security] Protecting against CVE-2026-98432</title>
-      <link>https://groups.google.com/g/golang-announce/c/PCoQcdxoScw</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/mp8yqt/protecting_against_cve_2026_98432"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/mp8yqt</guid>
-      <pubDate>Fri, 30 Oct 2026 17:54:52 +0000</pubDate>
     </item>
     <item>
       <title>[vcs] Building fine-grained version control for agents with Rust and Durable Objects</title>
@@ -549,13 +556,6 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/gzpdsk/polyglot_s_dilemma_conformance_testing"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/gzpdsk</guid>
       <pubDate>Sat, 24 Oct 2026 16:59:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>Jack Dorsey's Bitchat Becomes France's Top Social App Amid Mobile Network Outage</title>
-      <link>https://gizmodo.com/jack-dorseys-bitchat-becomes-frances-top-social-app-amid-riots-and-mobile-network-outage-2000829670</link>
-      <description>6 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50222928'&gt;discussion sur Hacker News&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50222928</guid>
-      <pubDate>Sat, 24 Oct 2026 16:42:07 +0000</pubDate>
     </item>
     <item>
       <title>[devops] Railway Preliminary Report: Oct 21st Security Incident</title>
@@ -1000,13 +1000,6 @@ Test instance where you are welcome to make a mess: &lt;a href="https://squalk-t
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/bzacyp/fisl_finding_internet_structures_links"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/bzacyp</guid>
       <pubDate>Fri, 11 Sep 2026 08:29:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>[distributed] Absolutely Everything You Always Wanted to Know About Watermarks in Apache Flink</title>
-      <link>https://developer.confluent.io/blog/all-about-flink-watermarks-1/</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/llyiig/absolutely_everything_you_always_wanted"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/llyiig</guid>
-      <pubDate>Thu, 10 Sep 2026 08:15:49 +0000</pubDate>
     </item>
     <item>
       <title>[devops] Hardening Container Images</title>
