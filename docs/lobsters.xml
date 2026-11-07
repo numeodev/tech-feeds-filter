@@ -8,7 +8,21 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 07 Nov 2026 01:27:04 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 07:59:51 +0000</lastBuildDate>
+    <item>
+      <title>[security] Forwarded Without Question: How Web Frameworks Overtrust the Forwarded Header</title>
+      <link>https://www.lkoskela.fi/blog/2026-11-05-forwarded-without-question/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/m5kism/forwarded_without_question_how_web"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/m5kism</guid>
+      <pubDate>Sat, 07 Nov 2026 06:18:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>[practices] A Maintainer's Advice on Contributing to Open Source in 2026</title>
+      <link>https://wasp.sh/blog/2026/08/13/advice-for-contributing-in-2026</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/5mnquy/maintainer_s_advice_on_contributing_open"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/5mnquy</guid>
+      <pubDate>Sat, 07 Nov 2026 03:43:48 +0000</pubDate>
+    </item>
     <item>
       <title>[security] How hard could implementing DTLS 1.3 possibly be?</title>
       <link>https://joturk.net/posts/dtls</link>
@@ -275,13 +289,6 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ttp7aq/backdoors_claude_code_for_vs_cursor"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/ttp7aq</guid>
       <pubDate>Fri, 30 Oct 2026 11:04:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>[security] arm64e pointer authentication: PAC keys, PACIASP, A12</title>
-      <link>https://sigreturn.com/blog/pointer-authentication-arm64e/</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ruq2us/arm64e_pointer_authentication_pac_keys"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/ruq2us</guid>
-      <pubDate>Fri, 30 Oct 2026 07:39:04 +0000</pubDate>
     </item>
     <item>
       <title>[practices] An open format for writing agent-native software requirements</title>
@@ -613,13 +620,6 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/en3vgh/i_ve_been_deindexed_by_google"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/en3vgh</guid>
       <pubDate>Thu, 08 Oct 2026 07:59:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>[practices] A rant about APIs</title>
-      <link>https://dev.clintonblackburn.com/2026/10/08/a-rant-about-apis.html</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/jiphkt/rant_about_apis"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/jiphkt</guid>
-      <pubDate>Thu, 08 Oct 2026 06:07:14 +0000</pubDate>
     </item>
     <item>
       <title>[vcs] On Git Refs</title>

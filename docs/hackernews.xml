@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 07 Nov 2026 01:27:03 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 07:59:51 +0000</lastBuildDate>
+    <item>
+      <title>Trigger.dev: Security incident report – Sunday November first</title>
+      <link>https://trigger.dev/blog/security-incident-report-nov-2026</link>
+      <description>3 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50401113'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50401113</guid>
+      <pubDate>Sat, 07 Nov 2026 02:41:26 +0000</pubDate>
+    </item>
     <item>
       <title>We stress-tested AI spend limits under bursts and outages</title>
       <link>https://stipend-ai.com/blog/ai-spend-limits-tested/</link>
