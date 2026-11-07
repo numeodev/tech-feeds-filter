@@ -8,7 +8,28 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 07 Nov 2026 19:11:56 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 23:15:02 +0000</lastBuildDate>
+    <item>
+      <title>[security] *sshole, or when are we finally going to get rid of C?</title>
+      <link>https://sunshowers.io/posts/sshole/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/owsnms/sshole_when_are_we_finally_going_get_rid_c"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/owsnms</guid>
+      <pubDate>Sat, 07 Nov 2026 21:05:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>[vcs] Workflow dependency lockfiles</title>
+      <link>https://docs.github.com/en/actions/concepts/security/workflow-dependency-lockfiles</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/nft1s2/workflow_dependency_lockfiles"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/nft1s2</guid>
+      <pubDate>Sat, 07 Nov 2026 20:27:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>[security] Catching prompt injections hidden in PDFs</title>
+      <link>https://tomclancy.info/joshua-judges-ruth.html</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/hreu0b/catching_prompt_injections_hidden_pdfs"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/hreu0b</guid>
+      <pubDate>Sat, 07 Nov 2026 19:34:01 +0000</pubDate>
+    </item>
     <item>
       <title>[security] OpenBSD top(1) adds flag to show chroot, pledge and unveil status</title>
       <link>https://undeadly.org/cgi?action=article;sid=20261106104957</link>
@@ -299,7 +320,7 @@
     <item>
       <title>Show HN: Subvocal – Talk to your computer without making noise</title>
       <link>https://news.ycombinator.com/item?id=50340088</link>
-      <description>841 points, 394 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50340088'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>841 points, 395 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50340088'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50340088</guid>
       <pubDate>Mon, 02 Nov 2026 17:16:17 +0000</pubDate>
     </item>
@@ -337,20 +358,6 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/0mdf8w/securing_internet_critical_software_how"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/0mdf8w</guid>
       <pubDate>Mon, 02 Nov 2026 15:06:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>[security] Shutting the Door on the XCPE Botnet</title>
-      <link>https://cloud.google.com/blog/topics/threat-intelligence/shutting-the-door-on-the-xcpe-botnet/</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/chn4hu/shutting_door_on_xcpe_botnet"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/chn4hu</guid>
-      <pubDate>Mon, 02 Nov 2026 15:02:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>[security] Recognizing Keystrokes Using WiFi Devices</title>
-      <link>https://ieeexplore.ieee.org/document/7875144</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/8gsafe/recognizing_keystrokes_using_wifi"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/8gsafe</guid>
-      <pubDate>Mon, 02 Nov 2026 14:43:13 +0000</pubDate>
     </item>
     <item>
       <title>[devops] My reflex of assuming our servers need ever-growing amounts of RAM</title>
@@ -880,13 +887,6 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/eoibah/iroh_global_content_discovery"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/eoibah</guid>
       <pubDate>Sun, 04 Oct 2026 19:19:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>[vcs] grubby: static site generator for git repos written in Ruby</title>
-      <link>https://git.btxx.org/grubby</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/xpyahx/grubby_static_site_generator_for_git"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/xpyahx</guid>
-      <pubDate>Sun, 04 Oct 2026 10:28:57 +0000</pubDate>
     </item>
     <item>
       <title>[devops] gVisor is being donated to CNCF</title>
