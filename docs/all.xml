@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 08 Nov 2026 10:53:41 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 16:51:15 +0000</lastBuildDate>
+    <item>
+      <title>[practices] Following breadcrumbs in code - What accidentally committed Ad-Hoc logs reveal about developer comprehension</title>
+      <link>https://link.springer.com/article/10.1007/s10664-026-10988-z</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/b6ebju/following_breadcrumbs_code_what"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/b6ebju</guid>
+      <pubDate>Sun, 08 Nov 2026 13:21:22 +0000</pubDate>
+    </item>
     <item>
       <title>[security] PHP2Shell — Deep Dive</title>
       <link>https://djad04.github.io/php2shell-deep-dive/</link>
@@ -19,7 +26,7 @@
     <item>
       <title>Is YouTube starting to protect channel RSS feeds?</title>
       <link>https://news.ycombinator.com/item?id=50409244</link>
-      <description>4 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50409244'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>5 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50409244'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50409244</guid>
       <pubDate>Sun, 08 Nov 2026 00:04:08 +0000</pubDate>
     </item>
@@ -837,13 +844,6 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/nz3b1h/jujutsu_jj_0_46_0"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/nz3b1h</guid>
       <pubDate>Thu, 08 Oct 2026 09:02:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>[practices] I've Been Deindexed by Google</title>
-      <link>https://kennyqin.com/deindexed-by-google/</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/en3vgh/i_ve_been_deindexed_by_google"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/en3vgh</guid>
-      <pubDate>Thu, 08 Oct 2026 07:59:30 +0000</pubDate>
     </item>
     <item>
       <title>[vcs] On Git Refs</title>
