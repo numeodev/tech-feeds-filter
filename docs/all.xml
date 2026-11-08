@@ -8,7 +8,35 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 07 Nov 2026 23:15:02 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 03:23:17 +0000</lastBuildDate>
+    <item>
+      <title>Is YouTube starting to protect channel RSS feeds?</title>
+      <link>https://news.ycombinator.com/item?id=50409244</link>
+      <description>3 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50409244'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50409244</guid>
+      <pubDate>Sun, 08 Nov 2026 00:04:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>[security] Dear Open Source Developers: It's OK not to embargo</title>
+      <link>https://opensourcesecurity.io/2026/10-embargo/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/lhovnm/dear_open_source_developers_it_s_ok_not"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/lhovnm</guid>
+      <pubDate>Sat, 07 Nov 2026 23:31:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>[security] I’m not a fan of Deno’s security model (2024)</title>
+      <link>https://goldstein.lol/posts/deno-security/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/sh62d1/i_m_not_fan_deno_s_security_model_2024"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/sh62d1</guid>
+      <pubDate>Sat, 07 Nov 2026 23:19:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>[security] TideCloak | Tide Whitepaper Series</title>
+      <link>https://tide.org/whitepaper/tidecloak-integration</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ur8is2/tidecloak_tide_whitepaper_series"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/ur8is2</guid>
+      <pubDate>Sat, 07 Nov 2026 21:41:03 +0000</pubDate>
+    </item>
     <item>
       <title>[security] *sshole, or when are we finally going to get rid of C?</title>
       <link>https://sunshowers.io/posts/sshole/</link>
@@ -36,6 +64,13 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/tfywf1/openbsd_top_1_adds_flag_show_chroot_pledge"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/tfywf1</guid>
       <pubDate>Sat, 07 Nov 2026 18:41:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>[r/sre] IncidentLens: Building an SRE Copilot That Remembers Failed Fixes Using Episodic Memory</title>
+      <link>https://www.reddit.com/r/sre/comments/1xqdgyf/incidentlens_building_an_sre_copilot_that/</link>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Hey everyone,&lt;/p&gt; &lt;p&gt;If you've ever been on call at 3:00 AM when a P1 alert fires, you know the frustration of pasting an error or stack trace into an AI assistant, only to receive generic advice like &amp;quot;Execute a rolling restart of your service pods.&amp;quot;&lt;/p&gt; &lt;p&gt;You restart the pods, traffic surges back, the connection pool saturates again within 90 seconds, and the outage cascades.&lt;/p&gt; &lt;p&gt;The worst part? Your team already diagnosed and documented that exact failure three weeks ago in a post-mortem. But the LLM has no memory of it.&lt;/p&gt; &lt;p&gt;To explore whether structured episodic memory could solve this problem, we built IncidentLens, an open-source experimental SRE copilot powered by Hindsight's multi-strategy episodic memory engine.&lt;/p&gt; &lt;p&gt;The Problem with Naive RAG in SRE&lt;/p&gt; &lt;p&gt;Most DevOps AI tools rely on basic vector search over documentation. However, incident response introduces three major challenges:&lt;/p&gt; &lt;ol&gt; &lt;li&gt;False confidence from untyped similarity&lt;/li&gt; &lt;/ol&gt; &lt;p&gt;Naive RAG retrieves runbook chunks mentioning common fixes like pod restarts or thread pool scaling without understanding whether those actions actually worked or failed.&lt;/p&gt; &lt;ol&gt; &lt;li&gt;Lack of feedback and learning&lt;/li&gt; &lt;/ol&gt; &lt;p&gt;When an engineer executes a recommended mitigation and it fails, the agent doesn't retain that outcome. It may repeat the same harmful recommendation during the next incident.&lt;/p&gt; &lt;ol&gt; &lt;li&gt;Cross-service policy conflicts&lt;/li&gt; &lt;/ol&gt; &lt;p&gt;A tuning parameter that fixes an I/O-bound Python service, such as increasing thread pool concurrency, could cause thread-stack starvation in a Java microservice.&lt;/p&gt; &lt;p&gt;What We Built&lt;/p&gt; &lt;p&gt;IncidentLens addresses these problems through three main mechanisms:&lt;/p&gt; &lt;ol&gt; &lt;li&gt;Four-Way Parallel Memory Recall&lt;/li&gt; &lt;/ol&gt; &lt;p&gt;Combines BM25 exact error signature matching, semantic symptom matching, entity graph dependency traversal, and temporal deployment windows.&lt;/p&gt; &lt;ol&gt; &lt;li&gt;Closed Feedback Loop&lt;/li&gt; &lt;/ol&gt; &lt;p&gt;When an on-call engineer marks an attempted action as WORKED or FAILED, IncidentLens stores the outcome as a typed Experience Fact.&lt;/p&gt; &lt;p&gt;During subsequent queries, it injects relevant operational constraints, such as:&lt;/p&gt; &lt;p&gt;&amp;quot;CRITICAL WARNING: Avoid pod restart. A previous incident demonstrated connection pool exhaustion within 90 seconds.&amp;quot;&lt;/p&gt; &lt;ol&gt; &lt;li&gt;Cross-Service Policy Reflection&lt;/li&gt; &lt;/ol&gt; &lt;p&gt;Uses agentic reflection to compare mitigation behavior across different runtime architectures before recommending actions.&lt;/p&gt; &lt;p&gt;The Three-Arm Empirical Holdout Benchmark&lt;/p&gt; &lt;p&gt;We benchmarked three architectural configurations across six held-out microservice outage scenarios:&lt;/p&gt; &lt;p&gt;- Redis starvation&lt;/p&gt; &lt;p&gt;- PostgreSQL deadlocks&lt;/p&gt; &lt;p&gt;- Bank partner 429 throttling&lt;/p&gt; &lt;p&gt;- Kafka rebalance storms&lt;/p&gt; &lt;p&gt;- Metaspace leaks&lt;/p&gt; &lt;p&gt;- S3 throttling&lt;/p&gt; &lt;p&gt;None of these scenarios were seeded into the memory bank, ensuring zero train-test leakage.&lt;/p&gt; &lt;p&gt;Benchmark Results&lt;/p&gt; &lt;p&gt;Arm A: Stateless LLM&lt;/p&gt; &lt;p&gt;Arm B: Naive Vector RAG&lt;/p&gt; &lt;p&gt;Arm C: IncidentLens Memory Loop&lt;/p&gt; &lt;p&gt;Metric Arm A Arm B Arm C&lt;/p&gt; &lt;p&gt;Root Cause Identification 66.7% 83.3% 100.0%&lt;/p&gt; &lt;p&gt;Verified Fix Rate 50.0% 83.3% 100.0%&lt;/p&gt; &lt;p&gt;Harmful Action Rate 50.0% 66.7% 0.0%&lt;/p&gt; &lt;p&gt;Warning Against Fatal&lt;/p&gt; &lt;p&gt;Repeat Mistakes 0.0% 0.0% 100.0%&lt;/p&gt; &lt;p&gt;Lower harmful action rates are better.&lt;/p&gt; &lt;p&gt;One particularly interesting result was the harmful action rate of Naive RAG, which increased to 66.7%.&lt;/p&gt; &lt;p&gt;The reason was that unstructured similarity search retrieved documentation containing generic troubleshooting heuristics without considering their historical outcomes. This sometimes caused the model to recommend previously failed fixes.&lt;/p&gt; &lt;p&gt;IncidentLens avoided these recommendations by incorporating outcome-aware memory into the retrieval and reasoning process.&lt;/p&gt; &lt;p&gt;Links and Code&lt;/p&gt; &lt;p&gt;GitHub Repository:&lt;/p&gt; &lt;p&gt;&lt;a href="https://github.com/gr-0x076/incidentlens"&gt;https://github.com/gr-0x076/incidentlens&lt;/a&gt;&lt;/p&gt; &lt;p&gt;Live Interactive Console:&lt;/p&gt; &lt;p&gt;&lt;a href="https://incidentlens-xtq2.onrender.com"&gt;https://incidentlens-xtq2.onrender.com&lt;/a&gt;&lt;/p&gt; &lt;p&gt;Prometheus Telemetry:&lt;/p&gt; &lt;p&gt;&lt;a href="https://incidentlens-xtq2.onrender.com/metrics"&gt;https://incidentlens-xtq2.onrender.com/metrics&lt;/a&gt;&lt;/p&gt; &lt;p&gt;Empirical Benchmark API:&lt;/p&gt; &lt;p&gt;&lt;a href="https://incidentlens-xtq2.onrender.com/api/benchmark"&gt;https://incidentlens-xtq2.onrender.com/api/benchmark&lt;/a&gt;&lt;/p&gt; &lt;p&gt;The project is MIT licensed and currently includes 18 automated Pytest tests.&lt;/p&gt; &lt;p&gt;We'd Love Your Feedback&lt;/p&gt; &lt;p&gt;For SREs, DevOps engineers, and developers building AI agents:&lt;/p&gt; &lt;p&gt;How are your teams handling post-mortem memory retention?&lt;/p&gt; &lt;p&gt;More importantly, how do you prevent AI copilots from repeatedly recommending operational fixes that have already caused failures in the past?&lt;/p&gt; &lt;p&gt;We'd love to hear about your approaches, experiences, and criticisms.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/Me-BackendGuy"&gt; /u/Me-BackendGuy &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/r/sre/comments/1xqdgyf/incidentlens_building_an_sre_copilot_that/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/sre/comments/1xqdgyf/incidentlens_building_an_sre_copilot_that/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</description>
+      <guid isPermaLink="false">https://www.reddit.com/r/sre/t3_1xqdgyf</guid>
+      <pubDate>Sat, 07 Nov 2026 18:36:10 +0000</pubDate>
     </item>
     <item>
       <title>[security] GhostMap: The Android flaw that crashes your phone before you open the app</title>
@@ -325,20 +360,6 @@
       <pubDate>Mon, 02 Nov 2026 17:16:17 +0000</pubDate>
     </item>
     <item>
-      <title>[security] Jailbreaking my car's navigation system just so I can change the time</title>
-      <link>https://blog.nns.ee/2026/11/02/renault-hack/</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/qvdatp/jailbreaking_my_car_s_navigation_system"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/qvdatp</guid>
-      <pubDate>Mon, 02 Nov 2026 16:30:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>[security] The Gift of It's Your Problem Now (2021)</title>
-      <link>https://apenwarr.ca/log/20211229-the-gift-of-its-your-problem-now</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/girvtu/gift_it_s_your_problem_now_2021"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/girvtu</guid>
-      <pubDate>Mon, 02 Nov 2026 16:19:34 +0000</pubDate>
-    </item>
-    <item>
       <title>Show HN: Devpush – Self-Hosted PaaS for Docker Compose</title>
       <link>https://devpu.sh/</link>
       <description>1 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50338205'&gt;discussion sur Hacker News&lt;/a&gt;</description>
@@ -351,13 +372,6 @@
       <description>1 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50338195'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50338195</guid>
       <pubDate>Mon, 02 Nov 2026 15:30:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>[security] Securing Internet-Critical Software: How We Could Have Backdoored Bash</title>
-      <link>https://www.hacktron.ai/blog/hacking-gnu-savannah</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/0mdf8w/securing_internet_critical_software_how"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/0mdf8w</guid>
-      <pubDate>Mon, 02 Nov 2026 15:06:38 +0000</pubDate>
     </item>
     <item>
       <title>[devops] My reflex of assuming our servers need ever-growing amounts of RAM</title>
@@ -542,20 +556,6 @@
 &lt;p&gt;&lt;a href="https://lobste.rs/s/jdczl6/vision_for_next_generation_timeline"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/jdczl6</guid>
       <pubDate>Sun, 25 Oct 2026 15:03:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>Claude Mythos 5's GitHub adventure: The postmortem</title>
-      <link>https://www.anthropic.com/research/alignment-assessment-ukaisi</link>
-      <description>3 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50227739'&gt;discussion sur Hacker News&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50227739</guid>
-      <pubDate>Sun, 25 Oct 2026 02:36:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>Show HN: ReVault – new secure archive format</title>
-      <link>https://news.ycombinator.com/item?id=50227527</link>
-      <description>10 points, 9 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50227527'&gt;discussion sur Hacker News&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50227527</guid>
-      <pubDate>Sun, 25 Oct 2026 02:01:21 +0000</pubDate>
     </item>
     <item>
       <title>[practices] The Polyglot's Dilemma: Conformance Testing a Dozen Specs in as Many Languages</title>
