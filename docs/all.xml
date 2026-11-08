@@ -8,11 +8,18 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 08 Nov 2026 03:23:17 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 10:53:41 +0000</lastBuildDate>
+    <item>
+      <title>[security] PHP2Shell — Deep Dive</title>
+      <link>https://djad04.github.io/php2shell-deep-dive/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/d8dgav/php2shell_deep_dive"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/d8dgav</guid>
+      <pubDate>Sun, 08 Nov 2026 05:51:54 +0000</pubDate>
+    </item>
     <item>
       <title>Is YouTube starting to protect channel RSS feeds?</title>
       <link>https://news.ycombinator.com/item?id=50409244</link>
-      <description>3 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50409244'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>4 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50409244'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50409244</guid>
       <pubDate>Sun, 08 Nov 2026 00:04:08 +0000</pubDate>
     </item>
@@ -36,13 +43,6 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ur8is2/tidecloak_tide_whitepaper_series"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/ur8is2</guid>
       <pubDate>Sat, 07 Nov 2026 21:41:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>[security] *sshole, or when are we finally going to get rid of C?</title>
-      <link>https://sunshowers.io/posts/sshole/</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/owsnms/sshole_when_are_we_finally_going_get_rid_c"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/owsnms</guid>
-      <pubDate>Sat, 07 Nov 2026 21:05:35 +0000</pubDate>
     </item>
     <item>
       <title>[vcs] Workflow dependency lockfiles</title>
@@ -355,7 +355,7 @@
     <item>
       <title>Show HN: Subvocal – Talk to your computer without making noise</title>
       <link>https://news.ycombinator.com/item?id=50340088</link>
-      <description>841 points, 395 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50340088'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>843 points, 395 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50340088'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50340088</guid>
       <pubDate>Mon, 02 Nov 2026 17:16:17 +0000</pubDate>
     </item>
