@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 08 Nov 2026 16:51:15 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 20:52:58 +0000</lastBuildDate>
+    <item>
+      <title>[security] Unattended reboots with encrypted disks</title>
+      <link>https://jmmv.dev/2026/11/zkeys-intro.html</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/urg4yu/unattended_reboots_with_encrypted_disks"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/urg4yu</guid>
+      <pubDate>Sun, 08 Nov 2026 16:58:03 +0000</pubDate>
+    </item>
     <item>
       <title>[practices] Following breadcrumbs in code - What accidentally committed Ad-Hoc logs reveal about developer comprehension</title>
       <link>https://link.springer.com/article/10.1007/s10664-026-10988-z</link>
@@ -253,13 +260,6 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/aqyfya/expat_2_10_0_released_fixes_four"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/aqyfya</guid>
       <pubDate>Mon, 02 Nov 2026 23:47:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>[security] This background sound leaks your exact location</title>
-      <link>https://youtu.be/UytYrhYLOKI</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/s1btqo/this_background_sound_leaks_your_exact"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/s1btqo</guid>
-      <pubDate>Mon, 02 Nov 2026 19:42:32 +0000</pubDate>
     </item>
     <item>
       <title>[practices] Stop Hardcoding Your Timeouts</title>

@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 08 Nov 2026 16:51:15 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 20:52:58 +0000</lastBuildDate>
+    <item>
+      <title>[security] Unattended reboots with encrypted disks</title>
+      <link>https://jmmv.dev/2026/11/zkeys-intro.html</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/urg4yu/unattended_reboots_with_encrypted_disks"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/urg4yu</guid>
+      <pubDate>Sun, 08 Nov 2026 16:58:03 +0000</pubDate>
+    </item>
     <item>
       <title>[practices] Following breadcrumbs in code - What accidentally committed Ad-Hoc logs reveal about developer comprehension</title>
       <link>https://link.springer.com/article/10.1007/s10664-026-10988-z</link>
@@ -339,13 +346,6 @@
       <pubDate>Mon, 02 Nov 2026 23:47:22 +0000</pubDate>
     </item>
     <item>
-      <title>[security] This background sound leaks your exact location</title>
-      <link>https://youtu.be/UytYrhYLOKI</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/s1btqo/this_background_sound_leaks_your_exact"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/s1btqo</guid>
-      <pubDate>Mon, 02 Nov 2026 19:42:32 +0000</pubDate>
-    </item>
-    <item>
       <title>[practices] Stop Hardcoding Your Timeouts</title>
       <link>https://alfy.blog/2026/04/23/stop-hardcoding-your-timeouts.html</link>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/qa0owz/stop_hardcoding_your_timeouts"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
@@ -485,13 +485,6 @@
       <description>1 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50301714'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50301714</guid>
       <pubDate>Fri, 30 Oct 2026 09:48:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>[r/sre] does deploy failure rate tied to AI code get worse before better???</title>
-      <link>https://www.reddit.com/r/sre/comments/1xj96u5/does_deploy_failure_rate_tied_to_ai_code_get/</link>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;My prediction, it gets worse before it gets better. Why: adoption is outpacing governance, and this year's DevOps report already found a 69% deploy failure rate among heavy AI users. What could prove me wrong: a real shift toward runtime verification before merge instead of after. We're trying a piece of that with hud on a couple of services, mostly to see which function a bad deploy actually touched, and it's too early to say if it changes the trend. For teams that have been heavy on AI code for a year or more, did the failure rate come back down, and what changed?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/Fit-Reach5373"&gt; /u/Fit-Reach5373 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/r/sre/comments/1xj96u5/does_deploy_failure_rate_tied_to_ai_code_get/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/sre/comments/1xj96u5/does_deploy_failure_rate_tied_to_ai_code_get/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</description>
-      <guid isPermaLink="false">https://www.reddit.com/r/sre/t3_1xj96u5</guid>
-      <pubDate>Fri, 30 Oct 2026 07:49:28 +0000</pubDate>
     </item>
     <item>
       <title>[practices] An open format for writing agent-native software requirements</title>
