@@ -8,7 +8,21 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 09 Nov 2026 07:26:34 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 17:58:43 +0000</lastBuildDate>
+    <item>
+      <title>[security] Terminal2Shell: Critical flaw grants instant shell access on every major OS</title>
+      <link>https://terminal2shell.com/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/vghqe8/terminal2shell_critical_flaw_grants"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/vghqe8</guid>
+      <pubDate>Mon, 09 Nov 2026 15:41:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>[security] Let’s Talk About Why all This OT Stuff is Connected</title>
+      <link>https://tisiphone.net/2026/11/08/lets-talk-about-why-all-this-ot-stuff-is-connected/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/jxigk6/let_s_talk_about_why_all_this_ot_stuff_is"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/jxigk6</guid>
+      <pubDate>Mon, 09 Nov 2026 12:22:39 +0000</pubDate>
+    </item>
     <item>
       <title>[devops] Microsecond accurate NTP with a Raspberry Pi and PPS GPS(2021)</title>
       <link>https://austinsnerdythings.com/2021/04/19/microsecond-accurate-ntp-with-a-raspberry-pi-and-pps-gps/</link>
@@ -19,7 +33,7 @@
     <item>
       <title>AO3's outage has been a boon for Tumblr, especially among Gen Z</title>
       <link>https://mashable.com/life/ao3-down-tumblr-boon-among-gen-z</link>
-      <description>2 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50421248'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>3 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50421248'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50421248</guid>
       <pubDate>Mon, 09 Nov 2026 05:00:04 +0000</pubDate>
     </item>
@@ -325,13 +339,6 @@
       <pubDate>Tue, 03 Nov 2026 23:45:21 +0000</pubDate>
     </item>
     <item>
-      <title>[security] Common Beliefs About DNSSEC Put to the Test: An Invitation to Fact-Check Your Assumptions</title>
-      <link>https://circleid.com/posts/common-beliefs-about-dnssec-put-to-the-test-an-invitation-to-fact-check-your-assumptions</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/qvpzfa/common_beliefs_about_dnssec_put_test"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/qvpzfa</guid>
-      <pubDate>Tue, 03 Nov 2026 19:45:28 +0000</pubDate>
-    </item>
-    <item>
       <title>A free live outage feed for your agents</title>
       <link>https://outages.live/</link>
       <description>2 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50356458'&gt;discussion sur Hacker News&lt;/a&gt;</description>
@@ -358,13 +365,6 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/cwxne0/designing_planned_switchover_for"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/cwxne0</guid>
       <pubDate>Tue, 03 Nov 2026 08:20:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>[security] Firefox Security &amp; Privacy Newsletter 2026 Q3</title>
-      <link>https://attackanddefense.dev/2026/11/02/firefox-security-and-privacy-newsletter-q3.html</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/trqbi2/firefox_security_privacy_newsletter"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/trqbi2</guid>
-      <pubDate>Tue, 03 Nov 2026 08:03:58 +0000</pubDate>
     </item>
     <item>
       <title>[practices] The software industry: annealing, but wrong</title>
@@ -397,7 +397,7 @@
     <item>
       <title>Show HN: Subvocal – Talk to your computer without making noise</title>
       <link>https://news.ycombinator.com/item?id=50340088</link>
-      <description>844 points, 395 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50340088'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>847 points, 395 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50340088'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50340088</guid>
       <pubDate>Mon, 02 Nov 2026 17:16:17 +0000</pubDate>
     </item>
