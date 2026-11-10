@@ -8,7 +8,35 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 09 Nov 2026 17:58:43 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 01:13:03 +0000</lastBuildDate>
+    <item>
+      <title>[security] Attackers Claim to Have Stolen Data on Over 1 Million Vanderbilt Students and Staff</title>
+      <link>https://gizmodo.com/attackers-claim-to-have-stolen-data-on-over-1-million-vanderbilt-students-and-staff-2000837388</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ykzgsf/attackers_claim_have_stolen_data_on_over_1"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/ykzgsf</guid>
+      <pubDate>Tue, 10 Nov 2026 01:05:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>[security] The race to secure record-like information for domains</title>
+      <link>https://alexsci.com/blog/the-race-to-secure-record-like-information-for-domains/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/vqtg9b/race_secure_record_like_information_for"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/vqtg9b</guid>
+      <pubDate>Mon, 09 Nov 2026 23:25:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>[security] PyPI's redesigned project pages with clearer security signals are now live</title>
+      <link>https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/s1tppi/pypi_s_redesigned_project_pages_with"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/s1tppi</guid>
+      <pubDate>Mon, 09 Nov 2026 21:45:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Tell HN: Another GitHub Major Outage</title>
+      <link>https://news.ycombinator.com/item?id=50429551</link>
+      <description>13 points, 4 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50429551'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50429551</guid>
+      <pubDate>Mon, 09 Nov 2026 18:34:16 +0000</pubDate>
+    </item>
     <item>
       <title>[security] Terminal2Shell: Critical flaw grants instant shell access on every major OS</title>
       <link>https://terminal2shell.com/</link>
@@ -316,27 +344,6 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/zf1ts0/single_point_failure_fictional_day"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/zf1ts0</guid>
       <pubDate>Wed, 04 Nov 2026 16:41:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>[security] Man-in-the-middle arbitrary code execution in Debian’s apt</title>
-      <link>https://lists.debian.org/debian-security-announce/2026/msg00526.html</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/h7bvma/man_middle_arbitrary_code_execution"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/h7bvma</guid>
-      <pubDate>Wed, 04 Nov 2026 13:36:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>[security] Pulling the right strings for RCE on a Puppet</title>
-      <link>https://neodyme.io/en/blog/puppet_rce</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/sfzkeb/pulling_right_strings_for_rce_on_puppet"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/sfzkeb</guid>
-      <pubDate>Wed, 04 Nov 2026 07:39:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>[security] Observations from Running stealmybitcoin.com</title>
-      <link>https://pavursec.com/blog/stealmybitcoin/</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/fgucra/observations_from_running"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/fgucra</guid>
-      <pubDate>Tue, 03 Nov 2026 23:45:21 +0000</pubDate>
     </item>
     <item>
       <title>A free live outage feed for your agents</title>
