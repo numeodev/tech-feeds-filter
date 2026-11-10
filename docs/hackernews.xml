@@ -8,18 +8,25 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 10 Nov 2026 08:57:33 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 16:45:42 +0000</lastBuildDate>
+    <item>
+      <title>Incident Report: October 21st Security Attack</title>
+      <link>https://blog.railway.com/p/incident-report-october-security-incident</link>
+      <description>12 points, 2 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50441465'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50441465</guid>
+      <pubDate>Tue, 10 Nov 2026 15:08:58 +0000</pubDate>
+    </item>
     <item>
       <title>Australia to introduce mandatory incident reporting after OpenAI hack</title>
       <link>https://www.theguardian.com/technology/2026/nov/10/australia-manadatory-reporting-openai-medicare-hack</link>
-      <description>3 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50435725'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>4 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50435725'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50435725</guid>
       <pubDate>Tue, 10 Nov 2026 03:31:12 +0000</pubDate>
     </item>
     <item>
       <title>Tell HN: Another GitHub Major Outage</title>
       <link>https://news.ycombinator.com/item?id=50429551</link>
-      <description>15 points, 5 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50429551'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>16 points, 5 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50429551'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50429551</guid>
       <pubDate>Mon, 09 Nov 2026 18:34:16 +0000</pubDate>
     </item>
@@ -33,7 +40,7 @@
     <item>
       <title>Is YouTube starting to protect channel RSS feeds?</title>
       <link>https://news.ycombinator.com/item?id=50409244</link>
-      <description>6 points, 2 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50409244'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>6 points, 3 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50409244'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50409244</guid>
       <pubDate>Sun, 08 Nov 2026 00:04:08 +0000</pubDate>
     </item>
@@ -68,7 +75,7 @@
     <item>
       <title>Show HN: K8sman – A Native Kubernetes IDE</title>
       <link>https://github.com/matty234/k8sman</link>
-      <description>6 points, 3 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50380277'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>6 points, 4 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50380277'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50380277</guid>
       <pubDate>Thu, 05 Nov 2026 15:25:51 +0000</pubDate>
     </item>

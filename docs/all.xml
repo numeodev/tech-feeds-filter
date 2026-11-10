@@ -8,27 +8,20 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 10 Nov 2026 08:57:34 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 16:45:43 +0000</lastBuildDate>
     <item>
-      <title>[r/sre] I built a place to practice production incidents on your own laptop. Looking for brutal feedback.</title>
-      <link>https://www.reddit.com/r/sre/comments/1xsgu7p/i_built_a_place_to_practice_production_incidents/</link>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Disclosure: I built this.&lt;/p&gt; &lt;p&gt;Most of us learn incident response live, in prod, with everyone watching. I wanted somewhere to practice first, so I built Outage Gym.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;How it works:&lt;/strong&gt; a small production stack runs on your laptop with Docker: a service, a Postgres database, real traffic that keeps coming, and dashboards. Something is broken. You find the root cause, ship a fix (code, database or both), and keep &amp;quot;support&amp;quot; updated in an #incident channel while the clock runs. The system itself confirms when it's actually fixed and stays fixed. Nobody tells you where to look.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;First problem:&lt;/strong&gt; it's the first week of term, thousands of students are logging in, and the student service starts to drag. Some pages never load. No deploy, nobody touched the servers. It takes about 30–60 minutes.&lt;/p&gt; &lt;p&gt;Free to start: &lt;a href="https://outage-gym.com/"&gt;https://outage-gym.com&lt;/a&gt;&lt;/p&gt; &lt;p&gt;What I'd really like to know:&lt;br /&gt; 1. Does it feel like a real incident, or like a puzzle?&lt;br /&gt; 2. Is the setup (Docker, about 2 GB RAM) a dealbreaker?&lt;br /&gt; 3. What kinds of outages would you want to practice?&lt;/p&gt; &lt;p&gt;Happy to answer anything in the comments.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/NewSociety7335"&gt; /u/NewSociety7335 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/r/sre/comments/1xsgu7p/i_built_a_place_to_practice_production_incidents/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/sre/comments/1xsgu7p/i_built_a_place_to_practice_production_incidents/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</description>
-      <guid isPermaLink="false">https://www.reddit.com/r/sre/t3_1xsgu7p</guid>
-      <pubDate>Tue, 10 Nov 2026 07:35:41 +0000</pubDate>
+      <title>Incident Report: October 21st Security Attack</title>
+      <link>https://blog.railway.com/p/incident-report-october-security-incident</link>
+      <description>12 points, 2 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50441465'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50441465</guid>
+      <pubDate>Tue, 10 Nov 2026 15:08:58 +0000</pubDate>
     </item>
     <item>
       <title>Australia to introduce mandatory incident reporting after OpenAI hack</title>
       <link>https://www.theguardian.com/technology/2026/nov/10/australia-manadatory-reporting-openai-medicare-hack</link>
-      <description>3 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50435725'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>4 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50435725'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50435725</guid>
       <pubDate>Tue, 10 Nov 2026 03:31:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>[devops] Tabernetes: Kubernetes in your browser tab</title>
-      <link>https://jkroepke.de/tabernetes/</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/mmchy9/tabernetes_kubernetes_your_browser_tab"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/mmchy9</guid>
-      <pubDate>Tue, 10 Nov 2026 01:59:28 +0000</pubDate>
     </item>
     <item>
       <title>[security] The race to secure record-like information for domains</title>
@@ -47,7 +40,7 @@
     <item>
       <title>Tell HN: Another GitHub Major Outage</title>
       <link>https://news.ycombinator.com/item?id=50429551</link>
-      <description>15 points, 5 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50429551'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>16 points, 5 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50429551'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50429551</guid>
       <pubDate>Mon, 09 Nov 2026 18:34:16 +0000</pubDate>
     </item>
@@ -131,7 +124,7 @@
     <item>
       <title>Is YouTube starting to protect channel RSS feeds?</title>
       <link>https://news.ycombinator.com/item?id=50409244</link>
-      <description>6 points, 2 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50409244'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>6 points, 3 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50409244'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50409244</guid>
       <pubDate>Sun, 08 Nov 2026 00:04:08 +0000</pubDate>
     </item>
@@ -148,13 +141,6 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/sh62d1/i_m_not_fan_deno_s_security_model_2024"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/sh62d1</guid>
       <pubDate>Sat, 07 Nov 2026 23:19:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>[security] TideCloak | Tide Whitepaper Series</title>
-      <link>https://tide.org/whitepaper/tidecloak-integration</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ur8is2/tidecloak_tide_whitepaper_series"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/ur8is2</guid>
-      <pubDate>Sat, 07 Nov 2026 21:41:03 +0000</pubDate>
     </item>
     <item>
       <title>[vcs] Workflow dependency lockfiles</title>
@@ -320,7 +306,7 @@
     <item>
       <title>Show HN: K8sman – A Native Kubernetes IDE</title>
       <link>https://github.com/matty234/k8sman</link>
-      <description>6 points, 3 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50380277'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>6 points, 4 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50380277'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50380277</guid>
       <pubDate>Thu, 05 Nov 2026 15:25:51 +0000</pubDate>
     </item>
@@ -365,6 +351,13 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/h7bvma/man_middle_arbitrary_code_execution"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/h7bvma</guid>
       <pubDate>Wed, 04 Nov 2026 13:36:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>[security] Pulling the right strings for RCE on a Puppet</title>
+      <link>https://neodyme.io/en/blog/puppet_rce</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/sfzkeb/pulling_right_strings_for_rce_on_puppet"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/sfzkeb</guid>
+      <pubDate>Wed, 04 Nov 2026 07:39:20 +0000</pubDate>
     </item>
     <item>
       <title>A free live outage feed for your agents</title>
@@ -1091,6 +1084,13 @@ Test instance where you are welcome to make a mess: &lt;a href="https://squalk-t
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ljhgcd/incident_report_for_github_outage_on_2026"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/ljhgcd</guid>
       <pubDate>Tue, 18 Aug 2026 20:18:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>[devops] beszel</title>
+      <link>https://github.com/henrygd/beszel</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/6dw7pl/beszel"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/6dw7pl</guid>
+      <pubDate>Thu, 13 Aug 2026 03:28:15 +0000</pubDate>
     </item>
   </channel>
 </rss>
