@@ -8,13 +8,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 10 Nov 2026 01:13:03 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 08:57:34 +0000</lastBuildDate>
     <item>
-      <title>[security] Attackers Claim to Have Stolen Data on Over 1 Million Vanderbilt Students and Staff</title>
-      <link>https://gizmodo.com/attackers-claim-to-have-stolen-data-on-over-1-million-vanderbilt-students-and-staff-2000837388</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ykzgsf/attackers_claim_have_stolen_data_on_over_1"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/ykzgsf</guid>
-      <pubDate>Tue, 10 Nov 2026 01:05:09 +0000</pubDate>
+      <title>[devops] Tabernetes: Kubernetes in your browser tab</title>
+      <link>https://jkroepke.de/tabernetes/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/mmchy9/tabernetes_kubernetes_your_browser_tab"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/mmchy9</guid>
+      <pubDate>Tue, 10 Nov 2026 01:59:28 +0000</pubDate>
     </item>
     <item>
       <title>[security] The race to secure record-like information for domains</title>
@@ -267,6 +267,13 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/zf1ts0/single_point_failure_fictional_day"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/zf1ts0</guid>
       <pubDate>Wed, 04 Nov 2026 16:41:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>[security] Man-in-the-middle arbitrary code execution in Debian’s apt</title>
+      <link>https://lists.debian.org/debian-security-announce/2026/msg00526.html</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/h7bvma/man_middle_arbitrary_code_execution"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/h7bvma</guid>
+      <pubDate>Wed, 04 Nov 2026 13:36:43 +0000</pubDate>
     </item>
     <item>
       <title>[distributed] Designing a planned switchover for minimum disruption</title>
@@ -860,13 +867,6 @@ Test instance where you are welcome to make a mess: &lt;a href="https://squalk-t
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ljhgcd/incident_report_for_github_outage_on_2026"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/ljhgcd</guid>
       <pubDate>Tue, 18 Aug 2026 20:18:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>[devops] beszel</title>
-      <link>https://github.com/henrygd/beszel</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/6dw7pl/beszel"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/6dw7pl</guid>
-      <pubDate>Thu, 13 Aug 2026 03:28:15 +0000</pubDate>
     </item>
   </channel>
 </rss>
