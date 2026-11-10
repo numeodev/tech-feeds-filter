@@ -8,7 +8,21 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 10 Nov 2026 16:45:43 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 22:02:28 +0000</lastBuildDate>
+    <item>
+      <title>[security] Finding a vulnerability in Star Wars Episode I: Racer</title>
+      <link>https://synacktiv.com/en/publications/star-wars-episode-i-racer</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/rfacq5/finding_vulnerability_star_wars_episode"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/rfacq5</guid>
+      <pubDate>Tue, 10 Nov 2026 21:58:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>[security] I deleted all my SSH keys</title>
+      <link>https://blog.infected.systems/posts/2026-11-03-i-deleted-all-my-ssh-keys/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/sdtcvv/i_deleted_all_my_ssh_keys"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/sdtcvv</guid>
+      <pubDate>Tue, 10 Nov 2026 20:49:23 +0000</pubDate>
+    </item>
     <item>
       <title>[security] The race to secure record-like information for domains</title>
       <link>https://alexsci.com/blog/the-race-to-secure-record-like-information-for-domains/</link>
@@ -253,20 +267,6 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/zf1ts0/single_point_failure_fictional_day"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/zf1ts0</guid>
       <pubDate>Wed, 04 Nov 2026 16:41:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>[security] Man-in-the-middle arbitrary code execution in Debian’s apt</title>
-      <link>https://lists.debian.org/debian-security-announce/2026/msg00526.html</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/h7bvma/man_middle_arbitrary_code_execution"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/h7bvma</guid>
-      <pubDate>Wed, 04 Nov 2026 13:36:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>[security] Pulling the right strings for RCE on a Puppet</title>
-      <link>https://neodyme.io/en/blog/puppet_rce</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/sfzkeb/pulling_right_strings_for_rce_on_puppet"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/sfzkeb</guid>
-      <pubDate>Wed, 04 Nov 2026 07:39:20 +0000</pubDate>
     </item>
     <item>
       <title>[distributed] Designing a planned switchover for minimum disruption</title>
