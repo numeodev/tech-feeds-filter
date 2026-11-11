@@ -8,7 +8,45 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 11 Nov 2026 10:01:50 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 18:12:31 +0000</lastBuildDate>
+    <item>
+      <title>[distributed] No Effect Before Its Cause: From Einstein to Lamport</title>
+      <link>https://www.itworkslocally.dev/posts/no-effect-before-its-cause</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/3rydtk/no_effect_before_its_cause_from_einstein"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/3rydtk</guid>
+      <pubDate>Wed, 11 Nov 2026 18:05:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>[security] About the downtime and security incident</title>
+      <link>https://danbooru.donmai.us/forum_topics/38685.html</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/wfr0b4/about_downtime_security_incident"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/wfr0b4</guid>
+      <pubDate>Wed, 11 Nov 2026 16:58:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>[devops] How a false smoke alarm almost drowned Jane Street's only NYC datacenter</title>
+      <link>https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ii1gzp/how_false_smoke_alarm_almost_drowned_jane"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/ii1gzp</guid>
+      <pubDate>Wed, 11 Nov 2026 16:27:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>[devops] How do you actually self-host securely?</title>
+      <link>https://lobste.rs/s/m43bas/how_do_you_actually_self_host_securely</link>
+      <description>&lt;p&gt;I recognize that the title is rather vague, but I'm completely green when it comes to self-hosting, so I figured here would be a good place to ask for some pointers given the discussions I sometimes see happening in the comments. I tried researching first through DDG and Google, but (and I recognize this might be a skill issue) most things I found are either SEO slop or trying to sell/market some service.&lt;/p&gt;
+&lt;p&gt;For some more context and to give a concrete example as to what I'm interested in, I got my hands on a Raspberry Pi which I'd like to use to start tinkering with self-hosting. My main goal would be to host my (static) website on it, potentially adding more things in the future.&lt;/p&gt;
+&lt;p&gt;Some people I asked this question recommended solutions like Cloudflare Tunnels to make it secure, but using such a provider almost feels like it defeats the point of self-hosting, so I'm curious whether it's viable to do it using open source tooling, any gotchas one might encounter, and generally any thoughts you might have on the topic.&lt;/p&gt;
+&lt;p&gt;(Also, feel free to suggest a tag other than &lt;code&gt;devops&lt;/code&gt;, I figured &lt;code&gt;security&lt;/code&gt; doesn't quite apply since it's a question and not a write-up/resource regarding security.)&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/m43bas</guid>
+      <pubDate>Wed, 11 Nov 2026 12:01:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>[devops] deploy-rs in 2026: reviving our Nix deployment tool</title>
+      <link>https://serokell.io/blog/deploy-rs-nix</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/m7n7nn/deploy_rs_2026_reviving_our_nix"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/m7n7nn</guid>
+      <pubDate>Wed, 11 Nov 2026 10:58:39 +0000</pubDate>
+    </item>
     <item>
       <title>[security] Finding a vulnerability in Star Wars Episode I: Racer</title>
       <link>https://synacktiv.com/en/publications/star-wars-episode-i-racer</link>
@@ -260,13 +298,6 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/253two/residential_proxies_detected_on_white"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/253two</guid>
       <pubDate>Thu, 05 Nov 2026 00:30:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>[security] Single Point of Failure: The (Fictional) Day Google Forgot To Check Passwords (2014)</title>
-      <link>https://youtube.com/watch?v=y4GB_NDU43Q</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/zf1ts0/single_point_failure_fictional_day"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/zf1ts0</guid>
-      <pubDate>Wed, 04 Nov 2026 16:41:06 +0000</pubDate>
     </item>
     <item>
       <title>[distributed] Designing a planned switchover for minimum disruption</title>
@@ -799,13 +830,6 @@ Test instance where you are welcome to make a mess: &lt;a href="https://squalk-t
       <pubDate>Wed, 16 Sep 2026 15:48:13 +0000</pubDate>
     </item>
     <item>
-      <title>[distributed] SplitFT: Fault Tolerance for Disaggregated Datacenters via Remote Memory Logging</title>
-      <link>https://ramalagappan.github.io/pdfs/papers/splitft.pdf</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/eytyqv/splitft_fault_tolerance_for"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/eytyqv</guid>
-      <pubDate>Mon, 14 Sep 2026 18:02:00 +0000</pubDate>
-    </item>
-    <item>
       <title>[devops] Hardening Container Images</title>
       <link>https://www.grepular.com/Hardening_Container_Images</link>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/8hz82r/hardening_container_images"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
@@ -846,27 +870,6 @@ Test instance where you are welcome to make a mess: &lt;a href="https://squalk-t
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/lt0cqn/ahab_hermeticity_analyzer_for_bazel"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/lt0cqn</guid>
       <pubDate>Thu, 20 Aug 2026 02:50:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>[devops] Fargate Is Not Firecracker (2024)</title>
-      <link>https://justingarrison.com/blog/2024-02-08-fargate-is-not-firecracker/</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/qrbu3o/fargate_is_not_firecracker_2024"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/qrbu3o</guid>
-      <pubDate>Wed, 19 Aug 2026 06:42:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>[devops] Incident Report for GitHub outage on 2026-08-17</title>
-      <link>https://www.githubstatus.com/incidents/zkxwbgr0cnmx</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ljhgcd/incident_report_for_github_outage_on_2026"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/ljhgcd</guid>
-      <pubDate>Tue, 18 Aug 2026 20:18:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>[devops] beszel</title>
-      <link>https://github.com/henrygd/beszel</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/6dw7pl/beszel"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/6dw7pl</guid>
-      <pubDate>Thu, 13 Aug 2026 03:28:15 +0000</pubDate>
     </item>
   </channel>
 </rss>

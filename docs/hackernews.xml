@@ -8,7 +8,35 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 11 Nov 2026 10:01:50 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 18:12:30 +0000</lastBuildDate>
+    <item>
+      <title>Vagrant's Licence Reverted to MIT</title>
+      <link>https://github.com/hashicorp/vagrant/commit/ab4fc5e3db1bd215ded614add4a26a81c7b5cbeb</link>
+      <description>3 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50455461'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50455461</guid>
+      <pubDate>Wed, 11 Nov 2026 16:44:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>Apt-cacher-ultra – Protecting you from the next Ubuntu.com outage</title>
+      <link>https://github.com/linsomniac/apt-cacher-ultra</link>
+      <description>2 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50454921'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50454921</guid>
+      <pubDate>Wed, 11 Nov 2026 15:58:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ubuntu Major Outage</title>
+      <link>https://status.canonical.com/#/</link>
+      <description>27 points, 8 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50454145'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50454145</guid>
+      <pubDate>Wed, 11 Nov 2026 14:50:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>Major Canonical Outage</title>
+      <link>https://status.web.canonical.com/</link>
+      <description>11 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50452876'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50452876</guid>
+      <pubDate>Wed, 11 Nov 2026 12:59:58 +0000</pubDate>
+    </item>
     <item>
       <title>Brazil's Largest Port Hit by Major IT Outage; Suspected Ransomware Cyberattack</title>
       <link>https://uknip.co.uk/news/uk/uk-news/brazils-largest-port-hit-by-major-it-outage-amid-suspected-ransomware-cyberattack/</link>
@@ -26,7 +54,7 @@
     <item>
       <title>eMudhra: Full Incident Report</title>
       <link>https://bugzilla.mozilla.org/show_bug.cgi?id=2083449</link>
-      <description>3 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50447482'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>5 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50447482'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50447482</guid>
       <pubDate>Tue, 10 Nov 2026 22:57:21 +0000</pubDate>
     </item>
@@ -40,7 +68,7 @@
     <item>
       <title>Incident Report: October 21st Security Attack</title>
       <link>https://blog.railway.com/p/incident-report-october-security-incident</link>
-      <description>21 points, 2 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50441465'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>22 points, 2 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50441465'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50441465</guid>
       <pubDate>Tue, 10 Nov 2026 15:08:58 +0000</pubDate>
     </item>
@@ -54,7 +82,7 @@
     <item>
       <title>Tell HN: Another GitHub Major Outage</title>
       <link>https://news.ycombinator.com/item?id=50429551</link>
-      <description>16 points, 5 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50429551'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>17 points, 6 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50429551'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50429551</guid>
       <pubDate>Mon, 09 Nov 2026 18:34:16 +0000</pubDate>
     </item>
@@ -218,13 +246,6 @@
       <description>2 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50279719'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50279719</guid>
       <pubDate>Wed, 28 Oct 2026 19:41:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Show HN: Opsphie – Incident Management in Slack</title>
-      <link>https://opsphie.com</link>
-      <description>1 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50277292'&gt;discussion sur Hacker News&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50277292</guid>
-      <pubDate>Wed, 28 Oct 2026 17:26:28 +0000</pubDate>
     </item>
   </channel>
 </rss>
