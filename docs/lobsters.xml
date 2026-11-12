@@ -8,7 +8,29 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 11 Nov 2026 18:12:31 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 01:09:57 +0000</lastBuildDate>
+    <item>
+      <title>[security] How I accidentally became a millionaire</title>
+      <link>https://lyra.horse/blog/2026/11/disinformation-machine/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/lnau2d/how_i_accidentally_became_millionaire"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/lnau2d</guid>
+      <pubDate>Wed, 11 Nov 2026 21:53:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>[security] eMudhra Statement on Recent Certificate Security Incident</title>
+      <link>https://emudhra.com/en/post/certificate-security-incident</link>
+      <description>&lt;p&gt;See also: &lt;a href="https://bugzilla.mozilla.org/show_bug.cgi?id=2083449#c82" rel="ugc"&gt;https://bugzilla.mozilla.org/show_bug.cgi?id=2083449#c82&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://lobste.rs/s/pfscsm/emudhra_statement_on_recent_certificate"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/pfscsm</guid>
+      <pubDate>Wed, 11 Nov 2026 19:19:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>[devops] Lock your GitHub Actions</title>
+      <link>https://hugovk.dev/blog/2026/lock-github-actions/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/v3uidx/lock_your_github_actions"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/v3uidx</guid>
+      <pubDate>Wed, 11 Nov 2026 18:16:01 +0000</pubDate>
+    </item>
     <item>
       <title>[distributed] No Effect Before Its Cause: From Einstein to Lamport</title>
       <link>https://www.itworkslocally.dev/posts/no-effect-before-its-cause</link>
@@ -284,20 +306,6 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/wfw32o/how_flink_s_kafka_connector_commits"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/wfw32o</guid>
       <pubDate>Thu, 05 Nov 2026 16:31:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>[security] sshhole</title>
-      <link>https://sshhole.com/</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/oq5pem/sshhole"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/oq5pem</guid>
-      <pubDate>Thu, 05 Nov 2026 12:24:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>[security] Residential Proxies Detected on White House Network</title>
-      <link>https://layer3intel.com/blog/residential-proxies-white-house-network</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/253two/residential_proxies_detected_on_white"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/253two</guid>
-      <pubDate>Thu, 05 Nov 2026 00:30:40 +0000</pubDate>
     </item>
     <item>
       <title>[distributed] Designing a planned switchover for minimum disruption</title>
@@ -863,13 +871,6 @@ Test instance where you are welcome to make a mess: &lt;a href="https://squalk-t
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/jzr2ey/wild_ai_related_reliability_incidents"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/jzr2ey</guid>
       <pubDate>Sun, 23 Aug 2026 19:04:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>[devops] Ahab: Hermeticity Analyzer for Bazel</title>
-      <link>https://markkarpov.com/post/announcing-ahab</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/lt0cqn/ahab_hermeticity_analyzer_for_bazel"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/lt0cqn</guid>
-      <pubDate>Thu, 20 Aug 2026 02:50:44 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -8,7 +8,43 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 11 Nov 2026 18:12:31 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 01:09:57 +0000</lastBuildDate>
+    <item>
+      <title>[security] How I accidentally became a millionaire</title>
+      <link>https://lyra.horse/blog/2026/11/disinformation-machine/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/lnau2d/how_i_accidentally_became_millionaire"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/lnau2d</guid>
+      <pubDate>Wed, 11 Nov 2026 21:53:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>Platform-Capitalism on Steroids</title>
+      <link>https://news.ycombinator.com/item?id=50458889</link>
+      <description>1 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50458889'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50458889</guid>
+      <pubDate>Wed, 11 Nov 2026 21:23:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>[security] eMudhra Statement on Recent Certificate Security Incident</title>
+      <link>https://emudhra.com/en/post/certificate-security-incident</link>
+      <description>&lt;p&gt;See also: &lt;a href="https://bugzilla.mozilla.org/show_bug.cgi?id=2083449#c82" rel="ugc"&gt;https://bugzilla.mozilla.org/show_bug.cgi?id=2083449#c82&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://lobste.rs/s/pfscsm/emudhra_statement_on_recent_certificate"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/pfscsm</guid>
+      <pubDate>Wed, 11 Nov 2026 19:19:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ubuntu Outage 2026-11-11</title>
+      <link>https://ifin.network/t/ubuntu-outage-2026-11-11/979</link>
+      <description>1 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50456576'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50456576</guid>
+      <pubDate>Wed, 11 Nov 2026 18:17:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>[devops] Lock your GitHub Actions</title>
+      <link>https://hugovk.dev/blog/2026/lock-github-actions/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/v3uidx/lock_your_github_actions"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/v3uidx</guid>
+      <pubDate>Wed, 11 Nov 2026 18:16:01 +0000</pubDate>
+    </item>
     <item>
       <title>[distributed] No Effect Before Its Cause: From Einstein to Lamport</title>
       <link>https://www.itworkslocally.dev/posts/no-effect-before-its-cause</link>
@@ -47,7 +83,7 @@
     <item>
       <title>Ubuntu Major Outage</title>
       <link>https://status.canonical.com/#/</link>
-      <description>27 points, 8 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50454145'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>28 points, 8 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50454145'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50454145</guid>
       <pubDate>Wed, 11 Nov 2026 14:50:33 +0000</pubDate>
     </item>
@@ -92,14 +128,14 @@
     <item>
       <title>eMudhra: Full Incident Report</title>
       <link>https://bugzilla.mozilla.org/show_bug.cgi?id=2083449</link>
-      <description>5 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50447482'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>6 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50447482'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50447482</guid>
       <pubDate>Tue, 10 Nov 2026 22:57:21 +0000</pubDate>
     </item>
     <item>
       <title>eMudhra's incident report is out</title>
       <link>https://bugzilla.mozilla.org/show_bug.cgi?id=2083449</link>
-      <description>2 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50447465'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>3 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50447465'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50447465</guid>
       <pubDate>Tue, 10 Nov 2026 22:55:20 +0000</pubDate>
     </item>
@@ -433,20 +469,6 @@
       <pubDate>Thu, 05 Nov 2026 14:50:05 +0000</pubDate>
     </item>
     <item>
-      <title>[security] sshhole</title>
-      <link>https://sshhole.com/</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/oq5pem/sshhole"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/oq5pem</guid>
-      <pubDate>Thu, 05 Nov 2026 12:24:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>[security] Residential Proxies Detected on White House Network</title>
-      <link>https://layer3intel.com/blog/residential-proxies-white-house-network</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/253two/residential_proxies_detected_on_white"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/253two</guid>
-      <pubDate>Thu, 05 Nov 2026 00:30:40 +0000</pubDate>
-    </item>
-    <item>
       <title>[r/sre] Agent actions that can't be tied to an owner are useless in a postmortem</title>
       <link>https://www.reddit.com/r/sre/comments/1xnxkkv/agent_actions_that_cant_be_tied_to_an_owner_are/</link>
       <description>&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;A poster on &lt;a href="https://www.reddit.com/r/IdentityManagement"&gt;r/IdentityManagement&lt;/a&gt; described an audit that turned up agent actions under a shared credential, with nothing linking them to which agent or which owner. That kind of log is empty when you're reconstructing an incident.&lt;/p&gt; &lt;p&gt;I wanted to see whether a bastion with named sessions gives you something usable when the client is automated. I pointed a bastion at one SSH target and used a script as the client, no AI agent involved. The bastion ran JumpServer Community Edition. The token the script received expired after 299 seconds, was limited to that one host, and could not be reused. The script never knew the target password.&lt;/p&gt; &lt;p&gt;The target account was a local user, but all 8 commands landed in the log under the gateway identity, with the asset name, timestamp, source IP, full input and full output. That's attribution a postmortem reviewer can trace.&lt;/p&gt; &lt;p&gt;After I disabled the asset rule, new token requests failed within 2.1 seconds. Tokens created before that change that went unused also stopped authenticating. Pressing terminate on the gateway ended the open session and the connection dropped at once. Everything typed before that point was already recorded with output.&lt;/p&gt; &lt;p&gt;The gateway only covers what passes through it. A direct SSH login to the host bypassed it entirely and left no session record. That's a host configuration problem to solve separately: firewall rules, sshd config, or changing the account password.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/More-Radio-7418"&gt; /u/More-Radio-7418 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/r/sre/comments/1xnxkkv/agent_actions_that_cant_be_tied_to_an_owner_are/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/sre/comments/1xnxkkv/agent_actions_that_cant_be_tied_to_an_owner_are/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</description>
@@ -642,13 +664,6 @@
       <description>3 points, 4 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50283664'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50283664</guid>
       <pubDate>Thu, 29 Oct 2026 02:00:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>CSX operations affected by technology systems outage</title>
-      <link>https://www.trains.com/pro/freight/class-i/csx-operations-affected-by-technology-systems-outage/</link>
-      <description>2 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50279719'&gt;discussion sur Hacker News&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50279719</guid>
-      <pubDate>Wed, 28 Oct 2026 19:41:01 +0000</pubDate>
     </item>
     <item>
       <title>[practices] A Little Bit of Slope Makes Up For a Lot of Y-Intercept</title>
@@ -1122,13 +1137,6 @@ Test instance where you are welcome to make a mess: &lt;a href="https://squalk-t
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/jzr2ey/wild_ai_related_reliability_incidents"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/jzr2ey</guid>
       <pubDate>Sun, 23 Aug 2026 19:04:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>[devops] Ahab: Hermeticity Analyzer for Bazel</title>
-      <link>https://markkarpov.com/post/announcing-ahab</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/lt0cqn/ahab_hermeticity_analyzer_for_bazel"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/lt0cqn</guid>
-      <pubDate>Thu, 20 Aug 2026 02:50:44 +0000</pubDate>
     </item>
   </channel>
 </rss>
