@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 12 Nov 2026 01:09:56 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 08:57:47 +0000</lastBuildDate>
     <item>
       <title>Platform-Capitalism on Steroids</title>
       <link>https://news.ycombinator.com/item?id=50458889</link>
@@ -96,7 +96,7 @@
     <item>
       <title>Tell HN: Another GitHub Major Outage</title>
       <link>https://news.ycombinator.com/item?id=50429551</link>
-      <description>17 points, 6 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50429551'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>17 points, 7 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50429551'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50429551</guid>
       <pubDate>Mon, 09 Nov 2026 18:34:16 +0000</pubDate>
     </item>
@@ -246,13 +246,6 @@
       <description>1 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50301714'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50301714</guid>
       <pubDate>Fri, 30 Oct 2026 09:48:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>Tangled.org ongoing outage (&gt;= 7 hours) due to AT protocol</title>
-      <link>https://status.tangled.org</link>
-      <description>3 points, 4 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50283664'&gt;discussion sur Hacker News&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50283664</guid>
-      <pubDate>Thu, 29 Oct 2026 02:00:54 +0000</pubDate>
     </item>
   </channel>
 </rss>

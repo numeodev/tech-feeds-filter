@@ -8,7 +8,17 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 12 Nov 2026 01:09:57 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 08:57:48 +0000</lastBuildDate>
+    <item>
+      <title>[distributed] Global coordination requirements for 2038-class rollover events</title>
+      <link>https://www.itu.int/pub/T-TUT-ICTS-2026-6</link>
+      <description>&lt;p&gt;Technical Paper ITU-T XSTP.epoch consolidates global understanding of risks associated with a
+cluster of structurally distinct timekeeping discontinuities arriving between 2036 and 2038, with
+the 2106 horizon treated as a long-tail consideration (collectively referred to as 2038-class risks).&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://lobste.rs/s/vwta8g/global_coordination_requirements_for"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/vwta8g</guid>
+      <pubDate>Thu, 12 Nov 2026 08:19:41 +0000</pubDate>
+    </item>
     <item>
       <title>[security] How I accidentally became a millionaire</title>
       <link>https://lyra.horse/blog/2026/11/disinformation-machine/</link>
@@ -829,13 +839,6 @@ Test instance where you are welcome to make a mess: &lt;a href="https://squalk-t
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/uwbgby/backups_aren_t_simple"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/uwbgby</guid>
       <pubDate>Thu, 17 Sep 2026 07:48:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>[distributed] comail - Cooperative email infrastructure for atproto</title>
-      <link>https://comail.at/</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/oihovt/comail_cooperative_email"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/oihovt</guid>
-      <pubDate>Wed, 16 Sep 2026 15:48:13 +0000</pubDate>
     </item>
     <item>
       <title>[devops] Hardening Container Images</title>

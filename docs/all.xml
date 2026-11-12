@@ -8,7 +8,17 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 12 Nov 2026 01:09:57 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 08:57:48 +0000</lastBuildDate>
+    <item>
+      <title>[distributed] Global coordination requirements for 2038-class rollover events</title>
+      <link>https://www.itu.int/pub/T-TUT-ICTS-2026-6</link>
+      <description>&lt;p&gt;Technical Paper ITU-T XSTP.epoch consolidates global understanding of risks associated with a
+cluster of structurally distinct timekeeping discontinuities arriving between 2036 and 2038, with
+the 2106 horizon treated as a long-tail consideration (collectively referred to as 2038-class risks).&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://lobste.rs/s/vwta8g/global_coordination_requirements_for"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/vwta8g</guid>
+      <pubDate>Thu, 12 Nov 2026 08:19:41 +0000</pubDate>
+    </item>
     <item>
       <title>[security] How I accidentally became a millionaire</title>
       <link>https://lyra.horse/blog/2026/11/disinformation-machine/</link>
@@ -191,7 +201,7 @@
     <item>
       <title>Tell HN: Another GitHub Major Outage</title>
       <link>https://news.ycombinator.com/item?id=50429551</link>
-      <description>17 points, 6 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50429551'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>17 points, 7 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50429551'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50429551</guid>
       <pubDate>Mon, 09 Nov 2026 18:34:16 +0000</pubDate>
     </item>
@@ -659,13 +669,6 @@
       <pubDate>Thu, 29 Oct 2026 16:08:47 +0000</pubDate>
     </item>
     <item>
-      <title>Tangled.org ongoing outage (&gt;= 7 hours) due to AT protocol</title>
-      <link>https://status.tangled.org</link>
-      <description>3 points, 4 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50283664'&gt;discussion sur Hacker News&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50283664</guid>
-      <pubDate>Thu, 29 Oct 2026 02:00:54 +0000</pubDate>
-    </item>
-    <item>
       <title>[practices] A Little Bit of Slope Makes Up For a Lot of Y-Intercept</title>
       <link>https://www.youtube.com/watch?v=mE98Is1quwY</link>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/gqo17p/little_bit_slope_makes_up_for_lot_y"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
@@ -1095,13 +1098,6 @@ Test instance where you are welcome to make a mess: &lt;a href="https://squalk-t
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/uwbgby/backups_aren_t_simple"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/uwbgby</guid>
       <pubDate>Thu, 17 Sep 2026 07:48:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>[distributed] comail - Cooperative email infrastructure for atproto</title>
-      <link>https://comail.at/</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/oihovt/comail_cooperative_email"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/oihovt</guid>
-      <pubDate>Wed, 16 Sep 2026 15:48:13 +0000</pubDate>
     </item>
     <item>
       <title>[devops] Hardening Container Images</title>
