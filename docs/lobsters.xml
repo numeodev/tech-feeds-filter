@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 12 Nov 2026 08:57:48 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 17:20:21 +0000</lastBuildDate>
+    <item>
+      <title>[practices, security] Humble Bundle just completely killed most of their security through vibecoding</title>
+      <link>https://forums.spacebattles.com/threads/humble-bundle-just-completely-killed-most-of-their-security-through-vibecoding.1346295/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/8kmjot/humble_bundle_just_completely_killed"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/8kmjot</guid>
+      <pubDate>Thu, 12 Nov 2026 15:13:35 +0000</pubDate>
+    </item>
     <item>
       <title>[distributed] Global coordination requirements for 2038-class rollover events</title>
       <link>https://www.itu.int/pub/T-TUT-ICTS-2026-6</link>
@@ -302,13 +309,6 @@ the 2106 horizon treated as a long-tail consideration (collectively referred to 
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/vwkurz/i_go_olympics_4kb_coding"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/vwkurz</guid>
       <pubDate>Thu, 05 Nov 2026 23:33:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>[security] SourceHut disabled registration bypass | CVE-2026-121728</title>
-      <link>https://blog.arusekk.pl/posts/srht-disabled-registration-bypass/</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/x2hcss/sourcehut_disabled_registration_bypass"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/x2hcss</guid>
-      <pubDate>Thu, 05 Nov 2026 18:34:41 +0000</pubDate>
     </item>
     <item>
       <title>[distributed] How Flink's Kafka connector commits offsets to Kafka</title>
@@ -675,14 +675,6 @@ the 2106 horizon treated as a long-tail consideration (collectively referred to 
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/9wcfld/how_big_is_git_commit"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/9wcfld</guid>
       <pubDate>Sun, 11 Oct 2026 09:25:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>[practices] Artificial Intelligence in the Firm: Bottlenecks in Software Production</title>
-      <link>https://fion.ac/jellyfish.pdf</link>
-      <description>&lt;p&gt;We study the impacts of AI coding assistants and agents on software engineering work, using a novel proprietary dataset from an engineering analytics platform, covering 300 million work events — including GitHub coding activity, Jira issues, and Google Calendar events — across 718 firms. We use a staggered difference-in-differences design, exploiting variation in firm- level adoption timing of AI coding assistants and agents. Both technologies increase coding productivity. However, productivity gains do not fully pass through to changes in software output or employment. For AI agents, this incomplete pass-through reflects a bottleneck from code review: review times increase, a larger share of code updates require revisions, and reviews involve more comments. We develop a model of software production to structure these results, in which AI affects both productivity and quality of intermediate outputs, and in turn can generate a review bottleneck and limit pass-through.&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://lobste.rs/s/aqdswf/artificial_intelligence_firm"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/aqdswf</guid>
-      <pubDate>Fri, 09 Oct 2026 15:03:06 +0000</pubDate>
     </item>
     <item>
       <title>[devops] 64-Day Certificate Lifetimes Coming Feb 2027</title>
