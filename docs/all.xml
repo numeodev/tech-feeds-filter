@@ -8,20 +8,62 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 12 Nov 2026 17:20:21 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 22:58:28 +0000</lastBuildDate>
+    <item>
+      <title>[security] Secure Exclaves and Ambient Sensing</title>
+      <link>https://security.apple.com/blog/secure-exclaves/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/vnugiy/secure_exclaves_ambient_sensing"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/vnugiy</guid>
+      <pubDate>Thu, 12 Nov 2026 22:55:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>MS Defender, Intune and Purview possibly affected in outage. Any confirmation?</title>
+      <link>https://news.ycombinator.com/item?id=50475056</link>
+      <description>3 points, 3 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50475056'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50475056</guid>
+      <pubDate>Thu, 12 Nov 2026 22:10:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>A Microsoft 365 outage is hitting users in regions around the world</title>
+      <link>https://globalnews.ca/news/12148204/microsoft-outage-2026/</link>
+      <description>12 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50473558'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50473558</guid>
+      <pubDate>Thu, 12 Nov 2026 20:17:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft Says It's Working to Fix Outlook, Copilot Outage</title>
+      <link>https://www.bloomberg.com/news/articles/2026-11-12/microsoft-says-it-s-working-to-fix-outlook-copilot-outage</link>
+      <description>3 points, 2 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50473071'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50473071</guid>
+      <pubDate>Thu, 12 Nov 2026 19:43:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Tell HN: Major Microsoft Outlook/Exchange Online/Teams Outage in the Americas</title>
+      <link>https://news.ycombinator.com/item?id=50472411</link>
+      <description>9 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50472411'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50472411</guid>
+      <pubDate>Thu, 12 Nov 2026 19:00:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>Service degradation on Microsoft 365</title>
+      <link>https://status.cloud.microsoft/</link>
+      <description>365 points, 348 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50471731'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50471731</guid>
+      <pubDate>Thu, 12 Nov 2026 18:20:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ask HN: Microsoft/Azure Outage?</title>
+      <link>https://news.ycombinator.com/item?id=50471668</link>
+      <description>399 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50471668'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50471668</guid>
+      <pubDate>Thu, 12 Nov 2026 18:17:13 +0000</pubDate>
+    </item>
     <item>
       <title>Show HN: DeployAngel – A verdict in ~20 minutes if a deploy broke production</title>
       <link>https://news.ycombinator.com/item?id=50469011</link>
-      <description>1 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50469011'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>2 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50469011'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50469011</guid>
       <pubDate>Thu, 12 Nov 2026 15:30:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>[practices, security] Humble Bundle just completely killed most of their security through vibecoding</title>
-      <link>https://forums.spacebattles.com/threads/humble-bundle-just-completely-killed-most-of-their-security-through-vibecoding.1346295/</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/8kmjot/humble_bundle_just_completely_killed"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/8kmjot</guid>
-      <pubDate>Thu, 12 Nov 2026 15:13:35 +0000</pubDate>
     </item>
     <item>
       <title>[r/sre] what do you actually put behind 'health'</title>
@@ -50,7 +92,7 @@ the 2106 horizon treated as a long-tail consideration (collectively referred to 
     <item>
       <title>Platform-Capitalism on Steroids</title>
       <link>https://news.ycombinator.com/item?id=50458889</link>
-      <description>1 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50458889'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>1 points, 2 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50458889'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50458889</guid>
       <pubDate>Wed, 11 Nov 2026 21:23:33 +0000</pubDate>
     </item>
@@ -93,7 +135,7 @@ the 2106 horizon treated as a long-tail consideration (collectively referred to 
     <item>
       <title>Vagrant's Licence Reverted to MIT</title>
       <link>https://github.com/hashicorp/vagrant/commit/ab4fc5e3db1bd215ded614add4a26a81c7b5cbeb</link>
-      <description>3 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50455461'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>4 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50455461'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50455461</guid>
       <pubDate>Wed, 11 Nov 2026 16:44:46 +0000</pubDate>
     </item>
@@ -941,6 +983,14 @@ the 2106 horizon treated as a long-tail consideration (collectively referred to 
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/9wcfld/how_big_is_git_commit"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/9wcfld</guid>
       <pubDate>Sun, 11 Oct 2026 09:25:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>[practices] Artificial Intelligence in the Firm: Bottlenecks in Software Production</title>
+      <link>https://fion.ac/jellyfish.pdf</link>
+      <description>&lt;p&gt;We study the impacts of AI coding assistants and agents on software engineering work, using a novel proprietary dataset from an engineering analytics platform, covering 300 million work events — including GitHub coding activity, Jira issues, and Google Calendar events — across 718 firms. We use a staggered difference-in-differences design, exploiting variation in firm- level adoption timing of AI coding assistants and agents. Both technologies increase coding productivity. However, productivity gains do not fully pass through to changes in software output or employment. For AI agents, this incomplete pass-through reflects a bottleneck from code review: review times increase, a larger share of code updates require revisions, and reviews involve more comments. We develop a model of software production to structure these results, in which AI affects both productivity and quality of intermediate outputs, and in turn can generate a review bottleneck and limit pass-through.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://lobste.rs/s/aqdswf/artificial_intelligence_firm"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/aqdswf</guid>
+      <pubDate>Fri, 09 Oct 2026 15:03:06 +0000</pubDate>
     </item>
     <item>
       <title>[devops] 64-Day Certificate Lifetimes Coming Feb 2027</title>
