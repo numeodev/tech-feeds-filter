@@ -8,7 +8,56 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 13 Nov 2026 11:42:42 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 18:56:17 +0000</lastBuildDate>
+    <item>
+      <title>Microsoft outage gives customers a crash course in dependence on Redmond</title>
+      <link>https://www.theregister.com/saas/2026/11/13/microsoft-outage-gives-customers-a-crash-course-in-dependence-on-redmond/5309805</link>
+      <description>4 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50487688'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50487688</guid>
+      <pubDate>Fri, 13 Nov 2026 18:29:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>[r/sre] Microsoft says the 365 outage spread because servers kept failing health checks. When do you let health checks fail open?</title>
+      <link>https://www.reddit.com/r/sre/comments/1xvemsq/microsoft_says_the_365_outage_spread_because/</link>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Reading Microsoft's updates on the 365 outage today, the part that stuck with me is how it spread. Some servers failed automated health checks and got taken out of rotation, their traffic moved to the remaining servers, and those got overloaded too. Restarted servers went unresponsive again once traffic came back. They also said they were validating alternate health check methods partway through.&lt;/p&gt; &lt;p&gt;I keep going back and forth on this. A strict health check is doing its job when it pulls a bad node fast. But if the check itself is what's misfiring, or the whole fleet is a bit slow, it can eject so much capacity that the survivors fall over.&lt;/p&gt; &lt;p&gt;Envoy has a panic threshold for this: if healthy hosts drop below a percentage (50% by default), it stops trusting health status and spreads traffic across all hosts. AWS load balancers do something similar and route to every target when all of them are unhealthy. That keeps some capacity up, but you're knowingly sending users to nodes you think are broken.&lt;/p&gt; &lt;p&gt;Would you rather cap how much of the fleet a health check can remove, or keep checks strict and accept that a bad check can take everything down?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/jyotirawattech"&gt; /u/jyotirawattech &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/r/sre/comments/1xvemsq/microsoft_says_the_365_outage_spread_because/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/sre/comments/1xvemsq/microsoft_says_the_365_outage_spread_because/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</description>
+      <guid isPermaLink="false">https://www.reddit.com/r/sre/t3_1xvemsq</guid>
+      <pubDate>Fri, 13 Nov 2026 17:51:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft says outage not tied to A.I. or hacker</title>
+      <link>https://www.nbcnews.com/tech/tech-news/live-blog/microsoft-outage-outlook-teams-updates-fix-rcna609118</link>
+      <description>2 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50486824'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50486824</guid>
+      <pubDate>Fri, 13 Nov 2026 17:34:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>Japanese workers return to fax machines during ongoing Microsoft 365 outage</title>
+      <link>https://www.tomshardware.com/software/japanese-workers-return-to-fax-machines-during-ongoing-microsoft-365-outage-were-going-full-analog-say-workers-forced-to-ditch-pdfs</link>
+      <description>5 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50486477'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50486477</guid>
+      <pubDate>Fri, 13 Nov 2026 17:09:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>[r/sre] Are We Sacrificing Technology Resilience for the Sake of Cloud Adoption?</title>
+      <link>https://www.reddit.com/r/sre/comments/1xvblla/are_we_sacrificing_technology_resilience_for_the/</link>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;The recent Microsoft 365 incident, which caused prolonged disruptions to business services, got me thinking about something I consider fundamental to the financial industry: Are we losing sight of operational continuity as we become increasingly dependent on technology providers?&lt;/p&gt; &lt;p&gt;After 30 years working in critical systems infrastructure, 20 of them at my current organization and another 10 at different financial institutions, I've learned that certain operational principles should never be compromised.&lt;/p&gt; &lt;p&gt;One hour of downtime is not simply one hour without service. Depending on the system affected, it can mean financial losses, business disruptions, regulatory non-compliance, customer impact, and reputational damage.&lt;/p&gt; &lt;p&gt;There are several aspects that concern me:&lt;/p&gt; &lt;ol&gt; &lt;li&gt;High availability is not the same as resilience.&lt;/li&gt; &lt;/ol&gt; &lt;p&gt;Having geographically distributed data centers, thousands of servers, and redundancy mechanisms does not guarantee that a platform can recover quickly. If a shared dependency fails, all that redundancy may prove insufficient.&lt;/p&gt; &lt;ol&gt; &lt;li&gt;Operational responsibility cannot be outsourced.&lt;/li&gt; &lt;/ol&gt; &lt;p&gt;When we adopt cloud services, we transfer part of the technology operations, but we do not transfer the responsibility for ensuring business continuity. The bank remains accountable for its operations and the risks it assumes.&lt;/p&gt; &lt;ol&gt; &lt;li&gt;Operational awareness is just as important as technical expertise.&lt;/li&gt; &lt;/ol&gt; &lt;p&gt;Throughout my career, I've encountered technology professionals during hiring processes who believe that one hour of downtime is no big deal, or that making changes directly in production is just routine work.&lt;/p&gt; &lt;p&gt;In a banking environment, that mindset represents a serious risk.&lt;/p&gt; &lt;p&gt;Mastering technology, automation, virtualization, or cloud platforms is not enough. Professionals must understand the financial, operational, and regulatory impact of every decision they make.&lt;/p&gt; &lt;p&gt;Change management, maintenance windows, rollback plans, segregation of duties, and contingency procedures are not bureaucracy; they are essential controls.&lt;/p&gt; &lt;ol&gt; &lt;li&gt;Are we losing control of our critical infrastructure?&lt;/li&gt; &lt;/ol&gt; &lt;p&gt;Personally, I believe that truly business-critical systems should remain under the institution's direct operational control.&lt;/p&gt; &lt;p&gt;I don't believe every system needs to remain on-premises, but I also don't think we should indiscriminately move our platforms to the cloud simply because of market trends or cost-reduction strategies.&lt;/p&gt; &lt;p&gt;Every system should be evaluated based on its criticality, business impact, technology dependencies, recovery capabilities, and operational risk.&lt;/p&gt; &lt;ol&gt; &lt;li&gt;The question we should be asking ourselves.&lt;/li&gt; &lt;/ol&gt; &lt;p&gt;If our cloud provider were to become unavailable for 24, 48, or 72 hours tomorrow:&lt;/p&gt; &lt;p&gt;Could our institution continue operating?&lt;/p&gt; &lt;p&gt;Do we have independent communication and authentication mechanisms?&lt;/p&gt; &lt;p&gt;Can we access our documentation and contingency procedures?&lt;/p&gt; &lt;p&gt;Do we have a genuinely operational alternative?&lt;/p&gt; &lt;p&gt;Have we actually tested these scenarios, or do they simply exist on paper in our business continuity plans?&lt;/p&gt; &lt;p&gt;After all these years working in banking infrastructure, I still believe technology should serve the business, rather than the business becoming entirely dependent on the availability of a single provider.&lt;/p&gt; &lt;p&gt;Cloud should reduce operational risk, not become the operational risk itself.&lt;/p&gt; &lt;p&gt;I'd be interested in hearing the perspectives of other professionals working in infrastructure, enterprise architecture, security, and business continuity:&lt;/p&gt; &lt;p&gt;Are we building truly resilient infrastructures, or are we simply moving our single points of failure to external providers?&lt;/p&gt; &lt;p&gt;How much dependency on cloud services do you consider acceptable for a financial institution?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/Individual_Pen9334"&gt; /u/Individual_Pen9334 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/r/sre/comments/1xvblla/are_we_sacrificing_technology_resilience_for_the/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/sre/comments/1xvblla/are_we_sacrificing_technology_resilience_for_the/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</description>
+      <guid isPermaLink="false">https://www.reddit.com/r/sre/t3_1xvblla</guid>
+      <pubDate>Fri, 13 Nov 2026 15:59:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>How the Microsoft outage has been felt around the world</title>
+      <link>https://www.bbc.com/news/articles/cqp9d58eldlro</link>
+      <description>2 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50483735'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50483735</guid>
+      <pubDate>Fri, 13 Nov 2026 14:10:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft's M365 outage stretches past 20 hours as fixes keep failing</title>
+      <link>https://www.theregister.com/saas/2026/11/13/microsofts-massive-m365-outage-stretches-past-20-hours-as-its-fixes-keep-failing/5309609</link>
+      <description>10 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50483725'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50483725</guid>
+      <pubDate>Fri, 13 Nov 2026 14:09:11 +0000</pubDate>
+    </item>
     <item>
       <title>[practices] Running a law firm on Free software (2026 edition)</title>
       <link>https://decoded.legal/blog/2026/11/running-a-law-firm-on-free-software-2026-edition/</link>
@@ -19,16 +68,9 @@
     <item>
       <title>What do you think about Microsoft future? // Microsoft products down</title>
       <link>https://news.ycombinator.com/item?id=50481829</link>
-      <description>3 points, 2 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50481829'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>5 points, 4 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50481829'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50481829</guid>
       <pubDate>Fri, 13 Nov 2026 11:09:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>[practices, security] Myths in R2Land</title>
-      <link>https://trufae.substack.com/p/myths-in-r2land</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/3q4npg/myths_r2land"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/3q4npg</guid>
-      <pubDate>Fri, 13 Nov 2026 10:55:43 +0000</pubDate>
     </item>
     <item>
       <title>Microsoft 365 Outage EX1550543: What Deferred Email Means for Senders</title>
@@ -47,7 +89,7 @@
     <item>
       <title>Microsoft Outage</title>
       <link>https://www.theguardian.com/technology/live/2026/nov/13/microsoft-outage-down-today-live-update-outlook-teams-365-when-fixed-latest-status-cause-news</link>
-      <description>10 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50479964'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>11 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50479964'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50479964</guid>
       <pubDate>Fri, 13 Nov 2026 08:07:09 +0000</pubDate>
     </item>
@@ -61,21 +103,21 @@
     <item>
       <title>How to claim an SLA credit for today's Microsoft outage</title>
       <link>https://www.reddit.com/r/sysadmin/comments/1xuqu5y/microsoft_owes_you_money_for_todays_outage_they/</link>
-      <description>5 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50479634'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>6 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50479634'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50479634</guid>
       <pubDate>Fri, 13 Nov 2026 07:29:20 +0000</pubDate>
     </item>
     <item>
       <title>Global Microsoft Outage</title>
       <link>https://www.cnn.com/2026/11/12/business/live-news/microsoft-global-outage-intl-hnk</link>
-      <description>150 points, 78 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50479098'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>273 points, 172 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50479098'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50479098</guid>
       <pubDate>Fri, 13 Nov 2026 06:18:23 +0000</pubDate>
     </item>
     <item>
       <title>Microsoft says attempts to fix global outage not going 'as expected'</title>
       <link>https://www.bbc.com/news/live/cq5y10ge3dp3t</link>
-      <description>74 points, 52 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50479045'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>86 points, 69 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50479045'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50479045</guid>
       <pubDate>Fri, 13 Nov 2026 06:12:02 +0000</pubDate>
     </item>
@@ -89,14 +131,14 @@
     <item>
       <title>Microsoft struggling to restore service as global outage affects services</title>
       <link>https://www.bbc.com/news/articles/c5gm3g9ldz8xo</link>
-      <description>28 points, 15 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50478372'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>29 points, 16 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50478372'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50478372</guid>
       <pubDate>Fri, 13 Nov 2026 04:33:35 +0000</pubDate>
     </item>
     <item>
       <title>Microsoft outage drags on for hours, disrupting Outlook, Teams for thousands</title>
       <link>https://www.reuters.com/technology/microsoft-365-outlook-down-thousands-us-users-downdetector-shows-2026-11-12/</link>
-      <description>6 points, 2 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50477752'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>7 points, 2 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50477752'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50477752</guid>
       <pubDate>Fri, 13 Nov 2026 03:19:56 +0000</pubDate>
     </item>
@@ -152,14 +194,14 @@
     <item>
       <title>Tell HN: Major Microsoft Outlook/Exchange Online/Teams Outage in the Americas</title>
       <link>https://news.ycombinator.com/item?id=50472411</link>
-      <description>13 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50472411'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>13 points, 2 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50472411'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50472411</guid>
       <pubDate>Thu, 12 Nov 2026 19:00:58 +0000</pubDate>
     </item>
     <item>
       <title>Service degradation on Microsoft 365</title>
       <link>https://status.cloud.microsoft/</link>
-      <description>951 points, 816 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50471731'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>1134 points, 949 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50471731'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50471731</guid>
       <pubDate>Thu, 12 Nov 2026 18:20:48 +0000</pubDate>
     </item>
@@ -568,6 +610,13 @@ the 2106 horizon treated as a long-tail consideration (collectively referred to 
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/lssm6h/how_hard_could_implementing_dtls_1_3"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/lssm6h</guid>
       <pubDate>Sat, 07 Nov 2026 00:54:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>[security] Hacking the meta ray-ban smartglasses</title>
+      <link>https://p0pcycle.com/2026/11/06/hacking-the-meta-ray-ban-smartglasses/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/xhrab6/hacking_meta_ray_ban_smartglasses"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/xhrab6</guid>
+      <pubDate>Fri, 06 Nov 2026 20:50:24 +0000</pubDate>
     </item>
     <item>
       <title>We stress-tested AI spend limits under bursts and outages</title>
@@ -1032,6 +1081,13 @@ the 2106 horizon treated as a long-tail consideration (collectively referred to 
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/hjhufj/where_is_all_new_good_software"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/hjhufj</guid>
       <pubDate>Tue, 13 Oct 2026 09:14:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>[practices] How to effectively debug when you no longer understand the code</title>
+      <link>https://copyconstruct.medium.com/how-to-effectively-debug-when-you-no-longer-understand-the-code-bd3dcb2c5f7b</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/pirgtp/how_effectively_debug_when_you_no_longer"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/pirgtp</guid>
+      <pubDate>Mon, 12 Oct 2026 12:01:18 +0000</pubDate>
     </item>
     <item>
       <title>[devops] 3-2-1 Backup Strategy with restic and Backblaze B2</title>

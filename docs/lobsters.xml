@@ -8,20 +8,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 13 Nov 2026 11:42:42 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 18:56:17 +0000</lastBuildDate>
     <item>
       <title>[practices] Running a law firm on Free software (2026 edition)</title>
       <link>https://decoded.legal/blog/2026/11/running-a-law-firm-on-free-software-2026-edition/</link>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ezl1sa/running_law_firm_on_free_software_2026"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/ezl1sa</guid>
       <pubDate>Fri, 13 Nov 2026 11:20:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>[practices, security] Myths in R2Land</title>
-      <link>https://trufae.substack.com/p/myths-in-r2land</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/3q4npg/myths_r2land"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/3q4npg</guid>
-      <pubDate>Fri, 13 Nov 2026 10:55:43 +0000</pubDate>
     </item>
     <item>
       <title>[security] How I Ended Up Turning a 22-Year-Old PostgreSQL Type-Confusion Primitive into RCE (CVE-2026-6460)</title>
@@ -316,6 +309,13 @@ the 2106 horizon treated as a long-tail consideration (collectively referred to 
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/lssm6h/how_hard_could_implementing_dtls_1_3"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/lssm6h</guid>
       <pubDate>Sat, 07 Nov 2026 00:54:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>[security] Hacking the meta ray-ban smartglasses</title>
+      <link>https://p0pcycle.com/2026/11/06/hacking-the-meta-ray-ban-smartglasses/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/xhrab6/hacking_meta_ray_ban_smartglasses"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/xhrab6</guid>
+      <pubDate>Fri, 06 Nov 2026 20:50:24 +0000</pubDate>
     </item>
     <item>
       <title>[distributed, vcs] Inside GitHub's new Git storage architecture</title>
@@ -661,6 +661,13 @@ the 2106 horizon treated as a long-tail consideration (collectively referred to 
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/hjhufj/where_is_all_new_good_software"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/hjhufj</guid>
       <pubDate>Tue, 13 Oct 2026 09:14:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>[practices] How to effectively debug when you no longer understand the code</title>
+      <link>https://copyconstruct.medium.com/how-to-effectively-debug-when-you-no-longer-understand-the-code-bd3dcb2c5f7b</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/pirgtp/how_effectively_debug_when_you_no_longer"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/pirgtp</guid>
+      <pubDate>Mon, 12 Oct 2026 12:01:18 +0000</pubDate>
     </item>
     <item>
       <title>[devops] 3-2-1 Backup Strategy with restic and Backblaze B2</title>
