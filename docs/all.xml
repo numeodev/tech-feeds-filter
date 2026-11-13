@@ -8,7 +8,98 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 13 Nov 2026 03:09:38 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 11:42:42 +0000</lastBuildDate>
+    <item>
+      <title>[practices] Running a law firm on Free software (2026 edition)</title>
+      <link>https://decoded.legal/blog/2026/11/running-a-law-firm-on-free-software-2026-edition/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ezl1sa/running_law_firm_on_free_software_2026"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/ezl1sa</guid>
+      <pubDate>Fri, 13 Nov 2026 11:20:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>What do you think about Microsoft future? // Microsoft products down</title>
+      <link>https://news.ycombinator.com/item?id=50481829</link>
+      <description>3 points, 2 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50481829'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50481829</guid>
+      <pubDate>Fri, 13 Nov 2026 11:09:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>[practices, security] Myths in R2Land</title>
+      <link>https://trufae.substack.com/p/myths-in-r2land</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/3q4npg/myths_r2land"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/3q4npg</guid>
+      <pubDate>Fri, 13 Nov 2026 10:55:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft 365 Outage EX1550543: What Deferred Email Means for Senders</title>
+      <link>https://dmarcguard.io/blog/microsoft-outage-ex1550543-email-deferred/</link>
+      <description>2 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50481664'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50481664</guid>
+      <pubDate>Fri, 13 Nov 2026 10:54:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>[security] How I Ended Up Turning a 22-Year-Old PostgreSQL Type-Confusion Primitive into RCE (CVE-2026-6460)</title>
+      <link>https://mehmetince.net/part-3-6-how-i-ended-up-turning-a-22-year-old-postgresql-type-confusion-primitive-into-rce-cve-2026-6460/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/nlpvck/how_i_ended_up_turning_22_year_old"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/nlpvck</guid>
+      <pubDate>Fri, 13 Nov 2026 10:25:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft Outage</title>
+      <link>https://www.theguardian.com/technology/live/2026/nov/13/microsoft-outage-down-today-live-update-outlook-teams-365-when-fixed-latest-status-cause-news</link>
+      <description>10 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50479964'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50479964</guid>
+      <pubDate>Fri, 13 Nov 2026 08:07:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>[security] “From digital mischief to outright destruction”</title>
+      <link>https://unsung.aresluna.org/from-digital-mischief-to-outright-destruction</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/cjnwcg/from_digital_mischief_outright"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/cjnwcg</guid>
+      <pubDate>Fri, 13 Nov 2026 07:50:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to claim an SLA credit for today's Microsoft outage</title>
+      <link>https://www.reddit.com/r/sysadmin/comments/1xuqu5y/microsoft_owes_you_money_for_todays_outage_they/</link>
+      <description>5 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50479634'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50479634</guid>
+      <pubDate>Fri, 13 Nov 2026 07:29:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>Global Microsoft Outage</title>
+      <link>https://www.cnn.com/2026/11/12/business/live-news/microsoft-global-outage-intl-hnk</link>
+      <description>150 points, 78 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50479098'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50479098</guid>
+      <pubDate>Fri, 13 Nov 2026 06:18:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft says attempts to fix global outage not going 'as expected'</title>
+      <link>https://www.bbc.com/news/live/cq5y10ge3dp3t</link>
+      <description>74 points, 52 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50479045'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50479045</guid>
+      <pubDate>Fri, 13 Nov 2026 06:12:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>[distributed] Choosing QuePaxa, an unusual consensus algorithm</title>
+      <link>https://blog.cloudflare.com/choosing-quepaxa/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/sbsu9w/choosing_quepaxa_unusual_consensus"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/sbsu9w</guid>
+      <pubDate>Fri, 13 Nov 2026 04:37:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft struggling to restore service as global outage affects services</title>
+      <link>https://www.bbc.com/news/articles/c5gm3g9ldz8xo</link>
+      <description>28 points, 15 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50478372'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50478372</guid>
+      <pubDate>Fri, 13 Nov 2026 04:33:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft outage drags on for hours, disrupting Outlook, Teams for thousands</title>
+      <link>https://www.reuters.com/technology/microsoft-365-outlook-down-thousands-us-users-downdetector-shows-2026-11-12/</link>
+      <description>6 points, 2 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50477752'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50477752</guid>
+      <pubDate>Fri, 13 Nov 2026 03:19:56 +0000</pubDate>
+    </item>
     <item>
       <title>[r/sre] How do you choose an enterprise AI observability platform? What AI, SRE and security teams each need</title>
       <link>https://www.reddit.com/r/sre/comments/1xuwmo4/how_do_you_choose_an_enterprise_ai_observability/</link>
@@ -47,35 +138,35 @@
     <item>
       <title>A Microsoft 365 outage is hitting users in regions around the world</title>
       <link>https://globalnews.ca/news/12148204/microsoft-outage-2026/</link>
-      <description>16 points, 2 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50473558'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>17 points, 2 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50473558'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50473558</guid>
       <pubDate>Thu, 12 Nov 2026 20:17:32 +0000</pubDate>
     </item>
     <item>
       <title>Microsoft Says It's Working to Fix Outlook, Copilot Outage</title>
       <link>https://www.bloomberg.com/news/articles/2026-11-12/microsoft-says-it-s-working-to-fix-outlook-copilot-outage</link>
-      <description>3 points, 3 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50473071'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>3 points, 4 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50473071'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50473071</guid>
       <pubDate>Thu, 12 Nov 2026 19:43:08 +0000</pubDate>
     </item>
     <item>
       <title>Tell HN: Major Microsoft Outlook/Exchange Online/Teams Outage in the Americas</title>
       <link>https://news.ycombinator.com/item?id=50472411</link>
-      <description>11 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50472411'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>13 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50472411'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50472411</guid>
       <pubDate>Thu, 12 Nov 2026 19:00:58 +0000</pubDate>
     </item>
     <item>
       <title>Service degradation on Microsoft 365</title>
       <link>https://status.cloud.microsoft/</link>
-      <description>560 points, 523 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50471731'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>951 points, 816 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50471731'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50471731</guid>
       <pubDate>Thu, 12 Nov 2026 18:20:48 +0000</pubDate>
     </item>
     <item>
       <title>Ask HN: Microsoft/Azure Outage?</title>
       <link>https://news.ycombinator.com/item?id=50471668</link>
-      <description>401 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50471668'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>402 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50471668'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50471668</guid>
       <pubDate>Thu, 12 Nov 2026 18:17:13 +0000</pubDate>
     </item>
@@ -285,7 +376,7 @@ the 2106 horizon treated as a long-tail consideration (collectively referred to 
     <item>
       <title>Tell HN: Another GitHub Major Outage</title>
       <link>https://news.ycombinator.com/item?id=50429551</link>
-      <description>17 points, 7 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50429551'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>18 points, 7 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50429551'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50429551</guid>
       <pubDate>Mon, 09 Nov 2026 18:34:16 +0000</pubDate>
     </item>
@@ -479,13 +570,6 @@ the 2106 horizon treated as a long-tail consideration (collectively referred to 
       <pubDate>Sat, 07 Nov 2026 00:54:14 +0000</pubDate>
     </item>
     <item>
-      <title>[security] Hacking the meta ray-ban smartglasses</title>
-      <link>https://p0pcycle.com/2026/11/06/hacking-the-meta-ray-ban-smartglasses/</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/xhrab6/hacking_meta_ray_ban_smartglasses"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/xhrab6</guid>
-      <pubDate>Fri, 06 Nov 2026 20:50:24 +0000</pubDate>
-    </item>
-    <item>
       <title>We stress-tested AI spend limits under bursts and outages</title>
       <link>https://stipend-ai.com/blog/ai-spend-limits-tested/</link>
       <description>3 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50396021'&gt;discussion sur Hacker News&lt;/a&gt;</description>
@@ -498,20 +582,6 @@ the 2106 horizon treated as a long-tail consideration (collectively referred to 
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/y3hvme/inside_github_s_new_git_storage"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/y3hvme</guid>
       <pubDate>Fri, 06 Nov 2026 17:50:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>[security] Pushing the Limits with getaddrinfo</title>
-      <link>https://acid.vegas/blog/pushing-the-limits-with-getaddrinfo/</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/5cwnpu/pushing_limits_with_getaddrinfo"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/5cwnpu</guid>
-      <pubDate>Fri, 06 Nov 2026 14:47:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>[security] Practical guide on out of tree mitigations on Linux</title>
-      <link>https://clehaxze.tw/gemlog/2026/11-04-practical-guide-on-out-of-tree-mitigations-on-linux.gmi</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/l6gu7r/practical_guide_on_out_tree_mitigations"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/l6gu7r</guid>
-      <pubDate>Fri, 06 Nov 2026 08:53:27 +0000</pubDate>
     </item>
     <item>
       <title>Show HN: Repairer – close the breach when a Linux flaw goes public</title>
@@ -600,7 +670,7 @@ the 2106 horizon treated as a long-tail consideration (collectively referred to 
     <item>
       <title>Show HN: Subvocal – Talk to your computer without making noise</title>
       <link>https://news.ycombinator.com/item?id=50340088</link>
-      <description>848 points, 395 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50340088'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>849 points, 395 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50340088'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50340088</guid>
       <pubDate>Mon, 02 Nov 2026 17:16:17 +0000</pubDate>
     </item>
@@ -716,13 +786,6 @@ the 2106 horizon treated as a long-tail consideration (collectively referred to 
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/srnmml/reviewing_vs_doing"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/srnmml</guid>
       <pubDate>Fri, 30 Oct 2026 15:19:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>Big Tech lobbying pushing EU towards data-protection rollback</title>
-      <link>https://euobserver.com/245206/revealed-new-data-shows-big-tech-lobbying-pushing-eu-towards-sweeping-data-protection-rollback/</link>
-      <description>1 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50301714'&gt;discussion sur Hacker News&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50301714</guid>
-      <pubDate>Fri, 30 Oct 2026 09:48:44 +0000</pubDate>
     </item>
     <item>
       <title>[practices] An open format for writing agent-native software requirements</title>
@@ -971,25 +1034,11 @@ the 2106 horizon treated as a long-tail consideration (collectively referred to 
       <pubDate>Tue, 13 Oct 2026 09:14:09 +0000</pubDate>
     </item>
     <item>
-      <title>[practices] How to effectively debug when you no longer understand the code</title>
-      <link>https://copyconstruct.medium.com/how-to-effectively-debug-when-you-no-longer-understand-the-code-bd3dcb2c5f7b</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/pirgtp/how_effectively_debug_when_you_no_longer"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/pirgtp</guid>
-      <pubDate>Mon, 12 Oct 2026 12:01:18 +0000</pubDate>
-    </item>
-    <item>
       <title>[devops] 3-2-1 Backup Strategy with restic and Backblaze B2</title>
       <link>https://chuck.is/paranoid/</link>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/9zcxev/3_2_1_backup_strategy_with_restic"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/9zcxev</guid>
       <pubDate>Mon, 12 Oct 2026 04:21:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>[practices] The wild west of polyglot docs sites</title>
-      <link>https://technicalwriting.dev/blog/2026/10/polyglot/index.html</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/wyxufm/wild_west_polyglot_docs_sites"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/wyxufm</guid>
-      <pubDate>Sun, 11 Oct 2026 17:43:46 +0000</pubDate>
     </item>
     <item>
       <title>[vcs] What's Wrong with GitHub</title>
@@ -1132,13 +1181,6 @@ Test instance where you are welcome to make a mess: &lt;a href="https://squalk-t
 &lt;p&gt;&lt;a href="https://lobste.rs/s/haq46t/squalk_old_school_forum_engine_built_on"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/haq46t</guid>
       <pubDate>Mon, 21 Sep 2026 14:44:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>[distributed] How Notion handles concurrent editing with CRDTs</title>
-      <link>https://www.notion.com/blog/how-notion-handles-concurrent-editing-with-crdts</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ppfyza/how_notion_handles_concurrent_editing"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/ppfyza</guid>
-      <pubDate>Sun, 20 Sep 2026 12:06:29 +0000</pubDate>
     </item>
     <item>
       <title>[devops] Secure VMs for Kubernetes: Hardening Kata containers</title>
