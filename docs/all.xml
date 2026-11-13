@@ -8,7 +8,28 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 12 Nov 2026 22:58:28 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 03:09:38 +0000</lastBuildDate>
+    <item>
+      <title>[r/sre] How do you choose an enterprise AI observability platform? What AI, SRE and security teams each need</title>
+      <link>https://www.reddit.com/r/sre/comments/1xuwmo4/how_do_you_choose_an_enterprise_ai_observability/</link>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;I have been thinking about how organizations choose an AI observability platform, and I suspect the decision often goes wrong because it is made by one team. Enterprise AI observability has to serve at least three groups with different questions, and the telemetry requirements are different for each. Here is how I currently break it down.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;AI / application teams&lt;/strong&gt; need LLM observability at the step level:&lt;/p&gt; &lt;p&gt;● Spans for each model call (provider, model, token usage, latency), retrieval step (query, top-k, latency) and tool call (arguments, outcome)&lt;/p&gt; &lt;p&gt;● Prompt and response capture that is opt-in and configurable, since content is sensitive&lt;/p&gt; &lt;p&gt;● Version comparison across model, prompt and tool changes, plus cost per feature or tenant&lt;/p&gt; &lt;p&gt;&lt;strong&gt;SRE / operations teams&lt;/strong&gt; need the AI layer connected to everything else:&lt;/p&gt; &lt;p&gt;● Distributed tracing that links agent and LLM spans to the downstream services, databases and infrastructure they call, so an “AI is slow” report can be traced to a slow dependency&lt;/p&gt; &lt;p&gt;● Tool errors recorded separately from transport status, because a failed tool inside a “200 OK” response is invisible to request-level metrics&lt;/p&gt; &lt;p&gt;● Alerting and fault localization that work across both layers, ideally with some AIOps assistance for root cause analysis&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Security / compliance teams&lt;/strong&gt; need governance built into the telemetry:&lt;/p&gt; &lt;p&gt;● Masking of prompts and responses before storage, with access control on payloads&lt;/p&gt; &lt;p&gt;● An audit trail of which identity called which tool, with what outcome&lt;/p&gt; &lt;p&gt;● Deployment options and retention policies that match data requirements, and sampling that does not drop failed runs&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Platform / finance&lt;/strong&gt; usually adds two more: open instrumentation (OpenTelemetry compatibility, noting that the GenAI semantic conventions are still marked as in development, so ask how a vendor handles attribute changes) and predictable data volume cost.&lt;/p&gt; &lt;p&gt;Four screening questions I use for any AI observability platform: does it cover the AI application types you actually run (LLM apps and agents), can it follow a request end to end across model calls and tool calls, does it unify AI applications with the underlying IT, and does it support analysis and response rather than only dashboards?&lt;/p&gt; &lt;p&gt;For testing, I prefer replaying a realistic incident, for example an agent that slows down after a release, with representatives from all three teams. Each should be able to answer their own question from the same trace: the AI team finds the model call or retrieval step, the SRE finds the dependency and its owner, security confirms what data was captured and how it was masked. If one team has to switch tools, the problem has just moved.&lt;/p&gt; &lt;p&gt;On the operations side, we are exploring agentic AI operations with Sage AI, the AI Ops Agent Workbench in Bonree ONE, where an agent assists with diagnosis and root cause analysis on top of the same telemetry. The rule we try to hold to is that a conclusion must point back to the telemetry behind it, and that actions stay bounded and auditable.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Questions for the group:&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;1. Who actually owned this decision where you work, and did that cause problems later?&lt;/p&gt; &lt;p&gt;2. Did you end up with separate tools for AI and for the rest of the stack, and how did that work out for incident response?&lt;/p&gt; &lt;p&gt;3. For those trying AIOps-style agents, how much do you trust diagnostic conclusions without a trace to back them up?&lt;/p&gt; &lt;p&gt;&lt;em&gt;Disclosure: I work at Bonree, an observability vendor, so I have a professional interest in this topic.&lt;/em&gt;&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/Bonree"&gt; /u/Bonree &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/r/sre/comments/1xuwmo4/how_do_you_choose_an_enterprise_ai_observability/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/sre/comments/1xuwmo4/how_do_you_choose_an_enterprise_ai_observability/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</description>
+      <guid isPermaLink="false">https://www.reddit.com/r/sre/t3_1xuwmo4</guid>
+      <pubDate>Fri, 13 Nov 2026 02:57:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>[practices] Contra "Glue work considered harmful"</title>
+      <link>https://sunshowers.io/posts/glue-work/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/f6u0cg/contra_glue_work_considered_harmful"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/f6u0cg</guid>
+      <pubDate>Fri, 13 Nov 2026 02:36:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Widespread Microsoft outage takes down Outlook and other 365 services</title>
+      <link>https://www.msn.com/en-us/money/markets/microsoft-outage-hits-outlook-aws-and-google-users-also-report-issues/ar-AA2hjjWA</link>
+      <description>4 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50476085'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50476085</guid>
+      <pubDate>Thu, 12 Nov 2026 23:46:27 +0000</pubDate>
+    </item>
     <item>
       <title>[security] Secure Exclaves and Ambient Sensing</title>
       <link>https://security.apple.com/blog/secure-exclaves/</link>
@@ -26,35 +47,35 @@
     <item>
       <title>A Microsoft 365 outage is hitting users in regions around the world</title>
       <link>https://globalnews.ca/news/12148204/microsoft-outage-2026/</link>
-      <description>12 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50473558'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>16 points, 2 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50473558'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50473558</guid>
       <pubDate>Thu, 12 Nov 2026 20:17:32 +0000</pubDate>
     </item>
     <item>
       <title>Microsoft Says It's Working to Fix Outlook, Copilot Outage</title>
       <link>https://www.bloomberg.com/news/articles/2026-11-12/microsoft-says-it-s-working-to-fix-outlook-copilot-outage</link>
-      <description>3 points, 2 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50473071'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>3 points, 3 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50473071'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50473071</guid>
       <pubDate>Thu, 12 Nov 2026 19:43:08 +0000</pubDate>
     </item>
     <item>
       <title>Tell HN: Major Microsoft Outlook/Exchange Online/Teams Outage in the Americas</title>
       <link>https://news.ycombinator.com/item?id=50472411</link>
-      <description>9 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50472411'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>11 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50472411'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50472411</guid>
       <pubDate>Thu, 12 Nov 2026 19:00:58 +0000</pubDate>
     </item>
     <item>
       <title>Service degradation on Microsoft 365</title>
       <link>https://status.cloud.microsoft/</link>
-      <description>365 points, 348 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50471731'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>560 points, 523 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50471731'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50471731</guid>
       <pubDate>Thu, 12 Nov 2026 18:20:48 +0000</pubDate>
     </item>
     <item>
       <title>Ask HN: Microsoft/Azure Outage?</title>
       <link>https://news.ycombinator.com/item?id=50471668</link>
-      <description>399 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50471668'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>401 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50471668'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50471668</guid>
       <pubDate>Thu, 12 Nov 2026 18:17:13 +0000</pubDate>
     </item>
@@ -983,14 +1004,6 @@ the 2106 horizon treated as a long-tail consideration (collectively referred to 
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/9wcfld/how_big_is_git_commit"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/9wcfld</guid>
       <pubDate>Sun, 11 Oct 2026 09:25:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>[practices] Artificial Intelligence in the Firm: Bottlenecks in Software Production</title>
-      <link>https://fion.ac/jellyfish.pdf</link>
-      <description>&lt;p&gt;We study the impacts of AI coding assistants and agents on software engineering work, using a novel proprietary dataset from an engineering analytics platform, covering 300 million work events — including GitHub coding activity, Jira issues, and Google Calendar events — across 718 firms. We use a staggered difference-in-differences design, exploiting variation in firm- level adoption timing of AI coding assistants and agents. Both technologies increase coding productivity. However, productivity gains do not fully pass through to changes in software output or employment. For AI agents, this incomplete pass-through reflects a bottleneck from code review: review times increase, a larger share of code updates require revisions, and reviews involve more comments. We develop a model of software production to structure these results, in which AI affects both productivity and quality of intermediate outputs, and in turn can generate a review bottleneck and limit pass-through.&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://lobste.rs/s/aqdswf/artificial_intelligence_firm"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/aqdswf</guid>
-      <pubDate>Fri, 09 Oct 2026 15:03:06 +0000</pubDate>
     </item>
     <item>
       <title>[devops] 64-Day Certificate Lifetimes Coming Feb 2027</title>
