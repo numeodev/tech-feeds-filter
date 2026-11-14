@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 14 Nov 2026 00:04:10 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 07:11:33 +0000</lastBuildDate>
     <item>
       <title>[r/sre] Microsoft says the 365 outage spread because servers kept failing health checks. When do you let health checks fail open?</title>
       <link>https://www.reddit.com/r/sre/comments/1xvemsq/microsoft_says_the_365_outage_spread_because/</link>
