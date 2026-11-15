@@ -8,7 +8,21 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 14 Nov 2026 23:30:41 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 03:50:05 +0000</lastBuildDate>
+    <item>
+      <title>Show HN: WendyOS, Linux for robots with USB-C deployment and rollback updates</title>
+      <link>https://docs.wendy.dev/latest/getting-started/app/</link>
+      <description>1 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50502531'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50502531</guid>
+      <pubDate>Sun, 15 Nov 2026 00:18:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>Phantasialand: Microsoft outage hid pool chlorine fault, 15 guests hurt</title>
+      <link>https://pollar.news/en/event/phantasialand-pool-15-guests-hurt</link>
+      <description>5 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50502263'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50502263</guid>
+      <pubDate>Sat, 14 Nov 2026 23:40:19 +0000</pubDate>
+    </item>
     <item>
       <title>October Outage: Technical Overview</title>
       <link>https://www.revolut.com/blog/post/20octoutagetechnicaloverview/</link>
@@ -110,7 +124,7 @@
     <item>
       <title>Microsoft outage gives customers a crash course in dependence on Redmond</title>
       <link>https://www.theregister.com/saas/2026/11/13/microsoft-outage-gives-customers-a-crash-course-in-dependence-on-redmond/5309805</link>
-      <description>183 points, 61 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50487688'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>184 points, 65 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50487688'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50487688</guid>
       <pubDate>Fri, 13 Nov 2026 18:29:16 +0000</pubDate>
     </item>
@@ -236,7 +250,7 @@
     <item>
       <title>Service degradation on Microsoft 365</title>
       <link>https://status.cloud.microsoft/</link>
-      <description>1170 points, 990 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50471731'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>1171 points, 993 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50471731'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50471731</guid>
       <pubDate>Thu, 12 Nov 2026 18:20:48 +0000</pubDate>
     </item>
@@ -386,13 +400,6 @@
       <description>6 points, 4 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50380277'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50380277</guid>
       <pubDate>Thu, 05 Nov 2026 15:25:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>YipitData ($2.5B financial data start up): Multi-day system-wide outage</title>
-      <link>https://portal.yipitdata.com/</link>
-      <description>1 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50379784'&gt;discussion sur Hacker News&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50379784</guid>
-      <pubDate>Thu, 05 Nov 2026 14:50:05 +0000</pubDate>
     </item>
     <item>
       <title>Show HN: Subvocal – Talk to your computer without making noise</title>
