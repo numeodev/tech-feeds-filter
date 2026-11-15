@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 15 Nov 2026 03:50:06 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 11:39:07 +0000</lastBuildDate>
+    <item>
+      <title>FAA Outage: Why Duffy Is Spelled with Two Ms</title>
+      <link>https://www.flyingpenguin.com/faa-outage-why-duffy-is-spelled-with-two-ms/</link>
+      <description>2 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50503994'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50503994</guid>
+      <pubDate>Sun, 15 Nov 2026 04:21:23 +0000</pubDate>
+    </item>
     <item>
       <title>Show HN: WendyOS, Linux for robots with USB-C deployment and rollback updates</title>
       <link>https://docs.wendy.dev/latest/getting-started/app/</link>
@@ -26,7 +33,7 @@
     <item>
       <title>October Outage: Technical Overview</title>
       <link>https://www.revolut.com/blog/post/20octoutagetechnicaloverview/</link>
-      <description>3 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50499995'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>4 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50499995'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50499995</guid>
       <pubDate>Sat, 14 Nov 2026 19:29:19 +0000</pubDate>
     </item>
@@ -117,7 +124,7 @@
     <item>
       <title>Using LLMs outside of reflection is an anti-pattern</title>
       <link>https://news.ycombinator.com/item?id=50489240</link>
-      <description>1 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50489240'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>2 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50489240'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50489240</guid>
       <pubDate>Fri, 13 Nov 2026 20:32:40 +0000</pubDate>
     </item>
@@ -145,7 +152,7 @@
     <item>
       <title>Microsoft outage gives customers a crash course in dependence on Redmond</title>
       <link>https://www.theregister.com/saas/2026/11/13/microsoft-outage-gives-customers-a-crash-course-in-dependence-on-redmond/5309805</link>
-      <description>184 points, 65 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50487688'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>186 points, 66 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50487688'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50487688</guid>
       <pubDate>Fri, 13 Nov 2026 18:29:16 +0000</pubDate>
     </item>
@@ -243,7 +250,7 @@
     <item>
       <title>Global Microsoft Outage</title>
       <link>https://www.cnn.com/2026/11/12/business/live-news/microsoft-global-outage-intl-hnk</link>
-      <description>292 points, 183 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50479098'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>293 points, 183 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50479098'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50479098</guid>
       <pubDate>Fri, 13 Nov 2026 06:18:23 +0000</pubDate>
     </item>
@@ -729,13 +736,6 @@ the 2106 horizon treated as a long-tail consideration (collectively referred to 
       <description>3 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50401113'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50401113</guid>
       <pubDate>Sat, 07 Nov 2026 02:41:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>We stress-tested AI spend limits under bursts and outages</title>
-      <link>https://stipend-ai.com/blog/ai-spend-limits-tested/</link>
-      <description>3 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50396021'&gt;discussion sur Hacker News&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50396021</guid>
-      <pubDate>Fri, 06 Nov 2026 18:10:14 +0000</pubDate>
     </item>
     <item>
       <title>[distributed, vcs] Inside GitHub's new Git storage architecture</title>
