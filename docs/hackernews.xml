@@ -8,11 +8,32 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 15 Nov 2026 11:39:06 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 18:12:45 +0000</lastBuildDate>
+    <item>
+      <title>Show HN: Floodtide – A Mac app updater with backups and rollback</title>
+      <link>https://bhopstudio.com/floodtide</link>
+      <description>2 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50507881'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50507881</guid>
+      <pubDate>Sun, 15 Nov 2026 15:56:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>Roll back a bad release from chat: rollbacks, restored variables and deploys</title>
+      <link>https://railyard.run/blog/rollback-release-from-chat/</link>
+      <description>3 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50507825'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50507825</guid>
+      <pubDate>Sun, 15 Nov 2026 15:49:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>Angry customers taking step so MS pays some for global outage losses</title>
+      <link>https://www.neowin.net/news/angry-customers-taking-step-so-microsoft-pays-some-for-massive-global-outage-losses/</link>
+      <description>2 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50506737'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50506737</guid>
+      <pubDate>Sun, 15 Nov 2026 13:20:10 +0000</pubDate>
+    </item>
     <item>
       <title>FAA Outage: Why Duffy Is Spelled with Two Ms</title>
       <link>https://www.flyingpenguin.com/faa-outage-why-duffy-is-spelled-with-two-ms/</link>
-      <description>2 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50503994'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>3 points, 2 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50503994'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50503994</guid>
       <pubDate>Sun, 15 Nov 2026 04:21:23 +0000</pubDate>
     </item>
@@ -82,7 +103,7 @@
     <item>
       <title>Microsoft 365 Crawls Back to Life After a 24-Hour Outage</title>
       <link>https://www.wired.com/story/microsoft-365-crawls-back-to-life-after-a-24-hour-outage/</link>
-      <description>22 points, 5 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50493275'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>23 points, 5 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50493275'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50493275</guid>
       <pubDate>Sat, 14 Nov 2026 02:56:22 +0000</pubDate>
     </item>
@@ -110,7 +131,7 @@
     <item>
       <title>Using LLMs outside of reflection is an anti-pattern</title>
       <link>https://news.ycombinator.com/item?id=50489240</link>
-      <description>2 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50489240'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>4 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50489240'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50489240</guid>
       <pubDate>Fri, 13 Nov 2026 20:32:40 +0000</pubDate>
     </item>
@@ -131,7 +152,7 @@
     <item>
       <title>Microsoft outage gives customers a crash course in dependence on Redmond</title>
       <link>https://www.theregister.com/saas/2026/11/13/microsoft-outage-gives-customers-a-crash-course-in-dependence-on-redmond/5309805</link>
-      <description>186 points, 66 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50487688'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>189 points, 66 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50487688'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50487688</guid>
       <pubDate>Fri, 13 Nov 2026 18:29:16 +0000</pubDate>
     </item>
@@ -194,7 +215,7 @@
     <item>
       <title>Global Microsoft Outage</title>
       <link>https://www.cnn.com/2026/11/12/business/live-news/microsoft-global-outage-intl-hnk</link>
-      <description>293 points, 183 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50479098'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>293 points, 184 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50479098'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50479098</guid>
       <pubDate>Fri, 13 Nov 2026 06:18:23 +0000</pubDate>
     </item>
@@ -374,13 +395,6 @@
       <pubDate>Mon, 09 Nov 2026 05:00:04 +0000</pubDate>
     </item>
     <item>
-      <title>Is YouTube starting to protect channel RSS feeds?</title>
-      <link>https://news.ycombinator.com/item?id=50409244</link>
-      <description>6 points, 3 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50409244'&gt;discussion sur Hacker News&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50409244</guid>
-      <pubDate>Sun, 08 Nov 2026 00:04:08 +0000</pubDate>
-    </item>
-    <item>
       <title>Trigger.dev: Security incident report – Sunday November first</title>
       <link>https://trigger.dev/blog/security-incident-report-nov-2026</link>
       <description>3 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50401113'&gt;discussion sur Hacker News&lt;/a&gt;</description>
@@ -428,20 +442,6 @@
       <description>1 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50328314'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50328314</guid>
       <pubDate>Sun, 01 Nov 2026 18:35:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Pesticide lobby touts MAHA report rollback as its biggest win of 2025</title>
-      <link>https://usrtk.org/pesticides/pesticide-lobby-touts-maha-report-rollback-as-its-biggest-win-of-2025/</link>
-      <description>1 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50327797'&gt;discussion sur Hacker News&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50327797</guid>
-      <pubDate>Sun, 01 Nov 2026 17:42:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>Show HN: PewPewPew – Multiplayer Asteroids with deterministic rollback at 60hz</title>
-      <link>https://pewpewpew.io/</link>
-      <description>4 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50326850'&gt;discussion sur Hacker News&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50326850</guid>
-      <pubDate>Sun, 01 Nov 2026 16:02:24 +0000</pubDate>
     </item>
   </channel>
 </rss>
