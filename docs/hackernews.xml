@@ -8,11 +8,25 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 15 Nov 2026 18:12:45 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 23:15:27 +0000</lastBuildDate>
+    <item>
+      <title>No Free Lunch, No Free Rollback: Where Agents Need Engineers</title>
+      <link>https://dorcohen.dev/posts/no-free-lunch-no-free-rollback/</link>
+      <description>1 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50509985'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50509985</guid>
+      <pubDate>Sun, 15 Nov 2026 19:43:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft 365 outage leads to chlorine gas poisoning of 15 hotel guests</title>
+      <link>https://www1.wdr.de/nrw/rheinland/rhein-erft-kreis/technischer-defekt-chlor-phantasialand-100.html</link>
+      <description>295 points, 152 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50509411'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50509411</guid>
+      <pubDate>Sun, 15 Nov 2026 18:36:10 +0000</pubDate>
+    </item>
     <item>
       <title>Show HN: Floodtide – A Mac app updater with backups and rollback</title>
       <link>https://bhopstudio.com/floodtide</link>
-      <description>2 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50507881'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>2 points, 6 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50507881'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50507881</guid>
       <pubDate>Sun, 15 Nov 2026 15:56:25 +0000</pubDate>
     </item>
@@ -33,7 +47,7 @@
     <item>
       <title>FAA Outage: Why Duffy Is Spelled with Two Ms</title>
       <link>https://www.flyingpenguin.com/faa-outage-why-duffy-is-spelled-with-two-ms/</link>
-      <description>3 points, 2 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50503994'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>4 points, 2 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50503994'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50503994</guid>
       <pubDate>Sun, 15 Nov 2026 04:21:23 +0000</pubDate>
     </item>
@@ -278,7 +292,7 @@
     <item>
       <title>Service degradation on Microsoft 365</title>
       <link>https://status.cloud.microsoft/</link>
-      <description>1171 points, 993 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50471731'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>1171 points, 994 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50471731'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50471731</guid>
       <pubDate>Thu, 12 Nov 2026 18:20:48 +0000</pubDate>
     </item>
@@ -369,7 +383,7 @@
     <item>
       <title>Incident Report: October 21st Security Attack</title>
       <link>https://blog.railway.com/p/incident-report-october-security-incident</link>
-      <description>22 points, 2 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50441465'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>23 points, 2 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50441465'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50441465</guid>
       <pubDate>Tue, 10 Nov 2026 15:08:58 +0000</pubDate>
     </item>
@@ -386,13 +400,6 @@
       <description>18 points, 7 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50429551'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50429551</guid>
       <pubDate>Mon, 09 Nov 2026 18:34:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>AO3's outage has been a boon for Tumblr, especially among Gen Z</title>
-      <link>https://mashable.com/life/ao3-down-tumblr-boon-among-gen-z</link>
-      <description>3 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50421248'&gt;discussion sur Hacker News&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50421248</guid>
-      <pubDate>Mon, 09 Nov 2026 05:00:04 +0000</pubDate>
     </item>
     <item>
       <title>Trigger.dev: Security incident report – Sunday November first</title>
@@ -435,13 +442,6 @@
       <description>8 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50332497'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50332497</guid>
       <pubDate>Mon, 02 Nov 2026 02:41:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>Postmortem of Database Outage (2017)</title>
-      <link>https://about.gitlab.com/blog/postmortem-of-database-outage-of-january-31/</link>
-      <description>1 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50328314'&gt;discussion sur Hacker News&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50328314</guid>
-      <pubDate>Sun, 01 Nov 2026 18:35:05 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -8,11 +8,39 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 15 Nov 2026 18:12:46 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 23:15:28 +0000</lastBuildDate>
+    <item>
+      <title>[distributed] Please Implement A Quorum Database</title>
+      <link>https://transactional.blog/talk/please-implement-a-quorum-database</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/hgicaq/please_implement_quorum_database"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/hgicaq</guid>
+      <pubDate>Sun, 15 Nov 2026 22:44:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>[security] Blog: Preventing Cross-Service UDP Loops in QUIC</title>
+      <link>https://bughunters.google.com/blog/preventing-cross-service-udp-loops-in-quic</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/om6v89/blog_preventing_cross_service_udp_loops"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/om6v89</guid>
+      <pubDate>Sun, 15 Nov 2026 20:34:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>No Free Lunch, No Free Rollback: Where Agents Need Engineers</title>
+      <link>https://dorcohen.dev/posts/no-free-lunch-no-free-rollback/</link>
+      <description>1 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50509985'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50509985</guid>
+      <pubDate>Sun, 15 Nov 2026 19:43:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft 365 outage leads to chlorine gas poisoning of 15 hotel guests</title>
+      <link>https://www1.wdr.de/nrw/rheinland/rhein-erft-kreis/technischer-defekt-chlor-phantasialand-100.html</link>
+      <description>295 points, 152 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50509411'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50509411</guid>
+      <pubDate>Sun, 15 Nov 2026 18:36:10 +0000</pubDate>
+    </item>
     <item>
       <title>Show HN: Floodtide – A Mac app updater with backups and rollback</title>
       <link>https://bhopstudio.com/floodtide</link>
-      <description>2 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50507881'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>2 points, 6 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50507881'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50507881</guid>
       <pubDate>Sun, 15 Nov 2026 15:56:25 +0000</pubDate>
     </item>
@@ -33,7 +61,7 @@
     <item>
       <title>FAA Outage: Why Duffy Is Spelled with Two Ms</title>
       <link>https://www.flyingpenguin.com/faa-outage-why-duffy-is-spelled-with-two-ms/</link>
-      <description>3 points, 2 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50503994'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>4 points, 2 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50503994'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50503994</guid>
       <pubDate>Sun, 15 Nov 2026 04:21:23 +0000</pubDate>
     </item>
@@ -362,7 +390,7 @@
     <item>
       <title>Service degradation on Microsoft 365</title>
       <link>https://status.cloud.microsoft/</link>
-      <description>1171 points, 993 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50471731'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>1171 points, 994 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50471731'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50471731</guid>
       <pubDate>Thu, 12 Nov 2026 18:20:48 +0000</pubDate>
     </item>
@@ -551,7 +579,7 @@ the 2106 horizon treated as a long-tail consideration (collectively referred to 
     <item>
       <title>Incident Report: October 21st Security Attack</title>
       <link>https://blog.railway.com/p/incident-report-october-security-incident</link>
-      <description>22 points, 2 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50441465'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>23 points, 2 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50441465'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50441465</guid>
       <pubDate>Tue, 10 Nov 2026 15:08:58 +0000</pubDate>
     </item>
@@ -603,13 +631,6 @@ the 2106 horizon treated as a long-tail consideration (collectively referred to 
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/jdsu1z/microsecond_accurate_ntp_with_raspberry"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/jdsu1z</guid>
       <pubDate>Mon, 09 Nov 2026 06:25:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>AO3's outage has been a boon for Tumblr, especially among Gen Z</title>
-      <link>https://mashable.com/life/ao3-down-tumblr-boon-among-gen-z</link>
-      <description>3 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50421248'&gt;discussion sur Hacker News&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50421248</guid>
-      <pubDate>Mon, 09 Nov 2026 05:00:04 +0000</pubDate>
     </item>
     <item>
       <title>[security] unlocking any car from X brand in most of the world</title>
@@ -731,13 +752,6 @@ the 2106 horizon treated as a long-tail consideration (collectively referred to 
       <pubDate>Sat, 07 Nov 2026 08:21:50 +0000</pubDate>
     </item>
     <item>
-      <title>[security] Forwarded Without Question: How Web Frameworks Overtrust the Forwarded Header</title>
-      <link>https://www.lkoskela.fi/blog/2026-11-05-forwarded-without-question/</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/m5kism/forwarded_without_question_how_web"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/m5kism</guid>
-      <pubDate>Sat, 07 Nov 2026 06:18:48 +0000</pubDate>
-    </item>
-    <item>
       <title>[practices] A Maintainer's Advice on Contributing to Open Source in 2026</title>
       <link>https://wasp.sh/blog/2026/08/13/advice-for-contributing-in-2026</link>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/5mnquy/maintainer_s_advice_on_contributing_open"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
@@ -848,13 +862,6 @@ the 2106 horizon treated as a long-tail consideration (collectively referred to 
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/0yxkvs/postgres_19_is_late_it_s_ai_s_fault"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/0yxkvs</guid>
       <pubDate>Mon, 02 Nov 2026 02:19:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Postmortem of Database Outage (2017)</title>
-      <link>https://about.gitlab.com/blog/postmortem-of-database-outage-of-january-31/</link>
-      <description>1 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50328314'&gt;discussion sur Hacker News&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50328314</guid>
-      <pubDate>Sun, 01 Nov 2026 18:35:05 +0000</pubDate>
     </item>
     <item>
       <title>[vcs] An outsider's perspective on Scion and Mononoke</title>
@@ -1279,20 +1286,6 @@ the 2106 horizon treated as a long-tail consideration (collectively referred to 
 &lt;p&gt;&lt;a href="https://lobste.rs/s/rndct1/introducing_luxir"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/rndct1</guid>
       <pubDate>Tue, 22 Sep 2026 15:15:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>[distributed] Squalk: an old-school forum engine built on Nostr (NIP-29 groups, NIP-7D threads)</title>
-      <link>https://github.com/dtonon/squalk</link>
-      <description>&lt;p&gt;I miss classic forums: slow, asynchronous threads that stay readable and searchable for years, instead of knowledge dissolving into chat scrollback. Squalk is my attempt to rebuild that on top of Nostr, an open protocol where users hold a keypair, posts are signed events, and interchangeable relays store and serve them, instead of a private database.&lt;/p&gt;
-&lt;p&gt;The design in short: a forum is a view over relay-hosted data. Rooms are groups as specified in NIP-29, threads are NIP-7D events, identity is the user's own keypair. The consequence I care about is that the software and the community are decoupled: any other client speaking the same specs (Flotilla, Nostrord) can read and write the same conversations, and if my deployment disappears the history and identities survive on the relay.&lt;/p&gt;
-&lt;p&gt;Technical bits that might interest this crowd: one SvelteKit codebase builds either as a static SPA or as a server-rendered Node app; the SSR mode renders only the anonymous view (no keys server-side) so threads are crawlable, with a stale-while-revalidate snapshot cache in front of the relay queries. Content is rendered as djot rather than markdown. Deployment is a NIP-29 relay (Zooid) plus one systemd unit.&lt;/p&gt;
-&lt;p&gt;Pilot community (real threads, browsable without an account): &lt;a href="https://nostr-proto.org" rel="ugc"&gt;https://nostr-proto.org&lt;/a&gt;&lt;br /&gt;
-Test instance where you are welcome to make a mess: &lt;a href="https://squalk-test.dtonon.com" rel="ugc"&gt;https://squalk-test.dtonon.com&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Caveats: Nostr is niche, key management is still rough for non-enthusiasts, and relay-side moderation tooling is young.&lt;/p&gt;
-&lt;p&gt;Feedback on the architecture is welcome!&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://lobste.rs/s/haq46t/squalk_old_school_forum_engine_built_on"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/haq46t</guid>
-      <pubDate>Mon, 21 Sep 2026 14:44:12 +0000</pubDate>
     </item>
     <item>
       <title>[devops] Secure VMs for Kubernetes: Hardening Kata containers</title>
