@@ -8,11 +8,39 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 16 Nov 2026 03:50:40 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 12:15:43 +0000</lastBuildDate>
+    <item>
+      <title>Revolut - October Outage: Technical Overview</title>
+      <link>https://www.revolut.com/blog/post/20octoutagetechnicaloverview/</link>
+      <description>3 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50515864'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50515864</guid>
+      <pubDate>Mon, 16 Nov 2026 09:58:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft Post-Incident Report Is Up for the Exchange Online Outage</title>
+      <link>https://www.reddit.com/r/sysadmin/comments/1xxiasy/microsoft_postincident_report_is_up_for_the/</link>
+      <description>6 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50515114'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50515114</guid>
+      <pubDate>Mon, 16 Nov 2026 07:49:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>HuggingFace Attack Postmortem: Civilizations, Reactions and Next Actions</title>
+      <link>https://thezvi.wordpress.com/2026/09/01/huggingface-attack-postmortem-civilizations-reactions-and-next-actions/</link>
+      <description>3 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50514500'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50514500</guid>
+      <pubDate>Mon, 16 Nov 2026 05:56:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft outage based phishing live now</title>
+      <link>https://ravenmail.io/blog/microsoft-365-outage-phishing-lure</link>
+      <description>3 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50514067'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50514067</guid>
+      <pubDate>Mon, 16 Nov 2026 04:32:32 +0000</pubDate>
+    </item>
     <item>
       <title>Microsoft 365 outage leads to chlorine gas poisoning of 15 hotel guests</title>
       <link>https://www.tomshardware.com/tech-industry/data-centers/microsoft-365-outage-leads-to-chlorine-gas-poisoning-of-15-hotel-guests-email-warning-system-fails-40-first-responders-deployed-for-triage-four-hospitalized</link>
-      <description>10 points, 3 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50512299'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>11 points, 4 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50512299'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50512299</guid>
       <pubDate>Mon, 16 Nov 2026 00:03:39 +0000</pubDate>
     </item>
@@ -26,7 +54,7 @@
     <item>
       <title>Microsoft 365 outage leads to chlorine gas poisoning of 15 hotel guests</title>
       <link>https://www1.wdr.de/nrw/rheinland/rhein-erft-kreis/technischer-defekt-chlor-phantasialand-100.html</link>
-      <description>433 points, 191 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50509411'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>576 points, 248 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50509411'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50509411</guid>
       <pubDate>Sun, 15 Nov 2026 18:36:10 +0000</pubDate>
     </item>
@@ -54,7 +82,7 @@
     <item>
       <title>FAA Outage: Why Duffy Is Spelled with Two Ms</title>
       <link>https://www.flyingpenguin.com/faa-outage-why-duffy-is-spelled-with-two-ms/</link>
-      <description>4 points, 2 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50503994'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>5 points, 2 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50503994'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50503994</guid>
       <pubDate>Sun, 15 Nov 2026 04:21:23 +0000</pubDate>
     </item>
@@ -173,7 +201,7 @@
     <item>
       <title>Microsoft outage gives customers a crash course in dependence on Redmond</title>
       <link>https://www.theregister.com/saas/2026/11/13/microsoft-outage-gives-customers-a-crash-course-in-dependence-on-redmond/5309805</link>
-      <description>189 points, 66 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50487688'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>190 points, 66 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50487688'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50487688</guid>
       <pubDate>Fri, 13 Nov 2026 18:29:16 +0000</pubDate>
     </item>
@@ -236,7 +264,7 @@
     <item>
       <title>Global Microsoft Outage</title>
       <link>https://www.cnn.com/2026/11/12/business/live-news/microsoft-global-outage-intl-hnk</link>
-      <description>293 points, 184 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50479098'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>294 points, 184 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50479098'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50479098</guid>
       <pubDate>Fri, 13 Nov 2026 06:18:23 +0000</pubDate>
     </item>
@@ -299,7 +327,7 @@
     <item>
       <title>Service degradation on Microsoft 365</title>
       <link>https://status.cloud.microsoft/</link>
-      <description>1172 points, 995 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50471731'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>1173 points, 995 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50471731'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50471731</guid>
       <pubDate>Thu, 12 Nov 2026 18:20:48 +0000</pubDate>
     </item>
@@ -351,27 +379,6 @@
       <description>28 points, 8 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50454145'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50454145</guid>
       <pubDate>Wed, 11 Nov 2026 14:50:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>Major Canonical Outage</title>
-      <link>https://status.web.canonical.com/</link>
-      <description>11 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50452876'&gt;discussion sur Hacker News&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50452876</guid>
-      <pubDate>Wed, 11 Nov 2026 12:59:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>Brazil's Largest Port Hit by Major IT Outage; Suspected Ransomware Cyberattack</title>
-      <link>https://uknip.co.uk/news/uk/uk-news/brazils-largest-port-hit-by-major-it-outage-amid-suspected-ransomware-cyberattack/</link>
-      <description>1 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50449036'&gt;discussion sur Hacker News&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50449036</guid>
-      <pubDate>Wed, 11 Nov 2026 02:14:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>Apple confirms ongoing outage affecting iCloud and more</title>
-      <link>https://9to5mac.com/2026/11/10/apple-confirms-ongoing-outage-affecting-icloud-and-more/</link>
-      <description>2 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50448116'&gt;discussion sur Hacker News&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50448116</guid>
-      <pubDate>Wed, 11 Nov 2026 00:10:32 +0000</pubDate>
     </item>
     <item>
       <title>eMudhra: Full Incident Report</title>

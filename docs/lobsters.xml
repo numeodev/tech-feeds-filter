@@ -8,7 +8,21 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 16 Nov 2026 03:50:41 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 12:15:44 +0000</lastBuildDate>
+    <item>
+      <title>[security] Universal XSS in uBlock Origin from website-driven element picker</title>
+      <link>https://iter.ca/post/ubo-uxss/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/x0ykkw/universal_xss_ublock_origin_from_website"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/x0ykkw</guid>
+      <pubDate>Mon, 16 Nov 2026 05:12:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>[vcs] Migrating from GitHub to Codeberg</title>
+      <link>https://yorickpeterse.com/articles/migrating-from-github-to-codeberg/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/rhoopo/migrating_from_github_codeberg"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/rhoopo</guid>
+      <pubDate>Mon, 16 Nov 2026 05:10:34 +0000</pubDate>
+    </item>
     <item>
       <title>[distributed] Please Implement A Quorum Database</title>
       <link>https://transactional.blog/talk/please-implement-a-quorum-database</link>
@@ -302,13 +316,6 @@ the 2106 horizon treated as a long-tail consideration (collectively referred to 
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/7dbarm/alpine_linux_openssh_server_password"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/7dbarm</guid>
       <pubDate>Sat, 07 Nov 2026 14:51:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>[security] Firecracker VM Escape: PwnEscape Part 2</title>
-      <link>https://pwn.ai/blog/firecracker-escape</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/wzz4u3/firecracker_vm_escape_pwnescape_part_2"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/wzz4u3</guid>
-      <pubDate>Sat, 07 Nov 2026 08:44:02 +0000</pubDate>
     </item>
     <item>
       <title>[vcs] Two Dimensional Version Control</title>
@@ -724,13 +731,6 @@ the 2106 horizon treated as a long-tail consideration (collectively referred to 
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/nz3b1h/jujutsu_jj_0_46_0"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/nz3b1h</guid>
       <pubDate>Thu, 08 Oct 2026 09:02:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>[vcs] On Git Refs</title>
-      <link>https://matklad.github.io/2026/10/07/git-ref.html</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/u88nlh/on_git_refs"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/u88nlh</guid>
-      <pubDate>Wed, 07 Oct 2026 18:14:26 +0000</pubDate>
     </item>
     <item>
       <title>[distributed] Perseus: A Fail-Slow Detection Framework for Cloud Storage Systems (2023)</title>
