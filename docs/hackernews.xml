@@ -8,7 +8,70 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 16 Nov 2026 12:15:43 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 22:38:51 +0000</lastBuildDate>
+    <item>
+      <title>United Halts Flights as It Addresses 'Widespread System Outage'</title>
+      <link>https://www.nytimes.com/2026/11/16/business/united-airlines-outage-flights.html</link>
+      <description>3 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50524437'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50524437</guid>
+      <pubDate>Mon, 16 Nov 2026 22:34:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>United Airlines has a widespread system outage</title>
+      <link>https://apnews.com/article/united-airlines-outage-5a5e5f75bb07f11ffb8750901f0076ff</link>
+      <description>12 points, 2 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50524260'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50524260</guid>
+      <pubDate>Mon, 16 Nov 2026 22:22:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>United Airlines experiencing 'widespread system outage'</title>
+      <link>https://www.nbcchicago.com/news/local/united-airlines-experiencing-widespread-system-outage/4017556/</link>
+      <description>4 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50524254'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50524254</guid>
+      <pubDate>Mon, 16 Nov 2026 22:21:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>United Airlines Widespread System Outage</title>
+      <link>https://www.cnn.com/2026/11/16/us/united-airlines-outage</link>
+      <description>27 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50524165'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50524165</guid>
+      <pubDate>Mon, 16 Nov 2026 22:14:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft EVP on the root cause of the recent outage</title>
+      <link>https://twitter.com/clamanna/status/2122209697226948729</link>
+      <description>2 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50521880'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50521880</guid>
+      <pubDate>Mon, 16 Nov 2026 19:29:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>Widespread outages reported at Chase Bank</title>
+      <link>https://www.dispatch.com/story/business/economy/2026/11/16/is-chase-bank-down-widespread-outages-reported/92812653007/</link>
+      <description>3 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50521386'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50521386</guid>
+      <pubDate>Mon, 16 Nov 2026 18:55:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>US Banks report outages in latest tech hiccup</title>
+      <link>https://nypost.com/2026/11/16/business/outages-hit-chase-bank-of-america-and-wells-fargo-customers/</link>
+      <description>20 points, 3 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50521357'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50521357</guid>
+      <pubDate>Mon, 16 Nov 2026 18:53:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft blames monster email outage on software defect introduced in July fix</title>
+      <link>https://www.theregister.com/saas/2026/11/16/microsoft-blames-monster-email-outage-on-software-defect-introduced-in-july-fix/5310026</link>
+      <description>155 points, 108 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50517321'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50517321</guid>
+      <pubDate>Mon, 16 Nov 2026 13:18:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft Outage Explained: The 3 Issues Behind Last Week's Crash</title>
+      <link>https://www.pcmag.com/news/microsoft-outage-explained-the-3-issues-behind-last-weeks-crash</link>
+      <description>1 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50516861'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50516861</guid>
+      <pubDate>Mon, 16 Nov 2026 12:24:56 +0000</pubDate>
+    </item>
     <item>
       <title>Revolut - October Outage: Technical Overview</title>
       <link>https://www.revolut.com/blog/post/20octoutagetechnicaloverview/</link>
@@ -19,14 +82,14 @@
     <item>
       <title>Microsoft Post-Incident Report Is Up for the Exchange Online Outage</title>
       <link>https://www.reddit.com/r/sysadmin/comments/1xxiasy/microsoft_postincident_report_is_up_for_the/</link>
-      <description>6 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50515114'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>9 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50515114'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50515114</guid>
       <pubDate>Mon, 16 Nov 2026 07:49:07 +0000</pubDate>
     </item>
     <item>
       <title>HuggingFace Attack Postmortem: Civilizations, Reactions and Next Actions</title>
       <link>https://thezvi.wordpress.com/2026/09/01/huggingface-attack-postmortem-civilizations-reactions-and-next-actions/</link>
-      <description>3 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50514500'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>4 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50514500'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50514500</guid>
       <pubDate>Mon, 16 Nov 2026 05:56:33 +0000</pubDate>
     </item>
@@ -54,7 +117,7 @@
     <item>
       <title>Microsoft 365 outage leads to chlorine gas poisoning of 15 hotel guests</title>
       <link>https://www1.wdr.de/nrw/rheinland/rhein-erft-kreis/technischer-defekt-chlor-phantasialand-100.html</link>
-      <description>576 points, 248 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50509411'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>620 points, 270 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50509411'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50509411</guid>
       <pubDate>Sun, 15 Nov 2026 18:36:10 +0000</pubDate>
     </item>
@@ -152,7 +215,7 @@
     <item>
       <title>Microsoft 365 Crawls Back to Life After a 24-Hour Outage</title>
       <link>https://www.wired.com/story/microsoft-365-crawls-back-to-life-after-a-24-hour-outage/</link>
-      <description>23 points, 5 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50493275'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>24 points, 5 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50493275'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50493275</guid>
       <pubDate>Sat, 14 Nov 2026 02:56:22 +0000</pubDate>
     </item>
@@ -290,55 +353,6 @@
       <pubDate>Fri, 13 Nov 2026 03:19:56 +0000</pubDate>
     </item>
     <item>
-      <title>Widespread Microsoft outage takes down Outlook and other 365 services</title>
-      <link>https://www.msn.com/en-us/money/markets/microsoft-outage-hits-outlook-aws-and-google-users-also-report-issues/ar-AA2hjjWA</link>
-      <description>4 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50476085'&gt;discussion sur Hacker News&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50476085</guid>
-      <pubDate>Thu, 12 Nov 2026 23:46:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>MS Defender, Intune and Purview possibly affected in outage. Any confirmation?</title>
-      <link>https://news.ycombinator.com/item?id=50475056</link>
-      <description>3 points, 3 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50475056'&gt;discussion sur Hacker News&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50475056</guid>
-      <pubDate>Thu, 12 Nov 2026 22:10:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>A Microsoft 365 outage is hitting users in regions around the world</title>
-      <link>https://globalnews.ca/news/12148204/microsoft-outage-2026/</link>
-      <description>17 points, 2 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50473558'&gt;discussion sur Hacker News&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50473558</guid>
-      <pubDate>Thu, 12 Nov 2026 20:17:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft Says It's Working to Fix Outlook, Copilot Outage</title>
-      <link>https://www.bloomberg.com/news/articles/2026-11-12/microsoft-says-it-s-working-to-fix-outlook-copilot-outage</link>
-      <description>3 points, 4 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50473071'&gt;discussion sur Hacker News&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50473071</guid>
-      <pubDate>Thu, 12 Nov 2026 19:43:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Tell HN: Major Microsoft Outlook/Exchange Online/Teams Outage in the Americas</title>
-      <link>https://news.ycombinator.com/item?id=50472411</link>
-      <description>14 points, 2 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50472411'&gt;discussion sur Hacker News&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50472411</guid>
-      <pubDate>Thu, 12 Nov 2026 19:00:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>Service degradation on Microsoft 365</title>
-      <link>https://status.cloud.microsoft/</link>
-      <description>1173 points, 995 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50471731'&gt;discussion sur Hacker News&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50471731</guid>
-      <pubDate>Thu, 12 Nov 2026 18:20:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ask HN: Microsoft/Azure Outage?</title>
-      <link>https://news.ycombinator.com/item?id=50471668</link>
-      <description>402 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50471668'&gt;discussion sur Hacker News&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50471668</guid>
-      <pubDate>Thu, 12 Nov 2026 18:17:13 +0000</pubDate>
-    </item>
-    <item>
       <title>Show HN: DeployAngel – A verdict in ~20 minutes if a deploy broke production</title>
       <link>https://news.ycombinator.com/item?id=50469011</link>
       <description>2 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50469011'&gt;discussion sur Hacker News&lt;/a&gt;</description>
@@ -353,32 +367,11 @@
       <pubDate>Wed, 11 Nov 2026 21:23:33 +0000</pubDate>
     </item>
     <item>
-      <title>Ubuntu Outage 2026-11-11</title>
-      <link>https://ifin.network/t/ubuntu-outage-2026-11-11/979</link>
-      <description>1 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50456576'&gt;discussion sur Hacker News&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50456576</guid>
-      <pubDate>Wed, 11 Nov 2026 18:17:38 +0000</pubDate>
-    </item>
-    <item>
       <title>Vagrant's Licence Reverted to MIT</title>
       <link>https://github.com/hashicorp/vagrant/commit/ab4fc5e3db1bd215ded614add4a26a81c7b5cbeb</link>
       <description>4 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50455461'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50455461</guid>
       <pubDate>Wed, 11 Nov 2026 16:44:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>Apt-cacher-ultra – Protecting you from the next Ubuntu.com outage</title>
-      <link>https://github.com/linsomniac/apt-cacher-ultra</link>
-      <description>2 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50454921'&gt;discussion sur Hacker News&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50454921</guid>
-      <pubDate>Wed, 11 Nov 2026 15:58:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ubuntu Major Outage</title>
-      <link>https://status.canonical.com/#/</link>
-      <description>28 points, 8 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50454145'&gt;discussion sur Hacker News&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50454145</guid>
-      <pubDate>Wed, 11 Nov 2026 14:50:33 +0000</pubDate>
     </item>
     <item>
       <title>eMudhra: Full Incident Report</title>
@@ -397,7 +390,7 @@
     <item>
       <title>Incident Report: October 21st Security Attack</title>
       <link>https://blog.railway.com/p/incident-report-october-security-incident</link>
-      <description>23 points, 2 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50441465'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>24 points, 2 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50441465'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50441465</guid>
       <pubDate>Tue, 10 Nov 2026 15:08:58 +0000</pubDate>
     </item>
@@ -428,20 +421,6 @@
       <description>6 points, 4 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50380277'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50380277</guid>
       <pubDate>Thu, 05 Nov 2026 15:25:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>Show HN: Subvocal – Talk to your computer without making noise</title>
-      <link>https://news.ycombinator.com/item?id=50340088</link>
-      <description>849 points, 395 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50340088'&gt;discussion sur Hacker News&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50340088</guid>
-      <pubDate>Mon, 02 Nov 2026 17:16:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>Show HN: Devpush – Self-Hosted PaaS for Docker Compose</title>
-      <link>https://devpu.sh/</link>
-      <description>1 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50338205'&gt;discussion sur Hacker News&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50338205</guid>
-      <pubDate>Mon, 02 Nov 2026 15:31:23 +0000</pubDate>
     </item>
   </channel>
 </rss>
