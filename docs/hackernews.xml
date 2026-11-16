@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 15 Nov 2026 23:15:27 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 03:50:40 +0000</lastBuildDate>
+    <item>
+      <title>Microsoft 365 outage leads to chlorine gas poisoning of 15 hotel guests</title>
+      <link>https://www.tomshardware.com/tech-industry/data-centers/microsoft-365-outage-leads-to-chlorine-gas-poisoning-of-15-hotel-guests-email-warning-system-fails-40-first-responders-deployed-for-triage-four-hospitalized</link>
+      <description>10 points, 3 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50512299'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50512299</guid>
+      <pubDate>Mon, 16 Nov 2026 00:03:39 +0000</pubDate>
+    </item>
     <item>
       <title>No Free Lunch, No Free Rollback: Where Agents Need Engineers</title>
       <link>https://dorcohen.dev/posts/no-free-lunch-no-free-rollback/</link>
@@ -19,7 +26,7 @@
     <item>
       <title>Microsoft 365 outage leads to chlorine gas poisoning of 15 hotel guests</title>
       <link>https://www1.wdr.de/nrw/rheinland/rhein-erft-kreis/technischer-defekt-chlor-phantasialand-100.html</link>
-      <description>295 points, 152 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50509411'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>433 points, 191 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50509411'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50509411</guid>
       <pubDate>Sun, 15 Nov 2026 18:36:10 +0000</pubDate>
     </item>
@@ -40,7 +47,7 @@
     <item>
       <title>Angry customers taking step so MS pays some for global outage losses</title>
       <link>https://www.neowin.net/news/angry-customers-taking-step-so-microsoft-pays-some-for-massive-global-outage-losses/</link>
-      <description>2 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50506737'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>3 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50506737'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50506737</guid>
       <pubDate>Sun, 15 Nov 2026 13:20:10 +0000</pubDate>
     </item>
@@ -292,7 +299,7 @@
     <item>
       <title>Service degradation on Microsoft 365</title>
       <link>https://status.cloud.microsoft/</link>
-      <description>1171 points, 994 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50471731'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>1172 points, 995 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50471731'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50471731</guid>
       <pubDate>Thu, 12 Nov 2026 18:20:48 +0000</pubDate>
     </item>
@@ -395,13 +402,6 @@
       <pubDate>Tue, 10 Nov 2026 03:31:12 +0000</pubDate>
     </item>
     <item>
-      <title>Tell HN: Another GitHub Major Outage</title>
-      <link>https://news.ycombinator.com/item?id=50429551</link>
-      <description>18 points, 7 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50429551'&gt;discussion sur Hacker News&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50429551</guid>
-      <pubDate>Mon, 09 Nov 2026 18:34:16 +0000</pubDate>
-    </item>
-    <item>
       <title>Trigger.dev: Security incident report – Sunday November first</title>
       <link>https://trigger.dev/blog/security-incident-report-nov-2026</link>
       <description>3 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50401113'&gt;discussion sur Hacker News&lt;/a&gt;</description>
@@ -435,13 +435,6 @@
       <description>1 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50338205'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50338205</guid>
       <pubDate>Mon, 02 Nov 2026 15:31:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>Postmortem on Claude Code Cursor extension hack</title>
-      <link>https://www.microsoft.com/en-us/security/blog/2026/10/30/inside-malicious-claude-code-branded-cursor-extension-persistent-ssh-backdoor/</link>
-      <description>8 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50332497'&gt;discussion sur Hacker News&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50332497</guid>
-      <pubDate>Mon, 02 Nov 2026 02:41:26 +0000</pubDate>
     </item>
   </channel>
 </rss>

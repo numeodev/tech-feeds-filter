@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 15 Nov 2026 23:15:28 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 03:50:41 +0000</lastBuildDate>
     <item>
       <title>[distributed] Please Implement A Quorum Database</title>
       <link>https://transactional.blog/talk/please-implement-a-quorum-database</link>
