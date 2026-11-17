@@ -8,41 +8,62 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 16 Nov 2026 22:38:52 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 04:52:47 +0000</lastBuildDate>
+    <item>
+      <title>Ask HN: Are the more software malfunctions now than before?</title>
+      <link>https://news.ycombinator.com/item?id=50526822</link>
+      <description>4 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50526822'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50526822</guid>
+      <pubDate>Tue, 17 Nov 2026 02:57:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Show HN: Play last week's Outlook outage as the on-call responder</title>
+      <link>https://app.midflight.dev/drills/microsoft-365-outlook-outage</link>
+      <description>2 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50525717'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50525717</guid>
+      <pubDate>Tue, 17 Nov 2026 00:28:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ask HN: What do you think is going on with that many outages coming in a row?</title>
+      <link>https://news.ycombinator.com/item?id=50525469</link>
+      <description>6 points, 8 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50525469'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50525469</guid>
+      <pubDate>Tue, 17 Nov 2026 00:07:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft Bug Undetected Since July Triggered Worldwide Outage</title>
+      <link>https://www.bloomberg.com/news/articles/2026-11-16/microsoft-bug-undetected-since-july-triggered-worldwide-outage</link>
+      <description>5 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50524882'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50524882</guid>
+      <pubDate>Mon, 16 Nov 2026 23:08:57 +0000</pubDate>
+    </item>
     <item>
       <title>United Halts Flights as It Addresses 'Widespread System Outage'</title>
       <link>https://www.nytimes.com/2026/11/16/business/united-airlines-outage-flights.html</link>
-      <description>3 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50524437'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>15 points, 2 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50524437'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50524437</guid>
       <pubDate>Mon, 16 Nov 2026 22:34:52 +0000</pubDate>
     </item>
     <item>
       <title>United Airlines has a widespread system outage</title>
       <link>https://apnews.com/article/united-airlines-outage-5a5e5f75bb07f11ffb8750901f0076ff</link>
-      <description>12 points, 2 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50524260'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>48 points, 12 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50524260'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50524260</guid>
       <pubDate>Mon, 16 Nov 2026 22:22:18 +0000</pubDate>
     </item>
     <item>
       <title>United Airlines experiencing 'widespread system outage'</title>
       <link>https://www.nbcchicago.com/news/local/united-airlines-experiencing-widespread-system-outage/4017556/</link>
-      <description>4 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50524254'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>11 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50524254'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50524254</guid>
       <pubDate>Mon, 16 Nov 2026 22:21:50 +0000</pubDate>
     </item>
     <item>
-      <title>United Airlines Widespread System Outage</title>
+      <title>United Airlines experiencing a widespread system outage, airline says</title>
       <link>https://www.cnn.com/2026/11/16/us/united-airlines-outage</link>
-      <description>27 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50524165'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>213 points, 109 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50524165'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50524165</guid>
       <pubDate>Mon, 16 Nov 2026 22:14:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>[r/sre] browser based tool for incident post morterm</title>
-      <link>https://www.reddit.com/r/sre/comments/1xy2gql/browser_based_tool_for_incident_post_morterm/</link>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;I want like to share a simple, browser based tool for incident postmortems: &lt;/p&gt; &lt;p&gt;&lt;a href="https://probablybrokeit.com/"&gt;https://probablybrokeit.com/&lt;/a&gt; &lt;/p&gt; &lt;p&gt;I am really inspired by browser-based tools like &lt;a href="https://www.linkedin.com/safety/go/?url=https%3A%2F%2Fexcalidraw%2Ecom&amp;amp;urlhash=DY7F&amp;amp;mt=NaCCUQ52C3B2xews8aQhKFTgivb2xDtSfVVYBgJEim7596BkFzkxPsltJ6IH36qXkILOFsVAVzkGVy9XqyKbrHE-8Fng8mpxPT4PM2Hn17sRMSqj63Eg1HqGMipp5n2OcwfouZuodTm-nnwFoKoR14Vy_Ea-rtXsaqkY61TF9Kx2TZS8kAv7oGBAEAhmeRMXlg&amp;amp;isSdui=true"&gt;&lt;strong&gt;https://excalidraw.com&lt;/strong&gt;&lt;/a&gt;, &lt;a href="https://www.linkedin.com/safety/go/?url=https%3A%2F%2Feasyretro%2Eio%2F&amp;amp;urlhash=StpB&amp;amp;mt=oGirj-egk6f-wHxofNHRMjGcJFPBOgpNYDu6LExYO0AeHqFNCggLGbyoEdd_GyBpnDkQmqYJ4DwMYUFKp24N00Bbkk_Nhqzt2vlYhA9OEv8KwrirMA2FDvyQFEjJcHKjoN1s0Q-lwAlMUfxounIiDKBUFXWiEt00hZ5CQJsCV5IZS0PNkaWo9gwf6RaFwSoGSQ&amp;amp;isSdui=true"&gt;&lt;strong&gt;https://easyretro.io/&lt;/strong&gt;&lt;/a&gt; etc., but I couldn't find something very simple to do incident postmortems, so I decided to build one (Nowadays, things are easy to build with AI , but i pushed myself so write most of the parts and &lt;/p&gt; &lt;p&gt;A simple browser-based app with no server-side code or database (for now), basically storing everything in the browser's localStorage. &lt;/p&gt; &lt;p&gt;The layout is inspired by the Google SRE Workbook, Chapter 10, which I really like because it talks about blameless postmortems, which are part of a good culture. &lt;/p&gt; &lt;p&gt;I have deployed it on Vercel under the Hobby plan and copied a lot of stuff from EasyRetro's way of doing things. I tried to write the app router part, which is Next.js, and the interface part, which is in React 19, but I generated the Tailwind CSS styling and a lot of TypeScript code using agents. &lt;/p&gt; &lt;p&gt;The only thing I am paying for right now is the domain cost. Try it out and let me know if it is of any worth. Otherwise, I will use it anyway to do postmortems when I think I probably broke it :D&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/Negative_Stomach_794"&gt; /u/Negative_Stomach_794 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/r/sre/comments/1xy2gql/browser_based_tool_for_incident_post_morterm/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/sre/comments/1xy2gql/browser_based_tool_for_incident_post_morterm/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</description>
-      <guid isPermaLink="false">https://www.reddit.com/r/sre/t3_1xy2gql</guid>
-      <pubDate>Mon, 16 Nov 2026 21:53:03 +0000</pubDate>
     </item>
     <item>
       <title>[distributed] Veil</title>
@@ -54,7 +75,7 @@
     <item>
       <title>Microsoft EVP on the root cause of the recent outage</title>
       <link>https://twitter.com/clamanna/status/2122209697226948729</link>
-      <description>2 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50521880'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>5 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50521880'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50521880</guid>
       <pubDate>Mon, 16 Nov 2026 19:29:55 +0000</pubDate>
     </item>
@@ -82,7 +103,7 @@
     <item>
       <title>Microsoft blames monster email outage on software defect introduced in July fix</title>
       <link>https://www.theregister.com/saas/2026/11/16/microsoft-blames-monster-email-outage-on-software-defect-introduced-in-july-fix/5310026</link>
-      <description>155 points, 108 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50517321'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>256 points, 185 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50517321'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50517321</guid>
       <pubDate>Mon, 16 Nov 2026 13:18:22 +0000</pubDate>
     </item>
@@ -180,7 +201,7 @@
     <item>
       <title>Microsoft 365 outage leads to chlorine gas poisoning of 15 hotel guests</title>
       <link>https://www1.wdr.de/nrw/rheinland/rhein-erft-kreis/technischer-defekt-chlor-phantasialand-100.html</link>
-      <description>620 points, 270 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50509411'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>625 points, 273 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50509411'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50509411</guid>
       <pubDate>Sun, 15 Nov 2026 18:36:10 +0000</pubDate>
     </item>
@@ -437,46 +458,11 @@
       <pubDate>Fri, 13 Nov 2026 07:50:10 +0000</pubDate>
     </item>
     <item>
-      <title>How to claim an SLA credit for today's Microsoft outage</title>
-      <link>https://www.reddit.com/r/sysadmin/comments/1xuqu5y/microsoft_owes_you_money_for_todays_outage_they/</link>
-      <description>6 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50479634'&gt;discussion sur Hacker News&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50479634</guid>
-      <pubDate>Fri, 13 Nov 2026 07:29:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>Global Microsoft Outage</title>
-      <link>https://www.cnn.com/2026/11/12/business/live-news/microsoft-global-outage-intl-hnk</link>
-      <description>294 points, 184 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50479098'&gt;discussion sur Hacker News&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50479098</guid>
-      <pubDate>Fri, 13 Nov 2026 06:18:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft says attempts to fix global outage not going 'as expected'</title>
-      <link>https://www.bbc.com/news/live/cq5y10ge3dp3t</link>
-      <description>91 points, 70 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50479045'&gt;discussion sur Hacker News&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50479045</guid>
-      <pubDate>Fri, 13 Nov 2026 06:12:02 +0000</pubDate>
-    </item>
-    <item>
       <title>[distributed] Choosing QuePaxa, an unusual consensus algorithm</title>
       <link>https://blog.cloudflare.com/choosing-quepaxa/</link>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/sbsu9w/choosing_quepaxa_unusual_consensus"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/sbsu9w</guid>
       <pubDate>Fri, 13 Nov 2026 04:37:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft struggling to restore service as global outage affects services</title>
-      <link>https://www.bbc.com/news/articles/c5gm3g9ldz8xo</link>
-      <description>29 points, 17 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50478372'&gt;discussion sur Hacker News&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50478372</guid>
-      <pubDate>Fri, 13 Nov 2026 04:33:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft outage drags on for hours, disrupting Outlook, Teams for thousands</title>
-      <link>https://www.reuters.com/technology/microsoft-365-outlook-down-thousands-us-users-downdetector-shows-2026-11-12/</link>
-      <description>7 points, 2 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50477752'&gt;discussion sur Hacker News&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50477752</guid>
-      <pubDate>Fri, 13 Nov 2026 03:19:56 +0000</pubDate>
     </item>
     <item>
       <title>[r/sre] How do you choose an enterprise AI observability platform? What AI, SRE and security teams each need</title>
