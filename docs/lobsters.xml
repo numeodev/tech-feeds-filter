@@ -8,7 +8,28 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 18 Nov 2026 12:34:47 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 20:59:35 +0000</lastBuildDate>
+    <item>
+      <title>[security] Upcoming Critical PHP Security Release (18 Nov 2026)</title>
+      <link>https://www.php.net/index.php#2026-11-18-1</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/zr0hkw/upcoming_critical_php_security_release"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/zr0hkw</guid>
+      <pubDate>Wed, 18 Nov 2026 19:44:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>[security] nginx2root</title>
+      <link>https://xint.io/blog/nginx2root-remote-code-execution</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/wj2svg/nginx2root"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/wj2svg</guid>
+      <pubDate>Wed, 18 Nov 2026 15:28:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>[security] Java4Shell is a reason to use Java</title>
+      <link>https://mccue.dev/pages/11-18-26-java4shell</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/a1uff5/java4shell_is_reason_use_java"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/a1uff5</guid>
+      <pubDate>Wed, 18 Nov 2026 14:21:42 +0000</pubDate>
+    </item>
     <item>
       <title>[practices, security] Windows 11 collects data on which coding agents and dev tools you use</title>
       <link>https://xusheng.dev/posts/windows-coding-agent-telemetry/</link>
@@ -273,25 +294,11 @@ the 2106 horizon treated as a long-tail consideration (collectively referred to 
       <pubDate>Mon, 09 Nov 2026 15:41:50 +0000</pubDate>
     </item>
     <item>
-      <title>[security] Let’s Talk About Why all This OT Stuff is Connected</title>
-      <link>https://tisiphone.net/2026/11/08/lets-talk-about-why-all-this-ot-stuff-is-connected/</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/jxigk6/let_s_talk_about_why_all_this_ot_stuff_is"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/jxigk6</guid>
-      <pubDate>Mon, 09 Nov 2026 12:22:39 +0000</pubDate>
-    </item>
-    <item>
       <title>[devops] Microsecond accurate NTP with a Raspberry Pi and PPS GPS(2021)</title>
       <link>https://austinsnerdythings.com/2021/04/19/microsecond-accurate-ntp-with-a-raspberry-pi-and-pps-gps/</link>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/jdsu1z/microsecond_accurate_ntp_with_raspberry"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/jdsu1z</guid>
       <pubDate>Mon, 09 Nov 2026 06:25:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>[security] unlocking any car from X brand in most of the world</title>
-      <link>https://shubs.io/unlocking-any-car-from-x-brand-in-most-of-the-world/</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/kbrpx3/unlocking_any_car_from_x_brand_most_world"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/kbrpx3</guid>
-      <pubDate>Mon, 09 Nov 2026 04:43:15 +0000</pubDate>
     </item>
     <item>
       <title>[practices] I Dislike Pull Requests (2020)</title>
@@ -313,13 +320,6 @@ the 2106 horizon treated as a long-tail consideration (collectively referred to 
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ic1ora/optimizing_reference_deletions_git"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/ic1ora</guid>
       <pubDate>Sun, 08 Nov 2026 21:37:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>[security] Unattended reboots with encrypted disks</title>
-      <link>https://jmmv.dev/2026/11/zkeys-intro.html</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/urg4yu/unattended_reboots_with_encrypted_disks"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/urg4yu</guid>
-      <pubDate>Sun, 08 Nov 2026 16:58:03 +0000</pubDate>
     </item>
     <item>
       <title>[practices] Following breadcrumbs in code - What accidentally committed Ad-Hoc logs reveal about developer comprehension</title>
