@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 17 Nov 2026 22:02:26 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 03:57:03 +0000</lastBuildDate>
+    <item>
+      <title>[security] Vx32: Lightweight User-level Sandboxing on the x86 (2008)</title>
+      <link>https://pdos.csail.mit.edu/papers/vx32:usenix08.pdf</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ov04jq/vx32_lightweight_user_level_sandboxing"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/ov04jq</guid>
+      <pubDate>Tue, 17 Nov 2026 22:49:01 +0000</pubDate>
+    </item>
     <item>
       <title>[security] Java4Shell: Write once, RCE everywhere</title>
       <link>https://calif.io/java4shell/</link>
@@ -302,13 +309,6 @@ the 2106 horizon treated as a long-tail consideration (collectively referred to 
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/d8dgav/php2shell_deep_dive"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/d8dgav</guid>
       <pubDate>Sun, 08 Nov 2026 05:51:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>[security] Dear Open Source Developers: It's OK not to embargo</title>
-      <link>https://opensourcesecurity.io/2026/10-embargo/</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/lhovnm/dear_open_source_developers_it_s_ok_not"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/lhovnm</guid>
-      <pubDate>Sat, 07 Nov 2026 23:31:05 +0000</pubDate>
     </item>
     <item>
       <title>[vcs] Workflow dependency lockfiles</title>
