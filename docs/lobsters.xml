@@ -8,7 +8,32 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 18 Nov 2026 03:57:03 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 12:34:47 +0000</lastBuildDate>
+    <item>
+      <title>[practices, security] Windows 11 collects data on which coding agents and dev tools you use</title>
+      <link>https://xusheng.dev/posts/windows-coding-agent-telemetry/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/cwxmdw/windows_11_collects_data_on_which_coding"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/cwxmdw</guid>
+      <pubDate>Wed, 18 Nov 2026 11:57:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>[vcs] Codeberg's domain suddenly disappeared from their account, site is unreachable</title>
+      <link>https://social.anoxinon.de/@Codeberg/117636454915265360</link>
+      <description>&lt;p&gt;&lt;del&gt;Note: codeberg's servers are up, it's just the domain that's gone. It works perfectly after adding the following line to &lt;code&gt;/etc/hosts&lt;/code&gt;:&lt;/del&gt;&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;217.197.84.140 codeberg.org
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Update: it's now up again, and the above workaround is not necessary.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://lobste.rs/s/spmgsd/codeberg_s_domain_suddenly_disappeared"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/spmgsd</guid>
+      <pubDate>Wed, 18 Nov 2026 08:51:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>[vcs] Stacked diffs with Maiao</title>
+      <link>https://entropicthoughts.com/stacked-diffs-with-maiao</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/bjmwt6/stacked_diffs_with_maiao"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/bjmwt6</guid>
+      <pubDate>Wed, 18 Nov 2026 06:43:30 +0000</pubDate>
+    </item>
     <item>
       <title>[security] Vx32: Lightweight User-level Sandboxing on the x86 (2008)</title>
       <link>https://pdos.csail.mit.edu/papers/vx32:usenix08.pdf</link>
@@ -302,13 +327,6 @@ the 2106 horizon treated as a long-tail consideration (collectively referred to 
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/b6ebju/following_breadcrumbs_code_what"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/b6ebju</guid>
       <pubDate>Sun, 08 Nov 2026 13:21:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>[security] PHP2Shell — Deep Dive</title>
-      <link>https://djad04.github.io/php2shell-deep-dive/</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/d8dgav/php2shell_deep_dive"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/d8dgav</guid>
-      <pubDate>Sun, 08 Nov 2026 05:51:54 +0000</pubDate>
     </item>
     <item>
       <title>[vcs] Workflow dependency lockfiles</title>
@@ -684,13 +702,6 @@ the 2106 horizon treated as a long-tail consideration (collectively referred to 
       <pubDate>Tue, 13 Oct 2026 09:14:09 +0000</pubDate>
     </item>
     <item>
-      <title>[practices] How to effectively debug when you no longer understand the code</title>
-      <link>https://copyconstruct.medium.com/how-to-effectively-debug-when-you-no-longer-understand-the-code-bd3dcb2c5f7b</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/pirgtp/how_effectively_debug_when_you_no_longer"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/pirgtp</guid>
-      <pubDate>Mon, 12 Oct 2026 12:01:18 +0000</pubDate>
-    </item>
-    <item>
       <title>[devops] 3-2-1 Backup Strategy with restic and Backblaze B2</title>
       <link>https://chuck.is/paranoid/</link>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/9zcxev/3_2_1_backup_strategy_with_restic"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
@@ -724,20 +735,6 @@ the 2106 horizon treated as a long-tail consideration (collectively referred to 
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/gliabr/scaling_benchmarking_critical_message"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/gliabr</guid>
       <pubDate>Thu, 08 Oct 2026 17:39:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>[vcs] Migrating Git repos to SHA-256</title>
-      <link>https://exa.y2k.diy/garden/git-sha256/</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ug8erg/migrating_git_repos_sha_256"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/ug8erg</guid>
-      <pubDate>Thu, 08 Oct 2026 10:00:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>[vcs] jujutsu (jj) 0.46.0</title>
-      <link>https://github.com/jj-vcs/jj/releases/tag/v0.46.0</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/nz3b1h/jujutsu_jj_0_46_0"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/nz3b1h</guid>
-      <pubDate>Thu, 08 Oct 2026 09:02:42 +0000</pubDate>
     </item>
     <item>
       <title>[distributed] Perseus: A Fail-Slow Detection Framework for Cloud Storage Systems (2023)</title>

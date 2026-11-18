@@ -8,32 +8,78 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 18 Nov 2026 03:57:03 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 12:34:47 +0000</lastBuildDate>
+    <item>
+      <title>[practices, security] Windows 11 collects data on which coding agents and dev tools you use</title>
+      <link>https://xusheng.dev/posts/windows-coding-agent-telemetry/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/cwxmdw/windows_11_collects_data_on_which_coding"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/cwxmdw</guid>
+      <pubDate>Wed, 18 Nov 2026 11:57:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>After Days of Digital Outages, Americans Wonder If the Country Is Breaking</title>
+      <link>https://www.nytimes.com/2026/11/17/us/politics/outages-flights-banks-tech.html</link>
+      <description>6 points, 5 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50544279'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50544279</guid>
+      <pubDate>Wed, 18 Nov 2026 10:04:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft's Giant Outlook Outage</title>
+      <link>https://www.theverge.com/tech/1035364/microsoft-outlook-outage-notepad</link>
+      <description>2 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50543936'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50543936</guid>
+      <pubDate>Wed, 18 Nov 2026 09:23:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>[vcs] Codeberg's domain suddenly disappeared from their account, site is unreachable</title>
+      <link>https://social.anoxinon.de/@Codeberg/117636454915265360</link>
+      <description>&lt;p&gt;&lt;del&gt;Note: codeberg's servers are up, it's just the domain that's gone. It works perfectly after adding the following line to &lt;code&gt;/etc/hosts&lt;/code&gt;:&lt;/del&gt;&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;217.197.84.140 codeberg.org
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Update: it's now up again, and the above workaround is not necessary.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://lobste.rs/s/spmgsd/codeberg_s_domain_suddenly_disappeared"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/spmgsd</guid>
+      <pubDate>Wed, 18 Nov 2026 08:51:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft 365 outage forces Japanese workers back to fax machines</title>
+      <link>https://www.techradar.com/pro/microsoft-365-outage-saw-japanese-workers-fire-up-their-fax-machines</link>
+      <description>2 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50543279'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50543279</guid>
+      <pubDate>Wed, 18 Nov 2026 08:10:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>[vcs] Stacked diffs with Maiao</title>
+      <link>https://entropicthoughts.com/stacked-diffs-with-maiao</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/bjmwt6/stacked_diffs_with_maiao"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/bjmwt6</guid>
+      <pubDate>Wed, 18 Nov 2026 06:43:30 +0000</pubDate>
+    </item>
     <item>
       <title>Rubio says zero evidence tech outages related</title>
       <link>https://www.cbsnews.com/news/marco-rubio-tech-outages-not-connected/</link>
-      <description>2 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50541457'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>7 points, 7 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50541457'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50541457</guid>
       <pubDate>Wed, 18 Nov 2026 03:22:14 +0000</pubDate>
     </item>
     <item>
       <title>Microsoft disabled API permissions seemingly overnight</title>
       <link>https://news.ycombinator.com/item?id=50541430</link>
-      <description>2 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50541430'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>4 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50541430'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50541430</guid>
       <pubDate>Wed, 18 Nov 2026 03:17:19 +0000</pubDate>
     </item>
     <item>
       <title>Bank CEOs, NSA Tell Congress That AI-Driven Patches Are Behind Outages</title>
       <link>https://www.washingtonsun.com/technology/bank-ceos-nsa-tell-congress-ai-driven-patches-behind-outages</link>
-      <description>27 points, 10 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50540836'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>79 points, 38 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50540836'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50540836</guid>
       <pubDate>Wed, 18 Nov 2026 01:45:11 +0000</pubDate>
     </item>
     <item>
       <title>How to tell if an outage is a cyberattack</title>
       <link>https://ipinfo.io/blog/internet-brief-2</link>
-      <description>4 points, 2 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50540381'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>4 points, 5 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50540381'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50540381</guid>
       <pubDate>Wed, 18 Nov 2026 00:44:58 +0000</pubDate>
     </item>
@@ -110,7 +156,7 @@
     <item>
       <title>iCloud, App Store, and other Apple services hit by ongoing outage</title>
       <link>https://9to5mac.com/2026/11/17/icloud-app-store-and-other-apple-services-hit-by-ongoing-outage/</link>
-      <description>76 points, 29 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50535268'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>79 points, 28 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50535268'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50535268</guid>
       <pubDate>Tue, 17 Nov 2026 17:49:01 +0000</pubDate>
     </item>
@@ -159,7 +205,7 @@
     <item>
       <title>Ask HN: Are the more software malfunctions now than before?</title>
       <link>https://news.ycombinator.com/item?id=50526822</link>
-      <description>10 points, 6 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50526822'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>11 points, 6 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50526822'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50526822</guid>
       <pubDate>Tue, 17 Nov 2026 02:57:04 +0000</pubDate>
     </item>
@@ -173,7 +219,7 @@
     <item>
       <title>Ask HN: What do you think is going on with that many outages coming in a row?</title>
       <link>https://news.ycombinator.com/item?id=50525469</link>
-      <description>9 points, 10 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50525469'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>9 points, 11 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50525469'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50525469</guid>
       <pubDate>Tue, 17 Nov 2026 00:07:05 +0000</pubDate>
     </item>
@@ -250,7 +296,7 @@
     <item>
       <title>Microsoft blames monster email outage on software defect introduced in July fix</title>
       <link>https://www.theregister.com/saas/2026/11/16/microsoft-blames-monster-email-outage-on-software-defect-introduced-in-july-fix/5310026</link>
-      <description>441 points, 337 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50517321'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>443 points, 342 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50517321'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50517321</guid>
       <pubDate>Mon, 16 Nov 2026 13:18:22 +0000</pubDate>
     </item>
@@ -341,7 +387,7 @@
     <item>
       <title>Microsoft 365 outage leads to chlorine gas poisoning of 15 hotel guests</title>
       <link>https://www1.wdr.de/nrw/rheinland/rhein-erft-kreis/technischer-defekt-chlor-phantasialand-100.html</link>
-      <description>643 points, 280 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50509411'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>644 points, 282 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50509411'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50509411</guid>
       <pubDate>Sun, 15 Nov 2026 18:36:10 +0000</pubDate>
     </item>
@@ -407,34 +453,6 @@
       <description>7 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50498273'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50498273</guid>
       <pubDate>Sat, 14 Nov 2026 16:26:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft says services restored after global outage</title>
-      <link>https://www.theguardian.com/technology/2026/nov/14/microsoft-says-services-fully-restored-after-global-outage</link>
-      <description>4 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50496067'&gt;discussion sur Hacker News&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50496067</guid>
-      <pubDate>Sat, 14 Nov 2026 11:15:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft 365 Outage Continues: Tech Giant Has No Timeline for Recovery</title>
-      <link>https://www.forbes.com/sites/antoniopequenoiv/2026/11/13/microsoft-365-outage-continues-tech-giant-has-no-timeline-for-recovery-says-its-deeply-sorry/</link>
-      <description>2 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50495972'&gt;discussion sur Hacker News&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50495972</guid>
-      <pubDate>Sat, 14 Nov 2026 10:56:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>How Much Did the November 2026 FAA Outage Cost?</title>
-      <link>https://www.thepricer.org/how-much-did-the-november-2026-faa-outage-cost/</link>
-      <description>2 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50495500'&gt;discussion sur Hacker News&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50495500</guid>
-      <pubDate>Sat, 14 Nov 2026 09:32:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Businesses suffering a loss from Microsoft outage could make insurance claim</title>
-      <link>https://www.rnz.co.nz/news/business/2593252/businesses-suffering-a-loss-from-microsoft-outage-could-have-grounds-for-insurance-claim-lawyer-says</link>
-      <description>3 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50494348'&gt;discussion sur Hacker News&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50494348</guid>
-      <pubDate>Sat, 14 Nov 2026 05:42:11 +0000</pubDate>
     </item>
     <item>
       <title>[security] Someone's impersonating this blog</title>
@@ -708,13 +726,6 @@ the 2106 horizon treated as a long-tail consideration (collectively referred to 
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/b6ebju/following_breadcrumbs_code_what"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/b6ebju</guid>
       <pubDate>Sun, 08 Nov 2026 13:21:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>[security] PHP2Shell — Deep Dive</title>
-      <link>https://djad04.github.io/php2shell-deep-dive/</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/d8dgav/php2shell_deep_dive"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/d8dgav</guid>
-      <pubDate>Sun, 08 Nov 2026 05:51:54 +0000</pubDate>
     </item>
     <item>
       <title>[vcs] Workflow dependency lockfiles</title>
@@ -1111,13 +1122,6 @@ the 2106 horizon treated as a long-tail consideration (collectively referred to 
       <pubDate>Tue, 13 Oct 2026 09:14:09 +0000</pubDate>
     </item>
     <item>
-      <title>[practices] How to effectively debug when you no longer understand the code</title>
-      <link>https://copyconstruct.medium.com/how-to-effectively-debug-when-you-no-longer-understand-the-code-bd3dcb2c5f7b</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/pirgtp/how_effectively_debug_when_you_no_longer"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/pirgtp</guid>
-      <pubDate>Mon, 12 Oct 2026 12:01:18 +0000</pubDate>
-    </item>
-    <item>
       <title>[devops] 3-2-1 Backup Strategy with restic and Backblaze B2</title>
       <link>https://chuck.is/paranoid/</link>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/9zcxev/3_2_1_backup_strategy_with_restic"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
@@ -1151,20 +1155,6 @@ the 2106 horizon treated as a long-tail consideration (collectively referred to 
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/gliabr/scaling_benchmarking_critical_message"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/gliabr</guid>
       <pubDate>Thu, 08 Oct 2026 17:39:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>[vcs] Migrating Git repos to SHA-256</title>
-      <link>https://exa.y2k.diy/garden/git-sha256/</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ug8erg/migrating_git_repos_sha_256"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/ug8erg</guid>
-      <pubDate>Thu, 08 Oct 2026 10:00:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>[vcs] jujutsu (jj) 0.46.0</title>
-      <link>https://github.com/jj-vcs/jj/releases/tag/v0.46.0</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/nz3b1h/jujutsu_jj_0_46_0"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/nz3b1h</guid>
-      <pubDate>Thu, 08 Oct 2026 09:02:42 +0000</pubDate>
     </item>
     <item>
       <title>[distributed] Perseus: A Fail-Slow Detection Framework for Cloud Storage Systems (2023)</title>
