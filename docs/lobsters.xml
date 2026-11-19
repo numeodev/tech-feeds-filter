@@ -8,7 +8,35 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 19 Nov 2026 10:55:15 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 19:15:49 +0000</lastBuildDate>
+    <item>
+      <title>[security] “ignore the slop”</title>
+      <link>https://daniel.haxx.se/blog/2026/10/22/ignore-the-slop/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/a5y1em/ignore_slop"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/a5y1em</guid>
+      <pubDate>Thu, 19 Nov 2026 19:06:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>[devops] OpenRun v1.0 - declarative deployments for internal tools on Docker or Kubernetes</title>
+      <link>https://openrun.dev/blog/openrun-1.0/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/t9wxzg/openrun_v1_0_declarative_deployments_for"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/t9wxzg</guid>
+      <pubDate>Thu, 19 Nov 2026 18:46:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>[distributed] Mercurius — A Zero-Trust Network‑Native Window System</title>
+      <link>https://mercurius.tebibyte.org/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/bkvpzd/mercurius_zero_trust_network_native"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/bkvpzd</guid>
+      <pubDate>Thu, 19 Nov 2026 18:37:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>[practices] Design for Understandability</title>
+      <link>https://jschuster.org/blog/2026/11/19/design-for-understandability/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/qsrnot/design_for_understandability"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/qsrnot</guid>
+      <pubDate>Thu, 19 Nov 2026 13:07:34 +0000</pubDate>
+    </item>
     <item>
       <title>[security] Ruby2Shell (GHSA-34m4-m9fh-gqp5)</title>
       <link>https://verialabs.com/ruby2shell/</link>
@@ -307,13 +335,6 @@ the 2106 horizon treated as a long-tail consideration (collectively referred to 
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/rfacq5/finding_vulnerability_star_wars_episode"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/rfacq5</guid>
       <pubDate>Tue, 10 Nov 2026 21:58:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>[security] I deleted all my SSH keys</title>
-      <link>https://blog.infected.systems/posts/2026-11-03-i-deleted-all-my-ssh-keys/</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/sdtcvv/i_deleted_all_my_ssh_keys"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/sdtcvv</guid>
-      <pubDate>Tue, 10 Nov 2026 20:49:23 +0000</pubDate>
     </item>
     <item>
       <title>[devops] Microsecond accurate NTP with a Raspberry Pi and PPS GPS(2021)</title>
@@ -717,13 +738,6 @@ the 2106 horizon treated as a long-tail consideration (collectively referred to 
       <pubDate>Tue, 13 Oct 2026 14:36:52 +0000</pubDate>
     </item>
     <item>
-      <title>[practices] Where is all the new, good software?</title>
-      <link>https://www.natemeyvis.com/where-is-all-the-new-good-software/</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/hjhufj/where_is_all_new_good_software"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/hjhufj</guid>
-      <pubDate>Tue, 13 Oct 2026 09:14:09 +0000</pubDate>
-    </item>
-    <item>
       <title>[devops] 3-2-1 Backup Strategy with restic and Backblaze B2</title>
       <link>https://chuck.is/paranoid/</link>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/9zcxev/3_2_1_backup_strategy_with_restic"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
@@ -795,13 +809,6 @@ the 2106 horizon treated as a long-tail consideration (collectively referred to 
       <pubDate>Sat, 03 Oct 2026 02:41:38 +0000</pubDate>
     </item>
     <item>
-      <title>[distributed] We used a database as a message queue. Now we use Kafka</title>
-      <link>https://www.tigrisdata.com/blog/quick-fdb-kafka/</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/0xfpgo/we_used_database_as_message_queue_now_we"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/0xfpgo</guid>
-      <pubDate>Wed, 30 Sep 2026 20:28:27 +0000</pubDate>
-    </item>
-    <item>
       <title>[devops] Introducing Luxir</title>
       <link>https://yonik.com/blog/introducing-luxir/</link>
       <description>&lt;p&gt;The creator of Apache Solr announced a new high-performance search engine. Open Source, written in C++, featuring full-text search, vector search, faceting, and analytics.&lt;/p&gt;
@@ -857,13 +864,6 @@ the 2106 horizon treated as a long-tail consideration (collectively referred to 
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/swzhtb/dynamically_naming_servers"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/swzhtb</guid>
       <pubDate>Mon, 24 Aug 2026 14:36:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>[devops] Wild AI-related reliability incidents are coming</title>
-      <link>https://surfingcomplexity.blog/2026/08/22/wild-ai-related-reliability-incidents-are-coming/</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/jzr2ey/wild_ai_related_reliability_incidents"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/jzr2ey</guid>
-      <pubDate>Sun, 23 Aug 2026 19:04:41 +0000</pubDate>
     </item>
   </channel>
 </rss>

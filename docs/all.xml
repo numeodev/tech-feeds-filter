@@ -8,7 +8,70 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 19 Nov 2026 10:55:15 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 19:15:49 +0000</lastBuildDate>
+    <item>
+      <title>[security] “ignore the slop”</title>
+      <link>https://daniel.haxx.se/blog/2026/10/22/ignore-the-slop/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/a5y1em/ignore_slop"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/a5y1em</guid>
+      <pubDate>Thu, 19 Nov 2026 19:06:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>[devops] OpenRun v1.0 - declarative deployments for internal tools on Docker or Kubernetes</title>
+      <link>https://openrun.dev/blog/openrun-1.0/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/t9wxzg/openrun_v1_0_declarative_deployments_for"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/t9wxzg</guid>
+      <pubDate>Thu, 19 Nov 2026 18:46:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>[distributed] Mercurius — A Zero-Trust Network‑Native Window System</title>
+      <link>https://mercurius.tebibyte.org/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/bkvpzd/mercurius_zero_trust_network_native"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/bkvpzd</guid>
+      <pubDate>Thu, 19 Nov 2026 18:37:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>Anatomy of an AI-driven attack: Bitrise security incident report</title>
+      <link>https://bitrise.io/artex-incident-report</link>
+      <description>1 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50564098'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50564098</guid>
+      <pubDate>Thu, 19 Nov 2026 18:31:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>US using outages to manufacture consent for continued war</title>
+      <link>https://www.express.co.uk/news/world/2267083/iran-behind-us-tech-outages</link>
+      <description>2 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50563647'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50563647</guid>
+      <pubDate>Thu, 19 Nov 2026 18:05:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hacks, AI or just overdue updates – why have there been so many outages?</title>
+      <link>https://www.bbc.com/news/articles/c6z0kly2lll7o</link>
+      <description>2 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50563577'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50563577</guid>
+      <pubDate>Thu, 19 Nov 2026 18:01:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>Facility monitoring cybersecurity in Middle East is impacted by NSA outage</title>
+      <link>https://www.independent.co.uk/news/world/americas/us-politics/nsa-outage-georgia-middle-east-b3088077.html</link>
+      <description>1 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50562925'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50562925</guid>
+      <pubDate>Thu, 19 Nov 2026 17:16:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>Outage Chaos: When Tech Is Too Big to Fail</title>
+      <link>https://www.eff.org/deeplinks/2026/11/outage-chaos-when-tech-too-big-fail</link>
+      <description>3 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50561327'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50561327</guid>
+      <pubDate>Thu, 19 Nov 2026 15:25:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>[practices] Design for Understandability</title>
+      <link>https://jschuster.org/blog/2026/11/19/design-for-understandability/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/qsrnot/design_for_understandability"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/qsrnot</guid>
+      <pubDate>Thu, 19 Nov 2026 13:07:34 +0000</pubDate>
+    </item>
     <item>
       <title>[security] Ruby2Shell (GHSA-34m4-m9fh-gqp5)</title>
       <link>https://verialabs.com/ruby2shell/</link>
@@ -90,7 +153,7 @@
     <item>
       <title>Launch HN: Maritime (YC F26) – A managed cloud for production AI agents</title>
       <link>https://news.ycombinator.com/item?id=50549188</link>
-      <description>54 points, 49 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50549188'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>57 points, 53 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50549188'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50549188</guid>
       <pubDate>Wed, 18 Nov 2026 17:26:28 +0000</pubDate>
     </item>
@@ -199,7 +262,7 @@
     <item>
       <title>Bank CEOs, NSA Tell Congress That AI-Driven Patches Are Behind Outages</title>
       <link>https://www.washingtonsun.com/technology/bank-ceos-nsa-tell-congress-ai-driven-patches-behind-outages</link>
-      <description>96 points, 58 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50540836'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>98 points, 58 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50540836'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50540836</guid>
       <pubDate>Wed, 18 Nov 2026 01:45:11 +0000</pubDate>
     </item>
@@ -381,7 +444,7 @@
     <item>
       <title>United Airlines experiencing a widespread system outage, airline says</title>
       <link>https://www.cnn.com/2026/11/16/us/united-airlines-outage</link>
-      <description>257 points, 134 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50524165'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>257 points, 135 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50524165'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50524165</guid>
       <pubDate>Mon, 16 Nov 2026 22:14:38 +0000</pubDate>
     </item>
@@ -407,13 +470,6 @@
       <pubDate>Mon, 16 Nov 2026 18:55:01 +0000</pubDate>
     </item>
     <item>
-      <title>US Banks report outages in latest tech hiccup</title>
-      <link>https://nypost.com/2026/11/16/business/outages-hit-chase-bank-of-america-and-wells-fargo-customers/</link>
-      <description>21 points, 3 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50521357'&gt;discussion sur Hacker News&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50521357</guid>
-      <pubDate>Mon, 16 Nov 2026 18:53:00 +0000</pubDate>
-    </item>
-    <item>
       <title>[security] Janet Reno was talking about my friend Coolio (computer criminal)</title>
       <link>https://michael.bacarella.com/2026/11/16/janet-reno-vs-my-friend-coolio/</link>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/urcrqe/janet_reno_was_talking_about_my_friend"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
@@ -421,32 +477,11 @@
       <pubDate>Mon, 16 Nov 2026 16:43:58 +0000</pubDate>
     </item>
     <item>
-      <title>Microsoft blames monster email outage on software defect introduced in July fix</title>
-      <link>https://www.theregister.com/saas/2026/11/16/microsoft-blames-monster-email-outage-on-software-defect-introduced-in-july-fix/5310026</link>
-      <description>445 points, 352 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50517321'&gt;discussion sur Hacker News&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50517321</guid>
-      <pubDate>Mon, 16 Nov 2026 13:18:22 +0000</pubDate>
-    </item>
-    <item>
       <title>[security] NoisyTCP</title>
       <link>https://www.openwall.com/lists/oss-security/2026/11/15/2</link>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/uegnml/noisytcp"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/uegnml</guid>
       <pubDate>Mon, 16 Nov 2026 12:50:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft Outage Explained: The 3 Issues Behind Last Week's Crash</title>
-      <link>https://www.pcmag.com/news/microsoft-outage-explained-the-3-issues-behind-last-weeks-crash</link>
-      <description>1 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50516861'&gt;discussion sur Hacker News&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50516861</guid>
-      <pubDate>Mon, 16 Nov 2026 12:24:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>Revolut - October Outage: Technical Overview</title>
-      <link>https://www.revolut.com/blog/post/20octoutagetechnicaloverview/</link>
-      <description>3 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50515864'&gt;discussion sur Hacker News&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50515864</guid>
-      <pubDate>Mon, 16 Nov 2026 09:58:37 +0000</pubDate>
     </item>
     <item>
       <title>Microsoft Post-Incident Report Is Up for the Exchange Online Outage</title>
@@ -694,13 +729,6 @@ the 2106 horizon treated as a long-tail consideration (collectively referred to 
       <pubDate>Tue, 10 Nov 2026 21:58:18 +0000</pubDate>
     </item>
     <item>
-      <title>[security] I deleted all my SSH keys</title>
-      <link>https://blog.infected.systems/posts/2026-11-03-i-deleted-all-my-ssh-keys/</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/sdtcvv/i_deleted_all_my_ssh_keys"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/sdtcvv</guid>
-      <pubDate>Tue, 10 Nov 2026 20:49:23 +0000</pubDate>
-    </item>
-    <item>
       <title>Incident Report: October 21st Security Attack</title>
       <link>https://blog.railway.com/p/incident-report-october-security-incident</link>
       <description>25 points, 2 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50441465'&gt;discussion sur Hacker News&lt;/a&gt;</description>
@@ -811,13 +839,6 @@ the 2106 horizon treated as a long-tail consideration (collectively referred to 
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/wfw32o/how_flink_s_kafka_connector_commits"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/wfw32o</guid>
       <pubDate>Thu, 05 Nov 2026 16:31:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>Show HN: K8sman – A Native Kubernetes IDE</title>
-      <link>https://github.com/matty234/k8sman</link>
-      <description>6 points, 4 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50380277'&gt;discussion sur Hacker News&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50380277</guid>
-      <pubDate>Thu, 05 Nov 2026 15:25:51 +0000</pubDate>
     </item>
     <item>
       <title>[distributed] Designing a planned switchover for minimum disruption</title>
@@ -1137,13 +1158,6 @@ the 2106 horizon treated as a long-tail consideration (collectively referred to 
       <pubDate>Tue, 13 Oct 2026 14:36:52 +0000</pubDate>
     </item>
     <item>
-      <title>[practices] Where is all the new, good software?</title>
-      <link>https://www.natemeyvis.com/where-is-all-the-new-good-software/</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/hjhufj/where_is_all_new_good_software"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/hjhufj</guid>
-      <pubDate>Tue, 13 Oct 2026 09:14:09 +0000</pubDate>
-    </item>
-    <item>
       <title>[devops] 3-2-1 Backup Strategy with restic and Backblaze B2</title>
       <link>https://chuck.is/paranoid/</link>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/9zcxev/3_2_1_backup_strategy_with_restic"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
@@ -1215,13 +1229,6 @@ the 2106 horizon treated as a long-tail consideration (collectively referred to 
       <pubDate>Sat, 03 Oct 2026 02:41:38 +0000</pubDate>
     </item>
     <item>
-      <title>[distributed] We used a database as a message queue. Now we use Kafka</title>
-      <link>https://www.tigrisdata.com/blog/quick-fdb-kafka/</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/0xfpgo/we_used_database_as_message_queue_now_we"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/0xfpgo</guid>
-      <pubDate>Wed, 30 Sep 2026 20:28:27 +0000</pubDate>
-    </item>
-    <item>
       <title>[devops] Introducing Luxir</title>
       <link>https://yonik.com/blog/introducing-luxir/</link>
       <description>&lt;p&gt;The creator of Apache Solr announced a new high-performance search engine. Open Source, written in C++, featuring full-text search, vector search, faceting, and analytics.&lt;/p&gt;
@@ -1277,13 +1284,6 @@ the 2106 horizon treated as a long-tail consideration (collectively referred to 
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/swzhtb/dynamically_naming_servers"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/swzhtb</guid>
       <pubDate>Mon, 24 Aug 2026 14:36:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>[devops] Wild AI-related reliability incidents are coming</title>
-      <link>https://surfingcomplexity.blog/2026/08/22/wild-ai-related-reliability-incidents-are-coming/</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/jzr2ey/wild_ai_related_reliability_incidents"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/jzr2ey</guid>
-      <pubDate>Sun, 23 Aug 2026 19:04:41 +0000</pubDate>
     </item>
   </channel>
 </rss>
