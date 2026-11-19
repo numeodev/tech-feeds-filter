@@ -8,7 +8,21 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 18 Nov 2026 20:59:35 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 02:20:48 +0000</lastBuildDate>
+    <item>
+      <title>[security] Incidents in the news</title>
+      <link>https://surfingcomplexity.blog/2026/11/18/incidents-in-the-news/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/gpqw7o/incidents_news"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/gpqw7o</guid>
+      <pubDate>Thu, 19 Nov 2026 01:45:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>[security] Security advisories: multiple vulnerabilities in Regexp and String case conversion</title>
+      <link>https://www.ruby-lang.org/en/news/2026/11/18/multiple-vulnerabilities-in-regexp-and-string/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/hsmtyg/security_advisories_multiple"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/hsmtyg</guid>
+      <pubDate>Thu, 19 Nov 2026 01:26:37 +0000</pubDate>
+    </item>
     <item>
       <title>[security] Upcoming Critical PHP Security Release (18 Nov 2026)</title>
       <link>https://www.php.net/index.php#2026-11-18-1</link>
@@ -278,20 +292,6 @@ the 2106 horizon treated as a long-tail consideration (collectively referred to 
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/vqtg9b/race_secure_record_like_information_for"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/vqtg9b</guid>
       <pubDate>Mon, 09 Nov 2026 23:25:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>[security] PyPI's redesigned project pages with clearer security signals are now live</title>
-      <link>https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/s1tppi/pypi_s_redesigned_project_pages_with"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/s1tppi</guid>
-      <pubDate>Mon, 09 Nov 2026 21:45:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>[security] Terminal2Shell: Critical flaw grants instant shell access on every major OS</title>
-      <link>https://terminal2shell.com/</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/vghqe8/terminal2shell_critical_flaw_grants"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/vghqe8</guid>
-      <pubDate>Mon, 09 Nov 2026 15:41:50 +0000</pubDate>
     </item>
     <item>
       <title>[devops] Microsecond accurate NTP with a Raspberry Pi and PPS GPS(2021)</title>
