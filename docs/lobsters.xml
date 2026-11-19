@@ -8,7 +8,36 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 19 Nov 2026 02:20:48 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 10:55:15 +0000</lastBuildDate>
+    <item>
+      <title>[security] Ruby2Shell (GHSA-34m4-m9fh-gqp5)</title>
+      <link>https://verialabs.com/ruby2shell/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/usdf7t/ruby2shell_ghsa_34m4_m9fh_gqp5"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/usdf7t</guid>
+      <pubDate>Thu, 19 Nov 2026 10:50:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>[distributed] Validating a High-Performance Cloud Object Store with Lightweight Formal Methods</title>
+      <link>https://dl.acm.org/doi/10.1145/3830418.3843899</link>
+      <description>&lt;p&gt;Abstract: We report on our experience validating S3 Express One Zone, a high-performance Amazon S3 storage class launched in November 2023. We focused on its distributed metadata index, which implements a hierarchical namespace using distributed transactions. We check strong consistency and durability under crashes, network delays, and timeouts. Building on our prior work on lightweight formal methods, we combined executable reference models with property-based testing and stateless model checking. Applying these techniques to a production distributed system required three new techniques: a white-box approach to checking serializability; compositional validation of the data and control planes; and long-running canaries that use reference models to check correctness across deployments. We extended Shuttle, our open-source stateless checker, to support a production async Rust runtime and failure injection, including cancelled operations and timeouts. Our main finding is that this approach is sustainable at engineering scale. After launch, the engineering team took ownership of models and test infrastructure, increasing its share of validation commits from 41% to 84% and independently extending the models for conditional writes, object append, and atomic rename, with little involvement from the formal methods team.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://lobste.rs/s/zfe21b/validating_high_performance_cloud"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/zfe21b</guid>
+      <pubDate>Thu, 19 Nov 2026 08:53:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>[distributed] Distributed, high-performance blob storage on SQLite</title>
+      <link>https://zerodha.tech/blog/high-performance-distributed-blob-storage/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/bk5nfs/distributed_high_performance_blob"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/bk5nfs</guid>
+      <pubDate>Thu, 19 Nov 2026 08:37:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>[distributed] Traffic mix matters</title>
+      <link>https://brooker.co.za/blog/2026/11/18/workload-mix.html</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/akg5in/traffic_mix_matters"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/akg5in</guid>
+      <pubDate>Thu, 19 Nov 2026 07:33:44 +0000</pubDate>
+    </item>
     <item>
       <title>[security] Incidents in the news</title>
       <link>https://surfingcomplexity.blog/2026/11/18/incidents-in-the-news/</link>
@@ -285,13 +314,6 @@ the 2106 horizon treated as a long-tail consideration (collectively referred to 
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/sdtcvv/i_deleted_all_my_ssh_keys"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/sdtcvv</guid>
       <pubDate>Tue, 10 Nov 2026 20:49:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>[security] The race to secure record-like information for domains</title>
-      <link>https://alexsci.com/blog/the-race-to-secure-record-like-information-for-domains/</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/vqtg9b/race_secure_record_like_information_for"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/vqtg9b</guid>
-      <pubDate>Mon, 09 Nov 2026 23:25:03 +0000</pubDate>
     </item>
     <item>
       <title>[devops] Microsecond accurate NTP with a Raspberry Pi and PPS GPS(2021)</title>
@@ -778,27 +800,6 @@ the 2106 horizon treated as a long-tail consideration (collectively referred to 
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/0xfpgo/we_used_database_as_message_queue_now_we"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/0xfpgo</guid>
       <pubDate>Wed, 30 Sep 2026 20:28:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>[distributed] Deterministic Concurrency</title>
-      <link>https://www.youtube.com/watch?v=25x0UuSCKuU</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/wuiaba/deterministic_concurrency"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/wuiaba</guid>
-      <pubDate>Tue, 29 Sep 2026 09:42:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>[distributed] First steps of the PLC organization</title>
-      <link>https://blog.plcred.org/3mwlphq42d227</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/xaqlnv/first_steps_plc_organization"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/xaqlnv</guid>
-      <pubDate>Tue, 29 Sep 2026 06:57:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>[distributed] Kafgres: Embedding a Kafka Broker into Postgres</title>
-      <link>https://rynr.dev/blog/kafgres/</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/wkn1lr/kafgres_embedding_kafka_broker_into"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/wkn1lr</guid>
-      <pubDate>Fri, 25 Sep 2026 21:20:41 +0000</pubDate>
     </item>
     <item>
       <title>[devops] Introducing Luxir</title>
