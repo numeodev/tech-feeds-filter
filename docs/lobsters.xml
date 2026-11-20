@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 19 Nov 2026 19:15:49 +0000</lastBuildDate>
-    <item>
-      <title>[security] “ignore the slop”</title>
-      <link>https://daniel.haxx.se/blog/2026/10/22/ignore-the-slop/</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/a5y1em/ignore_slop"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/a5y1em</guid>
-      <pubDate>Thu, 19 Nov 2026 19:06:32 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 20 Nov 2026 01:31:50 +0000</lastBuildDate>
     <item>
       <title>[devops] OpenRun v1.0 - declarative deployments for internal tools on Docker or Kubernetes</title>
       <link>https://openrun.dev/blog/openrun-1.0/</link>
@@ -335,6 +328,13 @@ the 2106 horizon treated as a long-tail consideration (collectively referred to 
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/rfacq5/finding_vulnerability_star_wars_episode"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/rfacq5</guid>
       <pubDate>Tue, 10 Nov 2026 21:58:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>[security] I deleted all my SSH keys</title>
+      <link>https://blog.infected.systems/posts/2026-11-03-i-deleted-all-my-ssh-keys/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/sdtcvv/i_deleted_all_my_ssh_keys"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/sdtcvv</guid>
+      <pubDate>Tue, 10 Nov 2026 20:49:23 +0000</pubDate>
     </item>
     <item>
       <title>[devops] Microsecond accurate NTP with a Raspberry Pi and PPS GPS(2021)</title>
