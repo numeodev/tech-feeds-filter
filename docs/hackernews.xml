@@ -8,11 +8,32 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 20 Nov 2026 01:31:49 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 09:25:28 +0000</lastBuildDate>
+    <item>
+      <title>Microsoft 365 outage of 12 and 13 November 2026</title>
+      <link>https://www.365fanatic.com/m365-outage-12-november-2026/</link>
+      <description>2 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50571654'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50571654</guid>
+      <pubDate>Fri, 20 Nov 2026 08:15:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft's outage should terrify every enterprise – InfoWorld</title>
+      <link>https://www.infoworld.com/article/4249394/microsofts-outage-should-terrify-every-enterprise.html</link>
+      <description>3 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50571328'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50571328</guid>
+      <pubDate>Fri, 20 Nov 2026 07:30:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>Trump ousts cyber director after tech outages spark criticism</title>
+      <link>https://www.reuters.com/world/us/white-house-national-cyber-director-cairncross-leaving-his-post-axios-reports-2026-11-19/</link>
+      <description>4 points, 2 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50569598'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50569598</guid>
+      <pubDate>Fri, 20 Nov 2026 02:55:35 +0000</pubDate>
+    </item>
     <item>
       <title>Palo Alto Networks CEO on the network outages through major companies</title>
       <link>https://finance.yahoo.com/technology/article/palo-alto-networks-ceo-just-dropped-a-truth-bomb-on-the-network-outages-sweeping-through-major-companies-101129581.html</link>
-      <description>2 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50568753'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>3 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50568753'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50568753</guid>
       <pubDate>Fri, 20 Nov 2026 00:50:45 +0000</pubDate>
     </item>
@@ -33,7 +54,7 @@
     <item>
       <title>US using outages to manufacture consent for continued war</title>
       <link>https://www.express.co.uk/news/world/2267083/iran-behind-us-tech-outages</link>
-      <description>14 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50563647'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>17 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50563647'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50563647</guid>
       <pubDate>Thu, 19 Nov 2026 18:05:28 +0000</pubDate>
     </item>
@@ -89,7 +110,7 @@
     <item>
       <title>Launch HN: Maritime (YC F26) – A managed cloud for production AI agents</title>
       <link>https://news.ycombinator.com/item?id=50549188</link>
-      <description>58 points, 54 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50549188'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>60 points, 61 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50549188'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50549188</guid>
       <pubDate>Wed, 18 Nov 2026 17:26:28 +0000</pubDate>
     </item>
@@ -138,7 +159,7 @@
     <item>
       <title>Microsoft 365 outage forces Japanese workers back to fax machines</title>
       <link>https://www.techradar.com/pro/microsoft-365-outage-saw-japanese-workers-fire-up-their-fax-machines</link>
-      <description>2 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50543279'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>2 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50543279'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50543279</guid>
       <pubDate>Wed, 18 Nov 2026 08:10:46 +0000</pubDate>
     </item>
@@ -290,27 +311,6 @@
       <pubDate>Mon, 16 Nov 2026 23:08:57 +0000</pubDate>
     </item>
     <item>
-      <title>United Halts Flights as It Addresses 'Widespread System Outage'</title>
-      <link>https://www.nytimes.com/2026/11/16/business/united-airlines-outage-flights.html</link>
-      <description>15 points, 2 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50524437'&gt;discussion sur Hacker News&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50524437</guid>
-      <pubDate>Mon, 16 Nov 2026 22:34:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>United Airlines has a widespread system outage</title>
-      <link>https://apnews.com/article/united-airlines-outage-5a5e5f75bb07f11ffb8750901f0076ff</link>
-      <description>48 points, 13 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50524260'&gt;discussion sur Hacker News&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50524260</guid>
-      <pubDate>Mon, 16 Nov 2026 22:22:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>United Airlines experiencing 'widespread system outage'</title>
-      <link>https://www.nbcchicago.com/news/local/united-airlines-experiencing-widespread-system-outage/4017556/</link>
-      <description>11 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50524254'&gt;discussion sur Hacker News&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50524254</guid>
-      <pubDate>Mon, 16 Nov 2026 22:21:50 +0000</pubDate>
-    </item>
-    <item>
       <title>Microsoft Post-Incident Report Is Up for the Exchange Online Outage</title>
       <link>https://www.reddit.com/r/sysadmin/comments/1xxiasy/microsoft_postincident_report_is_up_for_the/</link>
       <description>9 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50515114'&gt;discussion sur Hacker News&lt;/a&gt;</description>
@@ -351,13 +351,6 @@
       <description>1 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50502531'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50502531</guid>
       <pubDate>Sun, 15 Nov 2026 00:18:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>Using LLMs outside of reflection is an anti-pattern</title>
-      <link>https://news.ycombinator.com/item?id=50489240</link>
-      <description>4 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50489240'&gt;discussion sur Hacker News&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50489240</guid>
-      <pubDate>Fri, 13 Nov 2026 20:32:40 +0000</pubDate>
     </item>
     <item>
       <title>Show HN: DeployAngel – A verdict in ~20 minutes if a deploy broke production</title>
