@@ -8,11 +8,46 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 21 Nov 2026 07:51:51 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 15:46:43 +0000</lastBuildDate>
+    <item>
+      <title>LibreOffice maker asks why there was no backup plan following the M365 outage</title>
+      <link>https://www.techradar.com/pro/we-ask-whether-you-are-now-willing-to-listen-libreoffice-maker-asks-political-organizations-why-there-was-no-backup-plan-following-the-major-microsoft-365-outage</link>
+      <description>4 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50590050'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50590050</guid>
+      <pubDate>Sat, 21 Nov 2026 15:17:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>[vcs] TODOs JJ Style</title>
+      <link>https://bwc9876.dev/blog/jj_todo/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/qxzs4y/todos_jj_style"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/qxzs4y</guid>
+      <pubDate>Sat, 21 Nov 2026 15:17:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft 365 outage of 12 Nov 2026: Post Incident Report [pdf]</title>
+      <link>https://tianyin.github.io/misc/pir_microsoft_365_11-12-2026.pdf</link>
+      <description>2 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50589876'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50589876</guid>
+      <pubDate>Sat, 21 Nov 2026 15:00:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>[distributed] Microsoft 365 Outage - Post Incident Report</title>
+      <link>https://tianyin.github.io/misc/pir_microsoft_365_11-12-2026.pdf</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/becitz/microsoft_365_outage_post_incident"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/becitz</guid>
+      <pubDate>Sat, 21 Nov 2026 12:22:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>[security] GnuPG Security Advisory for GPGME (T8557,CVE-2026-129975)</title>
+      <link>https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/vxokkj/gnupg_security_advisory_for_gpgme_t8557"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/vxokkj</guid>
+      <pubDate>Sat, 21 Nov 2026 10:09:19 +0000</pubDate>
+    </item>
     <item>
       <title>Why so many critical tech outages are happening all at once</title>
       <link>https://www.scientificamerican.com/article/why-so-many-critical-tech-outages-are-happening-all-at-once/</link>
-      <description>4 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50585896'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>5 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50585896'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50585896</guid>
       <pubDate>Sat, 21 Nov 2026 04:17:50 +0000</pubDate>
     </item>
@@ -26,7 +61,7 @@
     <item>
       <title>White House removes cyber-security chief after series of tech outages</title>
       <link>https://www.bbc.com/news/articles/cwz0k3nn5p5mo</link>
-      <description>9 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50583826'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>10 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50583826'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50583826</guid>
       <pubDate>Fri, 20 Nov 2026 23:25:53 +0000</pubDate>
     </item>
@@ -258,7 +293,7 @@
     <item>
       <title>Launch HN: Maritime (YC F26) – A managed cloud for production AI agents</title>
       <link>https://news.ycombinator.com/item?id=50549188</link>
-      <description>60 points, 65 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50549188'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>60 points, 66 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50549188'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50549188</guid>
       <pubDate>Wed, 18 Nov 2026 17:26:28 +0000</pubDate>
     </item>
@@ -440,20 +475,6 @@
       <description>5 points, 2 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50535520'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50535520</guid>
       <pubDate>Tue, 17 Nov 2026 18:04:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>Apple Outages Megathread</title>
-      <link>https://www.reddit.com/r/apple/s/CRRfh6QrqL</link>
-      <description>6 points, 2 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50535347'&gt;discussion sur Hacker News&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50535347</guid>
-      <pubDate>Tue, 17 Nov 2026 17:54:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>iCloud, App Store, and other Apple services hit by ongoing outage</title>
-      <link>https://9to5mac.com/2026/11/17/icloud-app-store-and-other-apple-services-hit-by-ongoing-outage/</link>
-      <description>80 points, 28 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50535268'&gt;discussion sur Hacker News&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50535268</guid>
-      <pubDate>Tue, 17 Nov 2026 17:49:01 +0000</pubDate>
     </item>
     <item>
       <title>[security] Phrack 73</title>
@@ -691,13 +712,6 @@ the 2106 horizon treated as a long-tail consideration (collectively referred to 
       <pubDate>Wed, 11 Nov 2026 16:58:45 +0000</pubDate>
     </item>
     <item>
-      <title>Vagrant's Licence Reverted to MIT</title>
-      <link>https://github.com/hashicorp/vagrant/commit/ab4fc5e3db1bd215ded614add4a26a81c7b5cbeb</link>
-      <description>4 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50455461'&gt;discussion sur Hacker News&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50455461</guid>
-      <pubDate>Wed, 11 Nov 2026 16:44:46 +0000</pubDate>
-    </item>
-    <item>
       <title>[devops] How a false smoke alarm almost drowned Jane Street's only NYC datacenter</title>
       <link>https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/</link>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ii1gzp/how_false_smoke_alarm_almost_drowned_jane"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
@@ -734,13 +748,6 @@ the 2106 horizon treated as a long-tail consideration (collectively referred to 
       <description>3 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50447465'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50447465</guid>
       <pubDate>Tue, 10 Nov 2026 22:55:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>[security] Finding a vulnerability in Star Wars Episode I: Racer</title>
-      <link>https://synacktiv.com/en/publications/star-wars-episode-i-racer</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/rfacq5/finding_vulnerability_star_wars_episode"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/rfacq5</guid>
-      <pubDate>Tue, 10 Nov 2026 21:58:18 +0000</pubDate>
     </item>
     <item>
       <title>Incident Report: October 21st Security Attack</title>
@@ -1123,13 +1130,6 @@ the 2106 horizon treated as a long-tail consideration (collectively referred to 
       <pubDate>Wed, 14 Oct 2026 17:50:22 +0000</pubDate>
     </item>
     <item>
-      <title>[vcs] GitLab warns of max severity code execution vulnerability</title>
-      <link>https://www.bleepingcomputer.com/news/security/gitlab-warns-of-max-severity-rce-flaw-in-regex-compiler-engine/</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/tehays/gitlab_warns_max_severity_code_execution"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/tehays</guid>
-      <pubDate>Wed, 14 Oct 2026 15:55:52 +0000</pubDate>
-    </item>
-    <item>
       <title>[devops] What I Self-Host</title>
       <link>https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/</link>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/j4tlzg/what_i_self_host"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
@@ -1192,13 +1192,6 @@ the 2106 horizon treated as a long-tail consideration (collectively referred to 
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/4bzboj/protocol_aware_recovery_for_consensus"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/4bzboj</guid>
       <pubDate>Sun, 04 Oct 2026 20:00:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>[distributed] Iroh global content discovery</title>
-      <link>https://www.iroh.computer/blog/iroh-global-content-discovery</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/eoibah/iroh_global_content_discovery"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/eoibah</guid>
-      <pubDate>Sun, 04 Oct 2026 19:19:42 +0000</pubDate>
     </item>
     <item>
       <title>[devops] gVisor is being donated to CNCF</title>
