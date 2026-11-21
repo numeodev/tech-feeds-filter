@@ -8,11 +8,18 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 20 Nov 2026 18:08:21 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 00:30:55 +0000</lastBuildDate>
+    <item>
+      <title>White House removes cyber-security chief after series of tech outages</title>
+      <link>https://www.bbc.com/news/articles/cwz0k3nn5p5mo</link>
+      <description>4 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50583826'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50583826</guid>
+      <pubDate>Fri, 20 Nov 2026 23:25:53 +0000</pubDate>
+    </item>
     <item>
       <title>Don't blame cyber-attacks for recent outages. The real villain is the US economy</title>
       <link>https://www.theguardian.com/commentisfree/2026/nov/20/cyber-attacks-outages-blame-economy</link>
-      <description>1 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50577910'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>3 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50577910'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50577910</guid>
       <pubDate>Fri, 20 Nov 2026 16:59:53 +0000</pubDate>
     </item>
@@ -26,7 +33,7 @@
     <item>
       <title>Outage Chaos: Who Turned Off All the Computer?</title>
       <link>https://www.eff.org/deeplinks/2026/11/outage-chaos-who-turned-all-computer</link>
-      <description>1 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50573220'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>2 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50573220'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50573220</guid>
       <pubDate>Fri, 20 Nov 2026 11:28:41 +0000</pubDate>
     </item>
@@ -295,13 +302,6 @@
       <description>12 points, 2 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50535261'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50535261</guid>
       <pubDate>Tue, 17 Nov 2026 17:48:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>Outages keep piling up. Or are we just noticing them more?</title>
-      <link>https://this.weekinsecurity.com/outages-keep-piling-up-or-are-we-just-noticing-them-more/</link>
-      <description>3 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50533135'&gt;discussion sur Hacker News&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50533135</guid>
-      <pubDate>Tue, 17 Nov 2026 15:53:17 +0000</pubDate>
     </item>
     <item>
       <title>Simple Postmortem Tool</title>
