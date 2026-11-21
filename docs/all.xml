@@ -8,11 +8,32 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 21 Nov 2026 15:46:43 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 21:19:51 +0000</lastBuildDate>
+    <item>
+      <title>Are all of these outages a coincidence – or a glimpse of our AI future?</title>
+      <link>https://tech.yahoo.com/general/article/are-all-of-these-outages-a-coincidence--or-a-glimpse-of-our-ai-future-210035788.html</link>
+      <description>4 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50593191'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50593191</guid>
+      <pubDate>Sat, 21 Nov 2026 20:14:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>Tech Outages Are Only the Beginning. A.I. Will Bring More Disruptions</title>
+      <link>https://www.nytimes.com/2026/11/21/us/politics/tech-outages-ai-disruptions.html</link>
+      <description>1 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50592872'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50592872</guid>
+      <pubDate>Sat, 21 Nov 2026 19:41:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>[security] How 2 Security Research (MLG)</title>
+      <link>https://www.youtube.com/watch?v=dXQ_9WN6KLQ</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/emymet/how_2_security_research_mlg"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/emymet</guid>
+      <pubDate>Sat, 21 Nov 2026 16:57:15 +0000</pubDate>
+    </item>
     <item>
       <title>LibreOffice maker asks why there was no backup plan following the M365 outage</title>
       <link>https://www.techradar.com/pro/we-ask-whether-you-are-now-willing-to-listen-libreoffice-maker-asks-political-organizations-why-there-was-no-backup-plan-following-the-major-microsoft-365-outage</link>
-      <description>4 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50590050'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>5 points, 2 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50590050'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50590050</guid>
       <pubDate>Sat, 21 Nov 2026 15:17:47 +0000</pubDate>
     </item>
@@ -463,20 +484,6 @@
       <pubDate>Tue, 17 Nov 2026 18:57:27 +0000</pubDate>
     </item>
     <item>
-      <title>Apple confirms iCloud outage as users report issues with Apple Pay, App Store</title>
-      <link>https://tech.yahoo.com/general/breaking-news/article/apple-confirms-icloud-outage-as-users-report-issues-with-apple-pay-app-store-and-other-services-175614284.html</link>
-      <description>7 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50535887'&gt;discussion sur Hacker News&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50535887</guid>
-      <pubDate>Tue, 17 Nov 2026 18:25:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>Apple iCloud Account and Sign-In Outage</title>
-      <link>https://www.apple.com/support/systemstatus/now</link>
-      <description>5 points, 2 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50535520'&gt;discussion sur Hacker News&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50535520</guid>
-      <pubDate>Tue, 17 Nov 2026 18:04:15 +0000</pubDate>
-    </item>
-    <item>
       <title>[security] Phrack 73</title>
       <link>https://phrack.org/issues/73/introduction_md.html</link>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/xu4ajj/phrack_73"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
@@ -705,11 +712,11 @@ the 2106 horizon treated as a long-tail consideration (collectively referred to 
       <pubDate>Wed, 11 Nov 2026 18:05:08 +0000</pubDate>
     </item>
     <item>
-      <title>[security] About the downtime and security incident</title>
-      <link>https://danbooru.donmai.us/forum_topics/38685.html</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/wfr0b4/about_downtime_security_incident"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/wfr0b4</guid>
-      <pubDate>Wed, 11 Nov 2026 16:58:45 +0000</pubDate>
+      <title>Vagrant's Licence Reverted to MIT</title>
+      <link>https://github.com/hashicorp/vagrant/commit/ab4fc5e3db1bd215ded614add4a26a81c7b5cbeb</link>
+      <description>4 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50455461'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50455461</guid>
+      <pubDate>Wed, 11 Nov 2026 16:44:46 +0000</pubDate>
     </item>
     <item>
       <title>[devops] How a false smoke alarm almost drowned Jane Street's only NYC datacenter</title>
