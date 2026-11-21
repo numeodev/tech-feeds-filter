@@ -8,18 +8,25 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 21 Nov 2026 00:30:55 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 07:51:50 +0000</lastBuildDate>
+    <item>
+      <title>Why so many critical tech outages are happening all at once</title>
+      <link>https://www.scientificamerican.com/article/why-so-many-critical-tech-outages-are-happening-all-at-once/</link>
+      <description>4 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50585896'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50585896</guid>
+      <pubDate>Sat, 21 Nov 2026 04:17:50 +0000</pubDate>
+    </item>
     <item>
       <title>White House removes cyber-security chief after series of tech outages</title>
       <link>https://www.bbc.com/news/articles/cwz0k3nn5p5mo</link>
-      <description>4 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50583826'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>9 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50583826'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50583826</guid>
       <pubDate>Fri, 20 Nov 2026 23:25:53 +0000</pubDate>
     </item>
     <item>
       <title>Don't blame cyber-attacks for recent outages. The real villain is the US economy</title>
       <link>https://www.theguardian.com/commentisfree/2026/nov/20/cyber-attacks-outages-blame-economy</link>
-      <description>3 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50577910'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>4 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50577910'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50577910</guid>
       <pubDate>Fri, 20 Nov 2026 16:59:53 +0000</pubDate>
     </item>
@@ -152,7 +159,7 @@
     <item>
       <title>Launch HN: Maritime (YC F26) – A managed cloud for production AI agents</title>
       <link>https://news.ycombinator.com/item?id=50549188</link>
-      <description>60 points, 64 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50549188'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>60 points, 65 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50549188'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50549188</guid>
       <pubDate>Wed, 18 Nov 2026 17:26:28 +0000</pubDate>
     </item>
@@ -297,13 +304,6 @@
       <pubDate>Tue, 17 Nov 2026 17:49:01 +0000</pubDate>
     </item>
     <item>
-      <title>Apple is having multiple system outages</title>
-      <link>https://twitter.com/aaronp613/status/2122743431969788122</link>
-      <description>12 points, 2 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50535261'&gt;discussion sur Hacker News&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50535261</guid>
-      <pubDate>Tue, 17 Nov 2026 17:48:22 +0000</pubDate>
-    </item>
-    <item>
       <title>Simple Postmortem Tool</title>
       <link>https://www.probablybrokeit.com/</link>
       <description>1 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50529217'&gt;discussion sur Hacker News&lt;/a&gt;</description>
@@ -407,13 +407,6 @@
       <description>4 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50435725'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50435725</guid>
       <pubDate>Tue, 10 Nov 2026 03:31:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Trigger.dev: Security incident report – Sunday November first</title>
-      <link>https://trigger.dev/blog/security-incident-report-nov-2026</link>
-      <description>3 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50401113'&gt;discussion sur Hacker News&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50401113</guid>
-      <pubDate>Sat, 07 Nov 2026 02:41:26 +0000</pubDate>
     </item>
   </channel>
 </rss>
