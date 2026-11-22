@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 22 Nov 2026 01:48:09 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 09:03:10 +0000</lastBuildDate>
+    <item>
+      <title>[security] Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced</title>
+      <link>https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/32rhzb/researcher_plants_2m_canaries_into_ai"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/32rhzb</guid>
+      <pubDate>Sun, 22 Nov 2026 02:03:46 +0000</pubDate>
+    </item>
     <item>
       <title>[security] GhostScript CVE 2026-125396: "Upload2Shell"</title>
       <link>https://pwn.ai/upload2shell/research.html</link>
@@ -325,13 +332,6 @@ the 2106 horizon treated as a long-tail consideration (collectively referred to 
 &lt;p&gt;&lt;a href="https://lobste.rs/s/vwta8g/global_coordination_requirements_for"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/vwta8g</guid>
       <pubDate>Thu, 12 Nov 2026 08:19:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>[security] How I accidentally became a millionaire</title>
-      <link>https://lyra.horse/blog/2026/11/disinformation-machine/</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/lnau2d/how_i_accidentally_became_millionaire"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/lnau2d</guid>
-      <pubDate>Wed, 11 Nov 2026 21:53:24 +0000</pubDate>
     </item>
     <item>
       <title>[devops] Lock your GitHub Actions</title>

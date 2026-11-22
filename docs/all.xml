@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 22 Nov 2026 01:48:09 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 09:03:10 +0000</lastBuildDate>
+    <item>
+      <title>[security] Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced</title>
+      <link>https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/32rhzb/researcher_plants_2m_canaries_into_ai"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/32rhzb</guid>
+      <pubDate>Sun, 22 Nov 2026 02:03:46 +0000</pubDate>
+    </item>
     <item>
       <title>[security] GhostScript CVE 2026-125396: "Upload2Shell"</title>
       <link>https://pwn.ai/upload2shell/research.html</link>
@@ -27,7 +34,7 @@
     <item>
       <title>Tech Outages Are Only the Beginning. A.I. Will Bring More Disruptions</title>
       <link>https://www.nytimes.com/2026/11/21/us/politics/tech-outages-ai-disruptions.html</link>
-      <description>2 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50592872'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>3 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50592872'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50592872</guid>
       <pubDate>Sat, 21 Nov 2026 19:41:46 +0000</pubDate>
     </item>
@@ -41,7 +48,7 @@
     <item>
       <title>LibreOffice maker asks why there was no backup plan following the M365 outage</title>
       <link>https://www.techradar.com/pro/we-ask-whether-you-are-now-willing-to-listen-libreoffice-maker-asks-political-organizations-why-there-was-no-backup-plan-following-the-major-microsoft-365-outage</link>
-      <description>8 points, 2 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50590050'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>10 points, 2 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50590050'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50590050</guid>
       <pubDate>Sat, 21 Nov 2026 15:17:47 +0000</pubDate>
     </item>
@@ -76,7 +83,7 @@
     <item>
       <title>Why so many critical tech outages are happening all at once</title>
       <link>https://www.scientificamerican.com/article/why-so-many-critical-tech-outages-are-happening-all-at-once/</link>
-      <description>5 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50585896'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>5 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50585896'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50585896</guid>
       <pubDate>Sat, 21 Nov 2026 04:17:50 +0000</pubDate>
     </item>
@@ -682,13 +689,6 @@ the 2106 horizon treated as a long-tail consideration (collectively referred to 
 &lt;p&gt;&lt;a href="https://lobste.rs/s/vwta8g/global_coordination_requirements_for"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/vwta8g</guid>
       <pubDate>Thu, 12 Nov 2026 08:19:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>[security] How I accidentally became a millionaire</title>
-      <link>https://lyra.horse/blog/2026/11/disinformation-machine/</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/lnau2d/how_i_accidentally_became_millionaire"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/lnau2d</guid>
-      <pubDate>Wed, 11 Nov 2026 21:53:24 +0000</pubDate>
     </item>
     <item>
       <title>Platform-Capitalism on Steroids</title>
