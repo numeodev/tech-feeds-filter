@@ -8,7 +8,21 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 22 Nov 2026 09:03:10 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 17:29:31 +0000</lastBuildDate>
+    <item>
+      <title>Microsoft 365 Outage – Post Incident Report [pdf]</title>
+      <link>https://tianyin.github.io/misc/pir_microsoft_365_11-12-2026.pdf</link>
+      <description>2 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50600820'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50600820</guid>
+      <pubDate>Sun, 22 Nov 2026 15:58:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ask HN: Do you agree with Jeremie Harris's prepper guidance?</title>
+      <link>https://news.ycombinator.com/item?id=50600244</link>
+      <description>1 points, 3 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50600244'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50600244</guid>
+      <pubDate>Sun, 22 Nov 2026 14:53:25 +0000</pubDate>
+    </item>
     <item>
       <title>[security] Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced</title>
       <link>https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/</link>
@@ -34,7 +48,7 @@
     <item>
       <title>Tech Outages Are Only the Beginning. A.I. Will Bring More Disruptions</title>
       <link>https://www.nytimes.com/2026/11/21/us/politics/tech-outages-ai-disruptions.html</link>
-      <description>3 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50592872'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>3 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50592872'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50592872</guid>
       <pubDate>Sat, 21 Nov 2026 19:41:46 +0000</pubDate>
     </item>
@@ -483,20 +497,6 @@
       <description>1 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50537821'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50537821</guid>
       <pubDate>Tue, 17 Nov 2026 20:37:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>Apple Works to Restore Systems After Update Caused Outage</title>
-      <link>https://www.bloomberg.com/news/articles/2026-11-17/apple-works-to-restore-systems-after-update-caused-outage</link>
-      <description>4 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50537123'&gt;discussion sur Hacker News&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50537123</guid>
-      <pubDate>Tue, 17 Nov 2026 19:47:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>iCloud and Other Apple Services Are Down in an Apparent Outage</title>
-      <link>https://www.engadget.com/2319504/icloud-and-other-apple-services-are-down-in-an-apparent-outage/</link>
-      <description>1 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50536402'&gt;discussion sur Hacker News&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50536402</guid>
-      <pubDate>Tue, 17 Nov 2026 18:57:27 +0000</pubDate>
     </item>
     <item>
       <title>[security] Phrack 73</title>
