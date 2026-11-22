@@ -8,7 +8,15 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 21 Nov 2026 21:19:51 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 01:48:09 +0000</lastBuildDate>
+    <item>
+      <title>[security] GhostScript CVE 2026-125396: "Upload2Shell"</title>
+      <link>https://pwn.ai/upload2shell/research.html</link>
+      <description>&lt;p&gt;&lt;a href="https://nvd.nist.gov/vuln/detail/cve-2026-125396" rel="ugc"&gt;Here's the NVD page for the CVE with some additional useful context&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://lobste.rs/s/n5i1ds/ghostscript_cve_2026_125396"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/n5i1ds</guid>
+      <pubDate>Sun, 22 Nov 2026 00:52:23 +0000</pubDate>
+    </item>
     <item>
       <title>[security] How 2 Security Research (MLG)</title>
       <link>https://www.youtube.com/watch?v=dXQ_9WN6KLQ</link>
@@ -324,14 +332,6 @@ the 2106 horizon treated as a long-tail consideration (collectively referred to 
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/lnau2d/how_i_accidentally_became_millionaire"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/lnau2d</guid>
       <pubDate>Wed, 11 Nov 2026 21:53:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>[security] eMudhra Statement on Recent Certificate Security Incident</title>
-      <link>https://emudhra.com/en/post/certificate-security-incident</link>
-      <description>&lt;p&gt;See also: &lt;a href="https://bugzilla.mozilla.org/show_bug.cgi?id=2083449#c82" rel="ugc"&gt;https://bugzilla.mozilla.org/show_bug.cgi?id=2083449#c82&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://lobste.rs/s/pfscsm/emudhra_statement_on_recent_certificate"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/pfscsm</guid>
-      <pubDate>Wed, 11 Nov 2026 19:19:58 +0000</pubDate>
     </item>
     <item>
       <title>[devops] Lock your GitHub Actions</title>

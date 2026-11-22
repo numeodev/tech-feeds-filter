@@ -8,32 +8,32 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 21 Nov 2026 21:19:50 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 01:48:07 +0000</lastBuildDate>
     <item>
       <title>Are all of these outages a coincidence – or a glimpse of our AI future?</title>
       <link>https://tech.yahoo.com/general/article/are-all-of-these-outages-a-coincidence--or-a-glimpse-of-our-ai-future-210035788.html</link>
-      <description>4 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50593191'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>5 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50593191'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50593191</guid>
       <pubDate>Sat, 21 Nov 2026 20:14:20 +0000</pubDate>
     </item>
     <item>
       <title>Tech Outages Are Only the Beginning. A.I. Will Bring More Disruptions</title>
       <link>https://www.nytimes.com/2026/11/21/us/politics/tech-outages-ai-disruptions.html</link>
-      <description>1 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50592872'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>2 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50592872'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50592872</guid>
       <pubDate>Sat, 21 Nov 2026 19:41:46 +0000</pubDate>
     </item>
     <item>
       <title>LibreOffice maker asks why there was no backup plan following the M365 outage</title>
       <link>https://www.techradar.com/pro/we-ask-whether-you-are-now-willing-to-listen-libreoffice-maker-asks-political-organizations-why-there-was-no-backup-plan-following-the-major-microsoft-365-outage</link>
-      <description>5 points, 2 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50590050'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>8 points, 2 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50590050'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50590050</guid>
       <pubDate>Sat, 21 Nov 2026 15:17:47 +0000</pubDate>
     </item>
     <item>
       <title>Microsoft 365 outage of 12 Nov 2026: Post Incident Report [pdf]</title>
       <link>https://tianyin.github.io/misc/pir_microsoft_365_11-12-2026.pdf</link>
-      <description>2 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50589876'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>3 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50589876'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50589876</guid>
       <pubDate>Sat, 21 Nov 2026 15:00:36 +0000</pubDate>
     </item>
@@ -372,13 +372,6 @@
       <description>1 points, 2 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50458889'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50458889</guid>
       <pubDate>Wed, 11 Nov 2026 21:23:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>Vagrant's Licence Reverted to MIT</title>
-      <link>https://github.com/hashicorp/vagrant/commit/ab4fc5e3db1bd215ded614add4a26a81c7b5cbeb</link>
-      <description>4 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50455461'&gt;discussion sur Hacker News&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50455461</guid>
-      <pubDate>Wed, 11 Nov 2026 16:44:46 +0000</pubDate>
     </item>
     <item>
       <title>eMudhra: Full Incident Report</title>
