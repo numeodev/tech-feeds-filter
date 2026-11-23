@@ -8,11 +8,18 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 22 Nov 2026 22:58:02 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 03:29:41 +0000</lastBuildDate>
+    <item>
+      <title>USDA Confirms Cyberthreat on Loan Software Amid Widespread Systems Outages</title>
+      <link>https://www.dtnpf.com/agriculture/web/ag/columns/washington-insider/article/2026/11/19/usda-loan-software-systems-face-amid</link>
+      <description>2 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50606261'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50606261</guid>
+      <pubDate>Mon, 23 Nov 2026 01:22:29 +0000</pubDate>
+    </item>
     <item>
       <title>AWS got hit by an outage too. You didn't hear about it</title>
       <link>https://www.theregister.com/columnists/2026/11/21/aws-got-hit-by-an-outage-too-heres-why-you-didnt-hear-about-it/5311511</link>
-      <description>31 points, 2 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50603730'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>54 points, 3 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50603730'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50603730</guid>
       <pubDate>Sun, 22 Nov 2026 20:50:18 +0000</pubDate>
     </item>
@@ -26,7 +33,7 @@
     <item>
       <title>Microsoft admits some emails bounced during Outlook outage, reveals new failures</title>
       <link>https://www.neowin.net/news/microsoft-admits-some-emails-bounced-during-global-outlook-outage-reveals-new-failures/</link>
-      <description>4 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50602877'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>5 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50602877'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50602877</guid>
       <pubDate>Sun, 22 Nov 2026 19:13:13 +0000</pubDate>
     </item>
@@ -297,13 +304,6 @@
       <pubDate>Wed, 18 Nov 2026 01:45:11 +0000</pubDate>
     </item>
     <item>
-      <title>How to tell if an outage is a cyberattack</title>
-      <link>https://ipinfo.io/blog/internet-brief-2</link>
-      <description>4 points, 5 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50540381'&gt;discussion sur Hacker News&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50540381</guid>
-      <pubDate>Wed, 18 Nov 2026 00:44:58 +0000</pubDate>
-    </item>
-    <item>
       <title>Preliminary Post Incident Report for Microsoft 365</title>
       <link>https://dreamstation.systems/miscStuff/20261115PreliminaryPostIncidentReportForMicrosoft365.docx</link>
       <description>1 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50537821'&gt;discussion sur Hacker News&lt;/a&gt;</description>
@@ -376,7 +376,7 @@
     <item>
       <title>Platform-Capitalism on Steroids</title>
       <link>https://news.ycombinator.com/item?id=50458889</link>
-      <description>1 points, 2 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50458889'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>1 points, 3 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50458889'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50458889</guid>
       <pubDate>Wed, 11 Nov 2026 21:23:33 +0000</pubDate>
     </item>

@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 22 Nov 2026 22:58:02 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 03:29:42 +0000</lastBuildDate>
+    <item>
+      <title>[security] De-fanging dangerous triggers in GitHub Actions across an organization</title>
+      <link>https://pyfound.blogspot.com/2026/11/de-fanging-dangerous-triggers-in-github.html</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/rvvt6x/de_fanging_dangerous_triggers_github"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/rvvt6x</guid>
+      <pubDate>Mon, 23 Nov 2026 03:02:13 +0000</pubDate>
+    </item>
     <item>
       <title>[security] Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced</title>
       <link>https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/</link>
@@ -315,13 +322,6 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/f6u0cg/contra_glue_work_considered_harmful"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/f6u0cg</guid>
       <pubDate>Fri, 13 Nov 2026 02:36:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>[security] Secure Exclaves and Ambient Sensing</title>
-      <link>https://security.apple.com/blog/secure-exclaves/</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/vnugiy/secure_exclaves_ambient_sensing"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/vnugiy</guid>
-      <pubDate>Thu, 12 Nov 2026 22:55:12 +0000</pubDate>
     </item>
     <item>
       <title>[distributed] Global coordination requirements for 2038-class rollover events</title>
