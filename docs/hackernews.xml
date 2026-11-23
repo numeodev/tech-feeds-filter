@@ -8,7 +8,28 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 23 Nov 2026 03:29:41 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 13:51:47 +0000</lastBuildDate>
+    <item>
+      <title>What the IT Outage Cluster Reveals</title>
+      <link>https://spectrum.ieee.org/it-outage</link>
+      <description>2 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50610755'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50610755</guid>
+      <pubDate>Mon, 23 Nov 2026 12:30:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Show HN: Markdown reader / editor and PDF annotations, EBooks, Agent Integration</title>
+      <link>https://blog.etherpk.com/etherpk-can-now-work-as-a-general-purpose-markdown-editor</link>
+      <description>1 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50610374'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50610374</guid>
+      <pubDate>Mon, 23 Nov 2026 11:40:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft 365 Outage – Post Incident Report [pdf]</title>
+      <link>https://tianyin.github.io/misc/pir_microsoft_365_11-12-2026.pdf</link>
+      <description>4 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50608303'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50608303</guid>
+      <pubDate>Mon, 23 Nov 2026 06:47:54 +0000</pubDate>
+    </item>
     <item>
       <title>USDA Confirms Cyberthreat on Loan Software Amid Widespread Systems Outages</title>
       <link>https://www.dtnpf.com/agriculture/web/ag/columns/washington-insider/article/2026/11/19/usda-loan-software-systems-face-amid</link>
@@ -19,7 +40,7 @@
     <item>
       <title>AWS got hit by an outage too. You didn't hear about it</title>
       <link>https://www.theregister.com/columnists/2026/11/21/aws-got-hit-by-an-outage-too-heres-why-you-didnt-hear-about-it/5311511</link>
-      <description>54 points, 3 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50603730'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>62 points, 5 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50603730'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50603730</guid>
       <pubDate>Sun, 22 Nov 2026 20:50:18 +0000</pubDate>
     </item>
@@ -295,13 +316,6 @@
       <description>4 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50541430'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50541430</guid>
       <pubDate>Wed, 18 Nov 2026 03:17:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>Bank CEOs, NSA Tell Congress That AI-Driven Patches Are Behind Outages</title>
-      <link>https://www.washingtonsun.com/technology/bank-ceos-nsa-tell-congress-ai-driven-patches-behind-outages</link>
-      <description>98 points, 58 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50540836'&gt;discussion sur Hacker News&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50540836</guid>
-      <pubDate>Wed, 18 Nov 2026 01:45:11 +0000</pubDate>
     </item>
     <item>
       <title>Preliminary Post Incident Report for Microsoft 365</title>

@@ -8,7 +8,42 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 23 Nov 2026 03:29:42 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 13:51:48 +0000</lastBuildDate>
+    <item>
+      <title>What the IT Outage Cluster Reveals</title>
+      <link>https://spectrum.ieee.org/it-outage</link>
+      <description>2 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50610755'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50610755</guid>
+      <pubDate>Mon, 23 Nov 2026 12:30:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Show HN: Markdown reader / editor and PDF annotations, EBooks, Agent Integration</title>
+      <link>https://blog.etherpk.com/etherpk-can-now-work-as-a-general-purpose-markdown-editor</link>
+      <description>1 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50610374'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50610374</guid>
+      <pubDate>Mon, 23 Nov 2026 11:40:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>[distributed] Quality IMAP, Part 2: Mailbox Concurrency</title>
+      <link>https://aerogramme.deuxfleurs.fr/blog/2026-quality-imap-part-2/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/lnpwpu/quality_imap_part_2_mailbox_concurrency"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/lnpwpu</guid>
+      <pubDate>Mon, 23 Nov 2026 11:05:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>[security] On self-healing code and the obvious issue</title>
+      <link>https://gynvael.coldwind.pl/?id=766</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/zorlwr/on_self_healing_code_obvious_issue"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/zorlwr</guid>
+      <pubDate>Mon, 23 Nov 2026 07:46:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft 365 Outage – Post Incident Report [pdf]</title>
+      <link>https://tianyin.github.io/misc/pir_microsoft_365_11-12-2026.pdf</link>
+      <description>4 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50608303'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50608303</guid>
+      <pubDate>Mon, 23 Nov 2026 06:47:54 +0000</pubDate>
+    </item>
     <item>
       <title>[security] De-fanging dangerous triggers in GitHub Actions across an organization</title>
       <link>https://pyfound.blogspot.com/2026/11/de-fanging-dangerous-triggers-in-github.html</link>
@@ -26,7 +61,7 @@
     <item>
       <title>AWS got hit by an outage too. You didn't hear about it</title>
       <link>https://www.theregister.com/columnists/2026/11/21/aws-got-hit-by-an-outage-too-heres-why-you-didnt-hear-about-it/5311511</link>
-      <description>54 points, 3 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50603730'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>62 points, 5 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50603730'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50603730</guid>
       <pubDate>Sun, 22 Nov 2026 20:50:18 +0000</pubDate>
     </item>
@@ -485,13 +520,6 @@
       <pubDate>Wed, 18 Nov 2026 03:17:19 +0000</pubDate>
     </item>
     <item>
-      <title>Bank CEOs, NSA Tell Congress That AI-Driven Patches Are Behind Outages</title>
-      <link>https://www.washingtonsun.com/technology/bank-ceos-nsa-tell-congress-ai-driven-patches-behind-outages</link>
-      <description>98 points, 58 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50540836'&gt;discussion sur Hacker News&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50540836</guid>
-      <pubDate>Wed, 18 Nov 2026 01:45:11 +0000</pubDate>
-    </item>
-    <item>
       <title>[security] Vx32: Lightweight User-level Sandboxing on the x86 (2008)</title>
       <link>https://pdos.csail.mit.edu/papers/vx32:usenix08.pdf</link>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ov04jq/vx32_lightweight_user_level_sandboxing"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
@@ -658,13 +686,6 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/nlpvck/how_i_ended_up_turning_22_year_old"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/nlpvck</guid>
       <pubDate>Fri, 13 Nov 2026 10:25:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>[security] “From digital mischief to outright destruction”</title>
-      <link>https://unsung.aresluna.org/from-digital-mischief-to-outright-destruction</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/cjnwcg/from_digital_mischief_outright"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/cjnwcg</guid>
-      <pubDate>Fri, 13 Nov 2026 07:50:10 +0000</pubDate>
     </item>
     <item>
       <title>[distributed] Choosing QuePaxa, an unusual consensus algorithm</title>
@@ -1192,13 +1213,6 @@ the 2106 horizon treated as a long-tail consideration (collectively referred to 
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/tpxwfe/using_docker_compose_with_podman"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/tpxwfe</guid>
       <pubDate>Mon, 05 Oct 2026 09:51:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>[distributed] Protocol-aware recovery for consensus-based storage (2018)</title>
-      <link>https://www.usenix.org/system/files/conference/fast18/fast18-alagappan.pdf</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/4bzboj/protocol_aware_recovery_for_consensus"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/4bzboj</guid>
-      <pubDate>Sun, 04 Oct 2026 20:00:34 +0000</pubDate>
     </item>
     <item>
       <title>[devops] gVisor is being donated to CNCF</title>
