@@ -8,11 +8,18 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 24 Nov 2026 01:23:16 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 11:48:42 +0000</lastBuildDate>
+    <item>
+      <title>Why are so many services using email magic links for login?</title>
+      <link>https://news.ycombinator.com/item?id=50625996</link>
+      <description>6 points, 6 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50625996'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50625996</guid>
+      <pubDate>Tue, 24 Nov 2026 09:53:26 +0000</pubDate>
+    </item>
     <item>
       <title>Show HN: Gal – local-first agent runtime with per-call permissions and rollback</title>
       <link>https://agent-home.ai/index.html</link>
-      <description>3 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50621748'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>4 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50621748'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50621748</guid>
       <pubDate>Tue, 24 Nov 2026 00:31:31 +0000</pubDate>
     </item>
@@ -75,7 +82,7 @@
     <item>
       <title>Microsoft 365 Outage – Post Incident Report [pdf]</title>
       <link>https://tianyin.github.io/misc/pir_microsoft_365_11-12-2026.pdf</link>
-      <description>4 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50608303'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>5 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50608303'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50608303</guid>
       <pubDate>Mon, 23 Nov 2026 06:47:54 +0000</pubDate>
     </item>
@@ -804,13 +811,6 @@ the 2106 horizon treated as a long-tail consideration (collectively referred to 
       <description>25 points, 2 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50441465'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50441465</guid>
       <pubDate>Tue, 10 Nov 2026 15:08:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>Australia to introduce mandatory incident reporting after OpenAI hack</title>
-      <link>https://www.theguardian.com/technology/2026/nov/10/australia-manadatory-reporting-openai-medicare-hack</link>
-      <description>4 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50435725'&gt;discussion sur Hacker News&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50435725</guid>
-      <pubDate>Tue, 10 Nov 2026 03:31:12 +0000</pubDate>
     </item>
     <item>
       <title>[devops] Microsecond accurate NTP with a Raspberry Pi and PPS GPS(2021)</title>
