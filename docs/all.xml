@@ -8,7 +8,42 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 23 Nov 2026 13:51:48 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 01:23:16 +0000</lastBuildDate>
+    <item>
+      <title>Show HN: Gal – local-first agent runtime with per-call permissions and rollback</title>
+      <link>https://agent-home.ai/index.html</link>
+      <description>3 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50621748'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50621748</guid>
+      <pubDate>Tue, 24 Nov 2026 00:31:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>[security] Bluetooth2Shell: One tap of pairing is all it takes</title>
+      <link>https://bluetooth2shell.com/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ik6f4o/bluetooth2shell_one_tap_pairing_is_all_it"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/ik6f4o</guid>
+      <pubDate>Mon, 23 Nov 2026 20:57:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>US intelligence chief predicts more tech outages as systems undergo upgrades</title>
+      <link>https://www.reuters.com/business/finance/us-intelligence-chief-predicts-more-tech-outages-systems-undergo-upgrades-2026-11-22/</link>
+      <description>11 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50617510'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50617510</guid>
+      <pubDate>Mon, 23 Nov 2026 19:18:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>[distributed] Sneakernet</title>
+      <link>https://sneakernet.eu/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/pdecff/sneakernet"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/pdecff</guid>
+      <pubDate>Mon, 23 Nov 2026 16:20:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>[devops] Held together by spare time: Reviving wiki.alpinelinux.org during PHP2Shell</title>
+      <link>https://lambdacreate.com/posts/held-together-by-spare-time</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/gtc9rg/held_together_by_spare_time_reviving_wiki"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/gtc9rg</guid>
+      <pubDate>Mon, 23 Nov 2026 15:16:31 +0000</pubDate>
+    </item>
     <item>
       <title>What the IT Outage Cluster Reveals</title>
       <link>https://spectrum.ieee.org/it-outage</link>
@@ -31,9 +66,9 @@
       <pubDate>Mon, 23 Nov 2026 11:05:08 +0000</pubDate>
     </item>
     <item>
-      <title>[security] On self-healing code and the obvious issue</title>
+      <title>[security] On self-healing code and the obvious issue (2023)</title>
       <link>https://gynvael.coldwind.pl/?id=766</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/zorlwr/on_self_healing_code_obvious_issue"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/zorlwr/on_self_healing_code_obvious_issue_2023"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/zorlwr</guid>
       <pubDate>Mon, 23 Nov 2026 07:46:17 +0000</pubDate>
     </item>
@@ -61,7 +96,7 @@
     <item>
       <title>AWS got hit by an outage too. You didn't hear about it</title>
       <link>https://www.theregister.com/columnists/2026/11/21/aws-got-hit-by-an-outage-too-heres-why-you-didnt-hear-about-it/5311511</link>
-      <description>62 points, 5 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50603730'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>66 points, 6 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50603730'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50603730</guid>
       <pubDate>Sun, 22 Nov 2026 20:50:18 +0000</pubDate>
     </item>
@@ -188,7 +223,7 @@
     <item>
       <title>Don't blame cyber-attacks for recent outages. The real villain is the US economy</title>
       <link>https://www.theguardian.com/commentisfree/2026/nov/20/cyber-attacks-outages-blame-economy</link>
-      <description>4 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50577910'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>5 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50577910'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50577910</guid>
       <pubDate>Fri, 20 Nov 2026 16:59:53 +0000</pubDate>
     </item>
@@ -413,7 +448,7 @@
     <item>
       <title>Launch HN: Maritime (YC F26) – A managed cloud for production AI agents</title>
       <link>https://news.ycombinator.com/item?id=50549188</link>
-      <description>60 points, 66 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50549188'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>60 points, 67 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50549188'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50549188</guid>
       <pubDate>Wed, 18 Nov 2026 17:26:28 +0000</pubDate>
     </item>
@@ -504,13 +539,6 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/bjmwt6/stacked_diffs_with_maiao"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/bjmwt6</guid>
       <pubDate>Wed, 18 Nov 2026 06:43:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>Rubio says zero evidence tech outages related</title>
-      <link>https://www.cbsnews.com/news/marco-rubio-tech-outages-not-connected/</link>
-      <description>10 points, 7 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50541457'&gt;discussion sur Hacker News&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50541457</guid>
-      <pubDate>Wed, 18 Nov 2026 03:22:14 +0000</pubDate>
     </item>
     <item>
       <title>Microsoft disabled API permissions seemingly overnight</title>
@@ -679,13 +707,6 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ezl1sa/running_law_firm_on_free_software_2026"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/ezl1sa</guid>
       <pubDate>Fri, 13 Nov 2026 11:20:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>[security] How I Ended Up Turning a 22-Year-Old PostgreSQL Type-Confusion Primitive into RCE (CVE-2026-6460)</title>
-      <link>https://mehmetince.net/part-3-6-how-i-ended-up-turning-a-22-year-old-postgresql-type-confusion-primitive-into-rce-cve-2026-6460/</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/nlpvck/how_i_ended_up_turning_22_year_old"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/nlpvck</guid>
-      <pubDate>Fri, 13 Nov 2026 10:25:27 +0000</pubDate>
     </item>
     <item>
       <title>[distributed] Choosing QuePaxa, an unusual consensus algorithm</title>
@@ -1200,14 +1221,6 @@ the 2106 horizon treated as a long-tail consideration (collectively referred to 
       <pubDate>Thu, 08 Oct 2026 17:39:17 +0000</pubDate>
     </item>
     <item>
-      <title>[distributed] Perseus: A Fail-Slow Detection Framework for Cloud Storage Systems (2023)</title>
-      <link>https://www.usenix.org/system/files/fast23-lu.pdf</link>
-      <description>&lt;p&gt;Abstract: The newly-emerging “fail-slow” failures plague both software and hardware where the victim components are still functioning yet with degraded performance. To address this problem, this paper presents PERSEUS, a practical fail-slow detection framework for storage devices. PERSEUS leverages a light regression-based model to fast pinpoint and analyze fail-slow failures at the granularity of drives. Within a 10-month close monitoring on 248K drives, PERSEUS managed to find 304 fail-slow cases. Isolating them can reduce the (node-level) 99.99th tail latency by 48%. We assemble a large-scale fail-slow dataset (including 41K normal drives and 315 verified fail-slow drives) from our production traces, based on which we provide root cause analysis on fail-slow drives covering a variety of ill-implemented scheduling, hardware defects, and environmental factors. We have released the dataset to the public for fail-slow study.&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://lobste.rs/s/uvpts7/perseus_fail_slow_detection_framework"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/uvpts7</guid>
-      <pubDate>Tue, 06 Oct 2026 18:11:34 +0000</pubDate>
-    </item>
-    <item>
       <title>[devops] Using docker-compose with Podman rootless</title>
       <link>https://elou.world/en/tutorial/podman-docker-compose</link>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/tpxwfe/using_docker_compose_with_podman"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
@@ -1270,13 +1283,6 @@ the 2106 horizon treated as a long-tail consideration (collectively referred to 
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/nbjo0i/creepy_crawlies"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/nbjo0i</guid>
       <pubDate>Sat, 29 Aug 2026 16:25:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>[devops] Dynamically Naming Servers</title>
-      <link>https://arch.dog/bark/dynamically-naming-servers</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/swzhtb/dynamically_naming_servers"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/swzhtb</guid>
-      <pubDate>Mon, 24 Aug 2026 14:36:35 +0000</pubDate>
     </item>
   </channel>
 </rss>
