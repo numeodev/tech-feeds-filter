@@ -8,11 +8,32 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 24 Nov 2026 11:48:42 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 21:43:35 +0000</lastBuildDate>
+    <item>
+      <title>Vagrant License Change Reverted</title>
+      <link>https://github.com/hashicorp/vagrant/commit/ab4fc5e3db1bd215ded614add4a26a81c7b5cbeb</link>
+      <description>2 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50634979'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50634979</guid>
+      <pubDate>Tue, 24 Nov 2026 21:27:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft declares 'Code Red' after historic outage, internal memos show</title>
+      <link>https://www.ctvnews.ca/sci-tech/article/microsoft-declares-code-red-after-historic-outage-internal-memos-show-reuters-exclusive/</link>
+      <description>3 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50633414'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50633414</guid>
+      <pubDate>Tue, 24 Nov 2026 19:40:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft declares 'Code Red' after historic outage, internal memos show</title>
+      <link>https://www.reuters.com/business/microsoft-declares-code-red-after-historic-outage-internal-memos-show-2026-11-24/</link>
+      <description>168 points, 138 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50631157'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50631157</guid>
+      <pubDate>Tue, 24 Nov 2026 17:07:41 +0000</pubDate>
+    </item>
     <item>
       <title>Why are so many services using email magic links for login?</title>
       <link>https://news.ycombinator.com/item?id=50625996</link>
-      <description>6 points, 6 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50625996'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>15 points, 15 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50625996'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50625996</guid>
       <pubDate>Tue, 24 Nov 2026 09:53:26 +0000</pubDate>
     </item>
@@ -311,20 +332,6 @@
       <pubDate>Wed, 18 Nov 2026 10:04:48 +0000</pubDate>
     </item>
     <item>
-      <title>Microsoft's Giant Outlook Outage</title>
-      <link>https://www.theverge.com/tech/1035364/microsoft-outlook-outage-notepad</link>
-      <description>3 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50543936'&gt;discussion sur Hacker News&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50543936</guid>
-      <pubDate>Wed, 18 Nov 2026 09:23:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft 365 outage forces Japanese workers back to fax machines</title>
-      <link>https://www.techradar.com/pro/microsoft-365-outage-saw-japanese-workers-fire-up-their-fax-machines</link>
-      <description>2 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50543279'&gt;discussion sur Hacker News&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50543279</guid>
-      <pubDate>Wed, 18 Nov 2026 08:10:46 +0000</pubDate>
-    </item>
-    <item>
       <title>Microsoft disabled API permissions seemingly overnight</title>
       <link>https://news.ycombinator.com/item?id=50541430</link>
       <description>4 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50541430'&gt;discussion sur Hacker News&lt;/a&gt;</description>
@@ -421,13 +428,6 @@
       <description>3 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50447465'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50447465</guid>
       <pubDate>Tue, 10 Nov 2026 22:55:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>Incident Report: October 21st Security Attack</title>
-      <link>https://blog.railway.com/p/incident-report-october-security-incident</link>
-      <description>25 points, 2 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50441465'&gt;discussion sur Hacker News&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50441465</guid>
-      <pubDate>Tue, 10 Nov 2026 15:08:58 +0000</pubDate>
     </item>
   </channel>
 </rss>

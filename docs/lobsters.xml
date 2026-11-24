@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 24 Nov 2026 11:48:42 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 21:43:36 +0000</lastBuildDate>
+    <item>
+      <title>[security] iTerm2 Arbitrary Command Execution via Kitty Image Protocol APC Response Injection</title>
+      <link>https://ii4gsp.github.io/iterm2-rce/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/j66n8x/iterm2_arbitrary_command_execution_via"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/j66n8x</guid>
+      <pubDate>Tue, 24 Nov 2026 14:06:14 +0000</pubDate>
+    </item>
     <item>
       <title>[security] Bluetooth2Shell: One tap of pairing is all it takes</title>
       <link>https://bluetooth2shell.com/</link>
@@ -315,13 +322,6 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/wqml56/someone_s_impersonating_this_blog"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/wqml56</guid>
       <pubDate>Fri, 13 Nov 2026 20:39:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>[security] Don't bother patching: multiple remote code execution vulnerabilities in Danfoss AK-SM800A</title>
-      <link>https://www.midnightblue.nl/blog/multiple-rce-danfoss-aksm800a</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/rpd05t/don_t_bother_patching_multiple_remote"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/rpd05t</guid>
-      <pubDate>Fri, 13 Nov 2026 20:26:34 +0000</pubDate>
     </item>
     <item>
       <title>[practices] Running a law firm on Free software (2026 edition)</title>
