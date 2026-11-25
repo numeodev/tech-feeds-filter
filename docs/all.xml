@@ -8,7 +8,35 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 25 Nov 2026 15:09:14 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 23:53:50 +0000</lastBuildDate>
+    <item>
+      <title>[security] Slow Ubuntu security response times</title>
+      <link>https://www.openwall.com/lists/oss-security/2026/11/25/9</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/wzlzlh/slow_ubuntu_security_response_times"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/wzlzlh</guid>
+      <pubDate>Wed, 25 Nov 2026 20:10:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>Allstate suffers multi-day tech outage ahead of Thanksgiving</title>
+      <link>https://finance.yahoo.com/technology/articles/allstate-suffers-multi-day-tech-150837653.html</link>
+      <description>3 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50646430'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50646430</guid>
+      <pubDate>Wed, 25 Nov 2026 19:38:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>When Downdetector Warns of an Outage, Some Hear It Crying Wolf</title>
+      <link>https://www.nytimes.com/2026/11/19/technology/downdetector-tech-outages-microsoft-chase-apple.html</link>
+      <description>2 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50645854'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50645854</guid>
+      <pubDate>Wed, 25 Nov 2026 18:46:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>[security] Update on a security incident involving 1Password’s backend systems</title>
+      <link>https://1password.com/blog/update-on-nov-2026-security-incident</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/aulbi2/update_on_security_incident_involving"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/aulbi2</guid>
+      <pubDate>Wed, 25 Nov 2026 17:43:13 +0000</pubDate>
+    </item>
     <item>
       <title>Coldcard Seed-Generation Incident: Postmortem [pdf]</title>
       <link>https://blog.coinkite.com/reports/coldcard-seed-generation-incident-postmortem-2026-11-23.pdf</link>
@@ -68,7 +96,7 @@
     <item>
       <title>Microsoft declares 'Code Red' after historic outage, internal memos show</title>
       <link>https://www.reuters.com/business/microsoft-declares-code-red-after-historic-outage-internal-memos-show-2026-11-24/</link>
-      <description>249 points, 237 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50631157'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>253 points, 243 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50631157'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50631157</guid>
       <pubDate>Tue, 24 Nov 2026 17:07:41 +0000</pubDate>
     </item>
@@ -558,13 +586,6 @@
       <pubDate>Wed, 18 Nov 2026 14:34:44 +0000</pubDate>
     </item>
     <item>
-      <title>US tech outages blamed on rush to fix bugs found by AI</title>
-      <link>https://www.ft.com/content/96c565f1-f229-40b6-91e8-7a849ec4b208</link>
-      <description>4 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50546690'&gt;discussion sur Hacker News&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50546690</guid>
-      <pubDate>Wed, 18 Nov 2026 14:24:53 +0000</pubDate>
-    </item>
-    <item>
       <title>[security] Java4Shell is a reason to use Java</title>
       <link>https://mccue.dev/pages/11-18-26-java4shell</link>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/a1uff5/java4shell_is_reason_use_java"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
@@ -577,13 +598,6 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/cwxmdw/windows_11_collects_data_on_which_coding"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/cwxmdw</guid>
       <pubDate>Wed, 18 Nov 2026 11:57:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>After Days of Digital Outages, Americans Wonder If the Country Is Breaking</title>
-      <link>https://www.nytimes.com/2026/11/17/us/politics/outages-flights-banks-tech.html</link>
-      <description>7 points, 5 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50544279'&gt;discussion sur Hacker News&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50544279</guid>
-      <pubDate>Wed, 18 Nov 2026 10:04:48 +0000</pubDate>
     </item>
     <item>
       <title>[vcs] Codeberg's domain suddenly disappeared from their account, site is unreachable</title>
@@ -674,13 +688,6 @@
       <pubDate>Mon, 16 Nov 2026 16:43:58 +0000</pubDate>
     </item>
     <item>
-      <title>[security] NoisyTCP</title>
-      <link>https://www.openwall.com/lists/oss-security/2026/11/15/2</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/uegnml/noisytcp"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/uegnml</guid>
-      <pubDate>Mon, 16 Nov 2026 12:50:29 +0000</pubDate>
-    </item>
-    <item>
       <title>Microsoft Post-Incident Report Is Up for the Exchange Online Outage</title>
       <link>https://www.reddit.com/r/sysadmin/comments/1xxiasy/microsoft_postincident_report_is_up_for_the/</link>
       <description>9 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50515114'&gt;discussion sur Hacker News&lt;/a&gt;</description>
@@ -693,13 +700,6 @@
       <description>4 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50514500'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50514500</guid>
       <pubDate>Mon, 16 Nov 2026 05:56:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>[security] Universal XSS in uBlock Origin from website-driven element picker</title>
-      <link>https://iter.ca/post/ubo-uxss/</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/x0ykkw/universal_xss_ublock_origin_from_website"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/x0ykkw</guid>
-      <pubDate>Mon, 16 Nov 2026 05:12:27 +0000</pubDate>
     </item>
     <item>
       <title>[vcs] Migrating from GitHub to Codeberg</title>
@@ -780,13 +780,6 @@ the 2106 horizon treated as a long-tail consideration (collectively referred to 
 &lt;p&gt;&lt;a href="https://lobste.rs/s/vwta8g/global_coordination_requirements_for"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/vwta8g</guid>
       <pubDate>Thu, 12 Nov 2026 08:19:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>Platform-Capitalism on Steroids</title>
-      <link>https://news.ycombinator.com/item?id=50458889</link>
-      <description>1 points, 3 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50458889'&gt;discussion sur Hacker News&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50458889</guid>
-      <pubDate>Wed, 11 Nov 2026 21:23:33 +0000</pubDate>
     </item>
     <item>
       <title>[devops] Lock your GitHub Actions</title>
