@@ -8,7 +8,35 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 24 Nov 2026 21:43:36 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 04:41:38 +0000</lastBuildDate>
+    <item>
+      <title>How to Stay Abreast of Compromised Software?</title>
+      <link>https://news.ycombinator.com/item?id=50637594</link>
+      <description>1 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50637594'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50637594</guid>
+      <pubDate>Wed, 25 Nov 2026 02:24:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sparrow Postmortem</title>
+      <link>https://jakequist.com/articles/sparrow-post-mortem/</link>
+      <description>2 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50636787'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50636787</guid>
+      <pubDate>Wed, 25 Nov 2026 00:16:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>Post Incident Report for Microsoft 365 [pdf]</title>
+      <link>https://www.365fanatic.com/wp-content/uploads/2026/11/postincidentreport-mo1550821.pdf</link>
+      <description>4 points, 2 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50636667'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50636667</guid>
+      <pubDate>Wed, 25 Nov 2026 00:05:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[security] From formal verification to bug-finding in CHERIoT</title>
+      <link>https://cheriot.org/verification/2026/11/24/griotte-verification-effort.html</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/khb1yv/from_formal_verification_bug_finding"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/khb1yv</guid>
+      <pubDate>Tue, 24 Nov 2026 23:52:41 +0000</pubDate>
+    </item>
     <item>
       <title>Vagrant License Change Reverted</title>
       <link>https://github.com/hashicorp/vagrant/commit/ab4fc5e3db1bd215ded614add4a26a81c7b5cbeb</link>
@@ -26,7 +54,7 @@
     <item>
       <title>Microsoft declares 'Code Red' after historic outage, internal memos show</title>
       <link>https://www.reuters.com/business/microsoft-declares-code-red-after-historic-outage-internal-memos-show-2026-11-24/</link>
-      <description>168 points, 138 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50631157'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>232 points, 215 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50631157'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50631157</guid>
       <pubDate>Tue, 24 Nov 2026 17:07:41 +0000</pubDate>
     </item>
@@ -40,7 +68,7 @@
     <item>
       <title>Why are so many services using email magic links for login?</title>
       <link>https://news.ycombinator.com/item?id=50625996</link>
-      <description>15 points, 15 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50625996'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>17 points, 16 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50625996'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50625996</guid>
       <pubDate>Tue, 24 Nov 2026 09:53:26 +0000</pubDate>
     </item>
@@ -709,13 +737,6 @@
       <pubDate>Sun, 15 Nov 2026 00:18:17 +0000</pubDate>
     </item>
     <item>
-      <title>[security] Someone's impersonating this blog</title>
-      <link>https://mattbee.mataroa.blog/p/someones-impersonating-this-blog/</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/wqml56/someone_s_impersonating_this_blog"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/wqml56</guid>
-      <pubDate>Fri, 13 Nov 2026 20:39:53 +0000</pubDate>
-    </item>
-    <item>
       <title>[practices] Running a law firm on Free software (2026 edition)</title>
       <link>https://decoded.legal/blog/2026/11/running-a-law-firm-on-free-software-2026-edition/</link>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ezl1sa/running_law_firm_on_free_software_2026"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
@@ -797,20 +818,6 @@ the 2106 horizon treated as a long-tail consideration (collectively referred to 
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/m7n7nn/deploy_rs_2026_reviving_our_nix"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/m7n7nn</guid>
       <pubDate>Wed, 11 Nov 2026 10:58:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>eMudhra: Full Incident Report</title>
-      <link>https://bugzilla.mozilla.org/show_bug.cgi?id=2083449</link>
-      <description>6 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50447482'&gt;discussion sur Hacker News&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50447482</guid>
-      <pubDate>Tue, 10 Nov 2026 22:57:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>eMudhra's incident report is out</title>
-      <link>https://bugzilla.mozilla.org/show_bug.cgi?id=2083449</link>
-      <description>3 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50447465'&gt;discussion sur Hacker News&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50447465</guid>
-      <pubDate>Tue, 10 Nov 2026 22:55:20 +0000</pubDate>
     </item>
     <item>
       <title>[devops] Microsecond accurate NTP with a Raspberry Pi and PPS GPS(2021)</title>
