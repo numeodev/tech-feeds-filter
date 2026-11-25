@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 25 Nov 2026 04:41:38 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 15:09:14 +0000</lastBuildDate>
+    <item>
+      <title>[security] Taking over US Treasury subdomains for $3 each</title>
+      <link>https://www.intruder.io/research/taking-over-us-treasury-subdomains-for-3-each</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/ogxwpi/taking_over_us_treasury_subdomains_for_3"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/ogxwpi</guid>
+      <pubDate>Wed, 25 Nov 2026 10:27:49 +0000</pubDate>
+    </item>
     <item>
       <title>[security] From formal verification to bug-finding in CHERIoT</title>
       <link>https://cheriot.org/verification/2026/11/24/griotte-verification-effort.html</link>
@@ -315,13 +322,6 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/hgicaq/please_implement_quorum_database"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/hgicaq</guid>
       <pubDate>Sun, 15 Nov 2026 22:44:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>[security] Blog: Preventing Cross-Service UDP Loops in QUIC</title>
-      <link>https://bughunters.google.com/blog/preventing-cross-service-udp-loops-in-quic</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/om6v89/blog_preventing_cross_service_udp_loops"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/om6v89</guid>
-      <pubDate>Sun, 15 Nov 2026 20:34:37 +0000</pubDate>
     </item>
     <item>
       <title>[practices] Running a law firm on Free software (2026 edition)</title>

@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 25 Nov 2026 04:41:37 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 15:09:14 +0000</lastBuildDate>
+    <item>
+      <title>Coldcard Seed-Generation Incident: Postmortem [pdf]</title>
+      <link>https://blog.coinkite.com/reports/coldcard-seed-generation-incident-postmortem-2026-11-23.pdf</link>
+      <description>1 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50642315'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50642315</guid>
+      <pubDate>Wed, 25 Nov 2026 13:52:58 +0000</pubDate>
+    </item>
     <item>
       <title>How to Stay Abreast of Compromised Software?</title>
       <link>https://news.ycombinator.com/item?id=50637594</link>
@@ -19,7 +26,7 @@
     <item>
       <title>Sparrow Postmortem</title>
       <link>https://jakequist.com/articles/sparrow-post-mortem/</link>
-      <description>2 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50636787'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>3 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50636787'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50636787</guid>
       <pubDate>Wed, 25 Nov 2026 00:16:42 +0000</pubDate>
     </item>
@@ -47,14 +54,14 @@
     <item>
       <title>Microsoft declares 'Code Red' after historic outage, internal memos show</title>
       <link>https://www.reuters.com/business/microsoft-declares-code-red-after-historic-outage-internal-memos-show-2026-11-24/</link>
-      <description>232 points, 215 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50631157'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>249 points, 237 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50631157'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50631157</guid>
       <pubDate>Tue, 24 Nov 2026 17:07:41 +0000</pubDate>
     </item>
     <item>
       <title>Why are so many services using email magic links for login?</title>
       <link>https://news.ycombinator.com/item?id=50625996</link>
-      <description>17 points, 16 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50625996'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>18 points, 18 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50625996'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50625996</guid>
       <pubDate>Tue, 24 Nov 2026 09:53:26 +0000</pubDate>
     </item>
