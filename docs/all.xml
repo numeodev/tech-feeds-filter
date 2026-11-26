@@ -8,18 +8,39 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 26 Nov 2026 05:57:51 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 16:21:44 +0000</lastBuildDate>
+    <item>
+      <title>[distributed] Garage v2.6.0 released with web admin, v1.x EoL &amp; other news</title>
+      <link>https://garagehq.deuxfleurs.fr/blog/2026-11-webadmin-release/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/2gfpu3/garage_v2_6_0_released_with_web_admin_v1_x"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/2gfpu3</guid>
+      <pubDate>Thu, 26 Nov 2026 12:40:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>[devops] Ansible Fails waiting for privilege escalation on Ubuntu 26</title>
+      <link>https://www.jeffgeerling.com/blog/2026/ansible-fails-become-ubuntu2604/</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/3lkriu/ansible_fails_waiting_for_privilege"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/3lkriu</guid>
+      <pubDate>Thu, 26 Nov 2026 09:45:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microsoft declared "code red", fews days after their outage</title>
+      <link>https://finance.yahoo.com/markets/article/microsoft-declares-a-code-red-in-the-middle-of-a-patchpocalypse-193740712.html</link>
+      <description>3 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50652288'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50652288</guid>
+      <pubDate>Thu, 26 Nov 2026 06:51:02 +0000</pubDate>
+    </item>
     <item>
       <title>EFF: Outage Chaos: When Tech Is Too Big to Fail</title>
       <link>https://www.eff.org/deeplinks/2026/11/outage-chaos-when-tech-too-big-fail</link>
-      <description>3 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50651786'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>11 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50651786'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50651786</guid>
       <pubDate>Thu, 26 Nov 2026 05:23:48 +0000</pubDate>
     </item>
     <item>
       <title>Mozilla makes the rounded Nova UI mandatory from Dec 8, and can't be reverted</title>
       <link>https://connect.mozilla.org/t5/discussions/firefox-s-new-design-your-feedback-and-what-s-changing-in/m-p/147462/highlight/true#M61083</link>
-      <description>22 points, 5 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50649926'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>32 points, 8 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50649926'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50649926</guid>
       <pubDate>Thu, 26 Nov 2026 00:50:30 +0000</pubDate>
     </item>
@@ -110,7 +131,7 @@
     <item>
       <title>Microsoft declares 'Code Red' after historic outage, internal memos show</title>
       <link>https://www.reuters.com/business/microsoft-declares-code-red-after-historic-outage-internal-memos-show-2026-11-24/</link>
-      <description>254 points, 244 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50631157'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>256 points, 245 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50631157'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50631157</guid>
       <pubDate>Tue, 24 Nov 2026 17:07:41 +0000</pubDate>
     </item>
@@ -779,13 +800,6 @@
       <pubDate>Fri, 13 Nov 2026 02:36:05 +0000</pubDate>
     </item>
     <item>
-      <title>Show HN: DeployAngel – A verdict in ~20 minutes if a deploy broke production</title>
-      <link>https://news.ycombinator.com/item?id=50469011</link>
-      <description>2 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50469011'&gt;discussion sur Hacker News&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50469011</guid>
-      <pubDate>Thu, 12 Nov 2026 15:30:09 +0000</pubDate>
-    </item>
-    <item>
       <title>[distributed] Global coordination requirements for 2038-class rollover events</title>
       <link>https://www.itu.int/pub/T-TUT-ICTS-2026-6</link>
       <description>&lt;p&gt;Technical Paper ITU-T XSTP.epoch consolidates global understanding of risks associated with a
@@ -1235,13 +1249,6 @@ the 2106 horizon treated as a long-tail consideration (collectively referred to 
       <pubDate>Thu, 08 Oct 2026 19:06:25 +0000</pubDate>
     </item>
     <item>
-      <title>[distributed] Scaling and benchmarking a critical message bus using a new indexing strategy</title>
-      <link>https://blog.janestreet.com/scaling-and-benchmarking-a-critical-message-bus/</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/gliabr/scaling_benchmarking_critical_message"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/gliabr</guid>
-      <pubDate>Thu, 08 Oct 2026 17:39:17 +0000</pubDate>
-    </item>
-    <item>
       <title>[devops] Using docker-compose with Podman rootless</title>
       <link>https://elou.world/en/tutorial/podman-docker-compose</link>
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/tpxwfe/using_docker_compose_with_podman"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
@@ -1297,13 +1304,6 @@ the 2106 horizon treated as a long-tail consideration (collectively referred to 
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/hwzvik/life_metric"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/hwzvik</guid>
       <pubDate>Mon, 07 Sep 2026 09:36:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>[devops] Creepy crawlies</title>
-      <link>https://people.kernel.org/monsieuricon/creepy-crawlies</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/nbjo0i/creepy_crawlies"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/nbjo0i</guid>
-      <pubDate>Sat, 29 Aug 2026 16:25:31 +0000</pubDate>
     </item>
   </channel>
 </rss>
