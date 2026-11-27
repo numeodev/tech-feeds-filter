@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 27 Nov 2026 00:52:26 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 09:17:13 +0000</lastBuildDate>
+    <item>
+      <title>Netherlands Internet Status</title>
+      <link>https://news.ycombinator.com/item?id=50663811</link>
+      <description>1 points, 3 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50663811'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50663811</guid>
+      <pubDate>Fri, 27 Nov 2026 07:15:15 +0000</pubDate>
+    </item>
     <item>
       <title>Microsoft declared "code red", fews days after their outage</title>
       <link>https://finance.yahoo.com/markets/article/microsoft-declares-a-code-red-in-the-middle-of-a-patchpocalypse-193740712.html</link>
@@ -26,7 +33,7 @@
     <item>
       <title>Mozilla makes the rounded Nova UI mandatory from Dec 8, and can't be reverted</title>
       <link>https://connect.mozilla.org/t5/discussions/firefox-s-new-design-your-feedback-and-what-s-changing-in/m-p/147462/highlight/true#M61083</link>
-      <description>34 points, 10 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50649926'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>36 points, 11 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50649926'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50649926</guid>
       <pubDate>Thu, 26 Nov 2026 00:50:30 +0000</pubDate>
     </item>
@@ -365,13 +372,6 @@
       <description>2 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50548916'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50548916</guid>
       <pubDate>Wed, 18 Nov 2026 17:10:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cyber Attacks/ Network Outages have become a norm now</title>
-      <link>https://www.csis.org/programs/strategic-technologies-program/significant-cyber-incidents</link>
-      <description>1 points, 2 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50548578'&gt;discussion sur Hacker News&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50548578</guid>
-      <pubDate>Wed, 18 Nov 2026 16:48:30 +0000</pubDate>
     </item>
     <item>
       <title>Synthesizing Rollback Systems for Safer Agents</title>
