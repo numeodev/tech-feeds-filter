@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 26 Nov 2026 16:21:44 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 00:52:26 +0000</lastBuildDate>
     <item>
       <title>[distributed] Garage v2.6.0 released with web admin, v1.x EoL &amp; other news</title>
       <link>https://garagehq.deuxfleurs.fr/blog/2026-11-webadmin-release/</link>
