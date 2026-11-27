@@ -8,7 +8,21 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 27 Nov 2026 09:17:13 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 19:15:36 +0000</lastBuildDate>
+    <item>
+      <title>Don't blame cyber-attacks for recent outages. The real villain is the US economy</title>
+      <link>https://www.theguardian.com/commentisfree/2026/nov/20/cyber-attacks-outages-blame-economy</link>
+      <description>6 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50667586'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50667586</guid>
+      <pubDate>Fri, 27 Nov 2026 14:49:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>Recent Outages Have Economic Causes</title>
+      <link>https://www.schneier.com/blog/archives/2026/11/recent-outages-have-economic-causes.html</link>
+      <description>4 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50667111'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50667111</guid>
+      <pubDate>Fri, 27 Nov 2026 14:06:59 +0000</pubDate>
+    </item>
     <item>
       <title>Netherlands Internet Status</title>
       <link>https://news.ycombinator.com/item?id=50663811</link>
@@ -26,14 +40,14 @@
     <item>
       <title>EFF: Outage Chaos: When Tech Is Too Big to Fail</title>
       <link>https://www.eff.org/deeplinks/2026/11/outage-chaos-when-tech-too-big-fail</link>
-      <description>12 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50651786'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>13 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50651786'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50651786</guid>
       <pubDate>Thu, 26 Nov 2026 05:23:48 +0000</pubDate>
     </item>
     <item>
       <title>Mozilla makes the rounded Nova UI mandatory from Dec 8, and can't be reverted</title>
       <link>https://connect.mozilla.org/t5/discussions/firefox-s-new-design-your-feedback-and-what-s-changing-in/m-p/147462/highlight/true#M61083</link>
-      <description>36 points, 11 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50649926'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>39 points, 13 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50649926'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50649926</guid>
       <pubDate>Thu, 26 Nov 2026 00:50:30 +0000</pubDate>
     </item>
@@ -243,7 +257,7 @@
     <item>
       <title>Outage Chaos: Who Turned Off All the Computer?</title>
       <link>https://www.eff.org/deeplinks/2026/11/outage-chaos-who-turned-all-computer</link>
-      <description>2 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50573220'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>3 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50573220'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50573220</guid>
       <pubDate>Fri, 20 Nov 2026 11:28:41 +0000</pubDate>
     </item>
@@ -327,7 +341,7 @@
     <item>
       <title>Outage Chaos: When Tech Is Too Big to Fail</title>
       <link>https://www.eff.org/deeplinks/2026/11/outage-chaos-when-tech-too-big-fail</link>
-      <description>4 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50561327'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>5 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50561327'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50561327</guid>
       <pubDate>Thu, 19 Nov 2026 15:25:56 +0000</pubDate>
     </item>
@@ -353,25 +367,11 @@
       <pubDate>Wed, 18 Nov 2026 18:31:02 +0000</pubDate>
     </item>
     <item>
-      <title>Widespread outages hit banks, air travel, the NSA and Apple</title>
-      <link>https://www.cnbc.com/2026/11/17/apple-microsoft-faa-jpmorgan-outages.html</link>
-      <description>3 points, 1 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50550046'&gt;discussion sur Hacker News&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50550046</guid>
-      <pubDate>Wed, 18 Nov 2026 18:25:41 +0000</pubDate>
-    </item>
-    <item>
       <title>Launch HN: Maritime (YC F26) – A managed cloud for production AI agents</title>
       <link>https://news.ycombinator.com/item?id=50549188</link>
-      <description>60 points, 67 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50549188'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>60 points, 68 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50549188'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50549188</guid>
       <pubDate>Wed, 18 Nov 2026 17:26:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft's Rush to Get Back Online After a Global Outage</title>
-      <link>https://www.nytimes.com/2026/11/13/business/microsoft-outage.html</link>
-      <description>2 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50548916'&gt;discussion sur Hacker News&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50548916</guid>
-      <pubDate>Wed, 18 Nov 2026 17:10:17 +0000</pubDate>
     </item>
     <item>
       <title>Synthesizing Rollback Systems for Safer Agents</title>
