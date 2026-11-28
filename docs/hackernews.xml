@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 28 Nov 2026 11:07:23 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 19:19:10 +0000</lastBuildDate>
+    <item>
+      <title>Spotify September 29 Outage Incident Report</title>
+      <link>https://engineering.atspotify.com/2026/11/september-29-outage-incident-report-what-we-learnt</link>
+      <description>1 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50677866'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50677866</guid>
+      <pubDate>Sat, 28 Nov 2026 14:09:58 +0000</pubDate>
+    </item>
     <item>
       <title>Don't blame cyber-attacks for recent outages. The real villain is the US economy</title>
       <link>https://www.theguardian.com/commentisfree/2026/nov/20/cyber-attacks-outages-blame-economy</link>
@@ -47,7 +54,7 @@
     <item>
       <title>Mozilla makes the rounded Nova UI mandatory from Dec 8, and can't be reverted</title>
       <link>https://connect.mozilla.org/t5/discussions/firefox-s-new-design-your-feedback-and-what-s-changing-in/m-p/147462/highlight/true#M61083</link>
-      <description>41 points, 13 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50649926'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>42 points, 14 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50649926'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50649926</guid>
       <pubDate>Thu, 26 Nov 2026 00:50:30 +0000</pubDate>
     </item>
@@ -110,14 +117,14 @@
     <item>
       <title>Microsoft declares 'Code Red' after historic outage, internal memos show</title>
       <link>https://www.reuters.com/business/microsoft-declares-code-red-after-historic-outage-internal-memos-show-2026-11-24/</link>
-      <description>257 points, 245 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50631157'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>258 points, 245 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50631157'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50631157</guid>
       <pubDate>Tue, 24 Nov 2026 17:07:41 +0000</pubDate>
     </item>
     <item>
       <title>Why are so many services using email magic links for login?</title>
       <link>https://news.ycombinator.com/item?id=50625996</link>
-      <description>20 points, 19 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50625996'&gt;discussion sur Hacker News&lt;/a&gt;</description>
+      <description>20 points, 20 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50625996'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50625996</guid>
       <pubDate>Tue, 24 Nov 2026 09:53:26 +0000</pubDate>
     </item>
@@ -358,13 +365,6 @@
       <description>5 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50552456'&gt;discussion sur Hacker News&lt;/a&gt;</description>
       <guid isPermaLink="false">https://news.ycombinator.com/item?id=50552456</guid>
       <pubDate>Wed, 18 Nov 2026 21:36:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Guys Manning Our Outage Apocalypse Do Not Seem Okay</title>
-      <link>https://www.motherjones.com/politics/2026/11/digital-outages-vance-patel-dealbook-congress-appearance-cancelled-ai/</link>
-      <description>9 points, 0 commentaires — &lt;a href='https://news.ycombinator.com/item?id=50550128'&gt;discussion sur Hacker News&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50550128</guid>
-      <pubDate>Wed, 18 Nov 2026 18:31:02 +0000</pubDate>
     </item>
     <item>
       <title>Launch HN: Maritime (YC F26) – A managed cloud for production AI agents</title>

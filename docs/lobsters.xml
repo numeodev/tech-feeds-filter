@@ -8,7 +8,22 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 28 Nov 2026 11:07:23 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 19:19:11 +0000</lastBuildDate>
+    <item>
+      <title>[security] ORCA - SecureDrop+Tor whistleblowing platform for Big Tech Workers</title>
+      <link>https://orcaresist.org/index.html</link>
+      <description>&lt;p&gt;A platform set up by former members of No Tech for Apartheid EU, where workers in tech can disclose relevant information about their companies' complicity in militarization, genocide, violation of human rights, and privacy violation of citizens.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://lobste.rs/s/8slbeg/orca_securedrop_tor_whistleblowing"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/8slbeg</guid>
+      <pubDate>Sat, 28 Nov 2026 19:03:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>[devops] Spotify September Outage: What we learnt</title>
+      <link>https://engineering.atspotify.com/2026/11/september-29-outage-incident-report-what-we-learnt</link>
+      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/tz1uyv/spotify_september_outage_what_we_learnt"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://lobste.rs/s/tz1uyv</guid>
+      <pubDate>Sat, 28 Nov 2026 16:00:29 +0000</pubDate>
+    </item>
     <item>
       <title>[practices] Let me Give You Worms</title>
       <link>https://untested.sonnet.io/notes/let-me-give-you-worms/</link>
@@ -329,13 +344,6 @@
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/yptdr1/veil"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/yptdr1</guid>
       <pubDate>Mon, 16 Nov 2026 21:36:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>[security] Janet Reno was talking about my friend Coolio (computer criminal)</title>
-      <link>https://michael.bacarella.com/2026/11/16/janet-reno-vs-my-friend-coolio/</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/urcrqe/janet_reno_was_talking_about_my_friend"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/urcrqe</guid>
-      <pubDate>Mon, 16 Nov 2026 16:43:58 +0000</pubDate>
     </item>
     <item>
       <title>[vcs] Migrating from GitHub to Codeberg</title>
@@ -856,13 +864,6 @@ the 2106 horizon treated as a long-tail consideration (collectively referred to 
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/uwbgby/backups_aren_t_simple"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://lobste.rs/s/uwbgby</guid>
       <pubDate>Thu, 17 Sep 2026 07:48:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>[devops] Hardening Container Images</title>
-      <link>https://www.grepular.com/Hardening_Container_Images</link>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/8hz82r/hardening_container_images"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://lobste.rs/s/8hz82r</guid>
-      <pubDate>Mon, 07 Sep 2026 21:39:21 +0000</pubDate>
     </item>
   </channel>
 </rss>
